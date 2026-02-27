@@ -10,7 +10,7 @@ import ShapeBlur from "@/components/ShapeBlur";
 import CircularGallery from "@/components/CircularGallery";
 import AnimatedList from "@/components/AnimatedList";
 import MagicBento from "@/components/MagicBento";
-import { FileText, Search, Scale, ShieldCheck, Zap, Users, X } from "lucide-react";
+import { FileText, Search, Scale, ShieldCheck, Zap, Users, X, Linkedin, Instagram, Youtube } from "lucide-react";
 
 export function Header04() {
     const [activePage, setActivePage] = useState('home');
@@ -682,14 +682,21 @@ export function Header04() {
                                 <h4 className="text-white font-bold text-sm tracking-[0.2em] uppercase opacity-70">Contact Us</h4>
                                 <div className="space-y-2">
                                     <p className="flex items-center gap-3 text-zinc-500 text-sm"><span className="text-[#D4AF37]/80">Email:</span> lexsaarthi@gmail.com</p>
-                                    <p className="flex items-center gap-3 text-zinc-500 text-sm"><span className="text-[#D4AF37]/80">Phone:</span> +91 XXXXX XXXXX</p>
+
                                 </div>
                                 <div className="flex gap-4 mt-2">
-                                    {['linkedin', 'instagram', 'twitter'].map((social) => (
-                                        <a key={social} href="#" className="w-8 h-8 rounded-full border border-[#D4AF37]/20 flex items-center justify-center text-[#D4AF37]/80 hover:bg-[#D4AF37] hover:text-black transition-all duration-300">
-                                            <span className="capitalize text-[10px] font-bold">{social[0]}</span>
-                                        </a>
-                                    ))}
+                                    {[
+                                        { name: 'linkedin', url: 'https://www.linkedin.com/in/lex-saarthi-6896843a3/', icon: Linkedin },
+                                        { name: 'instagram', url: 'https://www.instagram.com/lex_saarthi?igsh=MTlweG82cWRlYzFkag==', icon: Instagram },
+                                        { name: 'youtube', url: 'https://www.youtube.com/@LexSaarthi', icon: Youtube }
+                                    ].map((social) => {
+                                        const Icon = social.icon;
+                                        return (
+                                            <a key={social.name} href={social.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-[#D4AF37]/20 flex items-center justify-center text-[#D4AF37]/80 hover:bg-[#D4AF37] hover:text-black transition-all duration-300">
+                                                <Icon size={14} />
+                                            </a>
+                                        )
+                                    })}
                                 </div>
                             </div>
                         </div>
