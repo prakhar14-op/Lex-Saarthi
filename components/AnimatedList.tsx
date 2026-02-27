@@ -138,14 +138,14 @@ const AnimatedList = ({
                         onMouseEnter={() => handleItemMouseEnter(index)}
                         onClick={() => handleItemClick(item, index)}
                     >
-                        <div className={`p-8 bg-black/40 backdrop-blur-md rounded-3xl border transition-all duration-300 ${selectedIndex === index ? 'border-[#D4AF37] bg-black/60 shadow-[0_0_30px_rgba(212,175,55,0.1)]' : 'border-white/5'}`}>
-                            <h4 className="text-2xl font-bold text-white mb-2 leading-tight group-hover:text-[#D4AF37] transition-colors">{item.title}</h4>
-                            <p className="text-[#D4AF37] font-medium text-sm mb-4 tracking-wide">{item.author}</p>
+                        <motion.div layoutId={`card-${item.title}`} className={`p-8 bg-black/40 backdrop-blur-md rounded-3xl border transition-all duration-300 ${selectedIndex === index ? 'border-[#D4AF37] bg-black/60 shadow-[0_0_30px_rgba(212,175,55,0.1)]' : 'border-white/5'}`}>
+                            <motion.h4 layoutId={`title-${item.title}`} className="text-2xl font-bold text-white mb-2 leading-tight group-hover:text-[#D4AF37] transition-colors">{item.title}</motion.h4>
+                            <motion.p layoutId={`author-${item.title}`} className="text-[#D4AF37] font-medium text-sm mb-4 tracking-wide">{item.author}</motion.p>
                             <p className="text-zinc-400 leading-relaxed mb-6">{item.abstract}</p>
-                            <span className="text-[#D4AF37] font-bold flex items-center gap-2 group-hover:gap-3 transition-all">
+                            <motion.span layoutId={`button-${item.title}`} className="text-[#D4AF37] font-bold flex items-center gap-2 group-hover:gap-3 transition-all">
                                 Read Full Paper <span className="text-xl">→</span>
-                            </span>
-                        </div>
+                            </motion.span>
+                        </motion.div>
                     </AnimatedItem>
                 ))}
             </div>
