@@ -9,6 +9,7 @@ import Folder from "@/components/Folder";
 import ShapeBlur from "@/components/ShapeBlur";
 import CircularGallery from "@/components/CircularGallery";
 import AnimatedList from "@/components/AnimatedList";
+import { ExpandedPublicationOverlay } from "@/components/ExpandedPublicationOverlay";
 import MagicBento from "@/components/MagicBento";
 import { FileText, Search, Scale, ShieldCheck, Zap, Users, X, Linkedin, Instagram, Youtube } from "lucide-react";
 
@@ -17,6 +18,144 @@ export function Header04() {
     const [selectedPublication, setSelectedPublication] = useState<any>(null);
 
     const demoPublications = [
+        {
+            title: "Divorce under Hindu Marriage Act",
+            author: "By Aanchal Tiwari",
+            abstract: "According to Hindu law, marriage is not just a civil contract but a sacrament, a holy and unbreakable bond. In ancient Hindu writings, divorce was socially and religiously criticized upon, and the importance of marriage was emphasized. However, as social realities changed and ideas of personal liberty, gender equality, and individual dignity evolved, the law acknowledged that a marriage may ultimately breakdown, making its continuation unreasonable. A major change was brought about by the Hindu Marriage Act of 1955, which first introduced the idea of divorce into Hindu personal law.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Definition / Relevant Section</li>
+                            <li>Illustration / Example</li>
+                            <li>Case Law</li>
+                            <li>Practical Application</li>
+                            <li>Conclusion / Summary</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>According to Hindu law, marriage is not just a civil contract but a sacrament, a holy and unbreakable bond. In ancient Hindu writings, divorce was socially and religiously criticized upon, and the importance of marriage was emphasized. However, as social realities changed and ideas of personal liberty, gender equality, and individual dignity evolved, the law acknowledged that a marriage may ultimately breakdown, making its continuation unreasonable. A major change was brought about by the Hindu Marriage Act of 1955, which first introduced the idea of divorce into Hindu personal law. This article examines divorce under Hindu law by analyzing its statutory framework, judicial interpretation, practical application, and evolving trends, with reference to landmark judicial pronouncements.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DEFINITION / RELEVANT SECTION</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Meaning of Divorce</h5>
+                        <p>It puts the marriage to an end in other words, it is termination of marriage & parties are no longer considered as spouse. Section 13 of Hindu Marriage Act, 1955 describes the condition which extence the right of divorce while section 14 of the act put bar on early divorce, no petition for divorce can be presented within in one year of marriage unless it becomes the case of exceptional hardship or depravity.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Grounds available to both husband and wife</h5>
+                        <p className="mb-4">There are 8 grounds as provided by sec 13(1) of Hindu Marriage Act, 1955 to both husband and wife to dissolve the marriage:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Adultery sec 13(1)(i):</strong> It is defined as voluntarily involving in sexual activity outside the wedlock. It is on the petitioner to prove that there was a valid marriage & the respondent had sexual relationship outside the wedlock.</li>
+                            <li><strong className="text-white">2. Cruelty sec 13(1)(i)(a):</strong> Physical or mental cruelty of such level that such mental pain and suffering would make it difficult to live with the other.</li>
+                            <li><strong className="text-white">3. Desertion sec 13 (1)(i)(b):</strong> It is defined as abandonment of one spouse by the other for a continuous period of not less than two years. It may be actual, constructive or by willful neglect.</li>
+                            <li><strong className="text-white">4. Conversion sec 13(1)(ii):</strong> One of the spouse ceased to be a hindu by converting to other religion. The conversion of the respondent to a non hindu doesn't automatically dissolve the marriage. The petitioner has to file a petition in order to dissolve the marriage but if he/she chooses to live with the spouses who had converted to another religion, there is nothing to debar him from doing so.</li>
+                            <li><strong className="text-white">5. Incurability of unsound mind sec 13(1)(iii):</strong> Under Section 13(1)(iii) of the Hindu Marriage Act, 1955, a marriage may be dissolved if one spouse is incurably of unsound mind or suffers from a mental disorder of such kind and extent that the petitioner cannot reasonably be expected to live with them.</li>
+                            <li><strong className="text-white">6. Venereal disease sec 13(1)(v):</strong> A marriage may be dissolved if any of the spouse is suffering from such disease which are communicated by sexual intercourse like HIV AIDs. It must be in a communicable form.</li>
+                            <li><strong className="text-white">7. Renunciation of the world sec 13(1)(vi):</strong> It becomes ground for divorce under section 13(1)(vi) for Hindu Marriage Act 1955, when one spouse voluntarily renounces the world by entering a religious order.</li>
+                            <li><strong className="text-white">8. Presumption of death sec 13(1)(vii):</strong> When a spouse has not been heard of as alive for a continuous period of seven years by those who would naturally have heard from them, the law presumes such person to be dead. This becomes a ground for the surviving spouse to dissolve the marriage.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Grounds available to wife only</h5>
+                        <p className="mb-4">There are four grounds available to any wife under section 13 (2) of the Hindu Marriage Act of 1955:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Bigamy sec 13 (2)(i):</strong> A wife may file for divorce if her spouse enters into another marriage while the original marriage is still in effect. The second marriage must be valid and solemnized according to Hindu traditions, and this requirement shields the woman from the husband's polygamous behavior.</li>
+                            <li><strong className="text-white">2. Guilty of Rape or Sodomy sec 13 (2)(ii):</strong> The wife has the right to file for divorce if the husband commits rape, sodomy, or bestiality after the solemnization of marriage.</li>
+                            <li><strong className="text-white">3. Decree or Order of Maintenance sec 13 (2)(iii):</strong> If a maintenance order or decree has been granted in the wife's favor and the wife was not lived together, she and the spouse haven't cohabitated for a year or longer, she may file for divorce.</li>
+                            <li><strong className="text-white">4. Option of Puberty sec 13(2)(iv):</strong> If a wife was married before turning fifteen, she has the option to repudiate the marriage after turning fifteen but before turning eighteen. This clause protects children from the negative effects of forced and early marriages.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Divorce by Mutual Consent</h5>
+                        <p>Section 13B of the Hindu Marriage Act, 1955 permits divorce by mutual consent in cases where the husband and wife jointly decide that the marriage has irretrievably broken down. The parties must agree that they cannot cohabitate after living apart for at least a year. The court may issue a divorce decree after these requirements are met and the required process is finished, guaranteeing a quick and peaceful end to the marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ILLUSTRATION / EXAMPLE</h4>
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">Illustration 1:</strong>
+                                <p>A and B are married under Hindu rites. Over time, B subjects A to continuous verbal abuse, humiliation in front of family members, false allegations of infidelity, and constant threats of suicide. A develops severe anxiety and depression due to this behavior.</p>
+                                <p className="mt-2 text-white/90"><em>Here, A can seek divorce under Section 13(1)(ia) on the ground of mental cruelty, as the conduct of B makes it unreasonable to expect A to continue the marital relationship.</em></p>
+                            </div>
+
+                            <hr className="border-white/10" />
+
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">Illustration 2:</strong>
+                                <p>C and D have been married for five years. Due to irreconcilable differences, they have been living separately for more than one year. They mutually agree that there is no possibility of reconciliation and decide to dissolve the marriage amicably.</p>
+                                <p className="mt-2 text-white/90"><em>They may file a joint petition under Section 13B for divorce by mutual consent, subject to the statutory cooling off period.</em></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAW</h4>
+                        <p className="mb-4">Hindu divorce law has been significantly shaped by judicial interpretation. Below is a discussion of a few significant rulings:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Naveen Kohli v. Neelu Kohli (2006) 4 SCC 558</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> Whether irretrievable breakdown of marriage can be a ground for divorce.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Held:</span> The Supreme Court noted that forcing parties to remain together would result in further suffering when a marriage is emotionally dead and irreparable. Although irretrievable breakdown is not a statutory ground, the Court emphasized the need for legislative reform.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Significance:</span> The ruling affected later judicial reasoning by highlighting the shortcomings of the current basis.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Samar Ghosh v. Jaya Ghosh (2007) 4 SCC 511</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> What constitutes mental cruelty?</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Held:</span> The Supreme Court established examples of what constitutes mental cruelty, such as persistent abuse, humiliation, apathy, and false accusations.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Significance:</span> Under Hindu law, this case continues to be the most authoritative precedent regarding mental cruelty.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Shilpa Sailesh v. Varun Sreenivasan (2023) 6 SCC 1</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> Power of the Supreme Court to grant divorce on the ground of irretrievable breakdown.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Held:</span> The Constitution Bench held that the Supreme Court may exercise its powers under Article 142 to grant divorce even in the absence of statutory grounds, where the marriage is completely unworkable.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Significance:</span> This judgment marks a progressive step towards recognizing individual autonomy and dignity.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Sureshta Devi v. Om Prakash (1991) 2 SCC 25</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> Whether consent in mutual divorce must continue till the final decree.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Held:</span> The Consent must be there till the decree is passed; withdrawal of consent by either party results in the nullification the petition.</p>
+                                <p className="mt-1"><span className="text-[#D4AF37]">Significance:</span> The case clarified procedural aspects of divorce by mutual consent.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PRACTICAL APPLICATION</h4>
+                        <p>In Hindu law, a divorce is actually started by submitting a petition to the relevant Family Court that has jurisdiction. The court considers the stated grounds, assesses the evidence, and, whenever feasible, promotes reconciliation through mediation. The court issues a divorce judgment together with ancillary reliefs like maintenance, child custody, and permanent alimony when it is satisfied that the statutory conditions are met and the marriage has irretrievably broken down.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Legal and Social Challenges</h5>
+                        <p>In India, divorce is still socially stigmatized despite legal provisions, especially for women. Economic dependency, emotional distress, and protracted litigation are still major issues. Nonetheless, access to justice has increased due to growing awareness, mediation, and judicial sensitivity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>From the traditional idea of marriage as an irreversible sacrament to a rights based legal institution that acknowledges individual liberty and dignity, divorce under Hindu law reflects a substantial shift. A thorough legal framework for divorce is provided by the Hindu Marriage Act of 1955, which strikes a balance between societal norms and personal autonomy.</p>
+                        <p className="mt-4">The range of legislative grounds has been broadened by judicial interpretation, especially in situations involving irretrievable marital breakup and mental cruelty. A progressive and compassionate approach is seen in recent court tendencies, which put the welfare of individuals ahead of the simple maintenance of a shattered marital relationship. Divorce in Hindu law continues to change in response to shifting society standards and constitutional goals, despite obstacles like social stigma and procedural delays. In the end, the law seeks to give a fair and just solution in cases where marriage no longer serves its fundamental purpose, rather than to promote separation.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Hindu Marriage Act, 1955</li>
+                            <li>Naveen Kohli v. Neelu Kohli, (2006) 4 SCC 558</li>
+                            <li>Samar Ghosh v. Jaya Ghosh, (2007) 4 SCC 511</li>
+                            <li>Shilpa Sailesh v. Varun Sreenivasan, (2023) 6 SCC 1</li>
+                            <li>Sureshta Devi v. Om Prakash, (1991) 2 SCC 25</li>
+                            <li>Law Commission of India, 71st & 217th Reports on Divorce and Irretrievable Breakdown</li>
+                            <li>Manupatra & SCC Online Commentaries on Family Law</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aanchal Tiwari, (BA LLB, 2nd year) of Maharaja Agrasen Institute of Management Studies.</p>
+                    </div>
+                </div>
+            )
+        },
         {
             title: "The Admissibility of Synthetic Media: Regulating Deepfakes in Evidentiary Law",
             author: "By Dr. Vikram Desai",
@@ -132,56 +271,11 @@ export function Header04() {
                     </Button>
                 </div>
             </div>
-            {/* Modal Overlay */}
-            <AnimatePresence>
-                {selectedPublication && (
-                    <motion.div
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        exit={{ opacity: 0 }}
-                        className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-black/80 backdrop-blur-md"
-                        onClick={() => setSelectedPublication(null)}
-                    >
-                        <motion.div
-                            initial={{ opacity: 0, scale: 0.95, y: 20 }}
-                            animate={{ opacity: 1, scale: 1, y: 0 }}
-                            exit={{ opacity: 0, scale: 0.95, y: 20 }}
-                            onClick={(e) => e.stopPropagation()}
-                            className="relative w-[95%] md:w-[75%] max-w-2xl bg-[#0f0f11] border border-white/10 p-6 md:p-12 rounded-[32px] shadow-2xl overflow-y-auto max-h-[90vh]"
-                        >
-                            <button
-                                onClick={() => setSelectedPublication(null)}
-                                className="absolute top-4 right-4 md:top-6 md:right-6 text-zinc-400 hover:text-[#D4AF37] transition-colors p-2 z-10 bg-black/50 rounded-full"
-                            >
-                                <X size={28} />
-                            </button>
-                            <div className="mt-4 md:mt-0 md:pr-8">
-                                <span className="text-[#D4AF37] font-bold tracking-widest uppercase text-xs mb-4 block">
-                                    Research Article
-                                </span>
-                                <h2 className="text-2xl md:text-4xl font-bold text-white mb-4 leading-tight">
-                                    {selectedPublication.title}
-                                </h2>
-                                <p className="text-[#D4AF37]/80 font-medium mb-8">
-                                    {selectedPublication.author}
-                                </p>
-                                <div className="w-16 h-1 bg-[#D4AF37]/30 mb-8 rounded-full" />
-                                <p className="text-zinc-300 leading-relaxed md:text-lg">
-                                    {selectedPublication.abstract}
-                                </p>
-                                <div className="mt-12 flex flex-col sm:flex-row gap-4">
-                                    <Button className="bg-[#D4AF37] text-black hover:bg-[#B8962E] font-bold h-12 px-8 rounded-full w-full sm:w-auto">
-                                        Read Full Text
-                                    </Button>
-                                    <Button variant="outline" className="border-white/20 text-black hover:bg-white/5 h-12 px-8 rounded-full w-full sm:w-auto">
-                                        Download PDF
-                                    </Button>
-                                </div>
-                            </div>
-                        </motion.div>
-                    </motion.div>
-                )}
-            </AnimatePresence>
+            {/* Modal Overlay using standalone Expandable component using createPortal */}
+            <ExpandedPublicationOverlay
+                selectedPublication={selectedPublication}
+                setSelectedPublication={setSelectedPublication}
+            />
         </motion.div>
     );
 
