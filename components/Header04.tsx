@@ -158,7 +158,7 @@ export function Header04() {
         },
         {
             title: "Pre-Litigation Mediation: Will It Reduce Court Burden or Delay Justice?",
-            author: "By Sudhanshu K. Bharwal",
+            author: "By Sudhanshu Kumar",
             abstract: "India’s judicial backlog continues to pose a structural challenge to effective justice delivery. In response to this systemic concern, Parliament enacted the Mediation Act, 2023, providing statutory recognition to mediation and formalising pre-litigation mediation as a structured mechanism of dispute resolution.",
             fullText: (
                 <div className="space-y-8 text-zinc-300">
