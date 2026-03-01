@@ -133,12 +133,6 @@ export function ExpandedPublicationOverlay({
                                                 Read Full Text
                                             </Button>
                                         )}
-                                        <Button
-                                            variant="outline"
-                                            className="border-white/20 text-black hover:text-black hover:bg-[#D4AF37] h-12 px-8 rounded-full w-full sm:w-auto transition-colors"
-                                        >
-                                            Download PDF
-                                        </Button>
                                     </div>
                                 </motion.div>
                             </div>

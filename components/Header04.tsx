@@ -151,7 +151,123 @@ export function Header04() {
                     </div>
 
                     <div className="pt-8 border-t border-white/10 mt-12 text-center">
-                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aanchal Tiwari, (BA LLB, 2nd year) of Maharaja Agrasen Institute of Management Studies.</p>
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aanchal Tiwari, (BA LLB, 2nd year).</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Pre-Litigation Mediation: Will It Reduce Court Burden or Delay Justice?",
+            author: "By Sudhanshu K. Bharwal",
+            abstract: "India’s judicial backlog continues to pose a structural challenge to effective justice delivery. In response to this systemic concern, Parliament enacted the Mediation Act, 2023, providing statutory recognition to mediation and formalising pre-litigation mediation as a structured mechanism of dispute resolution.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Understanding Pre-Litigation Mediation</li>
+                            <li>Arguments in Favour: How It May Reduce Court Burden</li>
+                            <li>Concerns: Risk of Delay and Procedural Complications</li>
+                            <li>Balancing Efficiency with Access to Justice</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>India’s judicial backlog continues to pose a structural challenge to effective justice delivery. Civil courts in particular face mounting pendency, resulting in prolonged litigation and increased costs for litigants. In response to this systemic concern, Parliament enacted the Mediation Act, 2023, providing statutory recognition to mediation and formalising pre-litigation mediation as a structured mechanism of dispute resolution.</p>
+                        <p className="mt-4">The central issue, however, remains:<br />Will pre-litigation mediation meaningfully reduce court burden, or will it operate as an additional procedural layer that delays access to justice?</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. UNDERSTANDING PRE-LITIGATION MEDIATION</h4>
+                        <p>Pre-litigation mediation refers to the process whereby parties attempt to resolve disputes amicably before instituting formal court proceedings. Unlike court-annexed mediation under Section 89 of the Code of Civil Procedure, 1908, this mechanism operates prior to filing a suit.</p>
+                        <p className="mt-4">Section 5 of the Mediation Act, 2023 encourages parties to attempt mediation before approaching courts, subject to specified exceptions. The Act also grants enforceability to mediated settlement agreements, strengthening the institutional credibility of mediation in India.</p>
+                        <p className="mt-4">This reform must also be understood in light of earlier judicial encouragement of ADR mechanisms.</p>
+                        <ul className="list-disc pl-5 mt-4 space-y-2">
+                            <li>In Salem Advocate Bar Association v. Union of India, the Supreme Court emphasised the importance of alternative dispute resolution mechanisms and upheld procedural reforms aimed at reducing judicial backlog.</li>
+                            <li>Similarly, in Afcons Infrastructure Ltd. v. Cherian Varkey Construction Co., the Court clarified the scope of Section 89 CPC and encouraged structured reference to ADR processes, including mediation.</li>
+                        </ul>
+                        <p className="mt-4">The Mediation Act builds upon these judicial foundations.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. ARGUMENTS IN FAVOUR: HOW IT MAY REDUCE COURT BURDEN</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Early Settlement of Disputes</h5>
+                        <p>Many civil disputes do not necessarily require adjudication of complex legal questions. Commercial misunderstandings, contractual disagreements, and relational disputes may often be resolved through dialogue.</p>
+                        <p className="mt-2">Internationally, mediation has demonstrated success in filtering disputes at early stages. By institutionalising pre-litigation mediation, India seeks to prevent unnecessary filings, thereby reducing inflow into courts.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Cost and Time Efficiency</h5>
+                        <p>Litigation in India frequently involves prolonged timelines due to procedural formalities and adjournments. Mediation, being less formal and more flexible, can provide quicker resolution.</p>
+                        <p className="mt-2">The Supreme Court has repeatedly emphasised the need for speedy justice as part of Article 21 of the Constitution. If mediation shortens dispute resolution time, it aligns with this constitutional objective.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3. Enforceability of Settlement Agreements</h5>
+                        <p>A key development under the Mediation Act is the recognition of mediated settlement agreements as enforceable instruments. This addresses earlier concerns regarding enforceability and increases confidence in the process.</p>
+                        <p className="mt-2">In commercial disputes, enforceability is crucial. A credible settlement mechanism reduces incentives for prolonged adversarial litigation.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4. Support from Commercial Jurisprudence</h5>
+                        <p>The idea of pre-litigation mediation is not entirely new. Section 12A of the Commercial Courts Act, 2015 introduced mandatory pre-institution mediation in commercial disputes (unless urgent interim relief is sought).</p>
+                        <p className="mt-2">In Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd., the Supreme Court held that pre-institution mediation under Section 12A is mandatory and that non-compliance would result in rejection of the plaint. This judgment reflects judicial confidence in structured pre-litigation mediation as a filtering mechanism.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. CONCERNS: RISK OF DELAY AND PROCEDURAL COMPLICATIONS</h4>
+                        <p className="mb-4">Despite its potential benefits, certain concerns must be carefully examined.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Urgent Matters and Interim Relief</h5>
+                        <p>One practical difficulty arises in cases requiring immediate judicial intervention — such as injunctions against property transfer or intellectual property infringement.</p>
+                        <p className="mt-2">Although the Commercial Courts Act provides an exception where urgent interim relief is sought, rigid application of mediation requirements in other contexts could delay access to justice. The balance between efficiency and urgency must be maintained.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Inequality of Bargaining Power</h5>
+                        <p>Mediation operates on negotiation and compromise. In disputes involving unequal economic or social power, weaker parties may feel compelled to settle unfavourably.</p>
+                        <p className="mt-2">Unlike court proceedings, mediation does not involve strict evidentiary standards. The fairness of outcomes largely depends on mediator competence and procedural safeguards.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3. Infrastructure and Institutional Readiness</h5>
+                        <p>For pre-litigation mediation to genuinely reduce court burden, there must be:</p>
+                        <ul className="list-disc pl-5 mt-2 space-y-2">
+                            <li>Adequate institutional mediation centres</li>
+                            <li>Trained and neutral mediators</li>
+                            <li>Strict timelines</li>
+                            <li>Awareness among members of the Bar</li>
+                        </ul>
+                        <p className="mt-2">If infrastructure is inadequate, mediation may become a procedural formality rather than a meaningful dispute resolution attempt.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4. Strategic Delays</h5>
+                        <p>There is also a possibility of tactical misuse. A defendant unwilling to settle may participate merely to delay proceedings. In recovery suits, delay often advantages the defaulting party.</p>
+                        <p className="mt-2">Unless statutory timelines are strictly implemented, mediation may inadvertently encourage postponement rather than resolution.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. BALANCING EFFICIENCY WITH ACCESS TO JUSTICE</h4>
+                        <p>The effectiveness of pre-litigation mediation will depend on careful implementation.</p>
+                        <p className="mt-4">Judicial guidance, similar to that provided in Afcons Infrastructure, may be required to clarify categories of disputes suitable for mediation. Clear exemptions for urgent matters must be preserved to prevent procedural rigidity.</p>
+                        <p className="mt-4">Most importantly, the legal community must shift its mindset. If lawyers approach mediation as a genuine opportunity for resolution rather than a procedural obstacle, its success rate will increase significantly.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. CONCLUSION</h4>
+                        <p>Pre-litigation mediation represents a progressive development in India’s dispute resolution framework. Judicial precedents such as Salem Advocate Bar Association, Afcons Infrastructure, and Patil Automation demonstrate a consistent movement toward encouraging ADR mechanisms.</p>
+                        <p className="mt-4">Whether it reduces court burden or delays justice depends not merely on statutory design but on practical implementation. If supported by infrastructure, trained professionals, and flexible interpretation, pre-litigation mediation can significantly filter disputes before they enter the judicial pipeline.</p>
+                        <p className="mt-4">If applied mechanically or without safeguards, it risks becoming an additional procedural stage that delays justice.</p>
+                        <p className="mt-4">Ultimately, pre-litigation mediation is a tool — its impact will depend on how responsibly the legal system chooses to utilise it.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">VII. REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Mediation Act, 2023</li>
+                            <li>Commercial Courts Act, 2015</li>
+                            <li>Salem Advocate Bar Association v. Union of India</li>
+                            <li>Afcons Infrastructure Ltd. v. Cherian Varkey Construction Co.</li>
+                            <li>Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sudhanshu K. Bharwal.</p>
                     </div>
                 </div>
             )
