@@ -19,7 +19,7 @@ export function Header04() {
 
     const demoPublications = [
         {
-            title: "Divorce under Hindu Marriage Act",
+            title: "Divorce under Hindu Marriage Act 1955",
             author: "By Aanchal Tiwari",
             abstract: "According to Hindu law, marriage is not just a civil contract but a sacrament, a holy and unbreakable bond. In ancient Hindu writings, divorce was socially and religiously criticized upon, and the importance of marriage was emphasized. However, as social realities changed and ideas of personal liberty, gender equality, and individual dignity evolved, the law acknowledged that a marriage may ultimately breakdown, making its continuation unreasonable. A major change was brought about by the Hindu Marriage Act of 1955, which first introduced the idea of divorce into Hindu personal law.",
             fullText: (
@@ -151,7 +151,7 @@ export function Header04() {
                     </div>
 
                     <div className="pt-8 border-t border-white/10 mt-12 text-center">
-                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aanchal Tiwari, (BA LLB, 2nd year).</p>
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aanchal Tiwari.</p>
                     </div>
                 </div>
             )
@@ -267,7 +267,7 @@ export function Header04() {
                     </div>
 
                     <div className="pt-8 border-t border-white/10 mt-12 text-center">
-                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sudhanshu K. Bharwal.</p>
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sudhanshu Kumar.</p>
                     </div>
                 </div>
             )
