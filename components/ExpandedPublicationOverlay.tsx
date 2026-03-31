@@ -133,10 +133,7 @@ export function ExpandedPublicationOverlay({
                                                 Read Full Text
                                             </Button>
                                         )}
-<<<<<<< HEAD
-=======
 
->>>>>>> 02425b0 (feat: merge prakhar-branch and resolve conflicts in header and overlay)
                                     </div>
                                 </motion.div>
                             </div>
