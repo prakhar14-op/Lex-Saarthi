@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { motion, useInView } from 'framer-motion';
-
+import { Link, useNavigate } from 'react-router-dom';
 const AnimatedItem = ({ children, delay = 0, index, onMouseEnter, onClick }: any) => {
     const ref = useRef(null);
     const inView = useInView(ref, { amount: 0.5 });
@@ -48,6 +48,8 @@ const AnimatedList = ({
     const [topGradientOpacity, setTopGradientOpacity] = useState(0);
     const [bottomGradientOpacity, setBottomGradientOpacity] = useState(1);
 
+    const navigate = useNavigate();
+
     const handleItemMouseEnter = useCallback((index: number) => {
         setSelectedIndex(index);
     }, []);
@@ -55,6 +57,7 @@ const AnimatedList = ({
     const handleItemClick = useCallback(
         (item: any, index: number) => {
             setSelectedIndex(index);
+            navigate(`/publications/${item.id}`);
             if (onItemSelect) {
                 onItemSelect(item, index);
             }
@@ -83,6 +86,7 @@ const AnimatedList = ({
             } else if (e.key === 'Enter') {
                 if (selectedIndex >= 0 && selectedIndex < items.length) {
                     e.preventDefault();
+                    navigate(`/publications/${items[selectedIndex].id}`);
                     if (onItemSelect) {
                         onItemSelect(items[selectedIndex], selectedIndex);
                     }
@@ -142,8 +146,10 @@ const AnimatedList = ({
                             <motion.h4 layoutId={`title-${item.title}`} className="text-2xl font-bold text-white mb-2 leading-tight group-hover:text-[#D4AF37] transition-colors">{item.title}</motion.h4>
                             <motion.p layoutId={`author-${item.title}`} className="text-[#D4AF37] font-medium text-sm mb-4 tracking-wide">{item.author}</motion.p>
                             <p className="text-zinc-400 leading-relaxed mb-6">{item.abstract}</p>
-                            <motion.span layoutId={`button-${item.title}`} className="text-[#D4AF37] font-bold flex items-center gap-2 group-hover:gap-3 transition-all">
-                                Read Full Paper <span className="text-xl">→</span>
+                            <motion.span layoutId={`button-${item.title}`} className="text-[#D4AF37] font-bold flex items-center gap-2 group-hover:gap-3 transition-all relative z-10">
+                                <Link to={`/publications/${item.id}`} onClick={(e) => e.stopPropagation()} className="flex items-center gap-2 group-hover:gap-3">
+                                    Read Full Paper <span className="text-xl">→</span>
+                                </Link>
                             </motion.span>
                         </motion.div>
                     </AnimatedItem>

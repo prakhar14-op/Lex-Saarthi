@@ -4,6 +4,7 @@ import { useState } from "react";
 import GlassSurface from "./GlassSurface";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
+import { NavLink, Link } from "react-router-dom";
 
 const navLinks = [
     { name: "Home", id: "home" },
@@ -21,8 +22,7 @@ interface GlassNavbarProps {
 export const GlassNavbar = ({ activePage, setActivePage }: GlassNavbarProps) => {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
-    const handleLinkClick = (id: string) => {
-        setActivePage(id);
+    const handleLinkClick = () => {
         setIsMobileMenuOpen(false);
     };
 
@@ -37,8 +37,9 @@ export const GlassNavbar = ({ activePage, setActivePage }: GlassNavbarProps) => 
             >
                 <div className="flex items-center justify-between w-full h-full">
                     {/* Left: Logo */}
-                    <button
-                        onClick={() => handleLinkClick('home')}
+                    <Link
+                        to="/"
+                        onClick={handleLinkClick}
                         className="flex items-center gap-3 cursor-pointer hover:opacity-80 transition-opacity"
                     >
                         <img
@@ -46,24 +47,25 @@ export const GlassNavbar = ({ activePage, setActivePage }: GlassNavbarProps) => 
                             alt="Lex Saarthi"
                             className="h-10 md:h-12 w-auto object-contain"
                         />
-                        <span className={`text-white font-bold text-lg md:text-xl tracking-tight block ${activePage === 'home' ? 'text-[#D4AF37]' : ''}`}>
+                        <span className="text-white font-bold text-lg md:text-xl tracking-tight block">
                             Lex Saarthi
                         </span>
-                    </button>
+                    </Link>
 
                     {/* Right: Links (Desktop) */}
                     <nav className="hidden md:flex items-center gap-8">
                         {navLinks.map((link) => (
-                            <button
+                            <NavLink
                                 key={link.id}
-                                onClick={() => handleLinkClick(link.id)}
-                                className={`font-medium transition-all duration-300 cursor-pointer ${activePage === link.id
+                                to={link.id === 'home' ? '/' : `/${link.id}`}
+                                onClick={handleLinkClick}
+                                className={({ isActive }) => `font-medium transition-all duration-300 cursor-pointer ${isActive
                                     ? 'text-[#D4AF37] drop-shadow-[0_0_8px_rgba(212,175,55,0.4)]'
                                     : 'text-white hover:text-[#D4AF37]/70'
                                     }`}
                             >
                                 {link.name}
-                            </button>
+                            </NavLink>
                         ))}
                     </nav>
 
@@ -100,16 +102,17 @@ export const GlassNavbar = ({ activePage, setActivePage }: GlassNavbarProps) => 
 
                         <nav className="flex flex-col items-center gap-8">
                             {navLinks.map((link) => (
-                                <button
+                                <NavLink
                                     key={link.id}
-                                    onClick={() => handleLinkClick(link.id)}
-                                    className={`text-4xl font-bold transition-all duration-300 ${activePage === link.id
+                                    to={link.id === 'home' ? '/' : `/${link.id}`}
+                                    onClick={handleLinkClick}
+                                    className={({ isActive }) => `text-4xl font-bold transition-all duration-300 ${isActive
                                         ? 'text-[#D4AF37] drop-shadow-[0_0_15px_rgba(212,175,55,0.6)]'
                                         : 'text-white hover:text-[#D4AF37]'
                                         }`}
                                 >
                                     {link.name}
-                                </button>
+                                </NavLink>
                             ))}
                         </nav>
                     </motion.div>
