@@ -7,7 +7,7 @@ const Header04 = dynamic(() => import('@/components/Header04').then(mod => mod.H
     loading: () => <div className="min-h-screen bg-black flex items-center justify-center text-[#D4AF37]">Loading Application...</div>
 });
 
-export default function Home() {
+export default function CatchAllPage() {
     return (
         <main>
             <Header04 />

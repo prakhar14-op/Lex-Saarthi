@@ -1,6 +1,7 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { BrowserRouter, Routes, Route, Link, useParams } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { GlassNavbar } from "@/components/GlassNavbar";
 import PixelCard from "@/components/PixelCard";
@@ -9,15 +10,13 @@ import Folder from "@/components/Folder";
 import ShapeBlur from "@/components/ShapeBlur";
 import CircularGallery from "@/components/CircularGallery";
 import AnimatedList from "@/components/AnimatedList";
-import { ExpandedPublicationOverlay } from "@/components/ExpandedPublicationOverlay";
 import MagicBento from "@/components/MagicBento";
 import { FileText, Search, Scale, ShieldCheck, Zap, Users, X, Linkedin, Instagram, Youtube } from "lucide-react";
 
 export function Header04() {
     const [activePage, setActivePage] = useState('home');
-    const [selectedPublication, setSelectedPublication] = useState<any>(null);
 
-    const demoPublications = [
+    const rawPublications = [
         {
             title: "Divorce under Hindu Marriage Act 1955",
             author: "By Aanchal Tiwari",
@@ -1430,6 +1429,81 @@ export function Header04() {
         //     abstract: "The rapid expansion of borderless online marketplaces has severely tested traditional trademark protections and enforcement mechanisms. This commentary highlights the evolving legal strategies for brands to proactively defend their intellectual property against digital infringement."
         // }
     ];
+const demoPublications = rawPublications.map(p => ({ ...p, id: p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-') }));
+
+const SingleArticle = () => {
+    const { articleId } = useParams();
+    const [article, setArticle] = useState<any>(null);
+    const [copied, setCopied] = useState(false);
+    
+    useEffect(() => {
+        const fetchArticle = async () => {
+            try {
+                const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://xyzcompany.supabase.co';
+                const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'public-anon-key';
+                const { createClient } = await import("@supabase/supabase-js");
+                const supabase = createClient(supabaseUrl, supabaseKey);
+                
+                const { data, error } = await supabase
+                    .from('publications')
+                    .select('*')
+                    .eq('id', articleId)
+                    .single();
+                    
+                if (data && !error) {
+                    setArticle(data);
+                    return;
+                }
+                throw new Error("Not found");
+            } catch (err) {
+                const localArticle = demoPublications.find((p: any) => p.id === articleId);
+                if (localArticle) {
+                    setArticle(localArticle);
+                } else {
+                    setArticle(demoPublications[0]); // fallback if absolutely nothing works
+                }
+            }
+        };
+        fetchArticle();
+    }, [articleId]);
+
+    const handleCopy = () => {
+        navigator.clipboard.writeText(window.location.href);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+    };
+
+    if (!article) return <div className="pt-32 pb-24 text-center min-h-screen text-white flex items-center justify-center">Loading...</div>;
+
+    return (
+        <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -20 }}
+            className="pt-32 pb-24 px-4 md:px-8 lg:px-24 min-h-[80vh] bg-black/50 backdrop-blur-md border-x border-white/5 mx-auto max-w-[1400px]"
+        >
+            <div className="flex justify-between items-center mb-8 border-b border-white/10 pb-6">
+                <Link to="/publications" className="text-[#D4AF37] hover:bg-[#D4AF37]/10 px-4 py-2 rounded-full transition-all">← Back to Publications</Link>
+                <button onClick={handleCopy} className="bg-black/60 border border-white/20 px-6 py-2 rounded-full text-white hover:border-[#D4AF37] hover:text-[#D4AF37] transition-all">
+                    {copied ? "✅ Copied!" : "Copy Link"}
+                </button>
+            </div>
+            <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">{article.title}</h1>
+            <p className="text-[#D4AF37] font-medium text-xl mb-12">{article.author}</p>
+            <div className="prose prose-invert max-w-none w-full">
+                {article.fullText || <p className="text-zinc-300 text-lg leading-relaxed whitespace-pre-line">{article.abstract}</p>}
+            </div>
+        </motion.div>
+    );
+};
+
+const AdminDashboard = () => (
+    <div className="pt-32 pb-24 text-center min-h-[80vh] text-white flex items-center justify-center">
+        <h1 className="text-4xl font-bold border border-white/10 p-12 rounded-3xl bg-black/40 backdrop-blur-md">Admin Dashboard (Protected Region)</h1>
+    </div>
+);
+
+
 
     const PublicationsPage = () => (
         <motion.div
@@ -1504,7 +1578,6 @@ export function Header04() {
                     <div className="max-w-5xl mx-auto">
                         <AnimatedList
                             items={demoPublications}
-                            onItemSelect={(item) => setSelectedPublication(item)}
                             showGradients={true}
                             enableArrowNavigation={true}
                             displayScrollbar={true}
@@ -1519,11 +1592,6 @@ export function Header04() {
                     </Button>
                 </div>
             </div>
-            {/* Modal Overlay using standalone Expandable component using createPortal */}
-            <ExpandedPublicationOverlay
-                selectedPublication={selectedPublication}
-                setSelectedPublication={setSelectedPublication}
-            />
         </motion.div>
     );
 
@@ -1740,6 +1808,7 @@ export function Header04() {
     );
 
     return (
+        <BrowserRouter>
         <div className="min-h-screen bg-black text-white font-sans selection:bg-[#D4AF37]/30">
             {/* Background Video (Fixed and Persistent) */}
             <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
@@ -1757,8 +1826,8 @@ export function Header04() {
             <GlassNavbar activePage={activePage} setActivePage={setActivePage} />
 
             <main className="flex-1 relative z-10">
-                <AnimatePresence mode="wait" initial={false}>
-                    {activePage === 'home' && (
+                <Routes>
+                    <Route path="/" element={
                         <motion.div
                             key="home"
                             animate={{ opacity: 1 }}
@@ -1974,26 +2043,27 @@ export function Header04() {
                                 </div>
                             </section>
                         </motion.div>
-                    )}
-
-                    {activePage === 'publications' && <PublicationsPage key="publications" />}
-                    {activePage === 'internships' && <InternshipsPage key="internships" />}
-
-                    {['webinars', 'blog', 'aboutus', 'contact'].includes(activePage) && (
-                        <motion.div
-                            key={activePage}
-                            initial={{ opacity: 0 }}
-                            animate={{ opacity: 1 }}
-                            exit={{ opacity: 0 }}
-                            transition={{ duration: 0.5 }}
-                            className="min-h-[80vh] flex items-center justify-center pt-32"
-                        >
-                            <h2 className="text-4xl font-bold text-white">
-                                {activePage.charAt(0).toUpperCase() + activePage.slice(1)} Page <span className="text-[#D4AF37]">Coming Soon</span>
-                            </h2>
-                        </motion.div>
-                    )}
-                </AnimatePresence>
+                    } />
+                    <Route path="/publications" element={<PublicationsPage />} />
+                    <Route path="/internships" element={<InternshipsPage />} />
+                    <Route path="/admin" element={<AdminDashboard />} />
+                    <Route path="/publications/:articleId" element={<SingleArticle />} />
+                    {['webinars', 'blog', 'aboutus', 'contact'].map(page => (
+                        <Route key={page} path={`/${page}`} element={
+                            <motion.div
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                exit={{ opacity: 0 }}
+                                transition={{ duration: 0.5 }}
+                                className="min-h-[80vh] flex items-center justify-center pt-32"
+                            >
+                                <h2 className="text-4xl font-bold text-white">
+                                    {page.charAt(0).toUpperCase() + page.slice(1)} Page <span className="text-[#D4AF37]">Coming Soon</span>
+                                </h2>
+                            </motion.div>
+                        } />
+                    ))}
+                </Routes>
 
                 <footer className="bg-black/90 pt-12 pb-8 px-4 md:px-8 lg:px-24 border-t border-white/5 relative z-20">
                     <div className="max-w-[1400px] mx-auto">
@@ -2053,5 +2123,6 @@ export function Header04() {
                 </footer>
             </main>
         </div>
+        </BrowserRouter>
     );
 }
