@@ -1273,7 +1273,7 @@ export function Header04() {
         },
         {
             title: "Advocate Protection Law in India: A Constitutional Need to Preserve the Rule of Law",
-            author: "By Shivani Dawla",
+            author: "By Advocate Shivani Julaha",
             abstract: "Lawyers play a key role in helping people get justice. They speak for citizens in court and protect legal rights. However, many advocates in India face threats, pressure, and even physical attacks while doing their work. There is no specific national law that protects them from such risks. This article explains why advocate safety is important, how it connects with constitutional rights, and why India needs a strong law to protect lawyers.",
             fullText: (
                 <div className="space-y-8 text-zinc-300">
@@ -1398,7 +1398,533 @@ export function Header04() {
                     </div>
 
                     <div className="pt-8 border-t border-white/10 mt-12 text-center">
-                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shivani Dawla, HLM Law.</p>
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Advocate Shivani Julaha, HLM Law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "From State-Centric to Victim-Centric: An Analysis of the Bharatiya Nagarik Suraksha Sanhita, 2023",
+            author: "By Charul Rathore",
+            abstract: "The Indian criminal justice system has been around for a time. It is based on the Code of Criminal Procedure, 1973. This system has always focused on the state and the person who did something. The victim was not very important in this system. Now there is a law called the Bharatiya Nagarik Suraksha Sanhita, 2023. This law is supposed to help the victim. It gives the victim rights. The question is, does this new law really help the victim?. Is it just a gesture? This paper looks at the law and tries to answer this question. The paper uses a method. It compares the law with the old law. It also looks at what the courts have said about the victims rights. The paper finds that the new law does give the victim rights.. It also finds that there are some problems. The paper says that the new law is a start.. It needs to be implemented properly. The courts and the government need to work to make sure the victims rights are protected.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction and Research Problem</li>
+                            <li>Research Objectives</li>
+                            <li>Research Questions</li>
+                            <li>Research Hypotheses</li>
+                            <li>Research Methodology</li>
+                            <li>Literature Review</li>
+                            <li>Analysis</li>
+                            <li>Suggestions and Recommendations</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION AND RESEARCH PROBLEM</h4>
+                        <p>The Indian criminal justice system has been criticized for a time. It is based on laws. The Code of Criminal Procedure, 1973 is one of these laws. This law was made a time ago. It focuses on the state and the person who did something. The victim is not very important in this system. The victim is a witness or a source of evidence. This is not fair. The system should focus on the victim. The victim is the one who suffers the most.</p>
+                        <p className="mt-4">Over the years some things have changed. The courts have started to recognize the victims rights. The Law Commission of India has also recommended changes. The Bharatiya Nagarik Suraksha Sanhita, 2023 is a law. It tries to change the system. It gives the victim rights. The question is, does this new law really help the victim?. Is it just a gesture? This paper tries to answer this question.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. RESEARCH OBJECTIVES</h4>
+                        <ol className="list-[lower-roman] pl-5 space-y-2 mt-4">
+                            <li>To look at the law and see what it says about the victims rights.</li>
+                            <li>To compare the law with the old law.</li>
+                            <li>To see if the new law really helps the victim.</li>
+                            <li>To look at the problems with the law.</li>
+                            <li>To suggest ways to improve the law.</li>
+                            <li>To recommend ways to implement the law.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. RESEARCH QUESTIONS</h4>
+                        <ol className="list-decimal pl-5 space-y-2 mt-4">
+                            <li>How does the new law change the victims role?</li>
+                            <li>Does the new law give the victim rights?</li>
+                            <li>Is there a conflict between the victims rights and the accuseds rights?</li>
+                            <li>How does the new law fit with the ideas of victimology?</li>
+                            <li>What are the problems with implementing the law?</li>
+                            <li>How does the new law compare to laws in countries?</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. RESEARCH HYPOTHESES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 mt-4">
+                            <li>The new law gives the victim rights.</li>
+                            <li>The new law has some problems.</li>
+                            <li>The victims rights conflict with the accuseds rights.</li>
+                            <li>The new law is not perfect. It is a good start.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. RESEARCH METHODOLOGY</h4>
+                        <p>This paper uses a method. It looks at the law and the old law. It compares them. It also looks at what the courts have said about the victims rights. The paper uses the ideas of victimology to understand the law. It also looks at laws in countries to see how they compare.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. LITERATURE REVIEW</h4>
+                        <p>The Indian criminal justice system has been criticized for a time. The victim has not been very important, in this system.. Over the years some things have changed. The courts have started to recognize the victims rights. The Law Commission of India has also recommended changes. The Bharatiya Nagarik Suraksha Sanhita, 2023 is a law. It tries to change the system. It gives the victim rights. The question is, does this new law really help the victim?. Is it just a gesture? This paper tries to answer this question.</p>
+                        <p className="mt-4">The law in India, the Criminal Procedure Code has been criticized by academics like Upendra Baxi and S. S. Singh. They say that this law is based on colonial ideas and does not consider the needs of the victim. The victim is seen as a tool for the state to prosecute the accused rather than as a person with their own rights.</p>
+                        <p className="mt-4">The study of victimology which was influenced by scholars like Nils Christie has helped to highlight the problems with this approach. Christies idea that the state takes away the conflict from the victim and the offender and makes it a professional matter resonated with critics of the Criminal Procedure Code in India.</p>
+                        <p className="mt-4">Globally the 1985 United Nations Declaration of Basic Principles of Justice for Victims of Crime and Abuse of Power set a standard for how victims should be treated. Although India signed this declaration its own laws did not reflect these principles until the changes brought about by the BNSS.</p>
+                        <p className="mt-4">Previous research has documented the need for reform and analyzed individual court decisions. It has not provided a comprehensive analysis of the new victim-centric laws introduced by the BNSS. This paper aims to fill this gap by examining the state of the law and its potential impact on the criminal justice system in India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. ANALYSIS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">7.1 The Roots of Criminal Procedure in India</h5>
+                        <p>The Criminal Procedure Code of 1973 was based on laws created during the colonial period. Its main goal was to administer criminal law to serve the interests of the ruling power. This legacy is reflected in a framework that is centralized state-driven and focused on convicting the accused. The victim has no role and is only seen as part of the states prosecutorial function. Sections like 173 and 207 were designed to help the states case against the accused with no corresponding obligation to inform the victim. The entire process, from the First Information Report to the judgment is a dialogue between the state and the accused with the victim as a peripheral figure. This model prioritizes punishment over restoration. Leaves the victims needs for information, voice and restitution largely unaddressed.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.2 The Emergence of Victimology in India</h5>
+                        <p>The judiciary played a crucial role in introducing victimological principles into the rigid structure of the Criminal Procedure Code. In the case of Rattan Singh v. State of Punjab the Supreme Court noted that it is a weakness of the procedure that the victim of the crime is not a party to the proceedings. This judicial acknowledgment laid the groundwork for interventions. The Court began to read victim rights into the ambit of Article 21. In Bodhisattwa Gautam v. Subhra Chakraborty the Court recognized the right of a rape victim to compensation linking it directly to the right to live with dignity. The concept of a Victim Impact Statement though not formally recognized in the Criminal Procedure Code was alluded to in State of M.P. V. Babulal, where the Court considered the impact of the crime on the victims family while determining the sentence. These judicial pronouncements while progressive were solutions that highlighted the Criminal Procedure Codes structural deficiencies and created a compelling case for comprehensive legislative reform setting the stage for the BNSS.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.3 Changes Introduced by the BNSS</h5>
+                        <p className="mb-4">The BNSS represents the comprehensive attempt to restructure the criminal justice process around the victim. Key changes include:</p>
+                        <ul className="space-y-4 mt-4">
+                            <li><strong className="text-white">i. The Right to Information:</strong> The BNSS mandates that the victim shall be given a copy of the Final Report of cost. The victim also has the right to be informed of the progress of the investigation, not its conclusion.</li>
+                            <li><strong className="text-white">ii. Participation during Investigation:</strong> The BNSS requires that the information recorded by the police from a victim be read over and explained to them and that they be allowed to make any corrections.</li>
+                            <li><strong className="text-white">iii. Compensation Mechanisms:</strong> The BNSS strengthens the compensation regime allowing courts to grant compensation for loss or injury caused by the offense. It establishes a Victim Compensation Fund providing a financial source for victim restitution.</li>
+                            <li><strong className="text-white">iv. Protection Measures and Witness Protection Integration:</strong> The BNSS provides a framework for witness protection, which is critical for victims who are often the most important witnesses.</li>
+                            <li><strong className="text-white">v. Procedural Transparency:</strong> The BNSS mandates the use of technology in processes, such as service of summons through electronic means and video-conferencing for recording evidence.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.4 Comparison of the CrPC and BNSS</h5>
+                        <p>A direct comparison highlights the magnitude of the shift. Under the CrPC the victims right to a copy of the chargesheet was not absolute. Often came at a cost. The BNSS makes it a free statutory entitlement. The CrPC had no provision for the victim to be informed about the investigations status; the BNSS codifies this right. The concept of a Victim Compensation Fund was absent in the statute under the CrPC; the BNSS elevates its importance.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.5 Does the BNSS Truly Shift the Paradigm?</h5>
+                        <p>While the BNSSs provisions are undoubtedly progressive a critical examination reveals that the shift may be more foundational than fully realized. The true test lies in the enforceability of these rights. For instance the right to be informed of investigation progress lacks a remedial mechanism. What happens if the police fail to provide this information? Is it an irregularity or a violation that can trigger judicial intervention? The BNSS is largely silent on consequences risking the provision becoming a directory rather than a mandatory requirement.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.6 Constitutional Dimensions</h5>
+                        <p>The victim-centric provisions of the BNSS find a constitutional footing in the expanded interpretation of Article 21. The Supreme Court has consistently held that the right to life and personal liberty includes the right to live with dignity, which in turn encompasses the right to access justice. For a victim of crime access to justice is not merely about the conviction of the offender but about being informed being heard and being restored. The BNSS can be seen as an attempt to give concrete form to these judicially-enunciated principles.</p>
+                        <p className="mt-4">However this enhancement of the victims rights creates a potential constitutional friction with the accuseds rights under Article 21 which guarantees a fair trial. The accused is entitled to the presumption of innocence and the right to defend themselves. If a victims participation is not carefully regulated it could prejudice the trial.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.7 Practical and Institutional Challenges</h5>
+                        <p className="mb-4">The formidable obstacle to the BNSSs vision is the state of Indias criminal justice infrastructure.</p>
+                        <ol className="list-decimal pl-5 space-y-4 mt-4">
+                            <li><strong className="text-white">Police Capacity and Mindset:</strong> The police force is overburdened, understaffed and largely trained in a crime-control, model. Shifting to a victim-service orientation requires retraining, a change in organizational culture and investment in support staff.</li>
+                            <li><strong className="text-white">Judicial Backlog:</strong> Indian courts are already clogged with millions of pending cases. Adding procedural requirements could exacerbate the delay unless accompanied by corresponding judicial reforms and infrastructure upgrades.</li>
+                            <li><strong className="text-white">Lack of Support Infrastructure:</strong> The rights to information and participation are meaningless without support. Victims, from marginalized communities need legal aid, counseling and assistance to navigate the complex system. The BNSS does not create a network of victim support services; it merely provides the legal framework, for their participation.</li>
+                            <li><strong className="text-white">Risk of Populist Criminal Policy:</strong> There is a danger that these provisions that focus on the victim could be used for the reasons leading to a situation where people demand harsh punishment without considering the facts and the rules that are in place to ensure a fair trial. The law must prevent this from happening. Make sure that the focus on the victim does not become an excuse to disregard the rules.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. SUGGESTIONS AND RECOMMENDATIONS</h4>
+                        <p className="mb-4">To make the Bharatiya Nagarik Suraksha Sanhita a reality the following changes are necessary:</p>
+                        <ol className="list-decimal pl-5 space-y-4 mt-4">
+                            <li><strong className="text-white">Establish a National Victim Commission:</strong> Create an independent body, like the National Human Rights Commission to oversee the implementation of victim rights receive complaints and suggest changes to the policy. This body could also be in charge of the Victim Compensation Fund.</li>
+                            <li><strong className="text-white">Mandate Victim-Centric Training:</strong> Introduce a training program on victimology, victim sensitivity and the new Bharatiya Nagarik Suraksha Sanhita provisions for all police officers, prosecutors and judges. This training should be practical. Focus on communication skills and how to deal with people who have experienced trauma.</li>
+                            <li><strong className="text-white">Codify a Victim’s Right to Legal Representation:</strong> The Bharatiya Nagarik Suraksha Sanhita should be amended to explicitly provide for a right to aid for the victim at all stages of the proceedings especially when the victim’s interests may not be the same as the State’s. This would ensure that the victim is truly involved in the process.</li>
+                            <li><strong className="text-white">Frame Clear Implementation Rules:</strong> The Central and State Governments must immediately create rules under the Bharatiya Nagarik Suraksha Sanhita specifying the procedure for exercising the right to information the format for victim impact statements and the consequences for non-compliance by state agencies.</li>
+                            <li><strong className="text-white">Integrate Restorative Justice Principles:</strong> The framework that focuses on the victim should be expanded beyond the system. For offences courts should be required to consider mediation, dialogue between the victim and the offender and community service as part of the sentencing process following global models of restorative justice.</li>
+                            <li><strong className="text-white">Develop a Robust Data Management System:</strong> A nationwide integrated technology platform is needed to track cases and automate the process of providing information to victims about court dates and investigation status reducing the burden on police and courts.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. CONCLUSION</h4>
+                        <p>The Bharatiya Nagarik Suraksha Sanhita, 2023 is a moment in the history of Indian criminal procedure. It moves away from the offender-centric system and tries to create a new system that is more responsive to the rights and needs of the victim. The introduction of rights to information, participation and compensation represents a fundamental shift from a focus on punishment to a more nuanced model that includes protection and restitution.</p>
+                        <p className="mt-4">However this research has shown that this change is not yet complete. The Bharatiya Nagarik Suraksha Sanhita lays the foundation. Does not build the entire structure. The realization of its vision depends on a combination of factors: judicial interpretation that balances victim and accused rights, comprehensive and effective implementation by the executive and complementary policy reforms that build the necessary support infrastructure. The potential for conflict and the immense practical challenges of implementation remain significant hurdles.</p>
+                        <p className="mt-4">In conclusion the Bharatiya Nagarik Suraksha Sanhita should be seen not as the destination in the journey towards victim justice but as a critical and promising first step. It has opened the door for a humane, equitable and truly just criminal justice system. Whether India walks through that door to transform the lives of millions of victims will depend on the will of its judiciary its government and its civil society in the years to come. The legislative intent is clear; the challenge now is to make it a reality.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">Statutes</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                                    <li>Code of Criminal Procedure, 1973 (India).</li>
+                                    <li>Bharatiya Nagarik Suraksha Sanhita, 2023 (India).</li>
+                                    <li>Constitution of India.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400" start={4}>
+                                    <li>Bodhisattwa Gautam v. Subhra Chakraborty (1996) 1 SCC 490.</li>
+                                    <li>Delhi Domestic Working Women’s Forum v. Union of India (1995) 1 SCC 14.</li>
+                                    <li>Rattan Singh v. State of Punjab (1979) 4 SCC 644.</li>
+                                    <li>Sheela Barse v. State of Maharashtra (1983) 2 SCC 96.</li>
+                                    <li>State of M.P. V. Babulal (2007) 12 SCC 197.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Reports</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400" start={9}>
+                                    <li>Law Commission of India Report No. 154 On 'The Code of Criminal Procedure, 1973 (Repeal and Replacement)' (1997).</li>
+                                    <li>Law Commission of India Report No. 178 On 'Trial of Offences by the Courts of Summary Jurisdiction' (2001).</li>
+                                    <li>Law Commission of India Report No. 262 On 'The Victim Compensation Scheme' (2015).</li>
+                                    <li>Ministry of Home Affairs Committee on Reforms of the Criminal Justice System 'Report of the Committee on Reforms of the Criminal Justice System' (2003) (Malimath Committee Report).</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Scholarly Articles</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400" start={13}>
+                                    <li>Baxi, U. 'The Crisis of the Indian Legal System' (1982) 1(3) Economic and Political Weekly 989.</li>
+                                    <li>Christie, N. 'Conflicts as Property' (1977) 17(1) The British Journal of Criminology 1.</li>
+                                    <li>Singh, S. S. 'Victimology in India: A New Perspective' (2005) 37(2) Journal of the Indian Law Institute 207.</li>
+                                    <li>Vijayakumar, V. 'Victim's Rights, in Criminal Justice: A Human Rights Perspective' (2010) 2(1) National Law School of India Review 1.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Charul Rathore, Indore Institute of Law / B.A. LL. B.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Reimagining Criminal Justice in India: A Critical Analysis of the Bharatiya Nyaya Sanhita, 2023",
+            author: "By Prashansa Gautam",
+            abstract: "Indian criminal justice system relies on colonial legal framework which includes Indian Penal Code 1860 and Code of Criminal Procedure 1973 and Indian Evidence Act 1872. The legal system depends on these laws as its fundamental basis but people now abandon these laws because they have become outdated and ineffective and they cannot solve present-day problems. The Government of India established new criminal laws in 2023 which include the Bharatiya Nyaya Sanhita and the Bharatiya Nagarik Suraksha Sanhita and the Bharatiya Sakshya Adhiniyam to completely transform the criminal justice system. The article analyzes the new criminal law reforms through a critical evaluation which explores both their progressive elements and their impact on civil liberties.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Background of Indian Criminal Laws: Colonial Legacy</li>
+                            <li>Overview of the New Criminal Laws (2023)</li>
+                            <li>Key Reforms Introduced</li>
+                            <li>Critical Analysis</li>
+                            <li>Constitutional Perspective and Case Laws</li>
+                            <li>Challenges in Implementation</li>
+                            <li>Suggestions and Way Forward</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>British colonial laws function as the basic foundation which underpins India's criminal justice system that operates through the legal system established during British colonial rule. The Indian Penal Code of 1860 (IPC) and the Code of Criminal Procedure of 1973 (CrPC) and the Indian Evidence Act of 1872 function as the fundamental components which support India's criminal justice system.</p>
+                        <p className="mt-4">The laws face criticism because they do not function properly and they cannot handle new criminal activities which arise in modern society. The Indian government has implemented a comprehensive reform of the criminal justice system throughout the year 2023. The Bharatiya Nyaya Sanhita (BNS) and Bharatiya Nagarik Suraksha Sanhita (BNSS) and Bharatiya Sakshya Adhiniyam (BSA) have replaced the current system of criminal laws through their enactment.</p>
+                        <p className="mt-4">The changes provide a positive development for the criminal justice system yet we must study their impact on constitutional rights and state power reach within criminal law enforcement operations. The article seeks to examine this and opine that although this is a welcome step in the right direction the implementation of the new criminal law regime is crucial to its success and the protection of fundamental rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. BACKGROUND OF INDIAN CRIMINAL LAWS: COLONIAL LEGACY</h4>
+                        <p>The criminal laws in India have a colonial legacy and were mainly framed in the colonial era with the sole purpose of maintaining order and control rather than justice. The IPC, which was drafted in 1860, was framed keeping in mind the colonial regime rather than a democratic set-up. The same is true in the case of the Evidence Act of 1872 and the procedural mechanism as prescribed in the CrPC.</p>
+                        <p className="mt-4">However, over the years, a number of problems have emerged in the criminal justice system in India, which include a huge backlog of cases due to the time taken in the criminal justice process, the need to deal with new forms of crime like cybercrime, and the problem of the possible misuse of certain provisions and the powers vested in the police, as well as the lack of adequate protection to the accused.</p>
+                        <p className="mt-4">The introduction of new criminal laws in 2023 was thus presented as a move away from the colonial legacy and a move towards a more responsive and efficient criminal justice system in India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. OVERVIEW OF THE NEW CRIMINAL LAWS (2023)</h4>
+                        <p className="mb-4">The new criminal laws comprise three major laws, which are as follows:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">The Bharatiya Nyaya Sanhita:</strong> This replaces the Indian Penal Code and covers all aspects of substantive criminal laws, such as definitions, punishments, etc.</li>
+                            <li><strong className="text-white">The Bharatiya Nagarik Suraksha Sanhita:</strong> This replaces the Code of Criminal Procedure and covers all aspects of procedural laws, such as investigation, arrest, trial, etc.</li>
+                            <li><strong className="text-white">The Bharatiya Sakshya Adhiniyam:</strong> This replaces the Indian Evidence Act and covers all aspects of laws regarding evidence, admissibility, etc.</li>
+                        </ul>
+                        <p className="mt-6">The new laws have been formulated to create a more streamlined and modernized system of criminal laws in India. The new laws have placed much emphasis on technology, efficiency, and a shift to a more victim-centric approach. The new laws have also been formulated to address the new challenges in society, as can be inferred from the introduction of new laws regarding new forms of crimes.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. KEY REFORMS INTRODUCED</h4>
+                        <p>Perhaps one of the most interesting aspects of the new criminal laws is the introduction of substantive reforms to deal with the current crimes. The Bharatiya Nyaya Sanhita has provisions for organized crimes, terrorism, and mob lynching, which were absent or insufficiently provided for earlier.</p>
+                        <p className="mt-4">The procedural reforms under the Bharatiya Nagarik Suraksha Sanhita have ensured the speedy delivery of justice. The emphasis on time-bound investigations and speedy trials will help to prevent delays. The use of forensic science for the investigation of crimes has also been emphasized, especially for serious offenses. This will improve the quality of investigations and the accuracy of the outcome.</p>
+                        <p className="mt-4">Another reform that has been brought into the criminal justice process is the use of technology. The use of electronic records, digital evidence, and the filing of complaints online (e-FIR) is encouraged. This will make the process more efficient and accessible.</p>
+                        <p className="mt-4">Additionally, the new laws have taken a more victim-centric approach. The rights of the victims have been emphasized. This is a welcome change, as the earlier laws were more inclined to provide for the rights of the accused and the state.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. CRITICAL ANALYSIS</h4>
+                        <p>The introduction of the new criminal laws can be seen as a major move towards the modernization of the justice system of India. One of the major advantages of the new criminal laws of India is the focus on solving the problems of contemporary crimes. This is because the law is able to deal with crimes like organized crime and terrorism more clearly.</p>
+                        <p className="mt-4">The focus on the efficiency of the justice system is another major advantage of the new criminal laws. This is because delays have been a major problem for the justice system of India. The introduction of the new laws will help to deal with the delays and make the justice delivery process more efficient.</p>
+                        <p className="mt-4">The introduction of technology is another major advantage of the new criminal laws. This is because the introduction of technology will help to make the process more efficient</p>
+                        <p className="mt-4">The focus on a victim-centric justice system is another major advantage of the new criminal laws. This is because the new laws have taken a major step towards a victim-centric justice system.</p>
+                        <p className="mt-4">However, despite these advantages, there remain several issues of concern. First and foremost, there is the issue of vague and general provisions. Such provisions may cause confusion and may even lead to their abuse. In this system of law, where the enforcement agencies have enough powers to begin with, this is indeed a cause of concern.</p>
+                        <p className="mt-4">The other issue is that of the expansion of police powers. While it is true that stronger enforcement agencies may be required to tackle the problem of crime, it is equally important to ensure that they are sufficiently regulated to avoid their abuse and the resulting violation of civil liberties. There is also the concern that this system may have on civil liberties.</p>
+                        <p className="mt-4">The criminal justice system needs to maintain an exacting balance which protects both social order and individual freedom. The state should not exercise excessive power because it would violate democratic principles. The success of this legal system depends completely on how the system is executed. The Indian judicial system faces multiple issues which include insufficient judges and inadequate judicial training programs.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. CONSTITUTIONAL PERSPECTIVE AND CASE LAWS</h4>
+                        <p>It is important to assess the new criminal laws in relation to the constitutional perspective. The Supreme Court of India, in the case of Maneka Gandhi v. Union of India, laid down the principle that any law that affects the personal liberty of citizens must be "just and reasonable."</p>
+                        <p className="mt-4">In D.K. Basu vs State of West Bengal there were guidelines laid by the Supreme Court which aimed at protecting the individuals' rights to ensure that arrest is not abused. The above cases clearly indicate the need to protect the rights of individuals within the criminal justice system.</p>
+                        <p className="mt-4">The enhanced powers vested in the criminal justice system need to be examined in relation to the constitutional principles. Deviations in this regard may lead to the violation of fundamental rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. CHALLENGES IN IMPLEMENTATION</h4>
+                        <p>There are a number of challenges that may arise while implementing the new criminal laws. First and foremost, the lack of proper infrastructure can be a problem. The courts are already flooded with a large number of pending cases. The introduction of new procedures may add to the burden.</p>
+                        <p className="mt-4">Another important aspect to be considered is the training of police officers, lawyers, and judicial officials. The proper use of technology and other tools requires specialized knowledge and skills, which may be lacking.</p>
+                        <p className="mt-4">Another problem that may arise is the digital divide. The urban population may be able to take advantage of the technological advancements, while the rural population may be adversely affected.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. SUGGESTIONS AND WAY FORWARD</h4>
+                        <p className="mb-4">In order to make the new criminal laws a success, it is important to adopt the following suggestions:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">Clarify Vague Provisions:</strong> Vague provisions need to be clarified. This will help avoid the misuse of the laws.</li>
+                            <li><strong className="text-white">Implement Checks and Balances:</strong> One such means involves applying checks and balances in the most stringent way.</li>
+                            <li><strong className="text-white">Focus on Implementation:</strong> Implementation is key. Government intervention must allow a decent outlay for the adversities faced by the Criminal Justice System.</li>
+                            <li><strong className="text-white">Invest in the System:</strong> Investment is the key. The government needs to invest in the criminal justice system. This will help the stakeholders to cope with the changes.</li>
+                            <li><strong className="text-white">Continuous Review:</strong> Review and assessment of the laws will also be beneficial. Legal reforms need to be dynamic.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. CONCLUSION</h4>
+                        <p>The introduction of the Bharatiya Nyaya Sanhita and other related legislations represents a major milestone in the development of India’s criminal justice system. It represents a move towards a system of law that is no longer rooted in colonial history.</p>
+                        <p className="mt-4">Although the new system of law has many advantages, including the aspect of modernization, efficiency, and the victim-oriented approach, there are certain concerns as well. These concerns include the aspect of civil liberties, police powers, and the implementation of the new system of law. However, the real test of the effectiveness of the new system of law lies in its implementation.</p>
+                        <p className="mt-4">A criminal justice system must be efficient, fair, and rights-oriented. The real test of the new system of law lies in the achievement of the delicate balance between the aspects of efficiency, fairness, and the rights-oriented approach, without compromising the freedom of the citizen.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Prashansa Gautam, KPMSOL NMIMS BBALLB.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Family Mediation in India: Statutory Framework and Judicial Approach",
+            author: "By Shagun Ranjan Kumar",
+            abstract: "As family structure is changing and evovling with that family disputes in India, such as divorce, maintenance, alimony, child custody, and matrimonial conflicts, Property Disputes Among Family Members, Inheritance and Will Disputes, Elder Abuse & Neglect have significantly increased in modern Indian society; due to factors like more awareness about legal rights and legal literacy, urbanisation, globalisation, changing gender roles, aspects related to the financial independence of women, and a reduction in social stigma around divorce. While dealing with these disputes through traditional court litigation, especially adversarial litigation, can often worsen the relationship between family members, spouses, and, most vulnerable, the child, which gets negatively impacted, even though courts prioritise their wellbeing. It is lengthy, expensive and emotionally stressful for families. Alternative Dispute Resolution (ADR) emerged as an alternative option that promotes amicable settlement in family disputes, particularly “MEDIATION”, which has risen as an important method in resolving family disputes peacefully.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Meaning and Role of Mediation</li>
+                            <li>Statutory Framework of Family Mediation in India</li>
+                            <li>Key Judicial Decision on Family Mediation</li>
+                            <li>Evidence</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>As family structure is changing and evovling with that family disputes in India, such as divorce, maintenance, alimony, child custody, and matrimonial conflicts, Property Disputes Among Family Members, Inheritance and Will Disputes, Elder Abuse & Neglect have significantly increased in modern Indian society; due to factors like more awareness about legal rights and legal literacy, urbanisation, globalisation, changing gender roles, aspects related to the financial independence of women, and a reduction in social stigma around divorce. While dealing with these disputes through traditional court litigation, especially adversarial litigation, can often worsen the relationship between family members, spouses, and, most vulnerable, the child, which gets negatively impacted, even though courts prioritise their wellbeing. It is lengthy, expensive and emotionally stressful for families.</p>
+                        <p className="mt-4">Alternative Dispute Resolution (ADR) emerged as an alternative option that promotes amicable settlement in family disputes, particularly “MEDIATION”, which has risen as an important method in resolving family disputes peacefully. Mediation provides a process in which a third party acts as a neutral mediator, which facilitates communication between disputing parties to reach mutual acceptable solution.</p>
+                        <p className="mt-4">Recognising how important mediation is, the Mediation Act 2023 was passed on September 14, 2023. This act gives a set of rules for mediation. The main goal of this act is to make mediation a normal part of how things are done to help people settle disputes before they go to court and to make mediation work better with mutual justice. Mediation emerged with its introduction in Section 89 of the Code of Civil Procedure, 1908, which empowers courts to refer disputes to Alternative Dispute Resolution mechanisms, including mediation, arbitration, conciliation, and judicial settlement. In the case of Salem Advocate Bar Association v. Union of India (2002), the Supreme Court said that mediation centres should be set up. And how to use mediation and other dispute resolution methods, under Section 89 of CPC, 1908.</p>
+                        <p className="mt-4">This article is going to look at the rules that govern mediation when it comes to family disputes. It will see how courts can help make mediation happen; check if the Mediation Act 2023 can help people resolve family disputes in a friendly and amicable way.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MEANING AND ROLE OF MEDIATION</h4>
+                        <p>Mediation is a voluntary dispute resolution process in which a neutral third party, known as a mediator, assists the disputing parties in reaching a mutually acceptable settlement. The mediator does not impose a decision, but enables negotiation and communication between disputing parties, unlike a judge or arbitrator. Inshort mediation helps people solve problems peacefully by talking and agreeing, instead of fighting.</p>
+                        <p className="mt-4">The major role of the mediator in mediation is to help the parties resolve their dispute on their own voluntary choice. The mediator will share what each party thinks with the other party, but only if they agree to it. The mediator will also help the parties understand the issues, clarify what is important to them and look at areas where they can make decisions about their claims.</p>
+                        <p className="mt-4">And the things that a mediator should not do are to act as an arbitrator, a representative or as a counsellor of a party in any arbitration or court case that's about the same issue being mediated; or being presented by the parties as a witness, in any arbitration or court case.</p>
+                        <p className="mt-4">The mediator will tell the parties clearly that their job is to help the parties make a decision, and also tell the parties that they cannot promise that mediation will result in a settlement.</p>
+
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4 mt-6">
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">Simplest example:</strong>
+                                <p>Two siblings argue about how to divide their parents' property. A mediator helps them talk calmly and guides them to agree on a fair division without going to court.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATUTORY FRAMEWORK OF FAMILY MEDIATION IN INDIA</h4>
+                        <p className="mb-4">The legal framework for mediation in family disputes is governed under multiple statutes that support reconciliation and amicable settlement.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">A. Mediation Act, 2023</h5>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">Section 5 – Pre-Litigation Mediation:</strong> Section 5 of the Act introduces the concept of pre-litigation mediation, it let the parties to mediate before approaching the court. This section of the act encourages parties to do early settlement of disputes, and it keeps courts from getting too busy. As in family disputes, it helps in preserving relationships in the early stage before the conflict worsens.</li>
+                            <li><strong className="text-white">Section 19 – Mediated Settlement Agreement:</strong> Agreement mention about refers to a written agreement of any settlement happen between the parties on a particular dispute or all disputes authenticated by a mediator, which is not void under the Indian Contract Act, 1872. This ensures clarity, certainty and voluntary choice of parties useful in maintenance, custody, and property division.</li>
+                            <li><strong className="text-white">Section 27 – Enforcement of Settlement Agreement:</strong> It will be enforced according to the Code of Civil Procedure, 1908; also enforced in the way, as a court judgment or decree. This means any party or people claiming through them can use it as a defence set off or otherwise in a proceeding. Provides legal security in case of family disputes.</li>
+                            <li><strong className="text-white">Section 18 – Time-Bound Mediation:</strong> The Act says that a mediator should usually finish mediation in 120 days from the first appearance for the mediation process, but it can be extended on option of the parties by 60 days only. This prevents unnecessary delays in proceeding.</li>
+                            <li><strong className="text-white">Section 22 – Confidentiality:</strong> All persons involved in the mediation process, whether mediators, parties, service providers, or participants, must keep certain things confidential, which includes acknowledgements, opinions, suggestions, apologies, admissions, or willingness or refusal to accept proposals, as this promotes parties to speak freely. With that, no audiovisual recording of the mediation process is allowed, whether online or offline. Parties cannot use any argument of the mediation process as evidence in further court proceedings.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">B. Family Courts Act, 1984</h5>
+                        <p><strong className="text-white">Section 9 – Duty of Family Court to make efforts for settlement:</strong> In every court proceeding family court would make efforts and prioritize to persuade the parties to come to a settlement. And if, during proceedings at any stage of procedding if court found any reasonable cause for settlement, the family court may adjourn the case. This delay will give the parties time to try to work out their differences and come to a settlement.</p>
+                        <p className="mt-4">The main goal of the family courts is to help people in a family stay together or preserve relationships and reduce adversarial litigation. Therefore, the Family Court is set up to be a more relaxed and less formal way than the other courts, in a more settlement-oriented manner that encourages negotiation and can refer the case for mediation and counselling and is an obligation to assist with settlement.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">C. Hindu Marriage Act, 1955</h5>
+                        <p><strong className="text-white">Section 23 - Decree in proceedings:</strong> Section 23(2) of HMA, 1955, states that before moving to any decision or granting relief in matters of divorce petitions, judicial separation or restitution of conjugal rights, the court must first encourage the parties to bring about reconciliation between the parties. The provision intends that marriages should not dissolve before exploring any possibility of negotiation and reconciliation.</p>
+
+                        <p className="mt-4 italic">All the above legislation very strongly supports family disputes for mediation, to reconciliation, and negotiation in a very amicable manner.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">KEY JUDICIAL DECISION ON FAMILY MEDIATION</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Salem Advocate Bar Association v. Union of India</strong>
+                                <p>The Supreme Court made it clear that they are in favour of mediation and other ways to resolve disputes outside of court, as stated in Section 89 of the Civil Procedure Code. The Court thinks that judges should do more than just decide cases; they should also try to help people resolve their disputes peacefully.</p>
+                                <p className="mt-2">The Court also said that courts should have mediation centres and that there should be rules in place and people trained to mediate. This case is important because it helped make mediation a normal part of the legal system, not just something that people can choose to do if they want to.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Afcons Infrastructure Ltd. v. Cherian Varkey Construction Co. Pvt. Ltd.</strong>
+                                <p>In this case, the Supreme Court explained what kinds of cases are good for mediation. It said that disputes involving relationships like family problems or issues between married couples are best resolved through mediation.</p>
+                                <p className="mt-2">The Court also said that judges should send these kinds of cases to mediation of going straight to trial. This decision helped clear up confusion and showed courts how to use mediation and other ways to resolve disputes effectively.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. K. Srinivas Rao v. D.A. Deepa</strong>
+                                <p>This case was about disputes between couples, and it showed how emotional these kinds of conflicts can be. The Supreme Court said that these cases need to be handled with sensitivity. The Court thought that mediation was an idea because it can help reduce the anger and bitterness between people. The Court also noted that mediation can sometimes help couples understand each other better and even work on their relationship, rather than making things worse by fighting in court for a long time.</p>
+                            </li>
+                        </ul>
+                        <p className="mt-4">In family disputes, Indian courts feel that mediation is the way to go because it helps in maintaining family relationships. They believe mediation is faster and less stressful than court proceedings. Mediation provides a peaceful solution to disputes.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EVIDENCE</h4>
+                        <p>Empirical evidence on Mediation has proven to be very effective in resolving family disputes. Studies show that around 50% to 70% of cases referred to mediation centres in India are successfully settled, especially in matrimonial matters, where people are more willing to compromise. A nationwide mediation drive by the National Legal Services Authority also showed positive results, solving over 1 lakh cases, many of which were family disputes.</p>
+                        <p className="mt-4">Mediation is also faster than court cases and people are more likely to follow the final agreement because they have decided it themselves. Therefore, mediation is a better and more peaceful way to resolve family conflicts.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Mediation is a good way to solve family conflicts in India. It is different from going to court because it is about understanding each other, working together, and finding a solution, which is very important when it comes to personal relationships. The Mediation Act, 2023, the Family Courts Act, 1984 and the Hindu Marriage Act, 1955 are laws that show the legal system really supports finding ways to resolve issues peacefully.</p>
+                        <p className="mt-4">Mediation is good because it saves people a lot of time and money. It also helps people stay on good terms and reduces the emotional stress that comes with fighting, especially for kids. As more people learn about mediation and it becomes easier to access, it can really change the way family problems are solved in India. With proper mediation provision and Acts mediation can be made stronger for people in conflict.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>'Changing Nature of Family in India' (Carpe Diem IAS)</li>
+                            <li>Gaurav Nagpal v. Sumedha Nagpal (AIR 2009 SC 557)</li>
+                            <li>Mediation Act 2023</li>
+                            <li>Code of Civil Procedure, 1908, s 89</li>
+                            <li>Salem Advocate Bar Association v. Union of India (AIR 2005 SC 3353)</li>
+                            <li>'Section 5 of Mediation Act, 2023 – Pre-Litigation Mediation' (IBC Laws)</li>
+                            <li>Family Courts Act 1984 s 9</li>
+                            <li>'Section 9 of Family Courts Act, 1984 – Duty of Family Court to Make Efforts for Settlement' (IPC Laws)</li>
+                            <li>Hindu Marriage Act 1955 s 23(2)</li>
+                            <li>Afcons Infrastructure Ltd. v. Cherian Varkey Construction Co. Pvt. Ltd. (2010) 8 SCC 24</li>
+                            <li>K. Srinivas Rao v. D.A. Deepa (AIR 2013 SC 2176)</li>
+                            <li>Devang R, 'Evaluating the Effectiveness of Mediation in Resolving Family Disputes in India' (IJLSSS)</li>
+                            <li>Bhadra Sinha, 'SC Panel, NALSA Mediation Drive: Over 1 Lakh Cases Resolved' (The Print)</li>
+                            <li>Faik Ak, 'Mediation in Family Courts: Balancing Legal Formality and Emotional Realities' (Legal Service India)</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shagun Ranjan Kumar, Manikchand Pahade Law College, Chhatrapati Sambhajinagar/ B.A.LL.B.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "International Legal Framework Governing Climate Change",
+            author: "By Mansi Teotia",
+            abstract: "Climate change stands as one of the most intricate and pressing challenges defying the international legal order. It is a matter of great concern for the global community. It transcends national boundaries, implicates global commons, and requires coordinated action among all the nations. The United Nations Intergovernmental Panel on Climate Change (IPCC) has lately linked that the climate crisis is a 'code red' for humanity as current emissions reduction plans are not sufficient to attack the rise in global temperatures. International law has surfaced as a central tool in climate governance, defining obligations, ensuring cooperation and forming an accountability mechanism.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Foundation: UNFCCC and the "Common Concern"</li>
+                            <li>The Evolution of Treaties: Kyoto to Paris</li>
+                            <li>The Paris Agreement (2015)</li>
+                            <li>The Human Face of Litigation: Rights-Based Accountability</li>
+                            <li>State Responsibility and the "No-Harm" Rule</li>
+                            <li>Governance Beyond Treaties: The BBNJ and Trade Law</li>
+                            <li>Liability, Loss and Damage: The Final Frontier</li>
+                            <li>Conclusion: The Rule of Law in the Anthropocene</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Climate change stands as one of the most intricate and pressing challenges defying the international legal order. It is a matter of great concern for the global community. It transcends national boundaries, implicates global commons, and requires coordinated action among all the nations. The United Nations Intergovernmental Panel on Climate Change (IPCC) has lately linked that the climate crisis is a 'code red' for humanity as current emissions reduction plans are not sufficient to attack the rise in global temperatures. International law has surfaced as a central tool in climate governance, defining obligations, ensuring cooperation and forming an accountability mechanism.</p>
+                        <p className="mt-4">For decades, international climate governance was viewed through the lens of diplomacy- a series of handshakes in drafty conference halls that redounded in lofty goals but little "teeth". "International climate obligations…are often treated as political commitments rather than binding legal duties". But as we move towards 2025-26, the landscape of international climate law has experienced its most profound transformation since the signing of the Paris Agreement. This period marks the definitive end of the "voluntary" age of climate governance. Through a series of historic Advisory Opinions, international judicial bodies have clarified that climate action is no longer just a policy preference, but a binding legal obligation under existing International Law. Yet indeed within these landmark rulings critics argue that the law remains dangerously vague. In his separate opinion, Judge Dalveer Bhandari advised that the Court's findings often reckoned on "general and abstract propositions rather than relating "more concrete instances of legal consequences" for breaches of climate obligations.</p>
+                        <p className="mt-4">This article examines the evolution of International climate governance from the foundational United Nations Framework Convention on Climate Change (UNFCCC) to the Kyoto Protocol and the Paris Agreement. International law is no longer just about what states pledge to do at glitzy COP summits; it is increasingly about what they are needed to do under customary law and treaty obligations.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE FOUNDATION: UNFCCC AND THE "COMMON CONCERN"</h4>
+                        <p>The United Nations Framework Convention on Climate Change (UNFCCC) adopted at the 1992 Earth Summit, remains the bedrock of global climate law. It established the pivotal principle of Common but Differentiated Responsibilities (CBDR), acknowledging that while climate change is a concern for all humanity, developed nations bear a greater historical responsibility and possess more capacity to act.</p>
+                        <p className="mt-4">The UNFCCC did not establish hard emissions targets, but it created the institutional architecture – the annual Conference of Parties (COP) – that allowed climate law to evolve from soft obligations to hard law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE EVOLUTION OF TREATIES: KYOTO TO PARIS</h4>
+                        <p>The 1997 Kyoto Protocol was the first attempt to turn those principles into hard numbers. It was a "top-down" model, where legally binding targets were imposed on developed nations (Annex I parties). It introduced market-based flexible mechanisms:</p>
+                        <ul className="space-y-4 mt-4">
+                            <li><strong className="text-white">Emissions trading:</strong> Allowing countries to buy and sell emission credits.</li>
+                            <li><strong className="text-white">Clean Development Mechanism:</strong> Enabling developed countries to invest in emission-reduction projects in developing nations.</li>
+                        </ul>
+                        <p className="mt-4">However, it ultimately failed because it created a binary world- developed nations had targets, while developing giants like China and India did not. Hence, its effectiveness was limited by the absence of binding targets for major developing emitters and the Withdrawal of the United States.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE PARIS AGREEMENT (2015)</h4>
+                        <p>The Paris Agreement marked a landmark shift, creating a universal, legally binding framework for all parties to curb temperature increases to well below 2° C, with a pursuit of limiting it to 1.5°C. Unlike Kyoto, Paris utilizes Nationally Determined Contributions (NDCs), allowing nations to set their own targets. It emphasises long-term planning, sustainable development, and financial support for developing nations. In 2024 and 2025, the interpretation of these NDCs has shifted; they are no longer seen as "best efforts" but as the minimum standard for fulfilling a state's due diligence obligations.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE HUMAN FACE OF LITIGATION: RIGHTS-BASED ACCOUNTABILITY</h4>
+                        <p className="mb-4">The most profound development in recent years is the "human rights turn" in climate law. For years, states argued that climate change was too diffuse for individual standing. That door was kicked open by the European Court of Human Rights and the International Court of Justice (ICJ).</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">The Swiss Grandmothers Case (KlimaSeniorinnen)</h5>
+                        <p>In KlimaSeniorinnen v. Switzerland, The European Courts of Human Right ruled that Switzerland's failure to implement sufficient climate legislation violated Article 8 of the European Convention on Human Rights. This case was a watershed moment. It humanised the crisis by proving that a states regulatory failure has a direct, measurable impact on the health and dignity of its citizens. The court explicitly noted that states have a positive obligation to adopt regulations capable of mitigating the effects of climate change.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Intergenerational Equity: The Rights of the Unborn</h5>
+                        <p>International law is increasingly recognising "solidarity in time". The 2025 ICJ advisory opinion on climate change emphasised that state owe a duty of care not just to those living today but to future generations. This introduces the concept of intergenerational equity suggesting that the current generation holds the earth's climate in trust.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATE RESPONSIBILITY AND THE "NO-HARM" RULE</h4>
+                        <p className="mb-4">Under the customary international law, the "no-harm" rule prohibits states from allowing their territory to be used in a way that causes significant damage to other states. Traditionally this was applied to cross-border water pollution or industrial accidents. However, the 2024 ITLOS advisory opinion change to the game.</p>
+
+                        <ol className="list-decimal pl-5 space-y-4">
+                            <li><strong className="text-white">GHG Emissions as Marine Pollution:</strong> The International Tribunal for the Law of the Sea (ITLOS) ruled that anthropogenic GHG emissions constitute "pollution of the marine environment" under the UN Convention on the Law of the Sea (UNCLOS). This means that the strict obligations of Part XII of UNCLOS – to protect and preserve the marine environment- now apply to climate change. For the first time, states can be held liable under the Law of the Sea for the acidification and warming of the oceans caused by their domestic emissions.</li>
+                            <li><strong className="text-white">The Due Diligence Standard:</strong> What counts as "enough" action? The Law defines this through the concept of Due Diligence. A State is not required to prevent climate change entirely, but it must take all necessary steps within its ability. In the 2025 ICJ opinion, the Court explained that Due Diligence is an objective standard that updates as scientific understanding grows. As the IPCC reports grow more alarming, the legal limits on States become more strict.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">GOVERNANCE BEYOND TREATIES: THE BBNJ AND TRADE LAW</h4>
+                        <p>Climate governance now affects other legal areas. The 2023 BBNJ Agreement (High Seas Treaty) provides a framework for protecting biodiversity in areas beyond national jurisdiction from climate-related harm. Likewise, international trade law is dealing with Carbon Border Adjustment Mechanisms (CBAMs), Where the WTO must decide whether climate-based tariffs are legitimate environmental protections or "disguised restrictions on international trade."</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LIABILITY, LOSS AND DAMAGE: THE FINAL FRONTIER</h4>
+                        <p>The "Loss and Damage" fund set up at COP27 and made operational in later years marks the legal acknowledgement of historical responsibility. International law is moving toward a "polluter pays"model. Even though states have been reluctant to take liability in the traditional legal sense, the 2025 ICJ Opinion suggests that continuous failure to meet NDC targets could lead to an obligation to provide compensation to vulnerable countries like Vanuatu or Tuvalu.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION: THE RULE OF LAW IN THE ANTHROPOCENE</h4>
+                        <p>International law in climate change is no longer a niche area; it is the central framework for global survival. From the foundational principles of the UNFCCC to the cutting edge human rights ruling of the ECtHR, the message is clear: the era of climate impunity is over. States are now bound by a "triple lock" of treaty obligations, human rights responsibilities, and the customary "no-harm" principle. As we look toward the 2030s, the success of climate governance will not be measured by the eloquence of its treaties, but by the courage of its courts to hold the powerful accountable.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>IPCC Working Group I, Sixth Assessment Report; The Physical Science Basis, 2021.</li>
+                            <li>Bodansky,D. (2016) as cited in International Journal of Latest Technology in Engineering, Management & Applied Science (IJLTEMAS), Vol. XV, Issue I (January 2026)</li>
+                            <li>Obligations of States in respect of climate change (Advisory Opinion)</li>
+                            <li>UNFCCC, 'United Nations Framework Convention on Climate Change'</li>
+                            <li>Kyoto Protocol to the United Nations Framework Convention on Climate Change (adopted 11 December 1997, entered into force 16 January 2005)</li>
+                            <li>Paris Agreement (adopted 12 December 2015, entered into force 4 November 2016) 3156 UNTS 1</li>
+                            <li>Paris Agreement, art 4(3)</li>
+                            <li>Ibid art 4(2).</li>
+                            <li>Verein KlimaSeniorinnen Schweiz and Others v. Switzerland (2024) App no 53600/20 (ECtHR).</li>
+                            <li>Ibid para 548</li>
+                            <li>Obligations of States in respect of Climate Change (Advisory Opinion) ICJ (23 July 2025) para 112</li>
+                            <li>Edith Brown Weiss, In Fairness to Future Generations: International Law, Common Patrimony, and Intergenerational Equity (Transnational Publishers 1989) 34</li>
+                            <li>Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion) ICJ Rep 226, para 29</li>
+                            <li>Request for an Advisory Opinion submitted by the Commission of Small Island States on Climate Change and International Law (ITLOS Case No 31, 21 May 2024) para 179</li>
+                            <li>United Nations Convention on the Law of The Sea (adopted 10 December 1982, entered into force 16 November 1994) 1833 UNTS 397 (UNCLOS) art 192</li>
+                            <li>Pulp Mills on the River Uruguay (Argentina v. Uruguay) (Judgment) [2010] ICJ Rep 14, para 197</li>
+                            <li>Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction (adopted 19 June 2023) UN Doc A/CONF.232/2023/4 (BBNJ Agreement)</li>
+                            <li>United States- Standards for Reformulated and Conventional Gasoline [1996]WTO Doc WT/DS2/AB/R</li>
+                            <li>Obligations of States in respect of Climate Change (Advisory Opinion) ICJ (2025) para 145</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mansi Teotia, Meerut College/ LL.B.</p>
                     </div>
                 </div>
             )
@@ -1429,79 +1955,79 @@ export function Header04() {
         //     abstract: "The rapid expansion of borderless online marketplaces has severely tested traditional trademark protections and enforcement mechanisms. This commentary highlights the evolving legal strategies for brands to proactively defend their intellectual property against digital infringement."
         // }
     ];
-const demoPublications = rawPublications.map(p => ({ ...p, id: p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-') }));
+    const demoPublications = rawPublications.map(p => ({ ...p, id: p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-') }));
 
-const SingleArticle = () => {
-    const { articleId } = useParams();
-    const [article, setArticle] = useState<any>(null);
-    const [copied, setCopied] = useState(false);
-    
-    useEffect(() => {
-        const fetchArticle = async () => {
-            try {
-                const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://xyzcompany.supabase.co';
-                const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'public-anon-key';
-                const { createClient } = await import("@supabase/supabase-js");
-                const supabase = createClient(supabaseUrl, supabaseKey);
-                
-                const { data, error } = await supabase
-                    .from('publications')
-                    .select('*')
-                    .eq('id', articleId)
-                    .single();
-                    
-                if (data && !error) {
-                    setArticle(data);
-                    return;
+    const SingleArticle = () => {
+        const { articleId } = useParams();
+        const [article, setArticle] = useState<any>(null);
+        const [copied, setCopied] = useState(false);
+
+        useEffect(() => {
+            const fetchArticle = async () => {
+                try {
+                    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://xyzcompany.supabase.co';
+                    const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'public-anon-key';
+                    const { createClient } = await import("@supabase/supabase-js");
+                    const supabase = createClient(supabaseUrl, supabaseKey);
+
+                    const { data, error } = await supabase
+                        .from('publications')
+                        .select('*')
+                        .eq('id', articleId)
+                        .single();
+
+                    if (data && !error) {
+                        setArticle(data);
+                        return;
+                    }
+                    throw new Error("Not found");
+                } catch (err) {
+                    const localArticle = demoPublications.find((p: any) => p.id === articleId);
+                    if (localArticle) {
+                        setArticle(localArticle);
+                    } else {
+                        setArticle(demoPublications[0]); // fallback if absolutely nothing works
+                    }
                 }
-                throw new Error("Not found");
-            } catch (err) {
-                const localArticle = demoPublications.find((p: any) => p.id === articleId);
-                if (localArticle) {
-                    setArticle(localArticle);
-                } else {
-                    setArticle(demoPublications[0]); // fallback if absolutely nothing works
-                }
-            }
+            };
+            fetchArticle();
+        }, [articleId]);
+
+        const handleCopy = () => {
+            navigator.clipboard.writeText(window.location.href);
+            setCopied(true);
+            setTimeout(() => setCopied(false), 2000);
         };
-        fetchArticle();
-    }, [articleId]);
 
-    const handleCopy = () => {
-        navigator.clipboard.writeText(window.location.href);
-        setCopied(true);
-        setTimeout(() => setCopied(false), 2000);
+        if (!article) return <div className="pt-32 pb-24 text-center min-h-screen text-white flex items-center justify-center">Loading...</div>;
+
+        return (
+            <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                className="pt-32 pb-24 px-4 md:px-8 lg:px-24 min-h-[80vh] bg-black/50 backdrop-blur-md border-x border-white/5 mx-auto max-w-[1400px]"
+            >
+                <div className="flex justify-between items-center mb-8 border-b border-white/10 pb-6">
+                    <Link to="/publications" className="text-[#D4AF37] hover:bg-[#D4AF37]/10 px-4 py-2 rounded-full transition-all">← Back to Publications</Link>
+                    <button onClick={handleCopy} className="bg-black/60 border border-white/20 px-6 py-2 rounded-full text-white hover:border-[#D4AF37] hover:text-[#D4AF37] transition-all">
+                        {copied ? "✅ Copied!" : "Copy Link"}
+                    </button>
+                </div>
+                <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">{article.title}</h1>
+                <p className="text-[#D4AF37] font-medium text-xl mb-12">{article.author}</p>
+                <div className="prose prose-invert max-w-none w-full">
+                    {article.fullText || <p className="text-zinc-300 text-lg leading-relaxed whitespace-pre-line">{article.abstract}</p>}
+                </div>
+            </motion.div>
+        );
     };
 
-    if (!article) return <div className="pt-32 pb-24 text-center min-h-screen text-white flex items-center justify-center">Loading...</div>;
-
-    return (
-        <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            className="pt-32 pb-24 px-4 md:px-8 lg:px-24 min-h-[80vh] bg-black/50 backdrop-blur-md border-x border-white/5 mx-auto max-w-[1400px]"
-        >
-            <div className="flex justify-between items-center mb-8 border-b border-white/10 pb-6">
-                <Link to="/publications" className="text-[#D4AF37] hover:bg-[#D4AF37]/10 px-4 py-2 rounded-full transition-all">← Back to Publications</Link>
-                <button onClick={handleCopy} className="bg-black/60 border border-white/20 px-6 py-2 rounded-full text-white hover:border-[#D4AF37] hover:text-[#D4AF37] transition-all">
-                    {copied ? "✅ Copied!" : "Copy Link"}
-                </button>
-            </div>
-            <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">{article.title}</h1>
-            <p className="text-[#D4AF37] font-medium text-xl mb-12">{article.author}</p>
-            <div className="prose prose-invert max-w-none w-full">
-                {article.fullText || <p className="text-zinc-300 text-lg leading-relaxed whitespace-pre-line">{article.abstract}</p>}
-            </div>
-        </motion.div>
+    const AdminDashboard = () => (
+        <div className="pt-32 pb-24 text-center min-h-[80vh] text-white flex items-center justify-center">
+            <h1 className="text-4xl font-bold border border-white/10 p-12 rounded-3xl bg-black/40 backdrop-blur-md">Admin Dashboard (Protected Region)</h1>
+        </div>
     );
-};
-
-const AdminDashboard = () => (
-    <div className="pt-32 pb-24 text-center min-h-[80vh] text-white flex items-center justify-center">
-        <h1 className="text-4xl font-bold border border-white/10 p-12 rounded-3xl bg-black/40 backdrop-blur-md">Admin Dashboard (Protected Region)</h1>
-    </div>
-);
 
 
 
@@ -1809,320 +2335,320 @@ const AdminDashboard = () => (
 
     return (
         <BrowserRouter>
-        <div className="min-h-screen bg-black text-white font-sans selection:bg-[#D4AF37]/30">
-            {/* Background Video (Fixed and Persistent) */}
-            <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
-                <video
-                    autoPlay
-                    loop
-                    muted
-                    playsInline
-                    className="w-full h-full object-cover"
-                >
-                    <source src="/Make_the_above_1080p_202602221245.mp4" type="video/mp4" />
-                </video>
-            </div>
+            <div className="min-h-screen bg-black text-white font-sans selection:bg-[#D4AF37]/30">
+                {/* Background Video (Fixed and Persistent) */}
+                <div className="fixed inset-0 z-0 pointer-events-none overflow-hidden">
+                    <video
+                        autoPlay
+                        loop
+                        muted
+                        playsInline
+                        className="w-full h-full object-cover"
+                    >
+                        <source src="/Make_the_above_1080p_202602221245.mp4" type="video/mp4" />
+                    </video>
+                </div>
 
-            <GlassNavbar activePage={activePage} setActivePage={setActivePage} />
+                <GlassNavbar activePage={activePage} setActivePage={setActivePage} />
 
-            <main className="flex-1 relative z-10">
-                <Routes>
-                    <Route path="/" element={
-                        <motion.div
-                            key="home"
-                            animate={{ opacity: 1 }}
-                            exit={{ opacity: 0 }}
-                            transition={{ duration: 0.5 }}
-                        >
-                            <section className="min-h-screen flex items-center pt-24 pb-12 px-4 md:px-8 lg:px-24 overflow-hidden">
-                                <div className="flex flex-col lg:grid lg:grid-cols-[1.4fr_0.6fr] gap-12 lg:gap-4 items-center w-full max-w-[2200px] mx-auto mt-16 lg:mt-0">
-                                    {/* Left: Interactive Card */}
-                                    <div className="flex flex-col items-center lg:items-start z-10 translate-x-0 lg:-translate-x-24 w-full">
-                                        <PixelCard
-                                            variant="pink"
-                                            className="w-full max-w-2xl p-4 sm:p-8 md:p-12 rounded-[40px] border border-transparent bg-transparent hover:border-white/10 hover:bg-black/20 hover:backdrop-blur-md transition-all duration-500 min-h-[auto] lg:min-h-[550px]"
-                                        >
-                                            <div className="text-center lg:text-left flex flex-col items-center lg:items-start gap-6 md:gap-8 w-full">
-                                                <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white tracking-tight leading-tight text-center lg:text-left">
-                                                    We Are Your <br />
-                                                    <span className="text-[#D4AF37] drop-shadow-[0_0_15px_rgba(212,175,55,0.3)]">Lex Saarthi</span>
-                                                </h1>
-
-                                                <p className="text-base md:text-xl text-zinc-300 font-medium leading-relaxed max-w-xl text-center lg:text-left mx-auto lg:mx-0 w-full">
-                                                    Nurturing future legal professionals with absolute clarity,
-                                                    expert mentorship, and purpose-driven practice.
-                                                    <span className="block mt-2 text-white/80 text-center lg:text-left w-full">Bridging the gap between the classroom and the courtroom.</span>
-                                                </p>
-
-                                                <div className="flex flex-col sm:flex-row gap-4 w-full justify-center lg:justify-start mt-4">
-                                                    <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-bold h-14 px-8 md:px-10 rounded-full text-lg transition-transform hover:scale-105 active:scale-95 shadow-[0_0_20px_rgba(212,175,55,0.2)] w-full sm:w-auto">
-                                                        Apply for Internship
-                                                    </Button>
-                                                    <Button
-                                                        onClick={() => setActivePage('publications')}
-                                                        variant="outline"
-                                                        className="bg-white border-white/20 text-black hover:bg-white/90 h-14 px-8 md:px-10 rounded-full text-lg transition-transform hover:scale-105 active:scale-95 w-full sm:w-auto"
-                                                    >
-                                                        Read Publications
-                                                    </Button>
-                                                </div>
-                                            </div>
-                                        </PixelCard>
-                                    </div>
-
-                                    {/* Right: Scale Image */}
-                                    <div className="flex justify-center lg:justify-end items-center relative h-full w-full mt-8 lg:mt-0">
-                                        <div className="absolute right-[-10%] lg:right-[-10%] bg-[#D4AF37]/5 blur-[120px] rounded-full w-full h-full -z-20" />
-                                        <PixelCard
-                                            variant="yellow"
-                                            className="w-full max-w-[300px] md:max-w-[450px] aspect-square rounded-[40px] border border-white/5 bg-transparent hover:bg-black/10 transition-all duration-500 translate-x-0 lg:translate-x-12 flex items-center justify-center"
-                                        >
-                                            <img
-                                                src="/image.png"
-                                                alt="Lex Saarthi Logo"
-                                                className="relative z-0 w-3/4 h-auto object-contain drop-shadow-[0_0_30px_rgba(212,175,55,0.1)] mx-auto"
-                                            />
-                                        </PixelCard>
-                                    </div>
-                                </div>
-                            </section>
-
-                            <div className="bg-black/60 backdrop-blur-2xl border-y border-white/10 py-16 relative z-10">
-                                <div className="max-w-[1400px] mx-auto px-6">
-                                    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
-                                        {[
-                                            { value: "500+", label: "Legal Minds Mentored" },
-                                            { value: "50+", label: "Expert Advocates & Mentors" },
-                                            { value: "100+", label: "Research Papers Published" },
-                                            { value: "20+", label: "Masterclass Webinars" },
-                                        ].map((stat, i) => (
-                                            <div key={i} className="flex flex-col items-center text-center group">
-                                                <div className="flex items-center gap-3 mb-2">
-                                                    <span className="text-5xl md:text-6xl font-bold text-white group-hover:text-[#D4AF37] transition-colors duration-500">
-                                                        {stat.value}
-                                                    </span>
-                                                </div>
-                                                <div className="h-1 w-12 bg-[#D4AF37] mb-4 rounded-full opacity-50 group-hover:opacity-100 group-hover:w-20 transition-all duration-500" />
-                                                <span className="text-zinc-400 text-xs md:text-sm font-bold tracking-[0.2em] uppercase">
-                                                    {stat.label}
-                                                </span>
-                                            </div>
-                                        ))}
-                                    </div>
-                                </div>
-                            </div>
-
-                            <section className="py-32 px-4 md:px-8 lg:px-24 bg-black/40 backdrop-blur-md relative z-10 border-y border-white/5">
-                                <div className="max-w-[1400px] mx-auto">
-                                    <div className="text-center mb-24 max-w-3xl mx-auto">
-                                        <h2 className="text-4xl md:text-6xl font-bold text-white mb-6">
-                                            Empowering the <span className="text-[#D4AF37]">Legal Minds</span> of Tomorrow
-                                        </h2>
-                                        <p className="text-xl text-zinc-400 leading-relaxed font-medium">
-                                            Comprehensive platforms designed to elevate your legal acumen through
-                                            practical exposure and scholarly excellence.
-                                        </p>
-                                    </div>
-
-                                    <div className="flex flex-col gap-32">
-                                        {[
-                                            {
-                                                title: "Certified Internships",
-                                                headline: "Real-World Practice",
-                                                body: "Gain hands-on experience drafting petitions, researching case laws, and working on live cases under the direct guidance of seasoned High Court advocates.",
-                                                button: "Join the Next Cohort →",
-                                                color: "#D4AF37",
-                                                page: "internships"
-                                            },
-                                            {
-                                                title: "Scholarly Publications",
-                                                headline: "Academic Excellence",
-                                                body: "Contribute to the global discourse of justice. Publish your meticulously researched articles and case comments in our peer-reviewed legal journals.",
-                                                button: "Submit Your Paper →",
-                                                color: "#D4AF37",
-                                                page: "publications"
-                                            },
-                                            {
-                                                title: "Expert Webinars",
-                                                headline: "Masterclass Sessions",
-                                                body: "Learn directly from the masters. Engage in interactive, high-level discussions with sitting judges, senior counsels, and industry leaders.",
-                                                button: "View Upcoming Sessions →",
-                                                color: "#D4AF37",
-                                                page: "webinars"
-                                            }
-                                        ].map((service, index) => (
-                                            <div key={index} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-12 lg:gap-24 items-center">
-                                                <div className={`order-2 ${index % 2 !== 0 ? 'lg:order-2' : 'lg:order-1'}`}>
-                                                    <PixelCard variant="pink" className="w-full min-h-[450px] p-10 rounded-[40px] border border-white/5 bg-black/30 backdrop-blur-md hover:border-[#D4AF37]/30 transition-all duration-700">
-                                                        <div className="flex flex-col items-start gap-6 text-left w-full h-full justify-center">
-                                                            <span className="text-[#D4AF37] font-bold tracking-[0.3em] uppercase text-sm">
-                                                                {service.title}
-                                                            </span>
-                                                            <h3 className="text-4xl font-bold text-white">
-                                                                {service.headline}
-                                                            </h3>
-                                                            <p className="text-lg text-zinc-300 leading-relaxed">
-                                                                {service.body}
-                                                            </p>
-                                                            <Button
-                                                                onClick={() => setActivePage(service.page)}
-                                                                className="mt-4 bg-transparent border border-[#D4AF37] text-[#D4AF37] hover:bg-[#D4AF37] hover:text-black font-bold h-14 px-8 rounded-full transition-all duration-300"
-                                                            >
-                                                                {service.button}
-                                                            </Button>
-                                                        </div>
-                                                    </PixelCard>
-                                                </div>
-
-                                                <div className={`flex justify-center order-1 ${index % 2 !== 0 ? 'lg:order-1' : 'lg:order-2'}`}>
-                                                    <div className="relative w-full aspect-square max-w-[500px] flex items-center justify-center">
-                                                        <div className="absolute inset-0 bg-[#D4AF37]/5 blur-[100px] rounded-full" />
-                                                        <Folder color={service.color} size={2.5} className="relative z-10" />
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        ))}
-                                    </div>
-                                </div>
-                            </section>
-
-                            <section className="py-32 px-4 md:px-8 lg:px-24 bg-black/20 backdrop-blur-sm relative z-10 border-b border-white/5 overflow-hidden">
-                                <div className="grid grid-cols-1 md:grid-cols-2 gap-16 lg:gap-24 items-center max-w-[1400px] mx-auto">
-                                    <div className="relative aspect-square max-w-[600px] w-full mx-auto lg:mx-0 order-2 lg:order-1">
-                                        <div className="absolute inset-0 z-0 opacity-40">
-                                            <ShapeBlur variation={0} shapeSize={1.5} roundness={0.5} circleSize={0.4} circleEdge={0.6} />
-                                        </div>
-                                        <div className="relative z-10 w-full h-full flex items-center justify-center p-12">
-                                            <div className="absolute inset-0 bg-[#D4AF37]/5 blur-[80px] rounded-full" />
-                                            <img
-                                                src="/image.png"
-                                                alt="Lex Saarthi Mission"
-                                                className="w-4/5 h-auto object-contain drop-shadow-[0_0_50px_rgba(212,175,55,0.2)] hover:scale-105 transition-transform duration-700"
-                                            />
-                                        </div>
-                                    </div>
-                                    <div className="flex flex-col items-start gap-8 z-10 order-1 lg:order-2">
-                                        <div className="flex flex-col gap-4">
-                                            <span className="text-[#D4AF37] font-bold tracking-[0.4em] uppercase text-sm">Our Mission</span>
-                                            <h2 className="text-4xl md:text-6xl font-bold text-white leading-tight">More Than a Platform. <br /><span className="text-[#D4AF37]">A True Guide.</span></h2>
-                                        </div>
-                                        <div className="space-y-6">
-                                            <p className="text-xl text-zinc-300 leading-relaxed font-medium">In the complex and highly competitive battlefield of law, every student needs a guide a <span className="text-white italic">Saarthi</span>. Lex Saarthi was founded on the fundamental principle that the next generation of lawyers requires more than just textbook knowledge.</p>
-                                            <p className="text-lg text-zinc-400 leading-relaxed">They need direction, ethical grounding, and practical wisdom. We provide the mentorship and resources necessary to transform passionate law students into exceptional legal practitioners.</p>
-                                        </div>
-                                        <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-bold h-14 px-10 rounded-full text-lg shadow-[0_0_20px_rgba(212,175,55,0.2)] hover:scale-105 transition-all">Discover Our Story</Button>
-                                    </div>
-                                </div>
-                            </section>
-
-                            <section className="py-32 bg-transparent relative z-10 overflow-hidden">
-                                <div className="max-w-[1400px] mx-auto px-6 mb-16 text-center">
-                                    <span className="text-[#D4AF37] font-bold tracking-[0.4em] uppercase text-sm mb-4 block">Our Impact</span>
-                                    <h2 className="text-4xl md:text-6xl font-bold text-white">Voices of <span className="text-[#D4AF37]">Our Scholars</span></h2>
-                                </div>
-                                <div className="relative w-full" style={{ height: '600px' }}>
-                                    <CircularGallery bend={1} scrollSpeed={2} scrollEase={0.05} borderRadius={0.05} items={[
-                                        { quote: "The internship program at Lex Saarthi gave me the practical drafting skills that law school missed. Working on actual case files under expert mentorship changed my entire perspective.", name: "Ananya R., Law Student" },
-                                        { quote: "Publishing my first research paper here was a seamless experience. The peer-review feedback was incredibly rigorous and elevated the quality of my writing.", name: "Rahul V., Legal Researcher" },
-                                        { quote: "The expert webinars hosted by Lex Saarthi are phenomenal. Gaining first-hand perspectives from senior counsels and industry leaders gave me a profound understanding of contemporary legal challenges that you simply cannot get from a textbook.", name: "Karthik M., Law Undergraduate" },
-                                        { quote: "True to their name, they act as a real 'Saarthi' for aspiring lawyers. The mentorship I received during my internship bridged the daunting gap between academic theory and actual courtroom practice. It completely rebuilt my confidence.", name: "Neha T., Junior Associate" },
-                                        { quote: "Submitting my case comment to their journal was a pivotal moment in my academic career. The editorial board is meticulous and highly supportive, ensuring that every published piece meets the absolute highest standards of legal scholarship.", name: "Siddharth P., Legal Scholar" }
-                                    ]} />
-                                </div>
-                            </section>
-
-                            <section className="py-32 px-4 md:px-8 lg:px-24 bg-transparent relative z-10">
-                                <div className="max-w-[1200px] mx-auto">
-                                    <PixelCard variant="blue" className="w-full min-h-[400px] p-12 md:p-20 rounded-[40px] border border-white/5 bg-black/40 backdrop-blur-xl hover:border-blue-500/30 transition-all duration-700">
-                                        <div className="flex flex-col items-center text-center gap-8 max-w-3xl mx-auto">
-                                            <h2 className="text-4xl md:text-6xl font-bold text-white leading-tight">Ready to Step into the <span className="text-[#D4AF37]">Courtroom?</span></h2>
-                                            <p className="text-xl text-zinc-300 leading-relaxed font-medium">Join a growing community of dedicated legal scholars, interns, and practitioners today.</p>
-                                            <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-extrabold h-16 px-12 rounded-full text-xl shadow-[0_0_30px_rgba(212,175,55,0.3)] hover:scale-105 active:scale-95 transition-all transition-transform">Contact Us Now</Button>
-                                        </div>
-                                    </PixelCard>
-                                </div>
-                            </section>
-                        </motion.div>
-                    } />
-                    <Route path="/publications" element={<PublicationsPage />} />
-                    <Route path="/internships" element={<InternshipsPage />} />
-                    <Route path="/admin" element={<AdminDashboard />} />
-                    <Route path="/publications/:articleId" element={<SingleArticle />} />
-                    {['webinars', 'blog', 'aboutus', 'contact'].map(page => (
-                        <Route key={page} path={`/${page}`} element={
+                <main className="flex-1 relative z-10">
+                    <Routes>
+                        <Route path="/" element={
                             <motion.div
-                                initial={{ opacity: 0 }}
+                                key="home"
                                 animate={{ opacity: 1 }}
                                 exit={{ opacity: 0 }}
                                 transition={{ duration: 0.5 }}
-                                className="min-h-[80vh] flex items-center justify-center pt-32"
                             >
-                                <h2 className="text-4xl font-bold text-white">
-                                    {page.charAt(0).toUpperCase() + page.slice(1)} Page <span className="text-[#D4AF37]">Coming Soon</span>
-                                </h2>
+                                <section className="min-h-screen flex items-center pt-24 pb-12 px-4 md:px-8 lg:px-24 overflow-hidden">
+                                    <div className="flex flex-col lg:grid lg:grid-cols-[1.4fr_0.6fr] gap-12 lg:gap-4 items-center w-full max-w-[2200px] mx-auto mt-16 lg:mt-0">
+                                        {/* Left: Interactive Card */}
+                                        <div className="flex flex-col items-center lg:items-start z-10 translate-x-0 lg:-translate-x-24 w-full">
+                                            <PixelCard
+                                                variant="pink"
+                                                className="w-full max-w-2xl p-4 sm:p-8 md:p-12 rounded-[40px] border border-transparent bg-transparent hover:border-white/10 hover:bg-black/20 hover:backdrop-blur-md transition-all duration-500 min-h-[auto] lg:min-h-[550px]"
+                                            >
+                                                <div className="text-center lg:text-left flex flex-col items-center lg:items-start gap-6 md:gap-8 w-full">
+                                                    <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white tracking-tight leading-tight text-center lg:text-left">
+                                                        We Are Your <br />
+                                                        <span className="text-[#D4AF37] drop-shadow-[0_0_15px_rgba(212,175,55,0.3)]">Lex Saarthi</span>
+                                                    </h1>
+
+                                                    <p className="text-base md:text-xl text-zinc-300 font-medium leading-relaxed max-w-xl text-center lg:text-left mx-auto lg:mx-0 w-full">
+                                                        Nurturing future legal professionals with absolute clarity,
+                                                        expert mentorship, and purpose-driven practice.
+                                                        <span className="block mt-2 text-white/80 text-center lg:text-left w-full">Bridging the gap between the classroom and the courtroom.</span>
+                                                    </p>
+
+                                                    <div className="flex flex-col sm:flex-row gap-4 w-full justify-center lg:justify-start mt-4">
+                                                        <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-bold h-14 px-8 md:px-10 rounded-full text-lg transition-transform hover:scale-105 active:scale-95 shadow-[0_0_20px_rgba(212,175,55,0.2)] w-full sm:w-auto">
+                                                            Apply for Internship
+                                                        </Button>
+                                                        <Button
+                                                            onClick={() => setActivePage('publications')}
+                                                            variant="outline"
+                                                            className="bg-white border-white/20 text-black hover:bg-white/90 h-14 px-8 md:px-10 rounded-full text-lg transition-transform hover:scale-105 active:scale-95 w-full sm:w-auto"
+                                                        >
+                                                            Read Publications
+                                                        </Button>
+                                                    </div>
+                                                </div>
+                                            </PixelCard>
+                                        </div>
+
+                                        {/* Right: Scale Image */}
+                                        <div className="flex justify-center lg:justify-end items-center relative h-full w-full mt-8 lg:mt-0">
+                                            <div className="absolute right-[-10%] lg:right-[-10%] bg-[#D4AF37]/5 blur-[120px] rounded-full w-full h-full -z-20" />
+                                            <PixelCard
+                                                variant="yellow"
+                                                className="w-full max-w-[300px] md:max-w-[450px] aspect-square rounded-[40px] border border-white/5 bg-transparent hover:bg-black/10 transition-all duration-500 translate-x-0 lg:translate-x-12 flex items-center justify-center"
+                                            >
+                                                <img
+                                                    src="/image.png"
+                                                    alt="Lex Saarthi Logo"
+                                                    className="relative z-0 w-3/4 h-auto object-contain drop-shadow-[0_0_30px_rgba(212,175,55,0.1)] mx-auto"
+                                                />
+                                            </PixelCard>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <div className="bg-black/60 backdrop-blur-2xl border-y border-white/10 py-16 relative z-10">
+                                    <div className="max-w-[1400px] mx-auto px-6">
+                                        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
+                                            {[
+                                                { value: "500+", label: "Legal Minds Mentored" },
+                                                { value: "50+", label: "Expert Advocates & Mentors" },
+                                                { value: "100+", label: "Research Papers Published" },
+                                                { value: "20+", label: "Masterclass Webinars" },
+                                            ].map((stat, i) => (
+                                                <div key={i} className="flex flex-col items-center text-center group">
+                                                    <div className="flex items-center gap-3 mb-2">
+                                                        <span className="text-5xl md:text-6xl font-bold text-white group-hover:text-[#D4AF37] transition-colors duration-500">
+                                                            {stat.value}
+                                                        </span>
+                                                    </div>
+                                                    <div className="h-1 w-12 bg-[#D4AF37] mb-4 rounded-full opacity-50 group-hover:opacity-100 group-hover:w-20 transition-all duration-500" />
+                                                    <span className="text-zinc-400 text-xs md:text-sm font-bold tracking-[0.2em] uppercase">
+                                                        {stat.label}
+                                                    </span>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <section className="py-32 px-4 md:px-8 lg:px-24 bg-black/40 backdrop-blur-md relative z-10 border-y border-white/5">
+                                    <div className="max-w-[1400px] mx-auto">
+                                        <div className="text-center mb-24 max-w-3xl mx-auto">
+                                            <h2 className="text-4xl md:text-6xl font-bold text-white mb-6">
+                                                Empowering the <span className="text-[#D4AF37]">Legal Minds</span> of Tomorrow
+                                            </h2>
+                                            <p className="text-xl text-zinc-400 leading-relaxed font-medium">
+                                                Comprehensive platforms designed to elevate your legal acumen through
+                                                practical exposure and scholarly excellence.
+                                            </p>
+                                        </div>
+
+                                        <div className="flex flex-col gap-32">
+                                            {[
+                                                {
+                                                    title: "Certified Internships",
+                                                    headline: "Real-World Practice",
+                                                    body: "Gain hands-on experience drafting petitions, researching case laws, and working on live cases under the direct guidance of seasoned High Court advocates.",
+                                                    button: "Join the Next Cohort →",
+                                                    color: "#D4AF37",
+                                                    page: "internships"
+                                                },
+                                                {
+                                                    title: "Scholarly Publications",
+                                                    headline: "Academic Excellence",
+                                                    body: "Contribute to the global discourse of justice. Publish your meticulously researched articles and case comments in our peer-reviewed legal journals.",
+                                                    button: "Submit Your Paper →",
+                                                    color: "#D4AF37",
+                                                    page: "publications"
+                                                },
+                                                {
+                                                    title: "Expert Webinars",
+                                                    headline: "Masterclass Sessions",
+                                                    body: "Learn directly from the masters. Engage in interactive, high-level discussions with sitting judges, senior counsels, and industry leaders.",
+                                                    button: "View Upcoming Sessions →",
+                                                    color: "#D4AF37",
+                                                    page: "webinars"
+                                                }
+                                            ].map((service, index) => (
+                                                <div key={index} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-12 lg:gap-24 items-center">
+                                                    <div className={`order-2 ${index % 2 !== 0 ? 'lg:order-2' : 'lg:order-1'}`}>
+                                                        <PixelCard variant="pink" className="w-full min-h-[450px] p-10 rounded-[40px] border border-white/5 bg-black/30 backdrop-blur-md hover:border-[#D4AF37]/30 transition-all duration-700">
+                                                            <div className="flex flex-col items-start gap-6 text-left w-full h-full justify-center">
+                                                                <span className="text-[#D4AF37] font-bold tracking-[0.3em] uppercase text-sm">
+                                                                    {service.title}
+                                                                </span>
+                                                                <h3 className="text-4xl font-bold text-white">
+                                                                    {service.headline}
+                                                                </h3>
+                                                                <p className="text-lg text-zinc-300 leading-relaxed">
+                                                                    {service.body}
+                                                                </p>
+                                                                <Button
+                                                                    onClick={() => setActivePage(service.page)}
+                                                                    className="mt-4 bg-transparent border border-[#D4AF37] text-[#D4AF37] hover:bg-[#D4AF37] hover:text-black font-bold h-14 px-8 rounded-full transition-all duration-300"
+                                                                >
+                                                                    {service.button}
+                                                                </Button>
+                                                            </div>
+                                                        </PixelCard>
+                                                    </div>
+
+                                                    <div className={`flex justify-center order-1 ${index % 2 !== 0 ? 'lg:order-1' : 'lg:order-2'}`}>
+                                                        <div className="relative w-full aspect-square max-w-[500px] flex items-center justify-center">
+                                                            <div className="absolute inset-0 bg-[#D4AF37]/5 blur-[100px] rounded-full" />
+                                                            <Folder color={service.color} size={2.5} className="relative z-10" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            ))}
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section className="py-32 px-4 md:px-8 lg:px-24 bg-black/20 backdrop-blur-sm relative z-10 border-b border-white/5 overflow-hidden">
+                                    <div className="grid grid-cols-1 md:grid-cols-2 gap-16 lg:gap-24 items-center max-w-[1400px] mx-auto">
+                                        <div className="relative aspect-square max-w-[600px] w-full mx-auto lg:mx-0 order-2 lg:order-1">
+                                            <div className="absolute inset-0 z-0 opacity-40">
+                                                <ShapeBlur variation={0} shapeSize={1.5} roundness={0.5} circleSize={0.4} circleEdge={0.6} />
+                                            </div>
+                                            <div className="relative z-10 w-full h-full flex items-center justify-center p-12">
+                                                <div className="absolute inset-0 bg-[#D4AF37]/5 blur-[80px] rounded-full" />
+                                                <img
+                                                    src="/image.png"
+                                                    alt="Lex Saarthi Mission"
+                                                    className="w-4/5 h-auto object-contain drop-shadow-[0_0_50px_rgba(212,175,55,0.2)] hover:scale-105 transition-transform duration-700"
+                                                />
+                                            </div>
+                                        </div>
+                                        <div className="flex flex-col items-start gap-8 z-10 order-1 lg:order-2">
+                                            <div className="flex flex-col gap-4">
+                                                <span className="text-[#D4AF37] font-bold tracking-[0.4em] uppercase text-sm">Our Mission</span>
+                                                <h2 className="text-4xl md:text-6xl font-bold text-white leading-tight">More Than a Platform. <br /><span className="text-[#D4AF37]">A True Guide.</span></h2>
+                                            </div>
+                                            <div className="space-y-6">
+                                                <p className="text-xl text-zinc-300 leading-relaxed font-medium">In the complex and highly competitive battlefield of law, every student needs a guide a <span className="text-white italic">Saarthi</span>. Lex Saarthi was founded on the fundamental principle that the next generation of lawyers requires more than just textbook knowledge.</p>
+                                                <p className="text-lg text-zinc-400 leading-relaxed">They need direction, ethical grounding, and practical wisdom. We provide the mentorship and resources necessary to transform passionate law students into exceptional legal practitioners.</p>
+                                            </div>
+                                            <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-bold h-14 px-10 rounded-full text-lg shadow-[0_0_20px_rgba(212,175,55,0.2)] hover:scale-105 transition-all">Discover Our Story</Button>
+                                        </div>
+                                    </div>
+                                </section>
+
+                                <section className="py-32 bg-transparent relative z-10 overflow-hidden">
+                                    <div className="max-w-[1400px] mx-auto px-6 mb-16 text-center">
+                                        <span className="text-[#D4AF37] font-bold tracking-[0.4em] uppercase text-sm mb-4 block">Our Impact</span>
+                                        <h2 className="text-4xl md:text-6xl font-bold text-white">Voices of <span className="text-[#D4AF37]">Our Scholars</span></h2>
+                                    </div>
+                                    <div className="relative w-full" style={{ height: '600px' }}>
+                                        <CircularGallery bend={1} scrollSpeed={2} scrollEase={0.05} borderRadius={0.05} items={[
+                                            { quote: "The internship program at Lex Saarthi gave me the practical drafting skills that law school missed. Working on actual case files under expert mentorship changed my entire perspective.", name: "Ananya R., Law Student" },
+                                            { quote: "Publishing my first research paper here was a seamless experience. The peer-review feedback was incredibly rigorous and elevated the quality of my writing.", name: "Rahul V., Legal Researcher" },
+                                            { quote: "The expert webinars hosted by Lex Saarthi are phenomenal. Gaining first-hand perspectives from senior counsels and industry leaders gave me a profound understanding of contemporary legal challenges that you simply cannot get from a textbook.", name: "Karthik M., Law Undergraduate" },
+                                            { quote: "True to their name, they act as a real 'Saarthi' for aspiring lawyers. The mentorship I received during my internship bridged the daunting gap between academic theory and actual courtroom practice. It completely rebuilt my confidence.", name: "Neha T., Junior Associate" },
+                                            { quote: "Submitting my case comment to their journal was a pivotal moment in my academic career. The editorial board is meticulous and highly supportive, ensuring that every published piece meets the absolute highest standards of legal scholarship.", name: "Siddharth P., Legal Scholar" }
+                                        ]} />
+                                    </div>
+                                </section>
+
+                                <section className="py-32 px-4 md:px-8 lg:px-24 bg-transparent relative z-10">
+                                    <div className="max-w-[1200px] mx-auto">
+                                        <PixelCard variant="blue" className="w-full min-h-[400px] p-12 md:p-20 rounded-[40px] border border-white/5 bg-black/40 backdrop-blur-xl hover:border-blue-500/30 transition-all duration-700">
+                                            <div className="flex flex-col items-center text-center gap-8 max-w-3xl mx-auto">
+                                                <h2 className="text-4xl md:text-6xl font-bold text-white leading-tight">Ready to Step into the <span className="text-[#D4AF37]">Courtroom?</span></h2>
+                                                <p className="text-xl text-zinc-300 leading-relaxed font-medium">Join a growing community of dedicated legal scholars, interns, and practitioners today.</p>
+                                                <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-extrabold h-16 px-12 rounded-full text-xl shadow-[0_0_30px_rgba(212,175,55,0.3)] hover:scale-105 active:scale-95 transition-all transition-transform">Contact Us Now</Button>
+                                            </div>
+                                        </PixelCard>
+                                    </div>
+                                </section>
                             </motion.div>
                         } />
-                    ))}
-                </Routes>
+                        <Route path="/publications" element={<PublicationsPage />} />
+                        <Route path="/internships" element={<InternshipsPage />} />
+                        <Route path="/admin" element={<AdminDashboard />} />
+                        <Route path="/publications/:articleId" element={<SingleArticle />} />
+                        {['webinars', 'blog', 'aboutus', 'contact'].map(page => (
+                            <Route key={page} path={`/${page}`} element={
+                                <motion.div
+                                    initial={{ opacity: 0 }}
+                                    animate={{ opacity: 1 }}
+                                    exit={{ opacity: 0 }}
+                                    transition={{ duration: 0.5 }}
+                                    className="min-h-[80vh] flex items-center justify-center pt-32"
+                                >
+                                    <h2 className="text-4xl font-bold text-white">
+                                        {page.charAt(0).toUpperCase() + page.slice(1)} Page <span className="text-[#D4AF37]">Coming Soon</span>
+                                    </h2>
+                                </motion.div>
+                            } />
+                        ))}
+                    </Routes>
 
-                <footer className="bg-black/90 pt-12 pb-8 px-4 md:px-8 lg:px-24 border-t border-white/5 relative z-20">
-                    <div className="max-w-[1400px] mx-auto">
-                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 mb-8">
-                            <div className="flex flex-col items-start gap-4">
-                                <button onClick={() => setActivePage('home')} className="relative h-12 w-auto cursor-pointer hover:opacity-80 transition-opacity">
-                                    <img src="/image.png" alt="Lex Saarthi Logo" className="h-full w-auto object-contain drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]" />
-                                </button>
-                                <p className="text-xl font-bold text-white tracking-widest">Lex <span className="text-[#D4AF37]">Saarthi</span></p>
-                                <p className="text-zinc-400 text-base italic">"Law with Purpose."</p>
-                            </div>
-                            <div className="flex flex-col gap-4">
-                                <h4 className="text-white font-bold text-sm tracking-[0.2em] uppercase opacity-70">Quick Links</h4>
-                                <ul className="grid grid-cols-2 gap-x-8 gap-y-2">
-                                    {['Home', 'About Us', 'Internships', 'Publications', 'Webinars', 'Blog'].map((link) => (
-                                        <li key={link}>
-                                            <button
-                                                onClick={() => setActivePage(link.toLowerCase().replace(' ', ''))}
-                                                className="text-zinc-500 hover:text-[#D4AF37] transition-colors duration-300 text-sm cursor-pointer"
-                                            >
-                                                {link}
-                                            </button>
-                                        </li>
-                                    ))}
-                                </ul>
-                            </div>
-                            <div className="flex flex-col gap-4">
-                                <h4 className="text-white font-bold text-sm tracking-[0.2em] uppercase opacity-70">Contact Us</h4>
-                                <div className="space-y-2">
-                                    <p className="flex items-center gap-3 text-zinc-500 text-sm"><span className="text-[#D4AF37]/80">Email:</span> lexsaarthi@gmail.com</p>
-
+                    <footer className="bg-black/90 pt-12 pb-8 px-4 md:px-8 lg:px-24 border-t border-white/5 relative z-20">
+                        <div className="max-w-[1400px] mx-auto">
+                            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 mb-8">
+                                <div className="flex flex-col items-start gap-4">
+                                    <button onClick={() => setActivePage('home')} className="relative h-12 w-auto cursor-pointer hover:opacity-80 transition-opacity">
+                                        <img src="/image.png" alt="Lex Saarthi Logo" className="h-full w-auto object-contain drop-shadow-[0_0_10px_rgba(212,175,55,0.3)]" />
+                                    </button>
+                                    <p className="text-xl font-bold text-white tracking-widest">Lex <span className="text-[#D4AF37]">Saarthi</span></p>
+                                    <p className="text-zinc-400 text-base italic">"Law with Purpose."</p>
                                 </div>
-                                <div className="flex gap-4 mt-2">
-                                    {[
-                                        { name: 'linkedin', url: 'https://www.linkedin.com/in/lex-saarthi-6896843a3/', icon: Linkedin },
-                                        { name: 'instagram', url: 'https://www.instagram.com/lex_saarthi?igsh=MTlweG82cWRlYzFkag==', icon: Instagram },
-                                        { name: 'youtube', url: 'https://www.youtube.com/@LexSaarthi', icon: Youtube }
-                                    ].map((social) => {
-                                        const Icon = social.icon;
-                                        return (
-                                            <a key={social.name} href={social.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-[#D4AF37]/20 flex items-center justify-center text-[#D4AF37]/80 hover:bg-[#D4AF37] hover:text-black transition-all duration-300">
-                                                <Icon size={14} />
-                                            </a>
-                                        )
-                                    })}
+                                <div className="flex flex-col gap-4">
+                                    <h4 className="text-white font-bold text-sm tracking-[0.2em] uppercase opacity-70">Quick Links</h4>
+                                    <ul className="grid grid-cols-2 gap-x-8 gap-y-2">
+                                        {['Home', 'About Us', 'Internships', 'Publications', 'Webinars', 'Blog'].map((link) => (
+                                            <li key={link}>
+                                                <button
+                                                    onClick={() => setActivePage(link.toLowerCase().replace(' ', ''))}
+                                                    className="text-zinc-500 hover:text-[#D4AF37] transition-colors duration-300 text-sm cursor-pointer"
+                                                >
+                                                    {link}
+                                                </button>
+                                            </li>
+                                        ))}
+                                    </ul>
+                                </div>
+                                <div className="flex flex-col gap-4">
+                                    <h4 className="text-white font-bold text-sm tracking-[0.2em] uppercase opacity-70">Contact Us</h4>
+                                    <div className="space-y-2">
+                                        <p className="flex items-center gap-3 text-zinc-500 text-sm"><span className="text-[#D4AF37]/80">Email:</span> lexsaarthi@gmail.com</p>
+
+                                    </div>
+                                    <div className="flex gap-4 mt-2">
+                                        {[
+                                            { name: 'linkedin', url: 'https://www.linkedin.com/in/lex-saarthi-6896843a3/', icon: Linkedin },
+                                            { name: 'instagram', url: 'https://www.instagram.com/lex_saarthi?igsh=MTlweG82cWRlYzFkag==', icon: Instagram },
+                                            { name: 'youtube', url: 'https://www.youtube.com/@LexSaarthi', icon: Youtube }
+                                        ].map((social) => {
+                                            const Icon = social.icon;
+                                            return (
+                                                <a key={social.name} href={social.url} target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full border border-[#D4AF37]/20 flex items-center justify-center text-[#D4AF37]/80 hover:bg-[#D4AF37] hover:text-black transition-all duration-300">
+                                                    <Icon size={14} />
+                                                </a>
+                                            )
+                                        })}
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-zinc-600 text-xs">
+                                <p>© 2026 Lex Saarthi. All Rights Reserved.</p>
+                                <div className="flex gap-6">
+                                    <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
+                                    <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
                                 </div>
                             </div>
                         </div>
-                        <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-zinc-600 text-xs">
-                            <p>© 2026 Lex Saarthi. All Rights Reserved.</p>
-                            <div className="flex gap-6">
-                                <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-                                <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
-            </main>
-        </div>
+                    </footer>
+                </main>
+            </div>
         </BrowserRouter>
     );
 }
