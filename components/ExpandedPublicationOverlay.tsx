@@ -133,6 +133,7 @@ export function ExpandedPublicationOverlay({
                                                 Read Full Text
                                             </Button>
                                         )}
+
                                     </div>
                                 </motion.div>
                             </div>
