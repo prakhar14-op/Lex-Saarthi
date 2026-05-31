@@ -4086,6 +4086,4976 @@ export function Header04() {
                 </div>
             )
         },
+        {
+            title: "Marital Rape in India: The Untold and Suppressed Tragedy",
+            author: "By Ipsita Mandal",
+            abstract: "According to government data, some 6.1% of married Indian women have experienced sexual violence, but India still remains one of the 36 countries where marital rape is not outlawed. This article argues for the necessity of the criminalization of marital rape in order to ensure the right to equality and the right to live with dignity of married women and protecting them from all forms of sexual violence.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Current Legal Frameworks</li>
+                            <li>Analysis of Case Laws</li>
+                            <li>Comparative Perspectives</li>
+                            <li>Proposals for Reform</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>The release of the new Hindi film, <em>Chiraiya</em> has created quite of an uproar in social media with questions being asked regarding marital rape and sexual autonomy within marriage. The film has played a great part in highlighting the importance of consent in a bond like marriage through its protagonist, Pooja who is forcefully raped by her husband, Arun on her wedding night and denied the right to her own body.</p>
+                        <p className="mt-4">According to government data, some 6.1% of married Indian women have experienced sexual violence, but, despite protests and petitions filed with the courts, India still remains one of the 36 countries along with Afghanistan, Pakistan and Saudi Arabia where marital rape is not outlawed.</p>
+                        <p className="mt-4 font-bold text-white">This article argues for the necessity of the criminalization of marital rape in order to ensure the right to equality and the right to live with dignity of married women and protecting them from all forms of sexual violence. The article proceeds as follows.</p>
+                        <p className="mt-2">Section 2 sets out the current legal frameworks. Section 3 analyses and evaluates the various case laws regarding marital rape in India. Section 4 compares the Indian context with selected foreign jurisdictions. Section 5 proposes a framework for reforms in the Indian Context.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. CURRENT LEGAL FRAMEWORKS</h4>
+                        <div className="space-y-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">A. Section 63 of the Bharatiya Nyaya Sanhita, 2023</strong>
+                                <p>Section 63 of the BNS follows from Sec 375 of the Indian Penal Code, 1860 and retains the exception for husbands that sexual intercourse with an adult wife, irrespective of its forceful nature would not be considered rape.</p>
+                                <p className="mt-2 text-zinc-400">However, the BNS has raised the age of consent of a wife from 15 to 18 years aligning with the Supreme Court’s <em>Independent Thought vs UOI (2017)</em> verdict. Sexual intercourse with a wife under 18 will be therefore considered rape.</p>
+                                <p className="mt-2 text-zinc-400">This provision is often heavily scrutinised with campaigners arguing that it violates the married women’s fundamental rights to equality and bodily autonomy. On the other hand, there are arguments put forward by the government that criminalization of marital rape would result in the destabilization of marriage and it will undermine the sanctity of a sacred bond like marriage.</p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">B. Protection of Women from Domestic Violence Act, 2005</strong>
+                                <p>This act was enacted by the Parliament on September 13, 2005. It covers all women who may be mother, sister, wife, widow or partners living in a shared household and seeks to provide protection to them from violence at the hands of the husband, or a male live-in partner, or his relatives. It includes actual abuse or the threat of abuse, whether physical, sexual, verbal, emotional or economic.</p>
+                                <p className="mt-2 text-zinc-400">But since these provisions are only civil remedies that cover cruelty, they cannot be deemed as punishment for rape. They are also prone to alleged misuse and are influenced by the societal stigma which can often deter women from coming forward with their struggles.</p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">C. Section 498A of the Indian Penal Code, 1860</strong>
+                                <p>This provision addresses “cruelty” by a husband or his relatives towards a woman and covers wilful conduct likely to cause suicide or grave injury and harassment for unlawful property demands. It is subsequently addressed under Section 86 of the BNS with its enactment in 2024.</p>
+                                <p className="mt-2 text-zinc-400">In the <em>Shubham Mangal vs State of Madhya Pradesh (2026)</em>, the Madhya Pradesh High Court decided that, “forced unnatural sex by a husband on his wife amounts to cruelty under Section 498A of the IPC, but cannot be prosecuted as rape under Section 376 of the IPC as in a Section 377 context, marital rape is not recognized under current law because of the express marital exception in Section 375.”</p>
+                                <p className="mt-2 text-zinc-400">Thus, this provision despite being an effective remedy for cruelty cannot be a punishment for marital rape.</p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">D. The Hindu Marriage Act, 1955</strong>
+                                <p>Section 12 (1) (a) of the HMA, 1955 states that impotency considered by persistent, unreasonable refusal of sexual intercourse will be considered cruelty and act as a ground for divorce.</p>
+                                <p className="mt-2 text-zinc-400">This provision is often cited by commentators against marital rape when Section 12(1)(a) provides for a reasonable guide to file for divorce.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. ANALYSIS OF CASE LAWS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Independent Thought vs UOI (2017)</strong>
+                                <p>In this case, Independent Thought, an NGO working for children’s rights, filed a public interest litigation in the Supreme Court of India challenging Exception 2 to Section 375 of IPC as violative of the rights of the married girl child between the ages of 15 and 18.</p>
+                                <p className="mt-2 text-zinc-400">In a historic judgement, the SC struck down this provision as unconstitutional and this judgement made sexual intercourse with a wife under 18 years of age, a crime.</p>
+                                <p className="mt-2 text-zinc-400">This judgement played a crucial role in providing relief to married girl child under 18 years of age, but it also highlights an underlying inequality between married women under 18 and married women of legal age regarding their rights to bodily autonomy. It also underlines the inequality between married and unmarried women just on the basis of their marital status. The exception to marital rape discriminates against married women by denying them equal protection from rape and sexual harassment and makes possible the victimization of married women solely on the basis of marital status while protecting unmarried women from those same acts, thus, grossly violating the fundamental rights to equality and to live with dignity.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Delhi High Court Split Verdict on Marital Rape (2022)</strong>
+                                <p className="mb-2">On May 11, 2022, the Delhi High Court gave a split verdict on the issue of criminalizing marital rape in response to petitions urging to strike down Exception 2 to Section 375 of the IPC as unconstitutional.</p>
+                                <div className="space-y-2 pl-4 border-l border-[#D4AF37]/20 mt-3 mb-3">
+                                    <p><strong className="text-[#D4AF37] block">Justice Shakdher’s Perspective:</strong> Justice Rajiv Shakdher highlighted the difference between an unmarried victim of rape who is given legal protection vis-à-vis the fact that “the same regime does not kick-in if the complainant is a married woman.” Further, he opined that a woman reserves the right to withdraw consent at any point in time, irrespective of her relationship with the accused. He declared that the exception is violative of Article 14 (equality), Article 15 (non-discrimination), Article 19(1)(a) (right to freedom of expression, which includes a woman’s right to assert her sexual agency and autonomy), and Article 21 (right to life and liberty). His judgement further held Section 376B (Sexual Intercourse by husband upon his wife during separation) to be unconstitutional as it imposes lesser punishment and there is no justification to treat separated husbands in a manner different from rapists.</p>
+                                    <p className="mt-4"><strong className="text-[#D4AF37] block">Justice Shankar’s Perspective:</strong> Justice Hari Shankar held that the exception to marital rape was constitutional on the premise that sexual intercourse by a husband with his wife does not amount to rape. The judgement drew comparison between a non-consensual sexual act with a stranger and such an act with one’s husband. It was expressed in the judgement that the exercise of judicial authority on this issue would interfere with the legislative authority.</p>
+                                </div>
+                                <p className="mt-3 text-zinc-400">The differing perspectives in this case are a testament to the broader reality where proponents and women’s rights activists criticize the exception as a presumption that a wife has consented simply by virtue of marriage and it reflects the deep patriarchal understanding of intimacy and ignores the fundamental aspect of rape, and, it is an ultimate violation and invasion of a woman’s bodily integrity and self determination and doing so undercuts the Constitution.</p>
+                                <p className="mt-2 text-zinc-400">On the other hand, several commentators argue that criminalizing marital rape would undermine the sanctity of marriage. Even the Law Commission of India has opposed the move on the grounds that it may trigger an avalanche of false cases by spouses and the government stating the measure to be harsh and opposed to the core institution of marriage.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. The Chhattisgarh High Court Verdict on Marital Rape (2025)</strong>
+                                <p>On February 10, the single judge bench of the Chhattisgarh High Court acquitted a husband accused of engaging in unnatural sex with his wife under Section 377 of the IPC which allegedly led to her death. The accused reportedly engaged in unnatural intercourse with the deceased wife against her will. A FIR was registered under Section 377 of the IPC and he was subsequently arrested.</p>
+                                <p className="mt-2 text-zinc-400">The Trial Court convicted the husband under Sections 377, 376 and 304 of the IPC, sentencing him to 10 years of rigorous imprisonment along with a fine of INR 3000. This conviction was based on the deceased’s dying declaration and post mortem findings, which indicated peritonitis and rectal perforation.</p>
+                                <p className="mt-2 text-zinc-400">Following the appeal, the High Court observed that under Section 375 of the IPC, a husband cannot be charged with rape if his wife is above 15 years old even without consent. It was on the basis that since the legal definition of rape only includes penetration of the vagina, urethra, or anus – a husband’s act of anal intercourse with his wife does not require consent and therefore does not constitute any unnatural offense under Section 377 of the IPC. The court referenced the Supreme Court’s judgement in the <em>Navtej Singh Johar v Union of India (2018)</em> which held that oral and anal sex are offenses only when they are non-consensual. And since marital rape is exempt under Section 375, the Court concluded that any unnatural sex within marriage cannot be prosecuted under Section 377.</p>
+                                <div className="mt-4 p-4 bg-red-950/20 border-l-2 border-red-500 rounded text-sm">
+                                    <strong className="text-red-400 block mb-1">Critique of the Judgement:</strong>
+                                    <p className="text-zinc-300">One of the flaws of this judgement was that the court based its decision largely on the marital exception under Section 375 of the IPC and subsequently held that an offense under Section 377 could not be made out between a wife and husband in the view of this exception. The court failed to consider that Section 377 is a standalone offence with a separate rationale in law than that of Section 375 and did not consider the difference in its definitions. Section 377 states that the offender may be “whoever” which shows its general nature, regardless of any particular relationship and it applies to any woman, man, or even an animal underlining its general applicability. On the other hand, Section 375 clearly mentions that a “man” may be an offender and specifically excludes a husband and defines the woman in a strict sense. The judgement undermines the judiciary’s understanding of sexual offenses and the protection of spousal rights further broadening the extent of marital exception and negatively affecting the rights of married women.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. COMPARATIVE PERSPECTIVES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">United Kingdom</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Under UK law, marital rape is considered a form of sexual assault contravening the Sexual Offences Act, 2003. The landmark <em>R v R (1991) UKHL 12</em> case abolished the Marital Rape Exception when the House of Lords declared that a husband can be convicted of raping his wife. The ruling determined that marriage does not imply irrevocable consent to sexual intercourse and affirmed that marital rape is a crime. The maximum punishment in case of marital rape is life imprisonment.</p>
+                                </div>
+                                <p className="text-xs text-zinc-500 mt-4 italic">A testament to the evolution of a common law system with social, cultural and economic developments.</p>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">USA</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Before the 1970s, Marital Rape was exempted from the rape laws available in different states of the country. However, the women’s movement in 1970s led to a gradual change of the law in their favour. It was in 1976, when Nebraska, became the first among fifty states to criminalize Marital Rape. By 1993, Marital Rape had become a crime in all 50 states of USA. Many of the states draw no distinction between marital and non-marital rape, and highlights the protection of women’s autonomy.</p>
+                                </div>
+                                <p className="text-xs text-zinc-500 mt-4 italic">All 50 states criminalized marital rape by 1993, prioritizing bodily autonomy.</p>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Canada</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">In Canada, Marital Rape was criminalized in 1983. In 1983, reforms were brought in the Criminal Code and Marital Rape was considered a criminal offense. The revised code which was brought had replaced the term “rape” with “sexual assault” and has broadened the scope of offences which includes any kind of sexual conduct. It was stated that marriage cannot act as a shield for sexual assault. This provision ensured that women got the right to “say no” as they are humans with an independent identity.</p>
+                                </div>
+                                <p className="text-xs text-zinc-500 mt-4 italic">Ensured that women got the right to “say no” as they are humans with an independent identity.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. PROPOSALS FOR REFORM</h4>
+                        <p className="mb-4">The Indian Exception to Marital Rape not being criminalized can be best explained with Carole Pateman’s <em>"The Sexual Contract"</em> in which she criticizes the traditional views which treat a bride’s consent as perpetual and complete.</p>
+                        <p className="mb-4">It is often assumed in the Indian Society that sexual access is an inherent obligation of wifehood. It fails to respect the married women’s rights and the concept of mutual respect and mutual consent, highlighting a deep entrenched crisis.</p>
+
+                        <div className="mt-6 p-6 bg-black/40 border border-[#D4AF37]/30 rounded-xl relative overflow-hidden group">
+                            <div className="absolute inset-0 bg-gradient-to-r from-[#D4AF37]/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3 relative z-10">Critical Path Forward</h5>
+                            <p className="italic text-zinc-300 relative z-10 leading-relaxed mb-4">"This gross misuse can be only prevented with the criminalization of marital rape and spreading awareness about the much needed applicability of mutual consent in a sacred bond like marriage. When a woman says no, it should be accepted without forceful coercion and any form of forced sexual intercourse or assault can only be punished with rape. Marriage cannot act as a shield to protecting sexual assault and it can be nowhere treated as a justification to suppress a woman’s right to live with dignity and protect her autonomy."</p>
+                            <p className="text-white font-bold relative z-10">India needs to take immediate steps to prevent further violation of women’s rights and come up with proper effective legislations to ensure the same.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. CONCLUSION</h4>
+                        <p>Consent is a universal aspect and applies to all humans and marriage cannot be a ground for suppressing it. This takes us into the urgent need of criminalizing marital rape in India to ensure women’s rights.</p>
+                        <p className="mt-4">This article looks into the rising cases of marital rape in India with no proper actions taken against them and has argued for the implementation of effective parliamentary legislation to prevent the ongoing misuse. The comparative analysis with laws in UK, USA, and Canada further establishes the need for proper laws and demonstrates that change is required to keep up with the changing social, political, and economic conditions. India, as the world’s largest democracy has the obligation to better itself in this vital aspect.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                                    <li>Independent Thought v. Union of India, AIR 2017 SC 4904</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Legal Frameworks</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                                    <li>The Hindu Marriage Act, 1955, § 12(1)(a)</li>
+                                    <li>The Bharatiya Nyaya Sanhita, 2023, § 63</li>
+                                    <li>The Bharatiya Nyaya Sanhita, 2023, § 86</li>
+                                    <li>The Protection of Women from Domestic Violence Act, 2005</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Secondary Sources</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                                    <li>Harshit Sharma and Prashant Babbar, The Chhattisgarh HC Verdict and the Grim Reality of Marital Rape in India, NLIU Law Review (July 6 , 2025)</li>
+                                    <li>Sarthak Makkar, Marital Rape: A Non-criminalized Crime in India, Harvard University(January 1 , 2019)</li>
+                                    <li>Geeta Pandey, India Refuses to criminalize Marital Rape, BBC(April 12 , 2026)</li>
+                                    <li>Ashok Sharma, Marital Rape: India’s Legal Labyrinth, iPleaders Blog( Nov.29, 2023)</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Ipsita Mandal, NLSIU Bangalore.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Human Rights and Constitutional Values.",
+            author: "By Revai Hove",
+            abstract: "Human rights and constitutional values sit at the heart of every democracy, representing the basic freedoms and protections every person deserves. This article looks closely at how human rights intersect with constitutional values in India, digging into the constitutional rules that shield human rights, the judiciary's pivotal role, and the structural hurdles India faces in realizing its constitutional promises.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research Papers</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions or Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>Human rights and constitutional values sit at the heart of every democracy. Human rights are the basic freedoms and protections every person deserves just for being human—things like the right to life, freedom, equality, dignity, being able to speak your mind, practice your faith, and live without discrimination.</p>
+                        <p className="mt-4">Constitutional values are the guiding principles written into a country’s constitution. They help shape the government and the way society works. In India, these values are justice, liberty, equality, fraternity, democracy, secularism, and respect for human dignity.</p>
+                        <p className="mt-4">India’s Constitution stands as the supreme law of the land, protecting people’s rights and insisting that everyone gets equal treatment. The Fundamental Rights in Part III lay out clear protections for personal freedom, while the Directive Principles and Fundamental Duties encourage social welfare and remind all citizens of their responsibilities.</p>
+                        <p className="mt-4">Human rights and constitutional values work together—they keep society fair and peaceful, protect people from injustice, and make sure democracy isn’t just an idea on paper.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>This article looks closely at how human rights intersect with constitutional values in India. It digs into the constitutional rules that shield human rights, the courts’ role in defending them, and the hurdles India faces in living up to its constitutional promises.</p>
+                        <p className="mt-4 font-bold text-white">You’ll also see why safeguarding democracy, fairness, equality, and dignity really matters for modern India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. BACKGROUND OF THE ISSUE</h4>
+                        <p>Human rights didn’t appear overnight—they grew out of years of struggle against oppression and inequality. The adoption of the Universal Declaration of Human Rights (UDHR) by the United Nations in 1948 marked a big moment, declaring that everyone deserves equal rights and dignity.</p>
+                        <p className="mt-4">India’s Constitution drafters drew heavily from democratic ideals and emerging global human rights standards. They worked in those ideas, building in protections for civil, political, social, and economic rights.</p>
+                        <p className="mt-4">Yet, strong constitutional language hasn’t erased every problem. Issues like caste discrimination, gender inequality, communal violence, poverty, child labor, and attacks on free speech still affect millions. Corruption, abuse of power, and social injustice have only made it clearer why India needs both robust laws and public engagement to defend constitutional values and human rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. LEGAL FRAMEWORK</h4>
+                        <p className="mb-4">India’s Constitution lays out a strong foundation for protecting human rights and enforcing constitutional values. The Preamble highlights justice, liberty, equality, and fraternity.</p>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Fundamental Rights (Part III)</h5>
+                                <ul className="space-y-3 text-sm text-zinc-300">
+                                    <li><strong className="text-white">Article 14:</strong> Equality before the law and equal protection of the laws.</li>
+                                    <li><strong className="text-white">Article 19:</strong> Secures free speech, movement, peaceful assembly, and association.</li>
+                                    <li><strong className="text-white">Article 21:</strong> Right to life and personal liberty, expanded by courts to include dignity, privacy, health, and education.</li>
+                                    <li><strong className="text-white">Article 25:</strong> Freedom of conscience and free profession, practice, and propagation of religion.</li>
+                                    <li><strong className="text-white">Articles 32 & 226:</strong> Constitutional remedies to approach the Supreme Court or High Courts directly if rights are threatened.</li>
+                                </ul>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Statutory & Directive Frameworks</h5>
+                                    <p className="text-sm leading-relaxed mb-3">The <strong className="text-white">Protection of Human Rights Act, 1993</strong> established the National Human Rights Commission (NHRC) to defend and promote human rights in India.</p>
+                                    <p className="text-sm leading-relaxed">The <strong className="text-white">Directive Principles of State Policy (Part IV)</strong> direct the government to build a just social order and deliver social and economic justice.</p>
+                                </div>
+                                <p className="text-xs text-zinc-500 mt-4 italic">International conventions like the UDHR and the ICCPR play a significant role in guiding judicial interpretation of these provisions.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. CASE LAWS AND LEGAL RESEARCH PAPERS</h4>
+                        <p className="mb-4">The Indian judiciary has shaped the way the country understands and upholds human rights. Key landmark cases include:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Maneka Gandhi v. Union of India (1978)</strong>
+                                <p><span className="text-[#D4AF37]">Ruling:</span> The Supreme Court read Article 21 broadly, holding that the right to life and personal liberty is not just a physical existence, and can only be limited by procedure established by laws that are fair, just, and reasonable (due process).</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Kesavananda Bharati v. State of Kerala (1973)</strong>
+                                <p><span className="text-[#D4AF37]">Ruling:</span> The Court introduced the Basic Structure Doctrine, ruling that certain core values like democracy, secularism, federalism, and the rule of law are untouchable and cannot be destroyed even by constitutional amendments.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Vishaka v. State of Rajasthan (1997)</strong>
+                                <p><span className="text-[#D4AF37]">Ruling:</span> The Supreme Court declared that sexual harassment at work violates fundamental rights to equality and life with dignity. In the absence of legislative enactments, the Court formulated the famous Vishaka Guidelines to protect women in their workplaces.</p>
+                            </li>
+                        </ul>
+                        <p className="mt-4 italic text-zinc-400">Legal scholars continually stress the need for constitutional morality as the essential backbone protecting democracy and stopping government from abusing its power.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. ANALYSIS AND FINDINGS</h4>
+                        <p>Human rights and constitutional values aren’t just connected—they rely on each other. Constitutional values give legal strength to human rights, while human rights keep democracy alive and society free.</p>
+                        <p className="mt-4">Courts in India have pushed boundaries, expanding how people’s rights are understood and defended. Judicial activism has brought real changes for marginalized groups, women, kids, and minorities. Public Interest Litigation (PIL) lets ordinary people and social groups make their voices heard in court and demand justice directly from the state.</p>
+
+                        <div className="mt-6 p-6 bg-red-950/20 border-l-2 border-red-500 rounded text-sm space-y-2">
+                            <strong className="text-red-400 block mb-1">Persistent Threats to Constitutional Values</strong>
+                            <p className="text-zinc-300">Despite solid guarantees, severe problems remain prevalent: police abuses, deaths in custody, systemic discrimination, hate crimes, child labor, and recurring attacks on free expression are serious threats to the democratic fabric.</p>
+                            <p className="text-zinc-300">Economic inequality and low literacy prevent a significant portion of the population from knowing their fundamental rights, let alone exercising or fighting for them.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. SUGGESTIONS OR REFORMS</h4>
+                        <p className="mb-4">To bridge the gap between constitutional theory and ground reality, the following systemic actions are critical:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Strengthen Accountability:</strong> The government must fully back institutions like the NHRC and human rights commissions, ensuring independent action and swift penalties for state and private violations.</li>
+                            <li><strong className="text-white">2. Human Rights Education:</strong> Integrate human rights and constitutional values into school and college curricula early on so citizens grow up aware of their core rights and responsibilities.</li>
+                            <li><strong className="text-white">3. Judicial Independence:</strong> The judiciary must remain fiercely independent and keep protecting constitutional principles without compromise, even under socio-political pressure.</li>
+                            <li><strong className="text-white">4. Police Sensitization:</strong> Police and law enforcement agencies should undergo comprehensive training about respecting human dignity and working within constitutional bounds.</li>
+                            <li><strong className="text-white">5. Marginalized Aid & Anti-Discrimination Laws:</strong> Enact stronger laws specifically countering hate speech, hate crimes, and gender violence, while expanding free legal aid to underprivileged communities so that equal access to justice is a reality.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VIII. FUTURE SCOPE</h4>
+                        <p>The future of human rights and constitutional values in India depends on public awareness, administrative accountability, and judicial independence.</p>
+
+                        <div className="mt-6 p-6 bg-black/40 border border-[#D4AF37]/30 rounded-xl relative overflow-hidden group">
+                            <div className="absolute inset-0 bg-gradient-to-r from-[#D4AF37]/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3 relative z-10">Emerging Technological Challenges</h5>
+                            <p className="italic text-zinc-300 relative z-10 leading-relaxed mb-4">"Technology and globalization bring fresh challenges—issues like data privacy, surveillance, cybercrime, and digital freedom are only going to get bigger. Tackling these demands ongoing legal changes and creative constitutional thinking to ensure technology serves humanity, rather than subverting fundamental rights."</p>
+                            <p className="text-white font-bold relative z-10">As the world changes, constitutional values must keep evolving to protect democracy and human dignity.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IX. CONCLUSION</h4>
+                        <p>Human rights and constitutional values aren’t just nice ideas—they’re essential for any real democracy. The Constitution of India promises equality, liberty, justice, and fraternity, and it gives people real tools to defend those rights.</p>
+                        <p className="mt-4">Through thoughtful court rulings and legal safeguards, India has taken big steps forward. But discrimination, poverty, violence, and abuse of power still threaten everything the Constitution stands for. Therefore, it is up to everyone—the government, the courts, key institutions, and ordinary citizens—to keep these values alive and protect human rights.</p>
+                        <p className="mt-4">In the end, a society that honors human rights and constitutional values is one where peace, equality, and justice aren’t just slogans, but a daily reality for all. India’s real strength as a democracy depends on protecting every person’s rights, no matter who they are.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Constitution of India, Part III (Articles 12-35) & Part IV</li>
+                            <li>Universal Declaration of Human Rights (UDHR), 1948</li>
+                            <li>Protection of Human Rights Act, 1993</li>
+                            <li>Maneka Gandhi v. Union of India, AIR 1978 SC 597</li>
+                            <li>Kesavananda Bharati v. State of Kerala, (1973) 4 SCC 225</li>
+                            <li>Vishaka v. State of Rajasthan, AIR 1997 SC 3011</li>
+                            <li>International Covenant on Civil and Political Rights (ICCPR)</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Revai Hove, Law Intern at Lex Saarthi.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Reforming Criminal Justice in India: A Critical Examination of the Bharatiya Nyaya Sanhita, 2023",
+            author: "By Sai Priyadarshi Swain",
+            abstract: "India's criminal justice system underwent a historic overhaul in December 2023 with the enactment of the Bharatiya Nyaya Sanhita (BNS), replacing the colonial-era Indian Penal Code of 1860. This article critically examines the substantive reforms and new offences introduced, evaluates their constitutional implications, and proposes suggestions to address key gaps.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions or Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>India's criminal justice system, shaped by three colonial-era statutes enacted by the British Parliament, underwent its most transformative overhaul in December 2023 when the Parliament of India enacted the Bharatiya Nyaya Sanhita, 2023 (hereinafter "BNS"), the Bharatiya Nagarik Suraksha Sanhita, 2023 (hereinafter "BNSS"), and the Bharatiya Sakshya Adhiniyam, 2023 (hereinafter "BSA"). These three legislations replaced the Indian Penal Code, 1860, the Code of Criminal Procedure, 1973, and the Indian Evidence Act, 1872 respectively, coming into force on July 1, 2024.</p>
+                        <p className="mt-4">The stated objective of this legislative exercise was to shed the colonial imprint of the existing laws and to build a criminal justice framework that is centred on justice rather than punishment, and on the rights of citizens rather than the maintenance of imperial authority. While the enactment of these laws marks a historic legislative moment, a critical legal inquiry into the content of the BNS reveals a mixed picture — one where genuine reform coexists with contested provisions, procedural gaps, and concerns about constitutionality. This article critically examines the key changes introduced by the Bharatiya Nyaya Sanhita, 2023, evaluates their implications for constitutional rights and the administration of justice, and proposes reforms to address identified lacunae.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>The primary objective of this article is to critically analyse the substantive reforms introduced by the Bharatiya Nyaya Sanhita, 2023, and to assess whether these reforms represent a genuine transformation of India's criminal justice paradigm or largely constitute a re-codification of pre-existing provisions with selective modifications.</p>
+                        <p className="mt-4">The article further aims to evaluate the constitutional validity of specific provisions, examine the judicial precedents that must guide their interpretation, and offer concrete suggestions for legislative and administrative reforms that would bring the BNS in fuller conformity with constitutional guarantees and international human rights standards. The article does not seek to present a comprehensive clause-by-clause comparison but rather a thematic and analytical assessment of the most significant changes and their anticipated legal consequences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. BACKGROUND OF THE ISSUE</h4>
+                        <p>The Indian Penal Code, 1860, drafted under the stewardship of Lord Macaulay, was designed primarily as an instrument of colonial governance — to maintain order, suppress dissent, and protect imperial interests. Provisions such as Section 124A (sedition), Section 377 (criminalizing consensual same-sex conduct), and broad preventive detention clauses reflected the priorities of a colonial administration rather than the values of a free and democratic republic.</p>
+                        <p className="mt-4">Despite India's independence in 1947 and the adoption of a transformative Constitution in 1950, these statutes remained largely intact for over seven decades, with only piecemeal amendments. The Law Commission of India, in multiple reports including its 42nd Report (1971) and subsequent reports, had recommended a comprehensive review of criminal law, noting that the IPC's punitive philosophy was out of step with modern penological thinking that emphasizes rehabilitation.</p>
+                        <p className="mt-4">Civil society organizations, legal practitioners, and academic scholars had long criticized the colonial laws for facilitating misuse, enabling custodial violence, and failing to protect victims effectively. The Parliamentary Standing Committee on Home Affairs had also, on prior occasions, raised concerns about the need for comprehensive reform. Against this backdrop, the government established a Committee under the chairmanship of Dr. Ranbir Singh in 2020 to recommend revisions to criminal law. The recommendations of this Committee, though criticized for limited consultation, formed the basis for the three new legislations.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. LEGAL FRAMEWORK</h4>
+                        <p className="mb-4">The Bharatiya Nyaya Sanhita, 2023, enacted under Entry 1 of List III (Concurrent List) of the Seventh Schedule to the Constitution of India, 1950, is the primary substantive criminal law of India, replacing The Indian Penal Code, 1860. The BNS retains the broad structure of the IPC while introducing significant modifications:</p>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Key Substantive Changes in BNS</h5>
+                                <ul className="space-y-3 text-sm text-zinc-300">
+                                    <li><strong className="text-white">Section 111 (Organised Crime):</strong> Defines and criminalizes syndicate-based criminal operations for the first time.</li>
+                                    <li><strong className="text-white">Section 112 (Petty Organised Crime):</strong> Deals with localized crimes committed by gangs or networks.</li>
+                                    <li><strong className="text-white">Section 113 (Terrorism):</strong> Introduces a unified definition of terrorist acts within the general penal code.</li>
+                                    <li><strong className="text-white">Section 152 (Sovereignty acts):</strong> Replaces the old sedition law (Sec 124A IPC), targeting acts endangering sovereignty, unity, and integrity of India.</li>
+                                    <li><strong className="text-white">Proviso to Section 63:</strong> Reorganizes crimes against women but retains the marital rape exception.</li>
+                                </ul>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Companion Codes & Constitutional Scrutiny</h5>
+                                    <p className="text-sm leading-relaxed mb-3"><strong className="text-white">BNSS (replaces CrPC):</strong> Introduces trial timelines, Zero-FIR (Section 173), and broadens electronic record admissions.</p>
+                                    <p className="text-sm leading-relaxed"><strong className="text-white">BSA (replaces Evidence Act):</strong> Modernizes evidentiary rules for digital and electronic frameworks.</p>
+                                </div>
+                                <p className="text-xs text-zinc-500 mt-4 italic">Constitutional limitations are governed by Article 13 (rights scrutiny), Article 19 (speech), Article 20 (self-incrimination), Article 21 (life and liberty), and Article 22 (arbitrary detention).</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. CASE LAWS AND LEGAL RESEARCH</h4>
+                        <p className="mb-4">The constitutional validity of several provisions of the BNS must be assessed in light of landmark judgments that define the boundaries of permissible criminal legislation:</p>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">1. Sedition & Sovereignty Standards</h5>
+                                <ul className="space-y-3 text-sm">
+                                    <li><strong>Kedar Nath Singh v. State of Bihar (1962):</strong> Upheld sedition but limited its application strictly to acts inciting violence or public disorder.</li>
+                                    <li><strong>S.G. Vombatkere v. Union of India (2022):</strong> stayed Section 124A IPC due to systemic concerns over misuse, emphasizing that new laws must be narrowly tailored.</li>
+                                </ul>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">2. Autonomy & Gender Equality</h5>
+                                <ul className="space-y-3 text-sm">
+                                    <li><strong>Independent Thought v. Union of India (2017):</strong> Struck down child marital rape exception. Reaffirmed that marital status cannot negate bodily autonomy under Articles 14, 15, and 21.</li>
+                                    <li><strong>Navtej Singh Johar v. Union of India (2018):</strong> Decriminalized consensual adult same-sex acts, setting progressiveness as a key legal canon.</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5 mt-4">
+                            <strong className="text-white text-md block mb-1">3. Right to Speedy Trial & Due Process</strong>
+                            <p className="text-sm">In <strong>Hussainara Khatoon v. Home Secretary, State of Bihar (1980)</strong>, the Supreme Court held that the right to a speedy trial is an integral part of Article 21, lending constitutional backing to the trial timelines introduced under the BNSS.</p>
+                            <p className="text-sm mt-2">In <strong>Maneka Gandhi v. Union of India (1978)</strong>, the Court established that procedures depriving personal liberty must be just, fair, and reasonable, rather than arbitrary.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. ANALYSIS AND FINDINGS</h4>
+                        <p>A critical analysis of the Bharatiya Nyaya Sanhita, 2023, reveals that while it introduces several progressive reforms, it also perpetuates and, in some instances, exacerbates existing tensions between state power and individual liberty.</p>
+
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4">
+                            <div className="p-6 bg-green-950/10 border-l-2 border-green-500 rounded text-sm space-y-2">
+                                <strong className="text-green-400 block mb-1">Positive Reforms</strong>
+                                <p><strong>Community Service:</strong> Introduced as an alternative punishment under Section 4 of BNS, signaling a shift towards rehabilitative penology.</p>
+                                <p><strong>Consolidation of Organized Crime:</strong> Incorporates terrorism and syndicate crimes in the main code rather than leaving them only in special acts, offering uniform structural clarity.</p>
+                                <p><strong>Timelines:</strong> Standardized timelines in the BNSS target the reduction of long-term undertrial populations.</p>
+                            </div>
+                            <div className="p-6 bg-red-950/10 border-l-2 border-red-500 rounded text-sm space-y-2">
+                                <strong className="text-red-400 block mb-1">Critical Deficiencies</strong>
+                                <p><strong>Marital Rape Exception:</strong> Retained under Section 63, violating equal protection and ignoring spousal consent rights under Article 21.</p>
+                                <p><strong>Vague Sovereignty Offence:</strong> Section 152 lacks explicit <em>mens rea</em> requirements, raising concerns over potential misuse similar to the old sedition law.</p>
+                                <p><strong>Extended Remand:</strong> Expanding police custody from 15 to up to 90 days under the BNSS increases the risk of custodial abuses without adequate independent oversight.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. SUGGESTIONS OR REFORMS</h4>
+                        <p className="mb-4">Several reforms are essential to align the BNS and companion legislation with constitutional imperatives and international human rights standards:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Abolish Marital Rape Exception:</strong> Delete the proviso to Section 63 to extend equal protection to all women and recognize bodily autonomy as absolute.</li>
+                            <li><strong className="text-white">2. Narrow Section 152:</strong> Amend it to incorporate explicit intent (mens rea) requirements and limit the offence to acts that actively incite imminent violence, conforming to the <em>Kedar Nath</em> standard.</li>
+                            <li><strong className="text-white">3. Remand Safeguards:</strong> Introduce robust judicial oversight for extended police custody, ensuring access to counsel and regular Magistrate production.</li>
+                            <li><strong>4. Digital Chain of Custody:</strong> Enhance BSA digital evidence frameworks with strict, independent certification and validation standards to prevent tampering.</li>
+                            <li><strong>5. Substantive Community Service Rules:</strong> Formulate clear implementation guidelines to ensure community service acts as a genuine reformative tool rather than a class-biased soft option.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VIII. FUTURE SCOPE</h4>
+                        <p>The enactment of the BNS, BNSS, and BSA represents not an endpoint but the beginning of an ongoing process of legal reform. As these laws are applied by courts, a body of new jurisprudence will interpret and test their constitutional validity.</p>
+
+                        <div className="mt-6 p-6 bg-black/40 border border-[#D4AF37]/30 rounded-xl relative overflow-hidden group">
+                            <div className="absolute inset-0 bg-gradient-to-r from-[#D4AF37]/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3 relative z-10">Technology & Comparative Fields</h5>
+                            <p className="italic text-zinc-300 relative z-10 leading-relaxed mb-4">"Future reforms will need to address the intersection of criminal law with emerging technologies—including artificial intelligence in policing and surveillance, deep fake evidence, and cybercrime. There is also significant scope for comparative research with common law jurisdictions (UK, Australia, Canada) and empirical studies on undertrial detention."</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IX. CONCLUSION</h4>
+                        <p>The Bharatiya Nyaya Sanhita, 2023, and its companion legislations represent a significant moment in the history of Indian law — one that carries both the promise of genuine reform and the risk of perpetuating old problems under new nomenclature. The replacement of colonial-era statutes is symbolically important, but symbolism must be accompanied by substantive change.</p>
+                        <p className="mt-4">A truly decolonized criminal justice system is one that places the dignity, liberty, and equal protection of every individual at its center — irrespective of gender, caste, religion, or socioeconomic status. Achieving that vision will require not merely the enactment of new laws, but a sustained commitment to their principled implementation, independent judicial oversight, and a culture of accountability within the criminal justice apparatus.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Bharatiya Nyaya Sanhita, 2023.</li>
+                            <li>The Bharatiya Nagarik Suraksha Sanhita, 2023.</li>
+                            <li>The Bharatiya Sakshya Adhiniyam, 2023.</li>
+                            <li>The Indian Penal Code, 1860.</li>
+                            <li>The Code of Criminal Procedure, 1973.</li>
+                            <li>The Indian Evidence Act, 1872.</li>
+                            <li>The Constitution of India, 1950.</li>
+                            <li>Kedar Nath Singh v. State of Bihar, AIR 1962 SC 955.</li>
+                            <li>S.G. Vombatkere v. Union of India, (2022) 8 SCC 1.</li>
+                            <li>Independent Thought v. Union of India, (2017) 10 SCC 800.</li>
+                            <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                            <li>Hussainara Khatoon v. Home Secretary, State of Bihar, (1980) 1 SCC 81.</li>
+                            <li>Law Commission of India, 42nd Report, The Indian Penal Code (1971).</li>
+                            <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                            <li>National Human Rights Commission, Annual Report 2022-23 (NHRC, New Delhi, 2023).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sai Priyadarshi Swain, KIIT School of Law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "The Role of Courts in Safeguarding Democratic Values",
+            author: "By Krishna Vishal Chopra",
+            abstract: "India’s constitutional democracy is founded upon the principles of rule of law, separation of powers, and protection of fundamental rights. This article examines the constitutional foundations, landmark judgments, and evolving challenges that shape the judiciary’s role as a sentinel of democracy in India.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective & Aim of the Article</li>
+                            <li>Historical Past of the Problem</li>
+                            <li>Legal Frameworks</li>
+                            <li>Case Laws and Legal Studies Papers</li>
+                            <li>Evaluation & Findings</li>
+                            <li>Suggestions or Reforms</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>India’s constitutional democracy is founded upon the principles of rule of law, separation of powers, and protection of fundamental rights. In periods where democratic institutions face political pressure, the judiciary performs a critical role in maintaining constitutional balance. Indian courts have repeatedly intervened to safeguard democratic values against executive excess, electoral opacity, and violations of civil liberties.</p>
+                        <p className="mt-4">The role of the judiciary became particularly significant after the Emergency of 1975–77, which exposed the vulnerabilities of democratic institutions during concentrated executive control. Since then, constitutional courts have strengthened doctrines such as judicial review, constitutional supremacy, and the basic structure doctrine to preserve democratic governance.</p>
+                        <p className="mt-4">Recent judicial interventions, including the striking down of the Electoral Bonds Scheme and judicial scrutiny of misuse of constitutional provisions such as Article 356, demonstrate the continuing importance of courts in protecting electoral fairness, federalism, and accountability. This paper examines the constitutional foundations, landmark judgments, and evolving challenges that shape the judiciary’s role as a protector of democratic values in India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>The main objective is to dissect the judicial mechanisms which are at the back of the shadows and feature a fantastic role in defensive the democratic values at some point of the pressures given via the population.</p>
+                        <p className="mt-4 font-bold text-white">The aim is to delineate the legal principles and frameworks, expertise the pivotal landmark case legal guidelines, draw instructions from empirical developments, recommend unique reforms, and map out guidelines for the future.</p>
+                        <p className="mt-4">In so doing, it advances present scholarship no longer as an antifoundational critique in opposition to judicial assessment but because the foundational pressure of democracy itself—already hardy but calling for cautious reforms to preserve its power.<sup className="text-[#D4AF37] ml-1">1</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. HISTORICAL PAST OF THE PROBLEM</h4>
+                        <p>India commenced its democratic adventure thru the advent of the constitution in 1950 growing an ideal combination of supremacy of the parliament with the judicial oversight above the parliament and the organs of the government. The early contentment produced to the assertiveness which got here after the 1975 emergency. On every occasion the executive outwitted the system, it exposed the legitimate susceptibilities.<sup className="text-[#D4AF37] ml-1">2</sup></p>
+                        <p className="mt-4">The important thing that triggers encompasses the continual abuse of Article 356 with more than 115 impositions of the president’s rule on the states before 1994 in which more than 90% of the impositions have been carried out by the means of the government of congress which was done frequently to disintegrate the competition governments; the strangle hold of black money in the course of elections; and amendment rages due to the 39th and 42nd amendments which were later curtailed through the courts.<sup className="text-[#D4AF37] ml-1">3</sup></p>
+
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Global Context</h5>
+                                <p className="text-sm leading-relaxed text-zinc-400">Comparable problems exist in the worldwide arena, like the courtroom packing of the Poland government via forced retirements, or the 2022 Brazil elections wherein the Bolsonaro allies challenged the election outcomes. These mirror the controversies associated with EVM in India. These spotlight the erosion of democracy by way of the method of "legalistic authoritarianism."</p>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Modern Challenges</h5>
+                                <p className="text-sm leading-relaxed text-zinc-400">The brittleness of the alliances after the 2024 elections, in conjunction with the deep-fake driven digital threats by using the method of AI manipulation, has enlarged the function of the judiciary more than ever before.<sup className="text-[#D4AF37] ml-1">4</sup></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. LEGAL FRAMEWORKS</h4>
+                        <p className="mb-4">The constitution of India has constructed a complete framework for the courts with the reason of defensive the democratic values:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">Annulment of Violation Laws (Art. 13):</strong> Annuls any law or amendments that are in the violation of the fundamental rights.<sup className="text-[#D4AF37] ml-1">5</sup></li>
+                            <li><strong className="text-white">Constitutional Remedies (Art. 32 & 226):</strong> Citizens are granted the proper of submitting writs like habeas corpus, mandamus, and certiorari for speedy action under the Supreme Court & High Courts.</li>
+                            <li><strong className="text-white">Amendment Boundaries (Art. 368 & Basic Structure):</strong> The power of making amendments is restricted by the Basic Structure Doctrine derived from Kesavananda Bharati, preserving federalism, secularism, judicial review, and the rule of law.<sup className="text-[#D4AF37] ml-1">6</sup></li>
+                            <li><strong className="text-white">The Golden Triangle (Art. 14, 19, 21):</strong> Widened by Maneka Gandhi, necessitating legal guidelines to pass impartial & reasonable tests.<sup className="text-[#D4AF37] ml-1">7</sup></li>
+                            <li><strong className="text-white">Federal safeguards (Art. 356):</strong> Scrubbed under SR Bommai, requiring floor tests and keeping federalism alive.<sup className="text-[#D4AF37] ml-1">8</sup></li>
+                            <li><strong className="text-white">Electoral Protection (RPA 1951, 10th Schedule, Art. 324):</strong> Secures clean elections by penalizing corrupt practices, curbing defections (Kihoto Hollohan), and protecting the independence of the Election Commission.<sup className="text-[#D4AF37] ml-1">9</sup></li>
+                        </ul>
+                        <p className="mt-4 text-sm text-zinc-500 italic">Intercontinentally, Article 25 of the ICCPR controls through harmonious construction under Article 51(c).<sup className="text-[#D4AF37] ml-1">10</sup> This sturdy framework has given the judiciary the essential expertise and powers to counter modern-day threats like opacity in funding and digital interferences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. CASE LAWS AND LEGAL STUDIES PAPERS</h4>
+                        <p className="mb-4">Landmark precedents during and after the basic structure era have laid the foundation of the judiciary's role:</p>
+
+                        <div className="space-y-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-1">1. Kesavananda Bharati v. State of Kerala (1973)</strong>
+                                <p className="text-zinc-300">Decided by a 13-judge bench (7:6), it established the Basic Structure Doctrine, restricting Parliament's amending powers under Article 368.<sup className="text-[#D4AF37] ml-1">11</sup> Justice Khanna noted: <em>"The basic structure of the Constitution cannot be destroyed by an amendment under Article 368."</em></p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-1">2. Indira Nehru Gandhi v. Raj Narain (1975)</strong>
+                                <p className="text-zinc-300">Struck down the 39th Amendment which attempted to place the Prime Minister's election beyond judicial review, declaring free and fair elections to be part of the basic structure.<sup className="text-[#D4AF37] ml-1">12</sup> Chief Justice Ray emphasized the importance of free and fair elections in maintaining democratic governance.</p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-1">3. SR Bommai v. Union of India (1994)</strong>
+                                <p className="text-zinc-300">Held that the exercise of power under Article 356 is subject to judicial review, made the legislative floor test mandatory, and ruled that federalism is part of the basic structure.<sup className="text-[#D4AF37] ml-1">13</sup> Justice Sawant stated: <em>"Federalism breathes existence into democracy."</em></p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-1">4. Association for Democratic Reforms v. Union of India (2024)</strong>
+                                <p className="text-zinc-300">Declared the Electoral Bonds Scheme unconstitutional for violating the right to information under Article 19(1)(a). Chief Justice Chandrachud noted: <em>"The representative executive is corrupted by means of the opaque money."</em><sup className="text-[#D4AF37] ml-1">14</sup></p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-1">5. Constitutional Morality (Navtej Singh Johar v. UOI, 2018)</strong>
+                                <p className="text-zinc-300">CJI Dipak Misra quoted: <em>"Majoritarianism yields to the constitutional code."</em><sup className="text-[#D4AF37] ml-1">15</sup> This development protects minority rights against majoritarian legislative actions.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. EVALUATION & FINDINGS</h4>
+                        <p>Judicial interventions have introduced concrete democratic defences which transformed nonconcrete doctrines into practical protections.</p>
+                        <p className="mt-4">The ruling in <em>SR Bommai (1994)</em> restricted the misuse of Article 356, dramatically decreasing impositions of President's Rule from more than 100 pre-1994 to less than 10 annually thereafter, according to PRS Legislative Research data.<sup className="text-[#D4AF37] ml-1">16</sup> Similarly, <em>Association for Democratic Reforms (2024)</em> compelled donor revelations, elevating transparency in voting.<sup className="text-[#D4AF37] ml-1">17</sup> The Basic Structure doctrine has affected clauses in at least 12 amendments, preserving core features like judicial review and federalism.<sup className="text-[#D4AF37] ml-1">18</sup></p>
+
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 mt-6 space-y-4 text-sm">
+                            <p><strong>Proportionality Test:</strong> In <em>Modern Dental College v. State of MP (2016)</em>, the Court established proportionality as a tool of moderation that balances fundamental rights with state interests.<sup className="text-[#D4AF37] ml-1">19</sup></p>
+                            <p><strong>Increased Access:</strong> According to the National Judicial Data Grid (NJDG), cases associated with fundamental rights have grown by 40% after the year 2000, displaying the effectiveness of an active judiciary.<sup className="text-[#D4AF37] ml-1">20</sup></p>
+                            <p className="italic text-zinc-400">While legal scholars like Jeremy Waldron support political deference to avoid judicial overreach, India’s historical experience of executive capture during the Emergency highlights the necessity of an assertive judiciary.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. SUGGESTIONS OR REFORMS</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">A. Nomination Transparency</strong>
+                                <p className="text-sm">Implement a fusion collegium model that publishes selection criteria and written assessments, addressing the apprehensions of the NJAC (2015) judgment while tackling the opaqueness of the existing system.<sup className="text-[#D4AF37] ml-1">21</sup></p>
+                            </div>
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">B. Jurisdictive Responsibility Act</strong>
+                                <p className="text-sm">Found a self-reliant oversight commission for investigating judicial delinquency and reforming collegium structures, creating a balanced sense of individual accountability.</p>
+                            </div>
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">C. Electoral Reorganizations</strong>
+                                <p className="text-sm">Introduce real-time political donation tracking gateways directly linked to the Election Commission of India, deploy AI-powered audits to detect deepfakes in campaigns, and establish an ADR transparency directive.</p>
+                            </div>
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">D. Centralized Solidification</strong>
+                                <p className="text-sm">Construct a regional council under an expanded Article 263, institutionalizing the Bommai-era federal safeguards to resolve center-state conflicts.</p>
+                            </div>
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">E. Technology Amalgamation</strong>
+                                <p className="text-sm">Establish digital courts and benches nationwide, implementing predictive analytics for case pendency to help reduce the NJDG backlog by clearing up to 40% of standard cases efficiently.</p>
+                            </div>
+                        </div>
+                        <p className="mt-6 text-sm text-zinc-400 leading-relaxed font-bold">Future Scope: These reforms will enhance judicial proficiency, accountability, and accessibility without wearing away the fundamental independence of the judiciary. Future challenges include regulating deepfakes and AI, handling inter-state water conflicts, and managing data privacy in the post-Puttaswamy era.<sup className="text-[#D4AF37] ml-1">22</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VIII. CONCLUSION</h4>
+                        <p>The Indian judiciary has played a central role in preserving constitutional democracy by enforcing limitations on governmental power and protecting fundamental rights. Through landmark decisions such as Kesavananda Bharati, SR Bommai, and Association for Democratic Reforms, the courts have strengthened constitutional accountability, federalism, and electoral transparency.</p>
+                        <p className="mt-4">At the same time, challenges such as judicial pendency, concerns regarding transparency in appointments, and emerging technological threats continue to test institutional effectiveness. Future reforms must therefore focus on improving judicial efficiency, transparency, and digital governance while maintaining judicial independence. As democratic systems confront evolving political and technological pressures, the judiciary remains an essential institution for ensuring that constitutional principles continue to guide governance in India.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES & FOOTNOTES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>John Hart Ely, <em>Democracy and Distrust: A Theory of Judicial Review</em> (Harvard University Press 1980) 87.</li>
+                            <li>ADM Jabalpur v. Shivkant Shukla, (1976) 2 SCC 521 (overruled).</li>
+                            <li>DD Basu, <em>Introduction to the Constitution of India</em> (LexisNexis 2022) 456.</li>
+                            <li>Tom Ginsburg and Aziz Huq, <em>Democracy's Guardians: Judicial Roles in Democratic Backsliding</em> (Cambridge University Press 2018) 23.</li>
+                            <li>The Constitution of India 1950, Arts 13, 32, 226.</li>
+                            <li>Kesavananda Bharati v. State of Kerala, (1973) 4 SCC 225.</li>
+                            <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                            <li>SR Bommai v. Union of India, (1994) 3 SCC 1.</li>
+                            <li>Representation of the People Act 1951, s 123; Kihoto Hollohan v. Zachillhu, (1992) Supp (2) SCC 651.</li>
+                            <li>ICCPR (adopted 16 December 1966) 999 UNTS 171, art 25.</li>
+                            <li>Indira Nehru Gandhi v. Raj Narain, 1975 Supp SCC 1.</li>
+                            <li>Association for Democratic Reforms v. Union of India, (2024) 4 SCC 1.</li>
+                            <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                            <li>PRS Legislative Research, 'Article 356: Between Centre and States' (2024).</li>
+                            <li>Modern Dental College v. State of MP, (2016) 7 SCC 353.</li>
+                            <li>Supreme Court Advocates-on-Record Assn v. Union of India, (2016) 5 SCC 1.</li>
+                            <li>Justice K. S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Krishna Vishal Chopra, Jai Narain Vyas University, Jodhpur.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Documenting Systemic Mistreatment of Emerging Advocates in the Indian Judiciary",
+            author: "By Puranajyothi S",
+            abstract: "The legal profession in India is regarded as one of prestige, but young advocates face harsh realities: financial instability, lack of mentorship, and courtroom intimidation. This article documents the systemic mistreatment of junior lawyers, detailing recent incidents of judicial intimidation and calling for bars and benches to cultivate a supportive, fearless courtroom environment.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Unheard Struggles of Budding Advocates</li>
+                            <li>Overcrowding and Intense Competition in the Legal Market</li>
+                            <li>Navigating Technological Shifts and Evolving Legal Practice</li>
+                            <li>Courtrooms Cannot Become Spaces of Fear (AP HC Incident)</li>
+                            <li>No Advocate Deserves Judicial Custody Threats</li>
+                            <li>Conclusion and Suggestions</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>The legal profession in India has long been regarded as one of prestige, intellectual rigor, and societal importance. However, beneath this perception lies a complex and often harsh reality, particularly for young advocates who enter the profession with ambition but are soon confronted with systemic challenges. From financial instability to lack of mentorship and infrastructural deficiencies, the journey of a young lawyer in India is fraught with obstacles that demand resilience, patience, and strategic growth.<sup className="text-[#D4AF37] ml-1">2</sup></p>
+                        <p className="mt-4">Moreover, young lawyers often face mistreatment from judges—a stark example being the recent shocking incident in Andhra Pradesh involving the mistreatment of a lawyer. This has instilled fear among young advocates, raising serious questions about the viability of a progressive career in the legal profession. This paper seeks to address and curtail such mistreatment not only from judges but also from society, colleagues, and other counterparts. Ultimately, the author advocates for creating a fearless environment conducive to the growth of young lawyers and budding advocates.<sup className="text-[#D4AF37] ml-1">1</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. UNHEARD STRUGGLES OF BUDDING ADVOCATES</h4>
+                        <p>Juniors are expected to work long hours, draft pleadings, research complex issues, and attend courts for senior advocates without proper remuneration. Many are denied authorship credit for their work, reducing them to invisible cogs in a system that thrives on their unpaid labour. Instances of public humiliation, threats, and demeaning behaviour have been normalized under the guise of “training”.<sup className="text-[#D4AF37] ml-1">3</sup></p>
+
+                        <div className="bg-black/40 border border-[#D4AF37]/20 p-6 rounded-2xl mt-6">
+                            <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Young Lawyers Facing Multiple Challenges: G.S. Singhvi</h5>
+                            <p className="text-zinc-300 italic">"Young lawyers and the present generation are facing multiple challenges emanating not only from the legal front but also from the social quarter as well."</p>
+                            <p className="mt-3 text-sm text-zinc-400">The honourable Supreme Court judge G.S. Singhvi stated at a seminar titled <em>“Challenges before the Legal Profession in Contemporary Times”</em> organised by the National Law University and Judicial Academy, Assam, that the present generation faced tremendous challenges in matters pertaining to the violation of basic human rights and the ecological destruction.<sup className="text-[#D4AF37] ml-1">4</sup></p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. OVERCROWDING AND INTENSE COMPETITION IN THE LEGAL MARKET</h4>
+                        <p>Young advocates often find themselves competing not just with peers within India, but also with international law firms, legal tech platforms, and consultants offering lower-cost, faster alternatives to traditional legal services. The oversaturation of lawyers in the market creates an environment where the quest for a professional identity becomes synonymous with gaining visibility and recognition amidst a sea of competitors.<sup className="text-[#D4AF37] ml-1">5</sup></p>
+                        <p className="mt-4">Moreover, the barriers to entry into prestigious areas of legal practice, particularly corporate law or constitutional litigation, are high. This has led many young advocates to question whether they should adhere to traditional legal practices or explore more niche, emerging fields such as legal tech, environmental law, or human rights law—all of which are growing but still lack the same professional prestige and financial rewards as corporate law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. NAVIGATING TECHNOLOGICAL SHIFTS AND EVOLVING LEGAL PRACTICE</h4>
+                        <p>The digital transformation of the legal profession, including the adoption of legal tech, online dispute resolution, and digital research tools, has reshaped the practice of law in India. While these changes offer new opportunities for efficiency and innovation, they also present a challenge to young advocates. Many young lawyers, especially those from traditional backgrounds, may struggle to develop the necessary technical skills to compete in this new environment.<sup className="text-[#D4AF37] ml-1">6</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. COURTROOMS CANNOT BECOME SPACES OF FEAR: BOMBAY BAR ASSOCIATION WARNING</h4>
+                        <p>The Bombay Bar Association has issued a statement strongly disapproving of an incident in the Andhra Pradesh High Court where a sitting judge directed that a junior advocate be taken into police custody during court proceedings. Although the order was later withdrawn, the Association declared the incident unacceptable.<sup className="text-[#D4AF37] ml-1">7</sup></p>
+                        <p className="mt-4">The BBA emphasized that such conduct harms the important relationship of fairness, civility, and mutual respect between judges and lawyers, especially when young advocates feel intimidated or humiliated. Members have informed the Association about similar incidents in open court, which were seen as intimidating and humiliating. Bar associations nationwide assert that no post or authority can justify behaviour that harms the professional dignity of advocates or the atmosphere of respect and fairness in courtrooms.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. NO ADVOCATE DESERVES TO BE THREATENED WITH JUDICIAL CUSTODY</h4>
+                        <p>The justice system expects the Bar and the Bench to treat each other with dignity and mutual respect. Young lawyers assert that no advocate deserves to be threatened with judicial custody for placing a file loudly, especially a newly enrolled advocate. They questioned whether the bench's response was proportional to the action, noting that the local association failed to consider this proportionality when settling the matter.<sup className="text-[#D4AF37] ml-1">8</sup></p>
+
+                        <div className="bg-red-950/20 border-l-2 border-red-500 p-5 rounded mt-4 space-y-3 text-sm">
+                            <strong className="text-red-400 block">Systemic Degradation of Junior Counsel</strong>
+                            <p className="text-zinc-300">Junior advocates were deeply disturbed by reports that senior members called the matter "amicably settled," despite shocking suggestions that the junior advocate should "kneel down and be slapped, if needed." The video showed the young advocate standing with folded hands, begging for the judge's mercy and apologizing repeatedly.</p>
+                            <p className="text-zinc-300">Sending an advocate to custody without an opportunity of being heard just for dropping a file cannot be accepted. If behaviour was seen as indolent, the Court should have instead educated him on proper court etiquette, issued contempt proceedings, or referred him to the Bar Council. This is not an isolated incident, but part of a systematic problem where young lawyers are degraded and left to fend for themselves.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. CONCLUSION AND SUGGESTIONS</h4>
+                        <div className="bg-[#D4AF37]/10 p-6 rounded-2xl border border-[#D4AF37]/20 mb-6 italic text-zinc-300">
+                            "It also becomes the duty of a good judge to encourage junior lawyers in open court if he has argued well. Say that they have done their best! That gives a lot of encouragement. I got that kind of encouragement when had entered the profession, so I always tried to pass it on."
+                            <span className="block mt-2 text-right font-bold text-white not-italic">— Justice (Rtd.) A.K. Sikri<sup className="text-[#D4AF37] ml-1">9</sup></span>
+                        </div>
+                        <p>The struggle for professional identity among young advocates in India is a multifaceted issue deeply embedded in the legal profession's hierarchy. This struggle is influenced by a high-pressure environment, lack of mentorship, long hours, financial uncertainty, and lack of support systems.<sup className="text-[#D4AF37] ml-1">10</sup></p>
+                        <p className="mt-4">Fearful environments discourage juniors from taking briefs, addressing courts, or building independent practices. Intimidation disrupts fair hearings, fractures senior-junior relationships, and undermines public trust in the judiciary. This paper suggests that constitutional courts must intervene against disruptions, and bar councils must enforce strict codes of conduct. Courtrooms must be transformed into collaborative learning spaces that actively nurture the next generation of advocates.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">References & Footnotes</h4>
+                        <ol className="list-decimal pl-5 space-y-3 text-zinc-400 text-sm">
+                            <li>Author: Puranajyothi S, Government Law College, Ramanathapuram (affiliated with Tamil Nadu Dr. Ambedkar Law University). Email: puranajyothi282003@gmail.com.</li>
+                            <li>"Challenges Faced by Young Advocates in India: A Ground-Level Reality," <em>Advocatetanwar Blog</em> (last visited May 11, 2026).</li>
+                            <li>Kr. Vivek Tanwar, "Unmasking the Chambers," <em>Youth Ki Awaaz</em> (posted May 2025).</li>
+                            <li>G.S. Singhvi, "Young lawyers facing multiple challenges: Supreme Court judge," <em>Times of India (Guwahati)</em>, 11 May 2012.</li>
+                            <li>Abhishek Kumar, "The Struggle for Professional Identity Among Young Advocates in India," 5 <em>Indian J. Legal Rev.</em> 24 (2025).</li>
+                            <li>Ibid.</li>
+                            <li>"Courtrooms Cannot Become Spaces of Fear: Bombay Bar Association Warns Against Intimidating Junior Lawyers After AP HC Incident," <em>Lawful Talks</em>.</li>
+                            <li>"Advocate Withdrawal: AP Bar's Resolution," <em>Law Chakra</em>.</li>
+                            <li>Justice (Rtd.) A.K. Sikri, quoted on judicial encouragement of junior counsels.</li>
+                            <li>Ibid.</li>
+                        </ol>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Evaluating the Impact of Bail Reform Laws on Recidivism Rates and Pretrial Detention in Urban Areas",
+            author: "By Sakshi",
+            abstract: "This article undertakes a rigorous legal and empirical examination of bail reform laws, evaluating their impact on recidivism rates and pretrial detention figures in densely populated urban jurisdictions. By analyzing legislative changes, judicial interpretations, and empirical data, the study explores the balance between public safety and the fundamental right to liberty.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                            <li>Citations</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>The criminal justice system in modern democracies is built upon a foundational presumption: that an accused person is innocent until proven guilty. Bail, as a pretrial mechanism, embodies this presumption by allowing accused individuals to remain free pending trial upon furnishing surety or security. Yet, in practice, the bail system in many countries — particularly in densely populated urban jurisdictions — has long functioned as a de facto mechanism of pretrial detention, disproportionately penalising those who lack financial means. The inability to afford monetary bail results in thousands of individuals languishing in pretrial custody not because they pose a risk to society or are likely to flee, but simply because they are poor.</p>
+                        <p className="mt-4">In recent years, a growing body of legislative reform has sought to address these systemic inequities. Bail reform laws, ranging from cash bail elimination to risk-based assessment frameworks, have been introduced across jurisdictions in the United States, India, the United Kingdom, and beyond. These reforms have ignited passionate legal, political, and academic debate, raising critical questions: Do bail reform measures reduce pretrial incarceration without compromising public safety? Do they affect recidivism rates — the likelihood of re-offending — among released individuals? And crucially, do they deliver equitable outcomes across race, class, and geography?</p>
+                        <p className="mt-4">This article undertakes a rigorous legal and empirical examination of bail reform laws with a particular focus on their impact in urban environments. Urban areas present unique challenges — higher crime densities, overburdened courts, and concentrated populations of economically marginalised communities — making them both the primary theatre of bail reform and the most critical testing ground for its evaluation. By analysing legislative changes, judicial interpretations, empirical data, and comparative legal frameworks, this article seeks to contribute meaningfully to the ongoing discourse on criminal justice reform.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>The primary objective of this article is to critically evaluate the legal and socio-empirical dimensions of bail reform laws as they relate to two central outcomes: recidivism rates and pretrial detention figures in urban areas. Specifically, this research aims to examine the evolution of bail jurisprudence and legislative frameworks governing pretrial release in major common law and civil law jurisdictions; to assess the empirical relationship between bail reform measures and changes in pretrial detention populations, with a focus on urban centres; and to analyse whether reformed bail systems reduce or increase recidivism among released defendants, drawing upon available criminological research and case studies.</p>
+                        <p className="mt-4">Furthermore, this article aims to scrutinise the constitutional and human rights dimensions of pretrial detention, particularly with regard to the right to liberty and the presumption of innocence. It also seeks to identify structural gaps and implementation challenges that undermine the effectiveness of bail reform in practice, and to propose evidence-based recommendations for reform that can be adopted by legislators, courts, and policymakers seeking to improve the fairness and efficacy of pretrial justice.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. BACKGROUND OF THE ISSUE</h4>
+                        <p>The history of bail in common law jurisdictions traces back to medieval England, where it served as a mechanism to ensure the appearance of accused persons before royal courts. The Statute of Westminster I (1275) and later the Habeas Corpus Act 1679 codified early bail principles, establishing a right against arbitrary detention. In the United States, the Eighth Amendment to the Constitution prohibits excessive bail, while the Bail Reform Act of 1966 and its successor, the Bail Reform Act of 1984, sought to balance the right to pretrial freedom against considerations of flight risk and public safety.</p>
+                        <p className="mt-4">Despite these legal protections, the cash bail system persisted as the dominant pretrial release mechanism across much of the United States well into the twenty-first century. This system — requiring defendants to pay a monetary sum or secure a commercial bail bond — was designed ostensibly to ensure court appearance but produced deeply inequitable outcomes. Studies consistently demonstrated that defendants who could not afford bail remained detained regardless of their likelihood of reappearance or their risk to the community. Research by the Vera Institute of Justice found that on any given day, approximately 470,000 individuals sat in local jails across the United States without having been convicted of any crime — the majority held simply because they could not pay bail amounts that were often set at arbitrary figures.</p>
+                        <p className="mt-4">In India, the situation is similarly alarming. As per the Prison Statistics India reports published by the National Crime Records Bureau, undertrial prisoners — those awaiting trial — consistently constitute over sixty-five percent of the total prison population. The Supreme Court of India, in landmark decisions such as <em>Hussainara Khatoon v. Home Secretary, State of Bihar (1979)</em> and <em>Arnesh Kumar v. State of Bihar (2014)</em>, has repeatedly expressed concern over the excessive and often illegal detention of undertrial prisoners, yet implementation of reform remains woefully inadequate in urban jails in cities such as Delhi, Mumbai, and Kolkata.</p>
+                        <p className="mt-4 font-bold text-white">The momentum for bail reform gained significant traction in the United States between 2014 and 2020, catalysed by high-profile cases such as that of Kalief Browder, a teenager who spent three years in New York&apos;s Rikers Island jail awaiting trial on a minor theft charge and subsequently took his own life. New Jersey&apos;s landmark Criminal Justice Reform Act of 2017 eliminated cash bail almost entirely, replacing it with a risk-based assessment tool. California&apos;s Senate Bill 10, passed in 2018 though subsequently suspended by referendum, proposed a similar overhaul. Several cities and counties also introduced local reforms, creating a mosaic of policy experimentation that now provides rich data for evaluation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. LEGAL FRAMEWORK</h4>
+                        <p className="mb-4">The legal architecture governing bail and pretrial detention is multi-layered, drawing from constitutional provisions, statutory law, and judicial doctrine across major jurisdictions:</p>
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">United States</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">The Eighth Amendment&apos;s prohibition on excessive bail is complemented by the Due Process Clause of the Fourteenth Amendment. In <em>United States v. Salerno (1987)</em>, the Supreme Court upheld preventive detention. In New Jersey, the landmark <strong>Criminal Justice Reform Act (CJRA) of 2017</strong> structured pretrial release around a validated Public Safety Assessment (PSA) tool, eliminating monetary bail as the primary release mechanism.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">England &amp; Wales</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">The <strong>Bail Act 1976</strong> establishes a general right to bail, subject to exceptions where the defendant would abscond, commit offences, or obstruct justice. The Legal Aid, Sentencing and Punishment of Offenders Act 2012 restricted reconsideration of bail. The Human Rights Act 1998 incorporates Article 5 of the European Convention on Human Rights (ECHR), guaranteeing the right to liberty and security.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">India</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Bail was governed by the Code of Criminal Procedure, 1973 (CrPC), recently replaced by the <strong>Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)</strong>. Sections 436 to 450 classify offences as bailable (a right) or non-bailable (judicial discretion). Section 436A of CrPC (now corresponding BNSS provisions) mandates release for undertrial prisoners who serve half the maximum sentence, though application remains inconsistent in urban courts.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. CASE LAWS AND LEGAL RESEARCH</h4>
+                        <p className="mb-4">The jurisprudential landscape of bail reform is shaped by a constellation of landmark decisions and empirical studies that highlight the collateral consequences of pretrial detention:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Hussainara Khatoon &amp; Others v. Home Secretary, State of Bihar, (1980) 1 SCC 81</strong>
+                                <p><span className="text-[#D4AF37]">Ruling:</span> The Supreme Court of India recognized the right to a speedy trial as a fundamental right under Article 21 of the Constitution. The court directed the release of undertrial prisoners who had exceeded the permissible period of detention, observing that the bail system was being perverted to detain the poor while releasing the affluent.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Arnesh Kumar v. State of Bihar, (2014) 8 SCC 273</strong>
+                                <p><span className="text-[#D4AF37]">Ruling:</span> The Supreme Court issued binding guidelines to prevent arbitrary arrests and mechanistic bail rejections for offences carrying a punishment of less than seven years, directing magistrates to apply their judicial minds independently before remanding accused persons to custody.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. United States v. Edwards, 430 A.2d 1321 (D.C. 1981)</strong>
+                                <p><span className="text-[#D4AF37]">Context:</span> Illustrates the court&apos;s role in supervising pretrial detention and the balance between public safety and liberty. During the COVID-19 pandemic, real-world experiments in reduced pretrial detention occurred as courts ordered mass bail reviews to limit prison overcrowding, offering valuable data for criminologists.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Empirical Research Findings</strong>
+                                <p className="mb-2"><span className="text-[#D4AF37]">Lowenkamp, VanNostrand, and Holsinger (2013):</span> In their study &apos;Investigating the Impact of Pretrial Detention on Sentencing Outcomes&apos;, the authors found that even short periods of pretrial detention significantly increased the likelihood of a guilty plea, a longer sentence, and post-conviction recidivism.</p>
+                                <p><span className="text-[#D4AF37]">Dobbie, Goldin, and Yang (2018):</span> Published in the <em>American Economic Review</em>, this study established through quasi-experimental methods that pretrial detention causally increases conviction rates and reduces future earnings, independent of the defendant&apos;s actual guilt or risk profile.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. ANALYSIS AND FINDINGS</h4>
+                        <p>The empirical evidence emerging from jurisdictions that have implemented bail reform is nuanced and requires careful interpretation. New Jersey&apos;s experience since 2017 provides the most comprehensive dataset for analysis. According to the New Jersey Courts Annual Report (2019), the pretrial jail population declined by approximately 44 percent within two years of the reform&apos;s implementation, from roughly 8,400 detained individuals to approximately 4,700. Crucially, crime rates in New Jersey did not increase commensurately with this reduction in pretrial detention, challenging the public safety arguments advanced by critics of reform.</p>
+
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Recidivism Rates and Pretrial Release</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Studies examining the relationship between bail reform and recidivism must contend with the methodological challenge that &apos;recidivism&apos; encompasses a spectrum of outcomes. A 2020 report by the Pretrial Justice Institute found that defendants released under risk-based assessment frameworks in reformed jurisdictions showed rates of new criminal activity during the pretrial period that were comparable to or lower than those in jurisdictions relying on cash bail. This suggests that risk-based release does not compromise public safety.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Algorithmic Biases &amp; Socio-Economic Factors</h5>
+                                    <p className="text-sm leading-relaxed mb-3">Algorithmic risk assessment tools like the PSA carry embedded racial and socioeconomic biases, as they incorporate factors such as prior criminal history that are products of racially disparate policing. A critical analysis in the <em>Harvard Law Review</em> noted that using such tools without adequate judicial oversight risks automating and entrenching existing systemic inequities.</p>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Furthermore, in urban areas specifically, bail reform&apos;s effectiveness is significantly enhanced when coupled with wraparound support services (housing, substance abuse treatment, and employment assistance) to address the underlying social conditions correlating with reoffending.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. SUGGESTIONS AND REFORMS</h4>
+                        <p className="mb-4">Drawing from the legal and empirical analysis, this article advances the following key reform recommendations:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Statutory Presumption of Release:</strong> Legislatures should mandate a statutory presumption in favour of pretrial release, requiring that detention be the exception and supported by evidence of specific risks. Monetary bail should be eliminated as a primary mechanism of detention.</li>
+                            <li><strong className="text-white">2. Algorithmic Transparency and Oversight:</strong> Jurisdictions deploying risk assessment instruments must subject them to rigorous, independent audits to correct racial, socioeconomic, and geographic disparities. Judges must treat risk scores as advisory inputs, and defendants must be given the opportunity to challenge the data.</li>
+                            <li><strong className="text-white">3. Investment in Pretrial Services:</strong> Pretrial release must be supported by investments in community-based supervision, including check-ins, electronic monitoring where appropriate, transportation assistance for court appearances, and social service referrals.</li>
+                            <li><strong className="text-white">4. Enforcement of Indian Legal Mandates:</strong> India must prioritize enforcement of Section 436A CrPC (now BNSS). State governments must establish dedicated undertrial review committees with clear timelines, and expand legal aid services for indigent defendants in urban magistrates&apos; courts.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VIII. FUTURE SCOPE</h4>
+                        <p>The trajectory of bail reform suggests several important directions for future legal scholarship and policy development:</p>
+
+                        <div className="mt-6 p-6 bg-black/40 border border-[#D4AF37]/30 rounded-xl relative overflow-hidden group">
+                            <div className="absolute inset-0 bg-gradient-to-r from-[#D4AF37]/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3 relative z-10">Algorithmic Governance &amp; Longitudinal Studies</h5>
+                            <p className="italic text-zinc-300 relative z-10 leading-relaxed mb-4">&quot;As artificial intelligence and machine learning become increasingly integrated into criminal justice decision-making, the governance of algorithmic tools in pretrial release decisions will emerge as a critical frontier of legal inquiry. Longitudinal studies tracking cohorts of defendants over five-to-ten year periods are also necessary to draw robust conclusions about whether reform-era release decisions produce durable differences in reoffending trajectories.&quot;</p>
+                            <p className="text-white font-bold relative z-10">Comparative legal research across countries like Scotland, New Zealand, Germany, and Brazil will offer opportunities for cross-jurisdictional learning and challenge parochial assumptions.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IX. CONCLUSION</h4>
+                        <p>Bail reform represents one of the most consequential and contested arenas of contemporary criminal justice policy. The evidence reviewed in this article supports the conclusion that well-designed bail reform can significantly reduce pretrial detention in urban areas without producing commensurate increases in crime or failure to appear rates. The experience of New Jersey, the jurisprudential guidance of the Supreme Court of India, and the scholarly insights of leading criminologists and legal researchers converge in suggesting that the presumption of innocence — the bedrock of just criminal justice — demands a fundamental reconfiguration of pretrial release practices.</p>
+                        <p className="mt-4">Yet reform is neither simple nor self-executing. Algorithmic risk tools carry the risk of laundering systemic biases in scientific language. Reduced detention rates without accompanying social support may leave the underlying drivers of recidivism unaddressed. And in jurisdictions like India, where the undertrial crisis is most acute, the gap between legislative aspiration and ground-level implementation remains dauntingly wide. Bail reform, to fulfil its promise, must be holistic — embedded in a broader commitment to fair policing, accessible legal aid, adequately resourced courts, and the social infrastructure necessary to support individuals in crisis.</p>
+                        <p className="mt-4">The stakes of getting bail reform right are immense. Every day that an innocent and indigent person spends behind bars awaiting trial is a day of irreversible harm — to their family, their employment, their mental health, and their faith in the justice system. Conversely, every instance of preventable harm caused by an individual released inappropriately is a failure of the system&apos;s obligation to public safety. Navigating these competing imperatives with intelligence, compassion, and constitutional fidelity is the challenge that defines criminal justice reform in the urban age.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Hussainara Khatoon &amp; Others v. Home Secretary, State of Bihar, (1980) 1 SCC 81.</li>
+                                    <li>Arnesh Kumar v. State of Bihar, (2014) 8 SCC 273.</li>
+                                    <li>United States v. Salerno, 481 U.S. 739 (1987).</li>
+                                    <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={5}>
+                                    <li>The Code of Criminal Procedure, 1973.</li>
+                                    <li>The Bharatiya Nagarik Suraksha Sanhita, 2023.</li>
+                                    <li>Bail Act 1976 (England and Wales).</li>
+                                    <li>Human Rights Act 1998 (UK), incorporating Art. 5, European Convention on Human Rights.</li>
+                                    <li>New Jersey Criminal Justice Reform Act, P.L. 2014, c. 31.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Secondary Sources</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={10}>
+                                    <li>Christopher T. Lowenkamp, Marie VanNostrand &amp; Alexander Holsinger, &apos;Investigating the Impact of Pretrial Detention on Sentencing Outcomes&apos; (Arnold Foundation, 2013).</li>
+                                    <li>Will Dobbie, Jacob Goldin &amp; Crystal Yang, &apos;The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges&apos; (2018) 108(2) American Economic Review 201.</li>
+                                    <li>Pretrial Justice Institute, Pretrial Justice in America: A Survey of the Current Research on Pretrial Practices (2020).</li>
+                                    <li>National Crime Records Bureau, Prison Statistics India (Ministry of Home Affairs, Government of India, 2022).</li>
+                                    <li>Vera Institute of Justice, &apos;Incarceration Trends in America&apos; (Vera Institute, 2020).</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sakshi, Intern, Lex Saarthi (BA LLB, Parul University, Parul Institute of Law).</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Emerging Issues Pertaining Alternative Dispute Resolution",
+            author: "By Twinwise Amokile Ngewe",
+            abstract: "In today's world, litigation is increasingly becoming an obstruction due to massive backlogs and delays, with Indian courts struggling with over 5 crore pending cases. This article explores the growth and emerging issues of Alternative Dispute Resolution (ADR) in India, including its statutory framework, key judicial precedents, implementation challenges, and proposals for future reform.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws</li>
+                            <li>Analysis</li>
+                            <li>Suggestions and Future Scope</li>
+                            <li>Conclusion</li>
+                            <li>Citations</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>In today&apos;s world where there are disputes that arise from Family matters, Business contracts and others, the course of litigation is becoming increasingly an obstruction due to massive backlogs and delays. In India civil litigation is overwhelmed; the Supreme Court has reported about 93,143 pending cases per month up to March 2026. While overall Indian courts struggle with more than 5 crore pending cases and many being Civil.</p>
+                        <p className="mt-4">This acts as a main driving force for the growth of Alternative Dispute Resolution which includes Arbitration, Mediation and Conciliation because it offers an effective and a quicker way to solve disputes outside the courtroom and it keeps changing with technology &amp; reforms to cope with modern needs.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE</h4>
+                        <p>Alternative Dispute Resolution (ADR) provides alternative means of resolving disputes outside of the court system. ADR provides a quicker, cheaper, more flexible method of resolution than litigation for common civil disputes, including but not limited to disputes involving business contracts, family matters, workplace disputes, and consumer-related disputes. Parties may be required to use ADR methods pursuant to an agreement or court order before proceeding with trials.</p>
+                        <p className="mt-4">ADR methods include negotiation (discussions between the parties), mediation (neutral facilitator parties agree upon a resolution), and arbitration (imposition of a binding resolution by a neutral arbitrator). Advantages to parties using ADR methods include time and cost savings, confidentiality, greater control of the outcome of the dispute, and preservation of their relationship. ADR methods may not be appropriate in cases involving extreme differences in the relative power of the parties, in any criminal matter, or if a party wishes to set legal precedent. Therefore, ADR is an efficient, logical, amicable method of resolving many types of disputes.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <div className="space-y-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">The Arbitration and Conciliation Act, 1996</strong>
+                                <p className="text-sm leading-relaxed text-zinc-300">This is the foundational law for Arbitration and Conciliation. It is based on the UNCITRAL Model Law and rules, making Indian awards easily enforceable internationally. The Act has been amended several times (notably in 2015 and 2019) to improve efficiency and reduce judicial interference.</p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">The Code of Civil Procedure (CPC), 1908</strong>
+                                <p className="text-sm leading-relaxed text-zinc-300">Section 89 of the CPC explicitly mandates courts to refer disputes to ADR mechanisms (Arbitration, Conciliation, Judicial Settlement, Lok Adalat, or Mediation) where potential for settlement exists.</p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">Legal Services Authorities Act, 1987</strong>
+                                <p className="text-sm leading-relaxed text-zinc-300">It establishes Lok Adalat (People&apos;s Courts) to facilitate amicable resolution of disputes, ensures legal aid, and organizes Lok Adalat at various levels. The awards passed by Lok Adalat are binding and final without appeal.</p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] text-lg block mb-2">Mediation Act, 2023</strong>
+                                <p className="text-sm leading-relaxed text-zinc-300">A recent legal development focused on strengthening mediation as an ADR tool. It provides the regulatory framework, accreditation of mediators, confidentiality protections, and enforcement mechanisms for mediated settlements.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Salem Advocate Bar Association v. Union of India</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court of India upheld the constitutional validity of Section 89 of the CPC. To overcome procedural difficulties, the Apex Court constituted a committee to frame suitable rules for the smooth implementation of Section 89. The Supreme Court accepted the committee&apos;s model rules in <em>Salem Advocate Bar Association II</em> and directed all High Courts to frame similar rules for their respective jurisdictions.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Bombay Slum Redevelopment Corporation Pvt. Ltd. v. Samir Narain Bhojwani (2024 INSC 478)</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court (Justices Abhay S. Oka and Pankaj Mithal) asserted that remand orders in exercise of powers under Section 37 of the Arbitration Act should be in exceptional cases only. Remand is contrary to arbitral justice, which seeks speedy disposal, cost-effectiveness, and minimal judicial intervention. The court reaffirmed its pro-arbitration stand by restraining judicial interference.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Afcons Infrastructure Ltd. v. Cherian Varkey Construction Co. (P) Ltd. (2010)</strong>
+                                <p className="text-sm text-zinc-300">The Court held that the trial court did not adopt the proper procedure in enforcing Section 89. Failure to invoke Section 89 suo motu after completion of pleadings is erroneous. Crucially, the court held that a civil court cannot refer a suit to arbitration under Section 89 unless all the parties to the suit agree to such reference.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS</h4>
+                        <p className="mb-4">While Alternative Dispute Resolution (ADR) offers significant benefits, several critical challenges persist across Arbitration, Mediation, and Conciliation:</p>
+
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-3">High Costs &amp; Professional Inconsistency</h5>
+                                <p className="text-sm leading-relaxed text-zinc-300 mb-3"><strong>Prohibitive Expense:</strong> ADR can be more expensive than traditional litigation, restricting access for lower-income groups and creating an imbalance. This contradicts the fundamental goal of ADR being an accessible alternative.</p>
+                                <p className="text-sm leading-relaxed text-zinc-300"><strong>Quality of Professionals:</strong> In India, there is no central authority formulating standard training guidelines for mediators. The lack of accredited, high-quality professional mediators and insufficient government financial support hinders these centres.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Awareness, Procedure &amp; Enforceability</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300 mb-3"><strong>Public Awareness and Trust:</strong> The public has a pre-conception that courts are the only place for effective resolution. Raising awareness and encouraging mediation before approaching courts is vital.</p>
+                                    <p className="text-sm leading-relaxed text-zinc-300 mb-3"><strong>Procedural Fragmentation:</strong> Mediation is governed by different laws in different manners, leading to discrepancies and inconsistencies across processes.</p>
+                                    <p className="text-sm leading-relaxed text-zinc-300"><strong>Unenforceability:</strong> When mediated agreements are non-binding, parties can still approach courts, adding another procedural layer and defeating the purpose of ADR.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS AND FUTURE SCOPE</h4>
+                        <p className="mb-4">To unlock the full potential of Alternative Dispute Resolution in India, several legislative and structural steps must be taken:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Enforceable Decrees:</strong> Statutes should give mediated settlements the status of a court decree, making them binding and enforceable.</li>
+                            <li><strong className="text-white">2. Mandatory Pre-Litigation Mediation:</strong> Enact mandatory pre-litigation mediation in commercial disputes to encourage early, amicable settlement.</li>
+                            <li><strong className="text-white">3. Unified Regulatory Body:</strong> A specific mediation law should provide clear, unified guidelines, and establish a central regulatory body to oversee mediation and arbitration centres.</li>
+                            <li><strong className="text-white">4. Institutional Training:</strong> Academic institutions should conduct seminars, conferences, and practical ADR training sessions for law students to build professional competence early.</li>
+                            <li><strong className="text-white">5. Public Awareness and Funding:</strong> The legal fraternity must actively educate the public on when and how to leverage ADR, and the government must establish and fund high-quality arbitration and mediation centres.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Alternative Dispute Resolution forms a vital part of India&apos;s justice system, providing a timely and cost-effective method for resolving disputes outside the courtroom. ADR can become the primary answer to India&apos;s judicial challenges, addressing overcrowded courtrooms and limited access to justice. Ultimately, ADR is not merely a relief mechanism for courts, but a pathway to a harmonious, efficient, and accessible justice system in India.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Salem Advocate Bar Association v. Union of India, (2005) 6 SCC 344.</li>
+                                    <li>Bombay Slum Redevelopment Corporation Pvt. Ltd. v. Samir Narain Bhojwani, (2024) INSC 478.</li>
+                                    <li>Afcons Infrastructure Ltd. v. Cherian Varkey Construction Co. (P) Ltd., (2010) 8 SCC 24.</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>The Legal Services Authorities Act, 1987.</li>
+                                    <li>The Arbitration and Conciliation Act, 1996.</li>
+                                    <li>The Code of Civil Procedure, 1908 (Section 89).</li>
+                                    <li>UNCITRAL Model Law on Arbitration, 1985.</li>
+                                    <li>Mediation Act, 2023.</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Reports &amp; Articles</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>National Judicial Data Grid, Supreme Court of India.</li>
+                                    <li>Vibhuti Thakur, &apos;An Overview of Challenges in ADR Mechanism in India&apos; (28 May 2023, iPleaders).</li>
+                                    <li>Gaurav Yadav, &apos;ADR in India: Significance &amp; Challenges&apos; (8 November 2025, ForumIAS).</li>
+                                    <li>Mayank Gandhi, &apos;Critical Study of Mediation Process in India&apos; (O.P. Jindal Global University).</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Twinwise Amokile Ngewe, Parul Institute of Law (BBA.LLB, Parul University).</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Right to Marry a Person of Choice: Absolute Right or Subject to Social Restriction",
+            author: "By Amik Chandra Paul",
+            abstract: "Marriage is a core expression of individual autonomy, personal liberty, and human dignity. This article explores the right to marry a person of choice under the Indian Constitution, looking back at historical practices like Swayamvara and Gandharva marriage, analyzing key constitutional provisions and judicial precedents, and evaluating whether this right is absolute or subject to reasonable social restrictions.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>History</li>
+                            <li>Constitutional Provisions &amp; Articles</li>
+                            <li>Important Judgments</li>
+                            <li>Suggestions</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Marriage is not merely a social institution or a religious sacrament as it&apos;s a core and profound expression of individual autonomy, personal liberty and human dignity. It is about two individuals choosing each other freely based on love, companionship, respect and mutual consent. The right to marry a person of one&apos;s own choice is not a luxury or a modern waste, and it is a fundamental expression of human dignity.</p>
+                        <p className="mt-4">The right to marry a person of choice is an absolute right of a person.<sup className="text-[#D4AF37] ml-1">1</sup> All individuals have the right to marry a person of their choice in their lives, which is safeguarded by the Constitution of India. Although the right to marry a person was not directly mentioned in the Constitution of India, it has been recognised as a fundamental right and basic right of a person. The right to marry a person was also safeguarded in our ancient tradition of India, which we can see in our many ancient texts.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORY</h4>
+                        <p>In our ancient period, there was a tradition known as Swayamvara.<sup className="text-[#D4AF37] ml-1">2</sup> Here, &quot;Swayam&quot; means oneself, and &quot;Vara&quot; means groom. It was the practice in our ancient Hindu society where a bride chose her husband in an open assembly of her choice, where a king first announces her daughter&apos;s Swayamvara, inviting many princes, nobles, warriors and scholars. The princess examined each suitor, learned about their background, and garlanded the one they chose to marry. Behind these grand royal contests, ancient Hindu texts recognised Gandharva marriage as one of the most legitimate forms of union. This was essentially a love marriage based on mutual attraction and consent between a man and a woman in ancient society, without elaborate rituals or heavy financial involvement. The story of Dushyanta and Shakuntala in the Mahabharata stands as a classic example of Gandharva marriage rooted in spontaneous love and mutual agreement. In many Swayamvaras, a girl can choose her own life partner if her parents or elders in the family are unable to find a groom within three years after her attaining puberty, which was permitted by Manu Smriti and other Dharma Shastras. Swayamvara reflects the power and position a woman enjoyed in the ancient Hindu civilisation.</p>
+                        <p className="mt-4">The contemporary revival of the right to marry by choice began in the 19th and early 20th century during the period of India&apos;s freedom struggle and social reform movement. Reformers like Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar and Dr. B.R. Ambedkar fought against evil customs like child marriage, Sati and inflexible caste barriers. Education, re-marriage of widows and greater individual autonomy were promoted by them. The colonial period also saw the introduction of the Special Marriage Act, 1872.<sup className="text-[#D4AF37] ml-1">3</sup> When it was originally passed, it allowed the civil marriage of people of different religions or castes without conversion, a subtle but important legal recognition of personal choice.</p>
+                        <p className="mt-4">Throughout history, marriage has often been a tool of control used to preserve caste, class, religion, race or economic alliances in ancient societies. Marriage reinforced hierarchies rather than individual happiness. The enlightenment and the rise of liberal thought shifted the mindset; thinkers like John Stuart Mill emphasised personal liberty, arguing that a state or society should not intervene in private consensual relationships between adults.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL PROVISIONS &amp; ARTICLES</h4>
+                        <p>The Constitution of India safeguards us in this provision. Article 21 of the Indian Constitution ensures the Right to life and personal liberty of a person which provides the freedom to choose a life partner of their choice.<sup className="text-[#D4AF37] ml-1">4</sup> Article 14 of the Indian Constitution ensures the right to equality which ensures no discrimination in our society in matters of marriage or personal choice. Article 19(1)(a) of the Indian Constitution<sup className="text-[#D4AF37] ml-1">5</sup> ensures the freedom of expression which safeguards the right to express personal choice and relationships of a person.</p>
+                        <p className="mt-4">The right to marry is recognised as part of personal liberty under Article 21 of the Indian Constitution, but it is not limited; the law places certain reasonable restrictions to ensure fairness, safety and maintain social order of this country. For example, the Prohibition of Child Marriage Act<sup className="text-[#D4AF37] ml-1">6</sup> sets a minimum age for marriage, and the consent of both parties is essential for the validity of a marriage. Bigamy, which is an ancient traditional practice, is prohibited under the Hindu Marriage Act, 1955<sup className="text-[#D4AF37] ml-1">7</sup> and restricted under other personal laws, while rules also prevail against marriages within prohibited degrees of relationship to avoid incestuous unions. Additionally, laws like the Special Marriage Act require proper registration to give marriage legal recognition in India. Together, these safeguards form the procedure established by the law, balancing individual freedom with social responsibility.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IMPORTANT JUDGMENTS</h4>
+                        <p className="mb-4">The Judiciary has played a crucial role in maintaining law and order. The Supreme Court has repeatedly emphasised that the right to marry is a fundamental aspect of personal liberty under Article 21. Let us understand a few key judicial precedents:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Loving v. Virginia, 388 U.S. 1 (1967)</strong>
+                                <p className="text-sm text-zinc-300">The United States Supreme Court played a pivotal role in affirming this right by striking down laws banning interracial marriage. Richard (white) and Mildred Jeter (black and Native American) were convicted for marrying and living together. The Court unanimously ruled that such bans violated both due process and equal protection under the 14th Amendment. Chief Justice Earl Warren wrote that the freedom to marry has long been recognized as one of the vital personal rights essential to the orderly pursuit of happiness by free men.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Obergefell v. Hodges, 576 U.S. 644 (2015)</strong>
+                                <p className="text-sm text-zinc-300">The US Supreme Court extended this logic to same-sex couples, recognizing that their right to marry is inherent in the liberty of the person and that denying it based on outdated traditions or majoritarian views is unconstitutional.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Lata Singh v. State of Uttar Pradesh, (2006) 5 SCC 475</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court made it clear that an adult woman has the freedom to marry anyone of her choice, and neither her parents nor society can interfere. The judgment strongly condemned honour killings and harassment of inter-caste couples.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Shafin Jahan v. Asokan K.M., (2018) 16 SCC 368</strong>
+                                <p className="text-sm text-zinc-300">The Court reaffirmed that choosing a life partner is an integral part of personal liberty under Article 21, and no individual, family, or institution can obstruct the decision of two consenting adults.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Justice K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1</strong>
+                                <p className="text-sm text-zinc-300">The landmark privacy judgment recognized that privacy encompasses decisions about marriage and intimate relationships, placing spousal choices at the core of fundamental freedoms.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">6. Shakti Vahini v. Union of India, (2018) 7 SCC 192</strong>
+                                <p className="text-sm text-zinc-300">The Court directed governments to actively prevent honour crimes and protect couples from community opposition, declaring that so-called &quot;honour&quot; cannot override constitutional freedom.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">7. Navtej Singh Johar v. Union of India, (2018) 10 SCC 1</strong>
+                                <p className="text-sm text-zinc-300">By decriminalizing consensual same-sex relationships under Section 377, the Court expanded the scope of individual autonomy and dignity, recognizing that adults have the right to choose their partners regardless of gender identity.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS</h4>
+                        <p>Even with clear judicial declarations, real life tends not to follow the law. Individuals still deal with threats, physical assaults, kidnapping charges, or social boycotts. The police do not always stand on the couple&apos;s side and may succumb to familial pressure. Gram Panchayats (such as Khap Panchayats) and religious organizations continue to issue illegal orders, while cross-border issues, post-marriage conversions, and bureaucratic delays complicate interfaith marriages further.</p>
+                        <p className="mt-4">To truly establish the right to marry a person of one&apos;s choice as an enforceable and absolute fundamental right, a multi-pronged approach is essential. The government should introduce provisions under a Uniform Civil Code that prioritize individual autonomy, expanding and strengthening the Special Marriage Act to make inter-caste and inter-faith marriages simpler, safer, and free from unnecessary bureaucratic hurdles and public notices. At the same time, robust witness protection programs and fast-track courts must be established to ensure speedy justice for victims of honour crimes and deter communities from resorting to intimidation or violence. Public education campaigns, integrated into school curricula and media, should actively promote the constitutional values of personal liberty, equality, and individual dignity, shifting the societal mindset away from outdated notions of family honour and community control.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>In conclusion, marriage is an institution that balances sacred traditions and individual liberty. The freedom to choose one&apos;s life partner is a cardinal part of individual freedom, dignity, and liberty. While the ancient tradition of Swayamvara enshrined this right, it is now firmly reaffirmed through constitutional provisions, specifically Articles 14, 19, and 21. Although this freedom is subject to reasonable restrictions to protect social order, the core choice of partner rests solely with the individual; neither family nor society has the right to interfere.</p>
+                        <p className="mt-4">To prevent this right from remaining purely theoretical, India must reinforce legal frameworks like the Special Marriage Act, strictly enforce protection against honour crimes, and educate citizens about their constitutional rights and restrictions. The right to marry a person of choice is a protected constitutional freedom, and the Judiciary plays a crucial role in upholding it to promote the progressive, liberal, and plural democracy that the framers of the Constitution envisioned.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Lata Singh v. State of Uttar Pradesh, (2006) 5 SCC 475.</li>
+                                    <li>Shafin Jahan v. Asokan K.M., (2018) 16 SCC 368.</li>
+                                    <li>Loving v. Virginia, 388 U.S. 1 (1967).</li>
+                                    <li>Obergefell v. Hodges, 576 U.S. 644 (2015).</li>
+                                    <li>Justice K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                                    <li>Shakti Vahini v. Union of India, (2018) 7 SCC 192.</li>
+                                    <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes &amp; Documents</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={8}>
+                                    <li>The Constitution of India, Articles 14, 19, 21.</li>
+                                    <li>The Special Marriage Act, 1872 &amp; 1954.</li>
+                                    <li>The Prohibition of Child Marriage Act, 2006.</li>
+                                    <li>The Hindu Marriage Act, 1955.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Secondary Sources</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={12}>
+                                    <li>&apos;Right to Marry the Person: A Constitutional Freedom in India&apos;.</li>
+                                    <li>&apos;Swayamvar in Hinduism – About the concept of Swayamvara&apos; (Hindu Blog).</li>
+                                    <li>Manu Smriti &amp; Dharma Shastras.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Amik Chandra Paul, National Law University, Tripura (1st Year B.A. LL.B. Student).</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "ADR: The New Era of Justice",
+            author: "By Utkarsh Atal",
+            abstract: "Alternative Dispute Resolution (ADR) has emerged as a crucial mechanism of conflict resolution and judicial reform. This article evaluates the fundamental concepts of ADR, tracing its history from ancient India's Manusmriti to British-era regulations and the Arbitration Act of 1940. It further examines modern statutory frameworks like the Arbitration Act of 1996 and the Mediation Act of 2023, analyzing key judicial precedents and suggesting ways to expand ADR beyond urban boundaries.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Historical Background</li>
+                            <li>Legal Frameworks</li>
+                            <li>Case Laws and Legal Research Paper</li>
+                            <li>Recent Developments: ADR in the 21st Century</li>
+                            <li>Conclusion and Suggestions</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Alternative Dispute Resolution is referred to as ADR. The definition of alternative dispute resolution (ADR) is &quot;the mechanism for settling disputes without litigation.&quot; It is also seen as a catch-all word that generally refers to alternatives to judicial adjudication (litigation) of disputes. These procedures are not covered by the judicial preview. Alternative Dispute Resolution leads to a quicker and less costly path to justice while also lowering the court&apos;s enormous backlog of cases.</p>
+                        <p className="mt-4">This procedure has become a crucial part of judicial reform and conflict resolution. Because they won&apos;t need to expend all of their resources to get justice, the Alternative Dispute Resolution process gives the typical individual a glimmer of hope and betterment. Adopting alternative dispute resolution techniques benefits the courts as well as the petitioners by saving them money and time. Non-adversarial (focusing on cooperation), alternative to litigation (used to avoid traditional court trials), and third-party engagement (usually including a mediator or arbitrator) are important features of alternative dispute resolution (ADR).</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>This article&apos;s ultimate goal is to comprehend the fundamental idea of ADR and assess the rationale behind its adoption. The purpose of this study is to highlight the increasing role of alternative dispute resolution (ADR) in effective dispute settlement, advancements in arbitration law, institutional arbitration, mediation frameworks, and ADR&apos;s involvement in lowering the backlog of cases in the courts.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORICAL BACKGROUND</h4>
+                        <p>The ADR process&apos;s beginnings in ancient India are also depicted in religious texts. The ancient law treatise Manusmriti recognises arbitration and debate as acceptable methods of resolving disputes. By highlighting reconciliation and compromise, it emphasises the importance of harmony over adversarial outcomes. ADR was not limited to India. In ancient Greece, a variety of informal dispute resolution methods were employed. Greek city-states and individuals, for instance, regularly employed arbitration to settle conflicts. Prominent people were selected to act as arbitrators in order to render decisions that often carried legal weight.</p>
+                        <p className="mt-4">The history of ADR in India underwent a significant transformation during British rule. As the British East India Company established its administrative and political hegemony over India, the traditional panchayat system and other native dispute settlement procedures began to wane. The British desire to enforce their legal system led to the introduction of formal courts and codified laws. ADR was not completely abandoned, even during British administration. The British acknowledged arbitration&apos;s efficacy, particularly in business disputes. The Bengal Regulations of 1772, 1780, and 1781 are examples of early legislative attempts to formalise ADR procedures. In the British-administered regions of Bengal, Bombay, and Madras, these rules promoted arbitration as a way to settle conflicts. In the expanding commercial community, arbitration was viewed as a convenient and politically safe way to handle conflicts and preserve order.</p>
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">The Indian Arbitration Act, 1899 &amp; Reform of 1940</h5>
+                        <p>The first Arbitration Act was passed in India in 1899, becoming operative on July 1, 1899. Only the presidential towns of Bombay, Calcutta, and Madras were covered by the Indian Arbitration Act, 1899<sup className="text-[#D4AF37] ml-1">1</sup> which was based on the English Arbitration Act of 1889.<sup className="text-[#D4AF37] ml-1">2</sup> This Act was unique in that the arbitrator might be one of the sitting judges at the time, and the names of the arbitrators had to be included in the arbitration agreement.<sup className="text-[#D4AF37] ml-1">3</sup></p>
+                        <p className="mt-4">Due to its complexity and volume, the 1899 Act needed reform. As a result, a more precise formal legislation was implemented in 1940 under the British government, becoming operative on July 1, 1940.<sup className="text-[#D4AF37] ml-1">4</sup> In independent India, it was the first official law that addressed the ADR technique of arbitration, superseding the 1899 Act and the arbitration-related clauses in the Second Schedule of the 1908 Code of Civil Procedure.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORKS</h4>
+                        <p className="mb-4">Basically, there are two ultimate laws that regulate the overall concept of ADR, serving as the cornerstone of India&apos;s legal framework for alternative dispute resolution:</p>
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Arbitration &amp; Conciliation</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">The <strong>Arbitration and Conciliation Act, 1996</strong> serves as the principal legislation regulating arbitration and conciliation procedures in India, promoting quick and flexible settlements.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Mediation Act, 2023</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">The <strong>Mediation Act, 2023</strong> offers a comprehensive legal framework for mediation, supporting mediator accreditation and enforcement of mediated settlements.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Section 89 CPC</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300"><strong>Section 89 of the Code of Civil Procedure, 1908</strong> allows courts to refer pending civil disputes to alternative forums like Lok Adalats or mediation when settlement potential exists.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS AND LEGAL RESEARCH PAPER</h4>
+                        <p className="mb-4">The development of modern ADR rules in India was heavily influenced by recommendations from the Law Commission of India and key spousal/property litigation disputes:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">The Arbitration &amp; Conciliation (Amendment) Bill, 2003</strong>
+                                <p className="text-sm text-zinc-300">Following the 176th Report&apos;s recommendations by the Law Commission of India, the Government tabled the Amendment Bill in the Rajya Sabha in December 2003. Although the bill was eventually withdrawn due to extensive revisions suggested by the Standing Committee in August 2005, it initiated important conversations on reform.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Jayant N. Seth v. Gyneshwar Apartment Cooperative Housing Society Ltd. (1998)</strong>
+                                <p className="text-sm text-zinc-300">In this landmark case,<sup className="text-[#D4AF37] ml-1">5</sup> the Bombay High Court highlighted the key elements of an arbitration agreement. The petitioner sought the appointment of an arbitrator to resolve disputes between the petitioner and the respondent housing organization under Section 11(4) of the Arbitration and Conciliation Act, 1996.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT DEVELOPMENTS: ADR IN THE 21ST CENTURY</h4>
+                        <p>In the twenty-first century, the Commercial Courts Act of 2015<sup className="text-[#D4AF37] ml-1">6</sup> stands as a major advancement, requiring pre-institution mediation in commercial disputes. By encouraging parties to settle disagreements peacefully before court filing, the Act aims to lower the business backlog of cases in Indian courts. The role of ADR in lessening the load on courts and guaranteeing access to justice is becoming widely acknowledged by the government and the judiciary.</p>
+                        <p className="mt-4">Furthermore, this mechanism helps remedy some of the primary flaws of the traditional legal system—such as unpredictable costs, lengthy trials, and rigid formats that can destroy relationships. By resolving less significant disputes, ADR allows courts to dedicate sufficient time to major crimes and complex constitutional questions, thereby administering justice more efficiently.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION AND SUGGESTIONS</h4>
+                        <p>A significant portion of the Indian populace feels that the administration of justice in normal courts is incredibly inconvenient and inefficient. Therefore, it is imperative that the law of arbitration be created, promoted, and implemented in order to lessen the judicial pressure on ordinary courts. ADR allows people to take part in the process of resolving their disputes, providing instant relief easily and economically.</p>
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Key Suggestions for Improvement:</h5>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Public Awareness Campaigns:</strong> Popularise ADR techniques through workshops and seminars with the help of NGOs and media. ADR literacy programs and camps should seek to change the attitudes of judges, advocates, and disputing parties.</li>
+                            <li><strong className="text-white">2. Local Mediation Centres:</strong> Establish local mediation centres in every district, run by efficient, neutral members from the local community.</li>
+                            <li><strong className="text-white">3. Infrastructure Development:</strong> Provide adequate institutional frameworks and infrastructure to support court-ordered ADR negotiations.</li>
+                            <li><strong className="text-white">4. Rural Expansion:</strong> Extend ADR mechanisms to rural areas so that citizens outside major cities are included and familiarised with these alternatives.</li>
+                        </ul>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases &amp; Statutes</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Indian Arbitration Act, 1899 (Act No. 9 of 1899).</li>
+                                    <li>English Arbitration Act, 1889 (52 &amp; 53 Vict. c. 49).</li>
+                                    <li>Indian Arbitration Act, 1899 (Act IX of 1899).</li>
+                                    <li>Arbitration Act, 1940 (Act No. 10 of 1940).</li>
+                                    <li>Jayant N. Sheth, Proprietor, Struct Mast Engineers v. Gyneshwar Apartment Co-operative Housing Society Ltd., (1999) 1 Bom CR 774.</li>
+                                    <li>The Commercial Courts Act, 2015 (No. 4 of 2016).</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Secondary Sources</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={7}>
+                                    <li>&apos;Evolution of Arbitration in India: Lack of Professionalism&apos; (iPleaders).</li>
+                                    <li>&apos;Historical Background of Alternative Dispute Resolution&apos; (LawBhoomi).</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Utkarsh Atal, Faculty of Law, University of Allahabad.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Media trials: A Curse to Indian Society",
+            author: "By Sudhanshu",
+            abstract: "The media is the fourth pillar of democracy, but the rising trend of 'media trials' has begun to declare individuals guilty before judicial verdicts. This article analyzes the impact of trial by media on fair trial rights, personal dignity under Article 21, and the presumption of innocence, highlighting the conflict between free expression and fair justice.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Landmark Judicial Pronouncements</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestion and Reforms</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The media is called the fourth pillar of democracy because it forms a medium between the government and the people, playing an important role in spreading awareness and ensuring transparency. However, in recent years, there is a rising trend in India where media platforms begin to decide whether an accused person is guilty or innocent even before the courts pronounce their judgment. This phenomenon is called &quot;media trial&quot; or &quot;trial by media.&quot;</p>
+                        <p className="mt-4">Media trial occurs when broadcasting networks, newspapers, social media, or digital news portals portray an accused person as guilty before a proper judicial decision is made. Media channels, without analyzing facts, conduct emotional debates, speculative discussions, and parallel investigations which influence public opinion and overshadow foundational legal principles such as the presumption of innocence and fair trials.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>This article refers to the growing issue of media trials and its impact on Indian society. It projects how media trials affect court proceedings, damage individual reputations, and create public pressure on the judiciary. In doing so, it examines how these trials affect the right to fair justice and personal dignity, which are protected under Article 21<sup className="text-[#D4AF37] ml-1">9</sup> of the Indian Constitution. Furthermore, this article focuses on Article 19(1)(a)<sup className="text-[#D4AF37] ml-1">9</sup> and, through recent cases and examples, presents how sensitive reporting can create more harm than awareness, highlighting the urgent need for responsible journalism in India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>The concept of media trials is not new in India, but its reach and influence have grown exponentially with the emergence of 24-hour news channels and social media platforms. In the past, newspapers focused mainly on factual reporting of criminal investigations and judicial proceedings. In contrast, modern media has transformed coverage into sensational public spectacles aimed at maximizing Television Rating Points (TRPs).</p>
+                        <p className="mt-4">High-profile criminal cases such as the Jessica Lal murder case, the Aarushi Talwar case, and the Sushant Singh Rajput death investigation are prominent examples where India has witnessed excessive media intervention. Media channels openly conducted debates on the guilt of individuals based on leaked investigation details, rumors, and emotional panel discussions long before the courts delivered their verdicts. This practice creates hostile public opinion, forcing individuals to suffer severe social consequences regardless of their legal guilt.</p>
+                        <p className="mt-4">In the digital era, platforms like YouTube, Facebook, Instagram, and X (formerly Twitter) allow information and opinions to spread rapidly without verification. Hashtags, viral clips, edited videos, and online trolling have facilitated a form of &quot;mob justice&quot; where accused persons are convicted in the court of public opinion without legal evidence. This not only affects the accused but can also influence witnesses, investigation agencies, and public trust in democratic and judicial institutions. While the public, frustrated by delayed court proceedings, sometimes supports aggressive media activism, justice delivered by public outcry cannot replace the due process of law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <p>The Indian Constitution guarantees freedom of speech and expression under Article 19(1)(a), which includes the freedom of the press. However, this freedom is not absolute and is intended to serve democratic accountability.<sup className="text-[#D4AF37] ml-1">1</sup> Article 19(2) permits the state to implement reasonable restrictions in the interest of public order, contempt of court, defamation, decency, morality, and the sovereignty of the nation.<sup className="text-[#D4AF37] ml-1">9</sup></p>
+                        <p className="mt-4">Article 21 guarantees the right to life and personal liberty. Through judicial interpretation, the Supreme Court has expanded Article 21 to encompass the right to a fair trial, dignity, reputation, and privacy. Any procedure affecting personal liberty must be &quot;fair, just, and reasonable.&quot;<sup className="text-[#D4AF37] ml-1">2</sup> The accused also possesses a right to privacy as a fundamental right,<sup className="text-[#D4AF37] ml-1">3</sup> which is directly infringed by media trials that publicly humiliate individuals before conviction.</p>
+                        <p className="mt-4">The principle of the presumption of innocence forms the foundation of criminal jurisprudence: every accused is presumed innocent until proven guilty beyond reasonable doubt before a competent court. Media trials compromise this bedrock principle by declaring guilt at the investigation stage. Additionally, the Contempt of Courts Act, 1971 seeks to prevent publications that interfere with the proper administration of justice.<sup className="text-[#D4AF37] ml-1">10</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK JUDICIAL PRONOUNCEMENTS</h4>
+                        <p className="mb-4">The Supreme Court of India has repeatedly addressed the dangers of media trials, emphasizing the importance of securing a fair trial. Key judicial precedents include:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Reliance Petrochemicals Ltd. v. Proprietors of Indian Express Newspapers, Bombay (P) Ltd. (1988)</strong>
+                                <p className="text-sm text-zinc-300">In this case,<sup className="text-[#D4AF37] ml-1">4</sup> the Supreme Court restrained the publication of articles questioning the legality of a debenture issue. The Court warned that the public interest requires that there be no interference with the judicial process, and that court decisions must not be pre-empted by public agitation or media publication.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. State of Maharashtra v. Rajendra Jawanmal Gandhi (1997)</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court strongly asserted:<sup className="text-[#D4AF37] ml-1">5</sup> &quot;A trial by press, electronic media or public agitation is the very antithesis of the rule of law. It can well lead to miscarriage of justice.&quot; The Court stressed that judges must guard against such external pressures and be guided strictly by the law and evidence.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. M.P. Lohia v. State of W.B. (2005)</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court strongly disapproved<sup className="text-[#D4AF37] ml-1">6</sup> of a magazine article that conducted a media trial in an ongoing dowry death case, quoting the deceased&apos;s family and judging guilt. The Court cautioned media houses against publishing such biased material while the matter is sub-judice.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Manu Sharma v. State (NCT of Delhi) (2010)</strong>
+                                <p className="text-sm text-zinc-300">Addressing the dangers of media trials, the Supreme Court noted<sup className="text-[#D4AF37] ml-1">7</sup> a &quot;serious risk of prejudice if the media exercise an unrestricted and unregulated freedom,&quot; such as publishing photos of suspects before identification parades or declaring guilt prematurely. It emphasized that media trials violate Article 21 by destroying the presumption of innocence.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Mukesh v. State (NCT of Delhi) (2017) &amp; Sushant Singh Rajput Case (2020)</strong>
+                                <p className="text-sm text-zinc-300">In the Nirbhaya case,<sup className="text-[#D4AF37] ml-1">8</sup> the media played an activist role but faced criticism for insensitive reporting. Similarly, during the investigation of Sushant Singh Rajput&apos;s death in 2020, the Bombay High Court acknowledged that media trials led to the public harassment and ridicule of Rhea Chakraborty, issuing guidelines for reporting on deaths and suicides to prevent media prejudice.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <p>While the media plays an important role in exposing wrongdoing and spreading awareness, excessive and irresponsible reporting can severely harm a person&apos;s dignity, privacy, and reputation.<sup className="text-[#D4AF37] ml-1">9</sup> The phenomenon of media trials represents a growing conflict between the freedom of the press and the right to fair justice.</p>
+                        <p className="mt-4">Although the Indian judiciary has tried to balance these competing interests, the lack of strict regulation and accountability allows aggressive reporting to persist, driven by commercial pressure for TRPs and online engagement. Criminal cases are frequently dramatized to attract viewers, turning serious legal proceedings into public entertainment. This behavior risks eroding public trust in law enforcement, the judiciary, and the constitutional principles on which the justice system is founded.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTION AND REFORMS</h4>
+                        <p className="mb-4">To mitigate the harmful effects of media trials while protecting the freedom of the press, the following steps are recommended:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Strict Guidelines and Legal Action:</strong> Media platforms must refrain from presenting accused persons as guilty before a court verdict. Strict legal action should be taken against broadcasters who deliberately interfere with judicial proceedings or spread misinformation.</li>
+                            <li><strong className="text-white">2. Professional &amp; Ethical Journalism:</strong> Journalists covering criminal cases should undergo specialized training to ensure objective and responsible reporting, avoiding sensationalism.</li>
+                            <li><strong className="text-white">3. Prompt Judicial Intervention:</strong> Courts must take swift action, including issuing temporary injunctions, against media reporting that creates unfair public pressure during active investigations.</li>
+                            <li><strong className="text-white">4. Digital Media Regulation:</strong> With the rise of digital journalism, artificial intelligence, and social media, India needs stronger legal frameworks to regulate digital content, prevent the spread of deepfakes/edited videos, and protect individual privacy.</li>
+                            <li><strong className="text-white">5. Public Awareness:</strong> The public should be educated that real justice relies strictly on evidence and due process, not on television debates or social media trends.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The media is a vital pillar of democracy, but when it starts acting as a court and declaring people guilty before a judicial decision, it creates serious issues for the justice system. It damages the presumption of innocence and the right to a fair trial. While the freedom of the press is important, it must not violate an individual&apos;s right to dignity and fair justice. In a democratic country, justice must be decided by courts based on evidence and legal proceedings, not by news debates or social media trends. Responsible journalism is essential to protect both media freedom and constitutional justice.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Romesh Thappar v. State of Madras, AIR 1950 SC 124.</li>
+                                    <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                                    <li>Justice K.S. Puttaswamy (Retd) v. Union of India, AIR 2018 SC (SUPP) 1841.</li>
+                                    <li>Reliance Petrochemicals Ltd. v. Proprietors of Indian Express Newspapers, Bombay (P) Ltd., (1988) 4 SCC 592.</li>
+                                    <li>State of Maharashtra v. Rajendra Jawanmal Gandhi, (1997) 8 SCC 386.</li>
+                                    <li>M.P. Lohia v. State of West Bengal, (2005) 2 SCC 686.</li>
+                                    <li>Manu Sharma v. State (NCT of Delhi), (2010) 6 SCC 1.</li>
+                                    <li>Mukesh v. State (NCT of Delhi), (2017) 6 SCC 1.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes &amp; Constitutional Provisions</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={9}>
+                                    <li>Constitution of India, Articles 19(1)(a), 19(2), and 21.</li>
+                                    <li>The Contempt of Courts Act, 1971, Section 2(c).</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sudhanshu, 2nd year law student pursuing LL.B. (3 Years) from Chaudhary Charan Singh University.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Constitutional Morality and the Living Charter: How Constitutions Protect Human Rights in Modern Democracies",
+            author: "By Tanvi Chaudhary",
+            abstract: "A constitution is a living instrument that grows and adapts with society. This article explores how constitutional frameworks protect human rights in modern democracies like India, South Africa, and the United States, tracing the development of constitutional morality, the basic structure doctrine, and the protection of individual dignity.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>A constitution is far more than a list of rules written on paper. It is a solemn promise between the state and its people that every individual will be treated with dignity, fairness, and respect, no matter who they are or where they come from. In a democracy, the constitution stands above all other laws. It tells the government what it can and cannot do, and it guarantees the basic rights of every citizen. When these rights are threatened, the courts step in as protectors. This article explores how constitutions across the world, particularly in India, South Africa, and the United States, work to protect human rights, and how they continue to evolve to meet the challenges of our times.</p>
+                        <p className="mt-4">The right to life, equality before the law, freedom of speech, and the right to privacy are not gifts given by the government. They are fundamental rights that belong to every human being simply by virtue of being human.<sup className="text-[#D4AF37] ml-1">1</sup> These rights are protected by constitutions, and it is the duty of the courts to ensure that no law or government action takes them away without strong justification.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>This article aims to explain, in simple and clear terms, how constitutional frameworks protect human rights in modern democracies. It examines key legal principles such as constitutional morality, the basic structure doctrine, and the right to equality and dignity. It also looks at how courts have used these principles to deliver landmark decisions that have changed lives. Finally, the article discusses new challenges such as digital privacy and gender equality, and suggests ways in which constitutional protections can be strengthened further.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. BACKGROUND OF THE ISSUE</h4>
+                        <p>Human rights have not always been protected by law. For most of history, governments ruled without being accountable to the people they governed. Ordinary citizens had little or no legal protection against abuse of power. It was only after the horrors of the Second World War, when millions of people were killed, tortured, and stripped of all dignity, that the international community came together to declare that such things must never happen again. In 1948, the United Nations adopted the Universal Declaration of Human Rights (UDHR), which recognised that all human beings are born free and equal in dignity and rights.<sup className="text-[#D4AF37] ml-1">2</sup></p>
+                        <p className="mt-4">Following the UDHR, nations around the world began incorporating human rights protections into their own constitutions. India adopted its Constitution in 1950, guaranteeing a wide range of fundamental rights, including the right to equality (Article 14), the right to freedom of speech (Article 19), and the right to life and personal liberty (Article 21). South Africa, after ending the apartheid system in 1994, adopted one of the most progressive constitutions in the world in 1996. The United States, through its Bill of Rights and later amendments, had already established important protections such as freedom of speech and equal protection under the law. These constitutional frameworks were further supported by international treaties, including the International Covenant on Civil and Political Rights.<sup className="text-[#D4AF37] ml-1">3</sup></p>
+                        <p className="mt-4">Despite these advances, human rights violations continued. Minorities were discriminated against. Women faced systemic inequality. The poor were denied access to basic needs. Governments sometimes used the law itself as a tool of oppression. Courts, therefore, had to become active defenders of constitutional values, reading rights broadly and striking down laws that were unfair or unjust.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. LEGAL FRAMEWORK</h4>
+                        <p>The Indian Constitution provides the most detailed framework for the protection of human rights in South Asia. Part III of the Constitution contains the Fundamental Rights, which are enforceable in court. Among the most important is Article 21, which guarantees the right to life and personal liberty. Over the years, the Supreme Court has interpreted this provision very broadly to include the right to a dignified life, the right to education, the right to livelihood, the right to health, and most recently, the right to privacy.<sup className="text-[#D4AF37] ml-1">4</sup></p>
+                        <p className="mt-4">One of the most important constitutional principles in India is the Basic Structure Doctrine, developed by the Supreme Court in Kesavananda Bharati v State of Kerala (1973).<sup className="text-[#D4AF37] ml-1">5</sup> The Court held that while Parliament has the power to amend the Constitution, it cannot destroy its basic structure. This means that certain core features, namely democracy, fundamental rights, judicial independence, and secularism, are permanent. No government, however powerful, can remove them.</p>
+                        <p className="mt-4">The concept of Constitutional Morality is equally significant. In Navtej Singh Johar v Union of India (2018), the Supreme Court ruled that constitutional values must be upheld even if they go against the wishes of the majority.<sup className="text-[#D4AF37] ml-1">6</sup> This means that popular opinion alone cannot justify discrimination. The Constitution protects the rights of minorities and individuals even when the majority disagrees. This is the true strength of a constitutional democracy.</p>
+                        <p className="mt-4">Article 14 of the Indian Constitution guarantees equality before the law and equal protection of the laws.<sup className="text-[#D4AF37] ml-1">7</sup> The Supreme Court has consistently held that arbitrary or unreasonable state action violates this right. The Directive Principles of State Policy (Articles 36-51) further guide the state to achieve social and economic justice, even though they are not directly enforceable in court.<sup className="text-[#D4AF37] ml-1">8</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. CASE LAWS AND LEGAL RESEARCH</h4>
+                        <p className="mb-4">Several landmark judicial decisions have shaped the protection of human rights in modern democracies:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Brown v Board of Education (1954)</strong>
+                                <p className="text-sm text-zinc-300">In the United States, this was a turning point in the fight against racial discrimination. The US Supreme Court held unanimously that racially segregated schools were inherently unequal and violated the Equal Protection Clause of the Fourteenth Amendment.<sup className="text-[#D4AF37] ml-1">9</sup> This decision ended decades of legalised segregation, showing that the constitution would not tolerate discrimination even when accepted by society.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Shreya Singhal v Union of India (2015)</strong>
+                                <p className="text-sm text-zinc-300">A major victory for freedom of speech in India, the Supreme Court struck down Section 66A of the Information Technology Act, 2000, which had been used to arrest people for posting content online.<sup className="text-[#D4AF37] ml-1">10</sup> The Court held that this provision was too vague and violated Article 19(1)(a) of the Constitution.<sup className="text-[#D4AF37] ml-1">11</sup> This case showed that constitutional rights must be protected in the digital age.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. K S Puttaswamy v Union of India (2017)</strong>
+                                <p className="text-sm text-zinc-300">A nine-judge bench of the Supreme Court unanimously held that the right to privacy is a fundamental right under the Indian Constitution.<sup className="text-[#D4AF37] ml-1">4</sup> This decision established that individuals have the right to control information about themselves, and the state cannot violate this right without a clear and proportionate legal justification.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. S v Makwanyane (1995) &amp; Government v Grootboom (2001)</strong>
+                                <p className="text-sm text-zinc-300">In South Africa, the Constitutional Court in <em>S v Makwanyane</em> abolished the death penalty, holding that it violated the constitutional rights to life and dignity.<sup className="text-[#D4AF37] ml-1">12</sup> Later, in <em>Grootboom</em>, the Court held that the government had a constitutional obligation to take reasonable steps to ensure that homeless people had access to shelter,<sup className="text-[#D4AF37] ml-1">13</sup> showing that constitutions can compel positive state action.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Vishaka v State of Rajasthan (1997) &amp; Joseph Shine v Union of India (2018)</strong>
+                                <p className="text-sm text-zinc-300">In the field of gender justice, the Supreme Court of India in <em>Vishaka</em> laid down guidelines to protect women from sexual harassment at the workplace,<sup className="text-[#D4AF37] ml-1">14</sup> drawing upon international covenants to fill legislative gaps. In <em>Joseph Shine</em>, the Court decriminalised adultery, holding that treating women as the property of their husbands violated equality and dignity.<sup className="text-[#D4AF37] ml-1">15</sup></p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. ANALYSIS AND FINDINGS</h4>
+                        <p>The cases and principles discussed above reveal a clear pattern: constitutions are not static documents. They are living instruments that grow and adapt with society. Courts play a central role in this process by interpreting constitutional provisions broadly and purposively, giving effect to the spirit and purpose of the constitution rather than just its literal words. As Chief Justice Marshall of the United States rightly observed in <em>Marbury v Madison (1803)</em>, it is the courts&apos; duty to say what the law is.<sup className="text-[#D4AF37] ml-1">16</sup></p>
+                        <p className="mt-4">What stands out across all these jurisdictions is the concept of human dignity as the foundation of all rights. Whether it is the Indian Supreme Court reading dignity into Article 21, or the South African Constitutional Court emphasising that apartheid denied the humanity of millions, or the US Supreme Court holding that segregation is inherently unequal, every major constitutional advance has been grounded in the simple idea that every human being deserves to be treated with respect.</p>
+                        <p className="mt-4">Another important finding is that constitutional protection of rights has expanded well beyond civil and political freedoms. Courts have increasingly recognised that without social and economic security, civil rights mean very little. The right to life under Article 21 now includes the right to livelihood,<sup className="text-[#D4AF37] ml-1">17</sup> the right to education, and the right to health. The Sabarimala case (<em>Indian Young Lawyers Association v State of Kerala, 2019</em>) further showed that constitutional morality can override even deeply held religious traditions when they discriminate against individuals.<sup className="text-[#D4AF37] ml-1">18</sup></p>
+                        <p className="mt-4">However, constitutional protection is not perfect. Rights on paper do not always translate into rights in practice. Poor enforcement, lack of legal awareness among citizens, long delays in courts, and political pressure on the judiciary all undermine the effectiveness of constitutional guarantees. In addition, new technologies such as artificial intelligence, mass data surveillance, and social media censorship are creating new threats to rights that existing constitutional frameworks were not designed to address.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. SUGGESTIONS AND REFORMS</h4>
+                        <p className="mb-4">To strengthen the protection of human rights under constitutional frameworks, several reforms are necessary:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Enhancing Access to Justice:</strong> Legal awareness must be improved so that ordinary citizens know their rights and how to enforce them. Legal aid services should be expanded so that poor and marginalised communities can access courts.</li>
+                            <li><strong className="text-white">2. Improving Court Efficiency:</strong> Courts must be made more efficient. The enormous backlog of pending cases in India, with over forty million cases pending, means that justice is delayed for years, which itself constitutes a violation of rights.</li>
+                            <li><strong className="text-white">3. Regulating Digital Rights:</strong> The law must evolve to address digital rights comprehensively. The right to privacy recognised in <em>Puttaswamy</em> needs to be supported by strong data protection legislation. A comprehensive data protection law, similar to the European Union&apos;s General Data Protection Regulation (GDPR),<sup className="text-[#D4AF37] ml-1">19</sup> should be enacted.</li>
+                            <li><strong className="text-white">4. Strengthening Affirmative Action:</strong> Affirmative action policies for historically marginalised communities, including women, Dalits, Adivasis, and persons with disabilities, must be continued and strengthened, with regular review of their effectiveness.</li>
+                            <li><strong className="text-white">5. Preserving Judicial Independence:</strong> Constitutional courts must remain independent of political influence. Judicial appointments should be transparent and merit-based. Attacks on judicial independence, whether through court-packing, budget cuts, or public intimidation of judges, must be firmly resisted.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. FUTURE SCOPE</h4>
+                        <p>The future of human rights under constitutional frameworks will be shaped by three major forces: technology, climate change, and rising inequality. Artificial intelligence systems are already being used in policing, hiring, and lending decisions, and they frequently replicate and amplify existing biases. Constitutional law needs to develop clear standards for algorithmic accountability and non-discrimination in automated decision-making.</p>
+                        <p className="mt-4">Climate change poses a growing threat to the most fundamental of all rights, which is the right to life. Courts in several countries, including the Netherlands, Germany, and Pakistan, have already held that the government has a constitutional duty to take meaningful action against climate change. Indian courts are likely to face similar cases in the coming years, and Article 21 will be the key provision through which this duty is enforced.</p>
+                        <p className="mt-4">Finally, the growing gap between the rich and the poor raises urgent questions about whether constitutional equality is real or merely formal. A Constitution that guarantees equal rights to everyone but allows some citizens to live in extreme poverty while others enjoy unlimited wealth is not truly equal. Socioeconomic rights, including the right to education, healthcare, and housing, must be given greater legal force so that the constitution works for everyone, not just those who can afford lawyers.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. CONCLUSION</h4>
+                        <p>A constitution is only as strong as the commitment of the society that lives under it. The cases and principles examined in this article demonstrate that constitutions can be powerful instruments for protecting human dignity and promoting justice, but only when courts are independent, citizens are informed, and governments are held accountable. The basic structure doctrine in India, the transformative constitutionalism of South Africa, and the living constitution jurisprudence of the United States all point to the same fundamental truth: the constitution must grow with society, always moving closer to its highest ideals of equality, dignity, and freedom.</p>
+                        <p className="mt-4">The journey is far from over. New threats to rights, ranging from digital surveillance to environmental destruction and economic exclusion, demand that constitutional law continue to evolve. Courts must be bold, legislators must be responsive, and citizens must remain vigilant. The promise of a constitution is not fulfilled in a moment but realised over time, through the steady work of building a society where every person truly enjoys the rights that the law declares to be theirs.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                                    <li>Kesavananda Bharati v. State of Kerala, (1973) 4 SCC 225.</li>
+                                    <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                                    <li>K. S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                                    <li>Brown v. Board of Education, 347 US 483 (1954).</li>
+                                    <li>Shreya Singhal v. Union of India, (2015) 5 SCC 1.</li>
+                                    <li>S v. Makwanyane, 1995 (3) SA 391 (CC).</li>
+                                    <li>Government of the Republic of South Africa v. Grootboom, 2001 (1) SA 46 (CC).</li>
+                                    <li>Vishaka v. State of Rajasthan, (1997) 6 SCC 241.</li>
+                                    <li>Joseph Shine v. Union of India, (2018) 2 SCC 189.</li>
+                                    <li>Marbury v. Madison, 5 US (1 Cranch) 137 (1803).</li>
+                                    <li>Olga Tellis v. Bombay Municipal Corporation, (1985) 3 SCC 545.</li>
+                                    <li>Indian Young Lawyers Association v. State of Kerala, (2019) 11 SCC 1.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes, Treaties &amp; Constitutional Provisions</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={14}>
+                                    <li>Constitution of India 1950, Articles 14, 19, 21, and 36-51.</li>
+                                    <li>Universal Declaration of Human Rights (adopted 10 December 1948) UNGA Res 217A, Articles 1 and 2.</li>
+                                    <li>International Covenant on Civil and Political Rights (adopted 16 December 1966) 999 UNTS 171.</li>
+                                    <li>General Data Protection Regulation (EU) 2016/679 [2016] OJ L119/1.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Tanvi Chaudhary, Christ Academy Institute of Law (CAIL), Bengaluru (BA LLB, 4th Sem).</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "LGBTQ+ Rights and Gender Equality: Human Rights and Constitutional Values",
+            author: "By Sharayu Fating",
+            abstract: "Human rights and constitutional values are two crucial democratic pillars. This article explores the relationship between human rights and constitutional values, examining how they protect marginalized groups. Focusing on LGBTQ+ rights, gender equality, and minority protections, it highlights the evolution of Article 21, the Basic Structure doctrine, and landmark rulings that secure equality and dignity.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research Papers</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestion or Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Human rights and constitutional values are two important democratic pillars of a country. Both represent the people and their supreme importance in the country. Human rights are the rights of any individual, irrespective of their caste, religion, race, or sex. These rights play a vital role in shaping the country. Constitutional values are the core principles and ideals that the Constitution stands for—the fundamental beliefs that guide how the country is governed and how citizens are treated.</p>
+                        <p className="mt-4">Constitutional values include crucial aspects of a country such as justice, equality, fraternity, secularism, the rule of law, human dignity, and democracy. These are the important elements required for any country to work efficiently and peacefully for its people. In India, this connection is clearly visible in the Preamble of the Constitution, which pledges justice, liberty, equality, and fraternity—values that mirror the core principles of international human rights instruments such as the Universal Declaration of Human Rights, 1948 (UDHR).<sup className="text-[#D4AF37] ml-1">1</sup></p>
+                        <p className="mt-4">The framers of the Indian Constitution, under the visionary leadership of Dr. B.R. Ambedkar, consciously incorporated human rights principles into the constitutional framework, ensuring that the struggles of a colonized people would never be repeated. The Fundamental Rights enshrined in Part III were thus not merely legal provisions; they were a solemn promise to every Indian citizen that the state would never again be an instrument of oppression.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>This article&apos;s main objective is to examine the relationship between human rights and constitutional values, and how it evolves through judicial, legislative, and social aspects. It outlines the struggles and judgments faced by minority sections of society, and evaluates whether constitutional values such as equality, dignity, and justice are meaningfully applied in the lives of ordinary people, particularly those belonging to disadvantaged groups. Furthermore, this article endeavors to critically assess the role of institutions—the legislature, judiciary, and executive—in advancing or obstructing the realization of human rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>The concept of human rights is not new; we can trace its origins to early history. Historically, human choices, opinions, and needs were recognized as crucial for societal development. From the Magna Carta of 1215 in England to the French Declaration of the Rights of Man and of the Citizen in 1789, history is replete with attempts to codify and protect the fundamental rights of individuals against the arbitrary exercise of state power. However, it was only after the horrors of the Second World War and the Holocaust that the international community formally committed itself to the universal protection of human rights through the adoption of the Universal Declaration of Human Rights by the United Nations General Assembly on December 10, 1948.</p>
+                        <p className="mt-4">The Constituent Assembly debates reveal that human rights were considered essential by the framers because the entire independence movement was fought for the sake of human rights and dignity. They were acutely aware of both international human rights standards and the social realities of India, which were marked by caste discrimination, inequality, and poverty. In response, they framed the Indian Constitution to ensure that every human, regardless of sex, caste, or class, is treated with equal importance. Civil and political rights were granted through Fundamental Rights (Part III), while cultural, social, and economic rights were enshrined in the Directive Principles of State Policy (Part IV).</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <div className="space-y-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">1. Constitutional Protection of LGBTQ+ Rights in India: Evolution Through Judicial Interpretation</h5>
+                                <p className="text-sm leading-relaxed text-zinc-300">Every individual, regardless of sex, is equal in the eyes of the Constitution. The rights of every individual, irrespective of gender identity or sexual orientation, must be respected equally. Landmark cases like <em>Navtej Singh Johar v. Union of India</em> decriminalized consensual same-sex relationships under Section 377, securing dignity, equality, privacy, and constitutional morality under Articles 14, 15, 19, and 21.<sup className="text-[#D4AF37] ml-1">2</sup></p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">2. Role of the Indian Judiciary in Safeguarding Fundamental Rights</h5>
+                                <p className="text-sm leading-relaxed text-zinc-300">Every right is equally important for the individual. The judiciary acts as a guardian for citizens, actively protecting their democratic rights against arbitrary state actions and social prejudices.</p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">3. Minority Rights and Constitutional Protection in India</h5>
+                                <p className="text-sm leading-relaxed text-zinc-300">The Constitution provides robust protections to religious, linguistic, and cultural minorities. It is vital to protect the cultural heritage and roots of the people. This is reflected in Articles 29 and 30, which secure educational rights and preserve the distinct identity of minority communities, despite ongoing social challenges.</p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">4. Article 21 and the Expansion of Human Rights</h5>
+                                <p className="text-sm leading-relaxed text-zinc-300">Through dynamic judicial interpretation, Article 21 has evolved from a simple &apos;right to life&apos; into a broad umbrella of rights, encompassing the right to education, clean environment, health, privacy, and livelihood.</p>
+                            </div>
+
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">5. Women&apos;s Rights and Constitutional Safeguards</h5>
+                                <p className="text-sm leading-relaxed text-zinc-300">This section focuses specifically on women&apos;s rights and safety, highlighting constitutional safeguards designed to prevent discrimination, secure equality, and promote empowerment across all spheres of life.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS AND LEGAL RESEARCH PAPERS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Kesavananda Bharati v. State of Kerala (1973) 4 SCC 225</strong>
+                                <p className="text-sm text-zinc-300">This landmark judgment established the Basic Structure Doctrine.<sup className="text-[#D4AF37] ml-1">3</sup> The Court held that while Parliament has wide powers to amend the Constitution under Article 368, it cannot alter or destroy its &quot;basic structure.&quot; This structure includes principles like the supremacy of the Constitution, democracy, the rule of law, judicial review, secularism, and fundamental rights. This case protects constitutional values from unlimited governmental power.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Maneka Gandhi v. Union of India (1978) 1 SCC 248</strong>
+                                <p className="text-sm text-zinc-300">This case arose when Maneka Gandhi&apos;s passport was impounded by government officials without any valid reason, which she challenged as a violation of her fundamental rights. The Supreme Court held that the right to life and personal liberty under Article 21 cannot be restricted arbitrarily, and any law affecting personal liberty must be fair, just, and reasonable.<sup className="text-[#D4AF37] ml-1">4</sup> It also established that Articles 14, 19, and 21 are interconnected.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Justice K. S. Puttaswamy v. Union of India (2017) 10 SCC 1</strong>
+                                <p className="text-sm text-zinc-300">This case challenged the constitutional validity of the Aadhaar scheme, raising concerns regarding personal data and individual privacy. The Court unanimously held that privacy is an essential part of the right to life and personal liberty under Article 21,<sup className="text-[#D4AF37] ml-1">5</sup> and that privacy is necessary for protecting human dignity, freedom, and constitutional values.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Navtej Singh Johar v. Union of India (2018) 10 SCC 1</strong>
+                                <p className="text-sm text-zinc-300">This landmark Supreme Court judgment decriminalized consensual same-sex relationships by partially striking down Section 377 of the Indian Penal Code. The Court held that LGBTQ+ individuals are entitled to equality, dignity, privacy, and freedom under the Constitution,<sup className="text-[#D4AF37] ml-1">6</sup> and that discrimination based on sexual orientation violates fundamental rights, declaring that constitutional morality must prevail over social prejudice.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <p>This study demonstrates that the Indian Constitution serves as a strong foundation for the protection of human rights and constitutional values such as equality, liberty, dignity, justice, and secularism. Through dynamic judicial interpretation, the Supreme Court has significantly expanded the scope of Fundamental Rights, especially under Article 21.</p>
+                        <p className="mt-4">Landmark judgments like <em>Maneka Gandhi</em>, <em>Puttaswamy</em>, and <em>Navtej Singh Johar</em> demonstrate how the judiciary has interpreted the Constitution to protect individual dignity, privacy, and equality. These cases reflect the evolving nature of constitutional values in response to social and technological changes. These protections are crucial for minority communities, helping them fight against injustice, and are essential in preventing crimes and securing justice for all citizens.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTION AND REFORMS</h4>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Strengthen Enforcement:</strong> The government should strengthen the implementation of human rights laws and promote their effective use across all states.</li>
+                            <li><strong className="text-white">2. Legal Literacy Campaigns:</strong> Many individuals face injustice simply because they do not know their rights. The government should launch educational campaigns to promote legal literacy, particularly in marginalized areas.</li>
+                            <li><strong className="text-white">3. Proactive Judicial Approach:</strong> The judiciary should adopt a proactive approach, establishing clear baseline protections for emerging issues before major violations occur.</li>
+                            <li><strong className="text-white">4. Prevent Discrimination:</strong> Stronger measures must be implemented to prevent discrimination based on gender, caste, sex, or race in both public and private sectors.</li>
+                            <li><strong className="text-white">5. School and College Curricula:</strong> Human rights education should be promoted actively in schools and colleges from an early age to instill values of dignity and equality in future generations.</li>
+                            <li><strong className="text-white">6. Empower Human Rights Commission:</strong> Independent institutions like the National Human Rights Commission should be strengthened to ensure accountability and effective enforcement of human rights protections.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>The concept of human rights and constitutional values is inherently evolving. Over time, these protections adapt; while they initially focused on basic survival needs, they are now shifting toward more advanced digital and social protections. Regardless of where the focus shifts, the core mandate remains the same: protecting the dignity, rights, privacy, and security of every individual.</p>
+                        <p className="mt-4">There is significant scope for studying the role of constitutional morality in addressing modern social issues and protecting vulnerable communities. Comparative research between Indian constitutional jurisprudence and international human rights standards may further contribute to the development of progressive legal reforms.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Human rights and constitutional values form the foundation of Indian democracy and play a vital role in protecting the dignity, liberty, equality, and justice of individuals. The Indian Constitution, through Fundamental Rights and judicial interpretation, has continuously evolved to address social and legal challenges in society.</p>
+                        <p className="mt-4">Landmark judgments such as <em>Kesavananda Bharati v. State of Kerala</em>, <em>Maneka Gandhi v. Union of India</em>, <em>Justice K. S. Puttaswamy v. Union of India</em>, and <em>Navtej Singh Johar v. Union of India</em> have strengthened human rights and constitutional morality in society. Although the Constitution guarantees various protections, challenges such as discrimination, inequality, and privacy violations still persist. Therefore, effective implementation of constitutional principles, judicial activism, public awareness, and respect for constitutional morality are essential for ensuring the protection of human rights.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Kesavananda Bharati v. State of Kerala, (1973) 4 SCC 225.</li>
+                                    <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                                    <li>Justice K. S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                                    <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Constitutional Provisions &amp; Treaties</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={5}>
+                                    <li>Universal Declaration of Human Rights, 1948 (UDHR).</li>
+                                    <li>Constitution of India, 1950, Articles 14, 15, 19, 21, 29, and 30.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sharayu Fating, Student.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Victim Rights and Criminal Justice Reform under the New Criminal Laws of India",
+            author: "By Prince Bamboriya",
+            abstract: "The enactment of the Bharatiya Nyaya Sanhita, the Bharatiya Nagarik Suraksha Sanhita, and the Bharatiya Sakshya Adhiniyam collectively represents the most sweeping reform of India's criminal justice architecture since independence. This article examines whether these reforms have meaningfully addressed the longstanding deficit in victim rights, tracing the constitutional foundations under Article 21, key judicial precedents, and evaluating remaining gaps like witness protection and legal representation.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The criminal justice system of any democratic nation rests on three foundational pillars: the accused, the state, and the victim. For the longest time in India, however, the third pillar remained conspicuously neglected. The colonial-era criminal laws — the Indian Penal Code of 1860, the Code of Criminal Procedure of 1973, and the Indian Evidence Act of 1872 — were primarily designed to regulate state power and protect the accused, leaving the victim at the margins of the justice delivery system.</p>
+                        <p className="mt-4">With the enactment of the Bharatiya Nyaya Sanhita, 2023, the Bharatiya Nagarik Suraksha Sanhita, 2023, and the Bharatiya Sakshya Adhiniyam, 2023, the Indian legislature has taken a significant step towards reorienting the criminal justice framework. These three laws, which came into force on July 1, 2024, collectively represent the most sweeping reform of India&apos;s criminal justice architecture since independence.<sup className="text-[#D4AF37] ml-1">9</sup> This article examines whether these reforms have meaningfully addressed the longstanding deficit in victim rights, and what further measures are required to build a truly victim-centric criminal justice system.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>The primary objective of this article is to critically analyse the provisions introduced by the new criminal laws of India with specific reference to their impact on victim rights and the broader criminal justice reform agenda. The article aims to examine the constitutional foundations of victim rights under Article 21 of the Indian Constitution,<sup className="text-[#D4AF37] ml-1">9</sup> trace the judicial evolution of victim rights through landmark decisions of the Supreme Court, and evaluate the adequacy of statutory reforms brought about by the new criminal laws. The article further seeks to identify the gaps that continue to persist and propose concrete suggestions for reform, with the ultimate aim of contributing to a more equitable, efficient, and victim-conscious justice delivery system.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>Historically, Indian criminal law treated victims primarily as witnesses to the crime rather than as independent participants in the justice process. The Code of Criminal Procedure, 1973 contained minimal provisions for victim participation — victims had no right to be heard at the stage of bail, no right to participate in plea bargaining on equal footing, and very limited access to the investigation process. Compensation mechanisms, though nominally present, were underutilised and inadequate in practice.</p>
+                        <p className="mt-4">The Supreme Court, recognising this gap, intervened through a series of landmark decisions. In <em>Hussainara Khatoon v. Home Secretary, State of Bihar</em>,<sup className="text-[#D4AF37] ml-1">1</sup> the Court acknowledged that prolonged undertrial detention was itself a violation of the fundamental right to life and personal liberty. In <em>D.K. Basu v. State of West Bengal</em>,<sup className="text-[#D4AF37] ml-1">2</sup> the Court laid down detailed guidelines for arrest and detention to prevent custodial violence, recognising that victims of the criminal justice system — including accused persons subjected to abuse — deserved constitutional protection. These judicial interventions, while significant, underscored the structural inadequacy of the legislative framework itself.</p>
+                        <p className="mt-4">The National Crime Records Bureau&apos;s Crime in India Report 2022<sup className="text-[#D4AF37] ml-1">10</sup> highlighted that a staggering number of cases remain pending trial across courts in India, with undertrial prisoners constituting more than 75 percent of the total prison population. This statistic reflects not merely a problem of judicial backlog, but a systemic failure to deliver timely justice to victims and accused alike. Against this backdrop, the demand for comprehensive criminal justice reform had been building for decades before the legislature finally acted.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <p>The constitutional basis for victim rights in India flows primarily from Article 21, which the Supreme Court has expansively interpreted to include not merely the right to physical life, but the right to live with dignity, the right to speedy trial, and the right to a fair and effective justice process.<sup className="text-[#D4AF37] ml-1">9</sup> The new criminal laws attempt to translate these constitutional imperatives into concrete statutory provisions.</p>
+                        <p className="mt-4">The Bharatiya Nagarik Suraksha Sanhita, 2023 introduces several progressive provisions. Section 173 mandates that in cases involving offences against women and children, the investigation must be completed within two months from the date of recording of information. Section 397 of the BNSS introduces a provision for Zero FIR, enabling any police station to register an FIR irrespective of territorial jurisdiction, thereby removing a significant practical barrier that victims historically faced. Section 530 allows for trial of cases in <em>absentia</em> in certain circumstances, which may reduce inordinate delays caused by absconding accused. Additionally, the BNSS mandates electronic service of summons and permits audio-visual means for recording of evidence, thereby reducing the hardship on victims and witnesses who must otherwise attend court repeatedly.</p>
+                        <p className="mt-4">The Bharatiya Nyaya Sanhita, 2023 expands the definition of several offences and introduces enhanced penalties for crimes against women and children. It also introduces the offences of organised crime and terrorism within the general penal law for the first time, reflecting a broader concern for public safety and victim protection at a structural level. The Bharatiya Satshya Adhiniyam, 2023 retains and updates the rules of evidence with provisions for electronic and digital evidence, making it easier for victims to prove offences committed through technological means.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS AND LEGAL RESEARCH</h4>
+                        <p className="mb-4">The judicial development of victim rights in India is a story of progressive constitutional interpretation spanning several decades:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Arnesh Kumar v. State of Bihar</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court laid down strict guidelines to prevent unnecessary arrests, holding that arrest is not a matter of course.<sup className="text-[#D4AF37] ml-1">3</sup> While this case focused on the accused, it simultaneously addressed the interests of victims by demanding that the police act with greater deliberation ensuring that only genuine cases proceed and that false or malicious complaints do not ruin innocent lives.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Lalita Kumari v. Government of U.P.</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court held that the registration of an FIR is mandatory upon receipt of information disclosing a cognizable offence, and that failure to do so is actionable.<sup className="text-[#D4AF37] ml-1">4</sup> This decision was a landmark victory for victims who had long suffered the ignominy of having their complaints ignored or suppressed by the police. The Zero FIR provision in the BNSS codifies and expands upon the spirit of this judgment.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Nilabati Behera v. State of Orissa</strong>
+                                <p className="text-sm text-zinc-300">The Supreme Court awarded compensation to the mother of a person who died in judicial custody, recognising the State&apos;s obligation to compensate victims of custodial violence.<sup className="text-[#D4AF37] ml-1">5</sup> The Court held that the remedy under Article 32 is distinct from and in addition to private law remedies, affirming that the State cannot shield itself from liability for violation of fundamental rights.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Sanjay Chandra v. Central Bureau of Investigation</strong>
+                                <p className="text-sm text-zinc-300">The Court reiterated that bail is the rule and jail is the exception, but balanced this with the need to ensure that the rights of victims and the integrity of the investigation are not compromised.<sup className="text-[#D4AF37] ml-1">6</sup></p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <p>An analytical review of the new criminal laws reveals both meaningful progress and persistent gaps. On the positive side, the introduction of timelines for investigation in cases involving women and children, the codification of Zero FIR, the expansion of the electronic evidence framework, and the emphasis on speedy trial represent genuine improvements over the colonial-era legislative structure. These provisions directly address some of the most commonly reported grievances of victims, particularly women, who found the system slow, insensitive, and inaccessible. The requirement of mandatory medical examination of victims in sexual assault cases and the provision for in-camera trials further reflect a more victim-sensitive approach.</p>
+                        <p className="mt-4">However, several important lacunae remain. The new laws do not establish a comprehensive victim compensation scheme with defined entitlements, leaving compensation largely to the discretion of courts and states. There is no independent statutory recognition of a victim&apos;s right to legal representation at state expense — a critical gap given that a large proportion of victims in India are economically disadvantaged. The new framework also does not meaningfully address the issue of victim-witness protection, which remains rudimentary and inadequate, particularly in cases involving organised crime, sexual violence, and trafficking where witnesses face real threats to their safety.</p>
+                        <p className="mt-4">Furthermore, while the BNSS provides for trial in <em>absentia</em>, critics have raised legitimate concerns about whether such trials can be conducted without compromising the due process rights of accused persons. The Law Commission of India had in its 154th Report<sup className="text-[#D4AF37] ml-1">11</sup> flagged several procedural reforms that are yet to be incorporated even in the new laws. Implementation challenges also loom large. The effectiveness of any law depends substantially on police reforms, judicial infrastructure, and the training and sensitisation of all stakeholders — areas that have not been adequately addressed alongside the legislative changes.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS AND REFORMS</h4>
+                        <p>The most pressing reform needed is the enactment of a dedicated Victim Rights and Compensation Act that codifies the rights of victims across all stages of the criminal justice process — from the filing of the complaint to the execution of sentence — and establishes a statutory fund for victim compensation with defined eligibility criteria and quantum. Such a law would reduce the current dependence on judicial discretion and ensure a baseline of protection for all victims regardless of the economic capacity of the offender.</p>
+                        <p className="mt-4">A robust witness protection programme must be legislated at the national level, providing for relocation, identity protection, and financial support for victims and witnesses in serious cases. The Supreme Court in <em>Mahendra Chawla v. Union of India (2019)</em><sup className="text-[#D4AF37] ml-1">7</sup> directed the states to implement the Witness Protection Scheme, but implementation has been uneven and the scheme itself lacks adequate resourcing. Victim-witness protection must be treated as a non-negotiable component of criminal justice reform rather than an afterthought. Alongside this, the right to free legal aid for victims — particularly women, children, and economically weaker sections — must be expressly guaranteed under the criminal procedural law.</p>
+                        <p className="mt-4">Police reforms are equally indispensable. The recommendations of the National Police Commission and the directions of the Supreme Court in <em>Prakash Singh v. Union of India (2006)</em><sup className="text-[#D4AF37] ml-1">8</sup> regarding police accountability and functional autonomy must be implemented in letter and spirit. Without a reformed and accountable police force, the progressive provisions of the new criminal laws will remain largely aspirational. Mandatory training on victim sensitivity, trauma-informed interviewing, and digital evidence handling must become a non-negotiable part of police capacity building.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>The future of criminal justice reform in India lies at the intersection of technology, institutional capacity, and a deeper rethinking of the punitive paradigm. The introduction of audio-visual evidence and electronic summons in the new laws opens the door to wider use of technology in the justice delivery process including virtual court hearings, AI-assisted case management, and digital evidence preservation. These tools, if properly implemented, can significantly reduce the trauma of repeated court appearances for victims and witnesses, particularly in sensitive cases involving sexual violence or child abuse.</p>
+                        <p className="mt-4">Restorative justice mechanisms also present a promising avenue for future development. Countries such as New Zealand, Canada, and Germany have successfully incorporated restorative justice into their criminal justice frameworks, allowing victims and offenders to engage in structured dialogue, often resulting in more meaningful redressal of harm than conventional punitive sanctions. India&apos;s new laws do not provide for restorative justice in any meaningful sense, but this is an area ripe for legislative attention and pilot experimentation, particularly for first-time offenders and non-violent crimes.</p>
+                        <p className="mt-4">The prison reform agenda also warrants serious attention. With undertrial prisoners constituting the bulk of India&apos;s prison population, there is an urgent need for a structured bail reform framework that ensures liberty without compromising public safety or victim protection. The intersection of mental health and criminal justice long ignored must also be addressed, with dedicated mechanisms for the rehabilitation of both offenders and victims who suffer psychological harm as a consequence of crime.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The enactment of the three new criminal laws in 2023 marks a watershed moment in the history of Indian criminal jurisprudence. The legislature&apos;s attempt to decolonise the criminal justice framework and bring it in line with contemporary constitutional values is both timely and commendable. Provisions such as the Zero FIR, mandatory investigation timelines in cases involving women and children, and the expanded framework for electronic evidence represent genuine progress towards a more victim-centric system.</p>
+                        <p className="mt-4">Yet, the reform is incomplete. The absence of a dedicated victim rights statute, an inadequate witness protection framework, and the lack of guaranteed legal representation for victims reveal that the legislative imagination has not yet fully embraced the victim as a central actor in the drama of criminal justice. The judiciary, through decades of activist interpretation, has done much to fill this void, but judicial intervention is inherently piecemeal and reactive. What is needed is a comprehensive, proactive legislative vision that places the victim along with the accused and the state at the heart of the criminal justice enterprise.</p>
+                        <p className="mt-4">True criminal justice reform must ensure that justice is not merely done, but seen and felt to be done by the victim, by the community, and by society at large. The new criminal laws have opened a door; what lies beyond that door will depend on the courage and commitment of legislators, judges, administrators, and citizens to walk through it together.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>Hussainara Khatoon v. Home Secretary, State of Bihar, (1980) 1 SCC 81.</li>
+                                    <li>D.K. Basu v. State of West Bengal, (1997) 1 SCC 416.</li>
+                                    <li>Arnesh Kumar v. State of Bihar, (2014) 8 SCC 273.</li>
+                                    <li>Lalita Kumari v. Government of U.P., (2014) 2 SCC 1.</li>
+                                    <li>Nilabati Behera v. State of Orissa, (1993) 2 SCC 746.</li>
+                                    <li>Sanjay Chandra v. Central Bureau of Investigation, (2012) 1 SCC 40.</li>
+                                    <li>Mahendra Chawla v. Union of India, (2019) 14 SCC 615.</li>
+                                    <li>Prakash Singh v. Union of India, (2006) 8 SCC 1.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes &amp; Reports</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={9}>
+                                    <li>Constitution of India, 1950, Article 21.</li>
+                                    <li>National Crime Records Bureau (NCRB), Crime in India Report 2022.</li>
+                                    <li>Law Commission of India, 154th Report on Code of Criminal Procedure.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Prince Bamboriya, Dr. Bhimrao Ambedkar Law University, Jaipur.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Constitutional Promises and Legislative Shortcomings: Analysing Transgender Rights in India",
+            author: "By Himanshi Bansal",
+            abstract: "India's constitutional framework is rooted in equality, dignity, and justice. While landmark rulings like NALSA and Navtej Singh Johar recognized the third gender and decriminalized consensual same-sex acts, recent legislative developments like the Transgender Persons (Protection of Rights) Amendment Act, 2026 have reignited concerns. This article examines the statutory and judicial landscapes of transgender rights in India, analyzing the impact of medical screening boards on gender autonomy and privacy, and suggesting reforms for social inclusion.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Statutory Provisions</li>
+                            <li>Landmark Judicial Pronouncements</li>
+                            <li>Socio-Legal Challenges</li>
+                            <li>Analysis and Suggested Reforms</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>India&apos;s constitutional framework is rooted in the principles of equality, dignity, and justice, aiming to safeguard the rights of every individual regardless of their gender identity. Yet, for many years, the transgender community in India has faced systemic discrimination, social stigma, and marginalisation. They struggled to have their own identity in society and in the legal system, as they have been consistently denied basic human rights. Even today, they are often perceived as socially deviant individuals whose behaviour and manner of dressing are considered &quot;unnatural&quot; by prevailing societal norms. They frequently experience discrimination in education, healthcare, employment, and public spaces, and remain vulnerable to hate crimes, abuse, sexual violence, and inhumane treatment in everyday life.</p>
+                        <p className="mt-4">Nevertheless, the first legal milestone for the protection of transgender persons was achieved when the Supreme Court of India recognised them as the &quot;third gender&quot; in the landmark judgment of <em>National Legal Services Authority (NALSA) v. Union of India (2014)</em>.<sup className="text-[#D4AF37] ml-1">1</sup> It affirmed that transgender individuals are entitled to fundamental rights under the Constitution, including the right to self-identify their gender, and mandated affirmative action measures for their welfare. Another historic judicial intervention through <em>Navtej Singh Johar v. Union of India (2018)</em><sup className="text-[#D4AF37] ml-1">2</sup> decriminalised consensual sexual acts between adults of the same sex, effectively reading down Section 377 of the IPC,<sup className="text-[#D4AF37] ml-1">3</sup> which criminalised homosexual acts.</p>
+                        <p className="mt-4">Despite judicial progress, recent legislative developments, such as the Transgender Persons (Protection of Rights) Amendment Act, 2026, have reignited concerns regarding gender autonomy, self-identification, and state control over identity recognition. This new amendment is infringing upon the fundamental right to privacy of transgender persons. This article seeks to examine the rights and protections granted to LGBTQ+ individuals, analyse the implications of the recent amendment, and evaluate the continued social ostracization. It will further propose reforms to dismantle social stigma and to ensure recognition of their equal status, dignity, and autonomy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATUTORY PROVISIONS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Transgender Persons (Protection of Rights) Act, 2019</h5>
+                        <p>This was enacted to give legislative backing to the principles laid down in the NALSA judgment.<sup className="text-[#D4AF37] ml-1">4</sup> It recognises transgender persons as the third gender and recognizes their right to self-identification based on their gender identity. One of the major benefits of the Act is that it prohibits discrimination against transgender individuals in employment, education, healthcare, and access to public spaces. Moreover, the Act criminalizes offences against them, including physical, sexual, emotional, and economic abuse. It requires them to obtain a certificate of identity, which enables them to access various services and entitlements as per their self-identified gender.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Transgender Persons (Protection of Rights) Amendment Act, 2026</h5>
+                        <p>It marks a definitive shift in legislative approach towards gender identity.<sup className="text-[#D4AF37] ml-1">5</sup> It narrowed down the definition of a &quot;transgender person.&quot; In the original Act, the definition was broad, covering trans-man, trans-woman, person with intersex variations, genderqueer, and persons having socio-cultural identities as kinner, hijra, aravani, and jogta. Under the amended Act, the definition focused more strictly on biological markers and specific medical transitions, excluding trans-man, trans-woman, and genderqueer individuals from its primary ambit.</p>
+                        <p className="mt-4">It also mandated that an individual must provide specific medical documentation or undergo a screening process by a designated medical board to register transgender status in official records. This amendment is widely termed a &quot;regressive&quot; step by advocates, placing the state in direct conflict with the self-determination principles established in the NALSA judgment.</p>
+
+                        <div className="bg-red-950/20 border-l-2 border-red-500 p-5 rounded mt-6 space-y-3 text-sm">
+                            <strong className="text-red-400 block text-base font-bold">Key Concerns of the 2026 Amendment</strong>
+                            <ul className="list-disc pl-5 space-y-2 text-zinc-300">
+                                <li>The requirement to verify gender identity through medical boards is seen as a severe intrusion into personal privacy and bodily autonomy.<sup className="text-[#D4AF37] ml-1">6</sup></li>
+                                <li>The omission of trans-man, trans-woman, and genderqueer from the primary definitions is perceived as a denial of existence to a large section of the community.<sup className="text-[#D4AF37] ml-1">6</sup></li>
+                                <li>There is significant concern regarding the impact of these changes on existing identity certificates already issued under the 2019 Act.</li>
+                                <li>The law &quot;medicalizes&quot; the transgender identity rather than recognizing it as an internal experience of gender. Navigating medical screening boards is humiliating, psychologically distressing, and forces individuals to deal with systemic transphobia.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK JUDICIAL PRONOUNCEMENTS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Naz Foundation v. Government of NCT of Delhi (2009)</strong>
+                                <p className="text-sm text-zinc-300">This was the first major judicial recognition of LGBTQIA+ rights and affirmation of the constitutional promise of equality, dignity, and liberty.<sup className="text-[#D4AF37] ml-1">7</sup> The Delhi High Court declared that Section 377 IPC, insofar as it criminalises consensual sexual acts of adults in private, is violative of Articles 21, 14, and 15 of the Constitution, retaining offences relating to non-consensual assault, bestiality, and sex with minors.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. National Legal Services Authority (NALSA) v. Union of India (2014)</strong>
+                                <p className="text-sm text-zinc-300">This judgment granted the long-awaited legal recognition of the &quot;third gender&quot; and the right to self-identification.<sup className="text-[#D4AF37] ml-1">1</sup> The Supreme Court held that gender identity lies at the core of personal identity, expression, and presentation under Article 19(1)(a).<sup className="text-[#D4AF37] ml-1">8</sup> It directed governments to consider them as socially and educationally backward classes (SEBC), providing healthcare, separate facilities, and public reservations.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)</strong>
+                                <p className="text-sm text-zinc-300">The nine-judge bench unanimously recognized the right to privacy as an intrinsic part of the fundamental right to life and personal liberty under Article 21.<sup className="text-[#D4AF37] ml-1">9</sup> The judgment clarified that privacy is integral to dignity and autonomy, extending to personal relationships, sexual orientation, and freedom from unwarranted state surveillance under Articles 14 and 15.<sup className="text-[#D4AF37] ml-1">11</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Navtej Singh Johar v. Union of India (2018)</strong>
+                                <p className="text-sm text-zinc-300">A watershed moment where the Supreme Court decriminalised consensual sexual activity between individuals of the same sex.<sup className="text-[#D4AF37] ml-1">2</sup> The Court declared that sexual orientation is an essential, innate facet of the right to privacy, and that constitutional rights must always prevail over majoritarian social values or prejudices.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Supriyo v. Union of India (2023)</strong>
+                                <p className="text-sm text-zinc-300">The Court declined to recognize same-sex marriages, ruling that restructuring social institutions of this nature falls within the legislative domain.<sup className="text-[#D4AF37] ml-1">12</sup> While it reaffirmed LGBTQIA+ dignity and the right to cohabit, it held that there is no fundamental right to marry under the Constitution, directing the government to form a committee to examine key legal protections (joint accounts, insurance, pensions) for same-sex couples.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SOCIO-LEGAL CHALLENGES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Absence of Marriage Rights</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Despite legal cohabitation, same-sex couples are deprived of several civil benefits available to married spouses, such as succession, inheritance, pension entitlements, and tax benefits, as current laws define marriage within a strict heterosexual paradigm.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Adoption Obstacles</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">It is difficult for same-sex couples to adopt a child, as they cannot legally demonstrate two years of marital stability. Adopting as a single parent deprives the other partner of parental rights, leaving the child unable to inherit from both parents.</p>
+                                </div>
+                            </div>
+                            <div className="bg-black/35 p-5 rounded-xl border border-white/5 flex flex-col justify-between">
+                                <div>
+                                    <h5 className="font-bold text-[#D4AF37] text-lg mb-2 border-b border-[#D4AF37]/20 pb-1">Social Discrimination</h5>
+                                    <p className="text-sm leading-relaxed text-zinc-300">Transgender individuals continue to face widespread social derision, bullying in educational institutions, harassment in the workplace, family rejection, homelessness, and mental distress, forcing many to conceal their true identities.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND SUGGESTED REFORMS</h4>
+                        <p>The monumental principles established by the judiciary are commendable; however, recent legislative actions that conflict with judicial pronouncements raise serious concerns regarding the effective implementation of constitutional morality. The introduction of a medical screening process for gender determination directly infringes upon the privacy, autonomy, and dignity established in the <em>NALSA</em> judgment. Such measures create significant barriers for an already marginalised community in accessing welfare schemes, where gender certification remains a prerequisite.</p>
+                        <p className="mt-4">Furthermore, the implementation of the 2019 Act remains weak. Transgender individuals still lack adequate reservation in public employment and educational institutions. Consequently, many are compelled to rely on traditional means of livelihood, such as seeking alms on trains and during social occasions, owing to the continued absence of equal opportunities. Directives on gender sensitisation and awareness also suffer from weak enforcement, leaving the community vulnerable to everyday abuse.</p>
+                        <p className="mt-4">To safeguard these constitutional promises, the government must adopt the following reforms:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Mass Awareness Campaigns:</strong> Launch multilingual media campaigns across television, radio, and digital platforms to educate the public on transgender rights and dismantle social stigma.</li>
+                            <li><strong className="text-white">2. Educational Integration:</strong> Introduce gender sensitisation modules into school curricula to challenge stereotypes and foster respectful behaviour from an early age.</li>
+                            <li><strong className="text-white">3. Welfare Reservations:</strong> Provide reservation quotas (similar to SC/ST/OBC groups) to transgender and LGBTQ+ individuals to secure their rights to equal opportunity under Articles 14, 15, 19, and 21.</li>
+                            <li><strong className="text-white">4. Inclusive Infrastructure:</strong> Mandate gender-neutral washrooms in public spaces, universities, and offices, along with inclusive seating arrangements in public transport to normalise their inclusion.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The constitutional rights of transgender individuals were acknowledged through a series of landmark judgments affirming their dignity, equality, and autonomy. Despite these progressive rulings, the issue of substantive equality remains an ongoing struggle. The fight for marriage recognition is currently contingent upon legislative discretion, and the legislature&apos;s inaction and recent regressive amendments demonstrate institutional neglect of self-identification, privacy, and dignity rights.</p>
+                        <p className="mt-4">The absence of comprehensive legislation continues to create uncertainty in marriage, adoption, succession, and related civil rights. The future of LGBTQIA+ rights in India depends upon whether constitutional morality continues to guide legislative and judicial action. The true strength of a constitutional democracy lies in its ability to protect, include, and affirm historically marginalised communities.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20 mt-12">
+                        <h4 className="font-bold text-white text-xl mb-4 font-mono uppercase tracking-wider">Citations &amp; References</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Cases</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm">
+                                    <li>National Legal Services Authority (NALSA) v. Union of India, (2014) 5 SCC 438.</li>
+                                    <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                                    <li>Naz Foundation v. Government of NCT of Delhi, (2009) 6 SCC 712.</li>
+                                    <li>Justice K. S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</li>
+                                    <li>Supriyo @ Supriya Chakraborty v. Union of India, 2023 SCC OnLine SC 1348.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes, Reports &amp; Provisions</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={6}>
+                                    <li>The Indian Penal Code, 1860, Section 377.</li>
+                                    <li>Transgender Persons (Protection of Rights) Act, 2019.</li>
+                                    <li>Transgender Persons (Protection of Rights) Amendment Act, 2026.</li>
+                                    <li>Constitution of India, 1950, Articles 14, 15, 19(1)(a), and 21.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Secondary Sources</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400 text-sm" start={10}>
+                                    <li>Chintan Shah, &apos;Transgender Rights Amendment Act 2026 India: A Controversial Shift in Legal Recognition&apos;, Bharat Law, 1 April 2026.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Himanshi Bansal, BA-LLB Student at National Law University, Delhi.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Innocent on Trials: Is POCSO Protecting Children or Persecuting the Innocents?",
+            author: "By Ankita Biswas",
+            abstract: "The Protection of Children from Sexual Offences (POCSO) Act, 2012, was introduced to safeguard minors from sexual abuse and exploitation. However, over time, concerns have risen regarding its potential misuse in personal or matrimonial disputes, property grudges, and consensual adolescent relationships. With provisions like non-bailable offences and a presumption of guilt, mechanical arrests can tarnish the reputation of innocent individuals. This article provides a critical analysis of the POCSO framework, supported by statistical data and landmark judicial precedents, exploring the delicate balance between child protection and the rights of the accused.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Critical Analysis</li>
+                            <li>Statistical Proof</li>
+                            <li>Landmark Judgments</li>
+                            <li>Conclusion &amp; Reforms</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            The Protection of Children from Sexual Offences (POCSO) Act, 2012<sup className="text-[#D4AF37] ml-0.5">1</sup> came into force on November 14, 2012. It was introduced to safeguard minors from sexual predation such as pornography, sexual harassment, and sexual assault. All offences under POCSO are cognizable and non-bailable, meaning that the police can arrest an accused without a warrant and bail cannot be claimed as a matter of right. Prior to its enactment, there was no specific, comprehensive law to address child sexual abuse; cases were primarily dealt with under provisions of the Indian Penal Code (IPC), 1860, such as Section 375 (Rape) and Section 354 (Outraging the modesty of a woman).<sup className="text-[#D4AF37] ml-0.5">2</sup> However, these IPC sections had narrow definitions and lacked gender-neutral provisions specifically tailored to safeguard minors. By enacting POCSO, India fulfilled its commitment under the United Nations Convention on the Rights of the Child (UNCRC), which it ratified in 1992.<sup className="text-[#D4AF37] ml-0.5">3</sup>
+                        </p>
+                        <p className="mt-4">
+                            While the POCSO Act is an essential shield to protect minors, it has also been increasingly used as a tool to pacify personal grudges or legal vendettas. Over the years, serious questions have emerged regarding whether the law remains true to its noble objectives or is sometimes misused to harass and falsely implicate innocent individuals.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL ANALYSIS</h4>
+                        <p>
+                            India is a diverse, multicultural, and multilingual country where approximately 39% of the population comprises children. According to a study by the Ministry of Women and Child Development, an alarming 53% of children surveyed reported facing some form of sexual abuse.<sup className="text-[#D4AF37] ml-0.5">4</sup> In response to such high crime rates and the lack of a specialized child-friendly legal framework, the POCSO Act was designed to provide comprehensive protection. The Act ensures child-sensitive procedures during reporting, investigation, and trial. It also mandates the creation of Special Courts for speedy trials, with a statutory objective to dispose of cases within one year.
+                        </p>
+                        <p className="mt-4">
+                            However, like many legal provisions, the POCSO Act suffers from vulnerabilities that make it susceptible to misuse. Vexatious cases are frequently filed under the Act to settle custodial battles, leverage matrimonial disputes, extort financial compensation, or resolve property-related grudges. The legal architecture of POCSO worsens the situation for the accused because of the statutory presumption of guilt. An accused charged under POCSO is presumed guilty until proven innocent, creating severe social stigma and discrimination. Furthermore, the practice of mechanical arrests—arresting an accused immediately upon the registration of an FIR without preliminary investigation or a warrant—often inflicts irreparable damage on an innocent person&apos;s reputation and livelihood before the truth can be established in court.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE PROOF (STATISTICAL EVIDENCE)</h4>
+                        <p className="mb-4">
+                            The misuse of POCSO provisions is a growing concern that is becoming too significant to ignore. The following data highlights the scale and nature of cases under the Act:
+                        </p>
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                            <ul className="space-y-4 list-disc pl-5">
+                                <li>
+                                    <strong className="text-white">Rising Case Volume:</strong> According to the &quot;Into the Light Index 2025,&quot; POCSO cases reached an annual average of 64,000 between 2017 and 2022.<sup className="text-[#D4AF37] ml-0.5">5</sup>
+                                </li>
+                                <li>
+                                    <strong className="text-white">Offence Breakdown:</strong> NCRB reports show that child rape accounts for approximately 55% of all registered POCSO cases, with female minors making up 99% of the victims.<sup className="text-[#D4AF37] ml-0.5">6</sup>
+                                </li>
+                                <li>
+                                    <strong className="text-white">Low Conviction and High Acquittal Rates:</strong> According to NCRB data, the conviction rate for POCSO cases in 2022 stood at just 29.6%. Conversely, the acquittal rate exceeded 70%, which includes cases that were found to be false, vexatious, or lacking sufficient evidence.<sup className="text-[#D4AF37] ml-0.5">7</sup>
+                                </li>
+                                <li>
+                                    <strong className="text-white">Consensual Adolescent Relationships:</strong> Studies reveal that approximately 52.08% of total POCSO cases involving teenagers do not involve sexual abuse or exploitation in the traditional sense, but are rather cases of consensual romantic relationships criminalized by parents.<sup className="text-[#D4AF37] ml-0.5">8</sup>
+                                </li>
+                                <li>
+                                    <strong className="text-white">Matrimonial Disputes:</strong> There is a rising trend of parents using their children to file POCSO complaints against the other spouse as a strategic move to secure child custody.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK JUDGMENTS</h4>
+                        <p className="mb-4">
+                            The judiciary has played a crucial role in balancing the strict provisions of the POCSO Act with the rights of individuals, intervening to prevent the abuse of the law while keeping child safety paramount:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Vijayalakshmi v. State (2021)</strong>
+                                <p><span className="text-[#D4AF37]">Context:</span> An adolescent boy and a minor girl were in a consensual romantic relationship. The girl&apos;s parents filed a complaint under Sections 6 and 9 of the POCSO Act and Section 366 of the IPC.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Madras High Court quashed the case, observing that POCSO was enacted to protect children from exploitation and sexual predation, not to criminalize consensual adolescent love. The court noted that using POCSO in such scenarios inflicts unnecessary trauma and criminalizes youth for biological and emotional development.<sup className="text-[#D4AF37] ml-0.5">9</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Suhara &amp; Others v. Muhammed Jaleel (2019)</strong>
+                                <p><span className="text-[#D4AF37]">Context:</span> Following the death of a mother, the custody of the child naturally fell to the father, while the maternal grandparents were granted visitorial rights. Dissatisfied with this arrangement, the grandparents filed a false POCSO complaint against the father to strip him of custody.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Kerala High Court intervened, deprecating the practice of using the POCSO Act as a weapon in matrimonial and child custody disputes to settle personal scores.<sup className="text-[#D4AF37] ml-0.5">10</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Independent Thought v. Union of India (2017)</strong>
+                                <p><span className="text-[#D4AF37]">Context:</span> A landmark petition challenging the exception under the IPC that allowed marital intercourse with minor wives.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Supreme Court of India ruled that sexual intercourse by a man with his own wife, who is under 18 years of age, constitutes rape. The court effectively raised the age of consent to 18 years in all circumstances, prioritizing child protection and the fundamental rights of girls over traditional matrimonial exceptions.<sup className="text-[#D4AF37] ml-0.5">11</sup></p>
+                                <p className="mt-1 text-sm text-zinc-500">Citation: Independent Thought v. Union of India, (2017) 10 SCC 800.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. State of Uttar Pradesh v. Anurudh &amp; Anr. (2026)</strong>
+                                <p><span className="text-[#D4AF37]">Context:</span> This case addressed the legal friction between strict statutory protection and adolescent consensual relationships.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Supreme Court of India recognized the necessity of a &quot;Romeo-Juliet&quot; clause to distinguish between genuine sexual exploitation and age-proximate intimacy. The court emphasized the need to protect young couples from being criminalized due to parental disapproval, establishing a judicial buffer that balances child protection with the realities of adolescent development.<sup className="text-[#D4AF37] ml-0.5">12</sup></p>
+                                <p className="mt-1 text-sm text-zinc-500">Citation: State of Uttar Pradesh v. Anurudh, 2026 INSC 47.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION &amp; REFORMS</h4>
+                        <p>
+                            The POCSO Act, 2012, is a progressive, gender-neutral legislative framework designed to safeguard children from sexual abuse. However, the law faces intense scrutiny for criminalizing consensual adolescent relationships and being weaponized by families in property or matrimonial disputes. Additionally, despite the statutory mandate to resolve cases within one year, lack of adequate judicial infrastructure and special courts has led to a massive backlog of pending cases.
+                        </p>
+                        <p className="mt-4">
+                            Since the law relies heavily on biological age (18 years) and disregards the mental or intellectual maturity of the adolescent, it frequently leads to severe trauma and tarnished reputations, particularly for young boys. To remedy these shortcomings, the legal framework requires balanced reforms. These include introducing a mandatory preliminary inquiry before making arrests under POCSO, imposing strict legal penalties for filing vexatious or false complaints, and reviewing the rigid age of consent to better align with the realities of adolescent behavior.
+                        </p>
+                        <p className="mt-4 text-center text-[#D4AF37] font-semibold italic">
+                            &quot;A law enacted to safeguard the most vulnerable section of society must not be allowed to become a tool to pacify malafide intentions.&quot;
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-zinc-400">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes &amp; Conventions</h5>
+                                <ol className="list-decimal pl-5 space-y-1">
+                                    <li>The Protection of Children from Sexual Offences (POCSO) Act, 2012 (Act No. 32 of 2012).</li>
+                                    <li>The Indian Penal Code, 1860 (Sections 354 &amp; 375).</li>
+                                    <li>United Nations Convention on the Rights of the Child, 1989 (Ratified by India in 1992).</li>
+                                    <li>Ministry of Women and Child Development Study on Child Abuse, Government of India.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Reports &amp; Articles</h5>
+                                <ol className="list-decimal pl-5 space-y-1" start={5}>
+                                    <li>
+                                        <a href="https://www.childlight.org/into-the-light" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            Childlight &quot;Into the Light&quot; Index, 2025.
+                                        </a>
+                                    </li>
+                                    <li>National Crime Records Bureau (NCRB) Annual Reports.</li>
+                                    <li>
+                                        <a href="https://www.drishtiias.com/daily-updates/daily-news-analysis/ncrbs-crime-in-india-2022-report" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            NCRB &quot;Crime in India 2022&quot; Report Analysis.
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://ijfcm.org/archive/volume/12/issue/3/article/24534/pdf" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            Indian Journal of Forensic and Community Medicine (Vol. 12, Issue 3).
+                                        </a>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                        <div className="mt-6 pt-6 border-t border-white/10">
+                            <h5 className="font-bold text-[#D4AF37] text-md mb-2">Case Law Citations</h5>
+                            <ol className="list-decimal pl-5 space-y-1 text-sm grid grid-cols-1 md:grid-cols-2 gap-x-6" start={9}>
+                                <li>
+                                    <a href="https://www.legalservicesindia.com/law/article/1819/5/Punishing-An-Adolescent-Boy-Who-Enters-Into-A-Relationship-With-A-Minor-Girl-Was-Never-The-Objective-Of-POCSO-Act-Madras-HC?id=1819&amp;u=5" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                        Vijayalakshmi v. State, 2021 SCC OnLine Mad 317.
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://indiankanoon.org/doc/181108373/" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                        Suhara &amp; Others v. Muhammed Jaleel, 2019 SCC OnLine Ker 1237.
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.barelaw.in/independent-thought-v-union-of-india/" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                        Independent Thought v. Union of India, (2017) 10 SCC 800.
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.verdictum.in/court-updates/supreme-court/the-state-of-uttar-pradesh-v-anurudh-2026-insc-47-romeo-juliet-clause-1604088" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                        State of Uttar Pradesh v. Anurudh &amp; Anr., 2026 INSC 47 (Romeo-Juliet Clause).
+                                    </a>
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Ankita Biswas, BBA LLB Student, 3rd Year at MAKAUT.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "International Law in Climate Change Governance.",
+            author: "By Alu Dominic",
+            abstract: "Climate change represents an unprecedented global challenge that transcends national boundaries, requiring collective international action. This article critically examines the role of international law in global climate change governance. It traces the evolution of key international treaties, including the UNFCCC, the Kyoto Protocol, and the Paris Agreement, and analyzes the core principle of Common but Differentiated Responsibilities (CBDR). Furthermore, the paper highlights the growing impact of climate litigation through landmark domestic and international rulings and proposes necessary reforms to strengthen enforcement mechanisms, climate finance, and corporate accountability.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objectives and Scope</li>
+                            <li>Background of Climate Governance</li>
+                            <li>Legal Framework &amp; Key Treaties</li>
+                            <li>The Principle of CBDR</li>
+                            <li>Case Law &amp; Judicial Developments</li>
+                            <li>Analysis &amp; Contemporary Challenges</li>
+                            <li>Proposed Reforms &amp; Future Scope</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Climate change is one of the most critical and pressing global challenges of the twenty-first century, manifesting as shifts in weather patterns, rising temperatures, and widespread biodiversity loss. Driven by both natural factors and human activities—most notably industrial and commercial operations—climate change has caused rising global temperatures, melting glaciers, sea-level rise, economic instability, and threats to international peace.
+                        </p>
+                        <p className="mt-4">
+                            Scientists, economists, and international organizations recognize that unlike domestic environmental issues, climate change transcends national boundaries. Greenhouse gas emissions produced in one nation affect the entire planet, meaning no single country can address this crisis alone. Consequently, international law has emerged as a powerful mechanism to orchestrate collective global actions.
+                        </p>
+                        <p className="mt-4">
+                            International climate governance refers to the legal rules, institutions, and frameworks developed by the global community to address these challenges. Key instruments like the United Nations Framework Convention on Climate Change (UNFCCC), the Kyoto Protocol, and the Paris Agreement represent crucial milestones in this evolution. These agreements aim to establish responsibilities among states, encourage sustainable development practices, and foster international cooperation.
+                        </p>
+                        <p className="mt-4">
+                            Yet, despite numerous treaties, greenhouse emissions continue to rise, exposing a significant gap between legal commitments and actual implementations. Disagreements persist between developing countries, who argue that developed nations bear the historical responsibility for emissions, and developed nations, who advocate for shared global obligations. Issues of climate justice, sovereignty, accountability, and enforcement continue to challenge the effectiveness of global climate governance.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVES AND SCOPE</h4>
+                        <p>
+                            The primary objective of this article is to analyze how international law contributes to climate change governance and global environmental protection. Specifically, it aims to:
+                        </p>
+                        <ul className="list-disc pl-5 mt-2 space-y-2">
+                            <li>Examine the evolution of international climate treaties and the legal obligations they impose on states.</li>
+                            <li>Identify the strengths and weaknesses of the existing global legal framework.</li>
+                            <li>Highlight the practical challenges of implementation and enforcement.</li>
+                            <li>Explore the role of judicial institutions, climate litigation, and emerging legal principles in promoting state accountability.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF CLIMATE GOVERNANCE</h4>
+                        <p>
+                            Global climate governance gained traction in the late 20th century as scientific evidence linked industrial practices and fossil fuel reliance to global warming. The rise of the Industrial Revolution exponentially increased greenhouse gas emissions, leading global leaders to seek unified legal measures.
+                        </p>
+                        <p className="mt-4">
+                            An early milestone was the 1972 United Nations Conference on the Human Environment in Stockholm, which elevated environmental protection to a global concern. This was followed by the Brundtland Report of 1987, which introduced the concept of &quot;sustainable development&quot;—defined as progress that meets the needs of the present without compromising the ability of future generations to meet their own needs.
+                        </p>
+                        <p className="mt-4">
+                            Climate change received formal legal recognition at the Rio Earth Summit in 1992 with the establishment of the UNFCCC, which introduced the principle of &quot;Common but Differentiated Responsibilities&quot; (CBDR). In 1997, the Kyoto Protocol became the first treaty to impose legally binding emission reduction targets on developed nations. However, its effectiveness was limited by the non-participation or withdrawal of major emitters.
+                        </p>
+                        <p className="mt-4">
+                            In 2015, the Paris Agreement shifted the paradigm by adopting a bottom-up, flexible framework where all states submit voluntary Nationally Determined Contributions (NDCs) aimed at keeping global warming well below 2°C above pre-industrial levels.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK &amp; KEY TREATIES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">United Nations Framework Convention on Climate Change (UNFCCC), 1992</h5>
+                        <p>
+                            Adopted in 1992, the UNFCCC is the bedrock of international climate law. Its ultimate objective is to stabilize greenhouse gas concentrations at a level that prevents dangerous human interference with the climate system. The treaty established core guiding principles, including the precautionary approach, sustainable development, and CBDR. While it set up an institutional framework for periodic negotiations, it did not impose binding emission limits.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Kyoto Protocol, 1997</h5>
+                        <p>
+                            Entering into force in 2005, the Kyoto Protocol operationalized the UNFCCC by committing developed nations to binding emission targets. It introduced flexible market-based mechanisms such as emissions trading, Joint Implementation, and the Clean Development Mechanism (CDM). However, the protocol suffered from limited participation, and its impact was severely weakened when the United States withdrew.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Paris Agreement, 2015</h5>
+                        <p>
+                            The Paris Agreement represents a landmark consensus in climate governance. It requires all parties to outline and communicate their climate efforts through NDCs. The agreement also provides frameworks for technology transfer, capacity-building, adaptation, and climate finance for developing nations. While its inclusive, bottom-up design encourages wider participation, critics point out that it lacks strong, binding enforcement mechanisms to compel states to meet their targets.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE PRINCIPLE OF CBDR</h4>
+                        <p>
+                            The principle of Common but Differentiated Responsibilities (CBDR) is central to international climate law. It recognizes that while all states share a common obligation to protect the environment, they have different levels of responsibility based on their historical contributions to environmental degradation and their financial and technological capacities. Consequently, industrialized nations are expected to lead emission reduction efforts and assist developing states. This principle remains a point of negotiation and debate between developed and developing economies.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAW &amp; JUDICIAL DEVELOPMENTS</h4>
+                        <p className="mb-4">
+                            Domestic and international courts have increasingly influenced climate governance by interpreting human rights, environmental laws, and constitutional provisions to hold governments and entities accountable:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Urgenda Foundation v. State of the Netherlands (2019)</strong>
+                                <p>
+                                    The Dutch Supreme Court ruled that the government had a binding legal obligation to reduce greenhouse gas emissions to protect human rights. The court held that insufficient climate action violated Articles 2 (right to life) and 8 (right to private and family life) of the European Convention on Human Rights (ECHR).
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Leghari v. Federation of Pakistan (2015)</strong>
+                                <p>
+                                    The Lahore High Court recognized climate change as a direct threat to the fundamental right to life and dignity. The court directed the Pakistani government to establish a Climate Change Commission to ensure the effective implementation of the nation&apos;s climate policies.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Massachusetts v. Environmental Protection Agency (2007)</strong>
+                                <p>
+                                    The United States Supreme Court ruled that greenhouse gases fall under the definition of &quot;air pollutants&quot; in the Clean Air Act. This landmark decision authorized the Environmental Protection Agency (EPA) to regulate carbon dioxide emissions from new motor vehicles.
+                                </p>
+                            </li>
+                        </ul>
+                        <p className="mt-4">
+                            Legal scholars have also examined the mechanisms of international climate law. Professor Daniel Bodansky highlights that climate governance relies on a combination of binding legal obligations, political commitments, and diplomatic peer-pressure, rather than central enforcement. Similarly, Lavanya Rajamani emphasizes that equity and differential treatment remain key to keeping the international regime functional and fair.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS &amp; CONTEMPORARY CHALLENGES</h4>
+                        <p>
+                            International law has successfully established global norms, raised public awareness, and built institutional pathways for cooperation. However, its effectiveness is hindered by several systemic challenges:
+                        </p>
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4 my-4">
+                            <ul className="space-y-4 list-disc pl-5">
+                                <li>
+                                    <strong className="text-white">Voluntary and Weak Enforcement:</strong> Many treaties rely on voluntary targets rather than hard enforcement mechanisms. Without a centralized body to penalize non-compliance, economic and political priorities often override climate goals.
+                                </li>
+                                <li>
+                                    <strong className="text-white">The Equity Gap:</strong> Developing nations lack the financial resources and technology to transition to clean energy systems, yet developed nations have frequently fallen short of their financial commitments to assist them.
+                                </li>
+                                <li>
+                                    <strong className="text-white">Litigation as a Tool:</strong> In the absence of strong multilateral enforcement, domestic climate litigation has emerged as a key pathway to pressure governments and private corporations into adopting stronger climate actions.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PROPOSED REFORMS &amp; FUTURE SCOPE</h4>
+                        <p>
+                            To enhance the effectiveness of climate change governance, the following reforms are proposed:
+                        </p>
+                        <ul className="list-disc pl-5 mt-2 space-y-3">
+                            <li>
+                                <strong className="text-white">Strengthen Compliance Mechanisms:</strong> Introduce robust monitoring, verification, and transparency guidelines with clear consequences for failing to meet targets.
+                            </li>
+                            <li>
+                                <strong className="text-white">Fulfill Climate Finance Commitments:</strong> Developed nations must deliver on their pledges of financial support and technology transfer to enable equitable green growth in developing states.
+                            </li>
+                            <li>
+                                <strong className="text-white">Human Rights Integration:</strong> Courts and treaties should explicitly link climate protection to fundamental human rights, such as the rights to life, water, health, and housing.
+                            </li>
+                            <li>
+                                <strong className="text-white">Inclusive Governance:</strong> Ensure active participation of local communities, indigenous peoples, and civil society organizations in decision-making processes.
+                            </li>
+                            <li>
+                                <strong className="text-white">Corporate Accountability:</strong> Establish binding international standards and national regulations to hold multinational corporations accountable for their carbon footprints and environmental impact.
+                            </li>
+                        </ul>
+                        <p className="mt-4">
+                            In the future, the scope of climate law will likely expand to incorporate concepts like intergenerational equity, climate justice, and the rights of nature. The integration of environmental protections into international trade, investment, and human rights frameworks will be key to creating a comprehensive legal regime.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            Climate change is a global emergency demanding coordinated, immediate action. While treaties like the UNFCCC, Kyoto Protocol, and Paris Agreement have successfully established a global governance architecture, their impact is limited by political disputes, funding shortages, and weak enforcement. Nonetheless, domestic judicial activism and climate litigation are helping to fill these gaps. Ultimately, achieving sustainable development and climate justice requires genuine political commitment and equitable responsibility-sharing among all nations.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-zinc-400">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Literature &amp; Treaties</h5>
+                                <ol className="list-decimal pl-5 space-y-1">
+                                    <li>Daniel Bodansky, <em>The Art and Craft of International Environmental Law</em> (Harvard University Press, 2010).</li>
+                                    <li>Lavanya Rajamani, <em>International Environmental Law: Differential Treatment</em> (Oxford University Press, 2006).</li>
+                                    <li>United Nations Framework Convention on Climate Change (UNFCCC), 1992.</li>
+                                    <li>Kyoto Protocol to the United Nations Framework Convention on Climate Change, 1997.</li>
+                                    <li>Paris Agreement, 2015.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Case Law Citations</h5>
+                                <ol className="list-decimal pl-5 space-y-1" start={6}>
+                                    <li><em>State of the Netherlands v. Urgenda Foundation</em>, Hoge Raad (Supreme Court of the Netherlands), 2019 NLHR 2007.</li>
+                                    <li><em>Ashgar Leghari v. Federation of Pakistan</em>, Lahore High Court, (2015) W.P. No. 25501/2015.</li>
+                                    <li><em>Massachusetts v. Environmental Protection Agency</em>, Supreme Court of the United States, 549 U.S. 497 (2007).</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Alu Dominic, Legal Intern, Parul University Institute of Law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Fake News, War and the Law",
+            author: "By Samridhi Chakra",
+            abstract: "Warfare in the digital age is fought not only on physical battlefronts but also in the information domain. This article examines the intersection of fake news, warfare, and the law in India, with reference to the 2025 military stand-off, Operation Sindoor. It explores the constitutional boundaries of freedom of speech and expression under Article 19, the right to information under Article 21, and statutory powers such as Section 69A of the IT Act and the IT Rules, 2021. Further, it analyzes the impact of AI-generated deepfakes and details landmark judicial checks on censorship, including Kunal Kamra, Anuradha Bhasin, and K.S. Puttaswamy, concluding with a call for specialized frameworks on information warfare.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional and Legal Recognition</li>
+                            <li>Statutory Provisions and Legal Tools</li>
+                            <li>How Media and AI Shaped the Crisis</li>
+                            <li>Legal Shortcomings &amp; Regulatory Gaps</li>
+                            <li>Landmark Judgments</li>
+                            <li>Conclusion &amp; Proposed Reforms</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Warfare is the time when a nation faces its darkest days. Modern wars are fought not only on the physical battlefronts but also mentally in the minds of citizens through fake news and targeted propaganda. This reality was underscored following the tragic terror attack in the Pahalgam region of Jammu and Kashmir on April 22, 2025, which claimed the lives of 26 civilians. In response, India launched Operation Sindoor on May 7, 2025.
+                        </p>
+                        <p className="mt-4">
+                            In the wake of this military response, countless videos, photos, and reports flooded social media within hours. Among these were false claims that India had targeted nuclear facilities in Pakistan—a report later debunked by military officials during a press conference on May 12, 2025. Old videos of historical clashes were recirculated and falsely portrayed as the Pakistan Air Force hitting the Srinagar Airbase, while other posts claimed widespread malfunctions in India&apos;s weapon systems. These fabricated reports and videos reached millions of users before any fact-checking could be done.
+                        </p>
+                        <p className="mt-4">
+                            This crisis transcends military strategy, directly impacting the citizens&apos; right to be accurately informed. It forces us to confront fundamental questions: who decides what constitutes fake news during an emergency, under what laws do they derive their authority, and what are the limits of this power?
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL AND LEGAL RECOGNITION</h4>
+                        <p>
+                            Article 19(1)(a) of the Constitution of India guarantees all citizens the fundamental right to freedom of speech and expression.<sup className="text-[#D4AF37] ml-0.5">1</sup> This right includes the freedom to express opinions, ideas, and information through speech, writing, print, or digital media, as well as the right to receive information—a right that becomes especially critical during times of conflict.
+                        </p>
+                        <p className="mt-4">
+                            However, this right is not absolute. Under Article 19(2), the state can impose reasonable restrictions on free speech in the interests of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States, public order, decency, or morality.<sup className="text-[#D4AF37] ml-0.5">2</sup> To be constitutional, any restriction must be proportionate to the actual threat and no broader than necessary. The government cannot use Article 19(2) to suppress legitimate criticism or dissent.
+                        </p>
+                        <p className="mt-4">
+                            Furthermore, the Supreme Court has recognized that the &quot;right to life&quot; under Article 21 includes the right to information as an essential component of living a life with dignity.<sup className="text-[#D4AF37] ml-0.5">3</sup> Together, Articles 19 and 21 protect citizens from arbitrary censorship, ensuring that information cannot be restricted without clear, adequate, and justifiable reasons that go beyond vague justifications like &quot;national interest.&quot;
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATUTORY PROVISIONS AND LEGAL TOOLS</h4>
+                        <p className="mb-4">
+                            During Operation Sindoor, the Government of India deployed several statutory mechanisms to regulate the online information flow:
+                        </p>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">Section 69A of the Information Technology Act, 2000:</strong> This provision empowers the Central Government to issue directions to block public access to online content (on platforms like X, YouTube, Facebook, and WhatsApp) when it is deemed necessary in the interest of India&apos;s sovereignty, integrity, defense, security, public order, or relations with foreign states.<sup className="text-[#D4AF37] ml-0.5">4</sup> The constitutionality of Section 69A was upheld in the landmark case of <em>Shreya Singhal v. Union of India (2015)</em> because it contains explicit procedural safeguards, unlike Section 66A which was struck down for being vague and overbroad.<sup className="text-[#D4AF37] ml-0.5">5</sup>
+                            </li>
+                            <li>
+                                <strong className="text-white">IT Intermediary Guidelines and Digital Media Ethics Code Rules, 2021:</strong> These rules mandate that social media intermediaries take down flagged content within tight timeframes.<sup className="text-[#D4AF37] ml-0.5">6</sup> The rules also enabled the creation of a Fact Check Unit (FCU) under the Press Information Bureau (PIB) to identify and flag misinformation related to government business. During Operation Sindoor, the FCU actively flagged hundreds of posts for removal.
+                            </li>
+                            <li>
+                                <strong className="text-white">Telegraph Act and Telecom Suspension Rules, 2017:</strong> Under these rules, the government can order the temporary suspension of telecom and internet services during public emergencies.<sup className="text-[#D4AF37] ml-0.5">7</sup> While a nationwide shutdown was not enforced during the 2025 conflict, selective internet suspensions and access restrictions were applied in sensitive border regions.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HOW MEDIA AND AI SHAPED THE CRISIS</h4>
+                        <p>
+                            What set the information landscape of Operation Sindoor apart from previous conflicts was the active deployment of Artificial Intelligence (AI) to generate highly realistic propaganda. Deepfakes—AI-generated synthetic media that convincingly depict individuals saying or doing things they never did—spread rapidly across social media platforms like WhatsApp and Instagram.
+                        </p>
+                        <p className="mt-4">
+                            Fabricated audio and video clips targeting high-ranking military officials were circulated to build false narratives of tactical failures, triggering public anxiety. In some instances, news channels broadcasted these unverified videos to drive viewership.
+                        </p>
+                        <p className="mt-4">
+                            In response, the Indian government blocked numerous Pakistani news channels on YouTube and X and restricted accounts of Pakistani public figures. Multiple OTT platforms streaming content on YouTube were also suspended, and X complied with government directives to block specific accounts flagged as &quot;Anti-India,&quot; while publicly clarifying that it did so solely due to legal compulsion.
+                        </p>
+                        <p className="mt-4">
+                            The danger of AI-generated media during a conflict is clear: a convincing deepfake of a military strike can trigger real-world panic or retaliation. Research organizations noted that the 2025 stand-off was among the first major military engagements where synthetic media played a central role in shaping public perception on both sides of the border.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL SHORTCOMINGS &amp; REGULATORY GAPS</h4>
+                        <p>
+                            The information crisis during Operation Sindoor revealed major gaps in India&apos;s current legal framework:
+                        </p>
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4 my-4">
+                            <ul className="space-y-4 list-disc pl-5">
+                                <li>
+                                    <strong className="text-white">Lack of Definition:</strong> Indian statutory law does not define &quot;fake news.&quot; Without clear definitions, the line between propaganda, legitimate journalism, and misinformation is easily blurred, leaving the government to act as both a party to the conflict and the sole arbiter of permissible information.
+                                </li>
+                                <li>
+                                    <strong className="text-white">Lack of Deepfake Regulation:</strong> There is no specialized statutory framework addressing synthetic media and deepfakes. While the Digital Personal Data Protection Act (DPDPA), 2023, governs data privacy, it lacks provisions for regulating synthetic media during national security crises.<sup className="text-[#D4AF37] ml-0.5">8</sup> The IT Rules of 2021 place the burden on platforms to monitor harmful content but do not define specific liabilities or safeguards for AI-generated media.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK JUDGMENTS</h4>
+                        <p className="mb-4">
+                            The judiciary has repeatedly intervened to set limits on state censorship and protect constitutional rights, establishing key checks that apply even during public emergencies:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Kunal Kamra v. Union of India (2024)</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> The constitutionality of the Fact Check Unit (FCU) set up under the amended IT Rules of 2021.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Bombay High Court delivered a split verdict, with two of the three judges declaring the unit unconstitutional. The court reasoned that by allowing the government to decide what is &quot;fake&quot; or &quot;misleading&quot; about government business, the state becomes both the accused and the judge. Without clear guidelines, such unchecked authority creates a &quot;chilling effect,&quot; leading platforms to self-censor legitimate content out of fear.<sup className="text-[#D4AF37] ml-0.5">9</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Ram Manohar Lohia v. State of Bihar (1966)</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> The scope of state power to restrict speech to maintain public order.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Supreme Court of India clarified that not every disturbance amounts to a threat to public order. There must be a direct, close, and immediate link between the speech and the anticipated harm. Under this standard, the government cannot justify blocking content during a conflict simply by labeling it as dangerous without showing a clear link to public disorder.<sup className="text-[#D4AF37] ml-0.5">10</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Anuradha Bhasin v. Union of India (2020)</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> Challenge to the prolonged internet suspension in Jammu and Kashmir in 2019.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> The Supreme Court ruled that access to the internet is a fundamental right protected under Article 19(1)(a). The court ruled that any internet suspension must be temporary, proportionate to the threat, and that all government orders restricting access must be published so they can be challenged in court.<sup className="text-[#D4AF37] ml-0.5">11</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. K. S. Puttaswamy v. Union of India (2017)</strong>
+                                <p><span className="text-[#D4AF37]">Issue:</span> The constitutional status of the right to privacy.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Verdict:</span> A nine-judge bench unanimously held that privacy is a fundamental right under Article 21. The court established a four-part proportionality test for any government action restricting rights: the action must have a legitimate goal, a rational connection to that goal, use the least restrictive means, and balance the harm caused against the benefit achieved. This test serves as a check for content-blocking orders issued during conflicts.<sup className="text-[#D4AF37] ml-0.5">12</sup></p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION &amp; PROPOSED REFORMS</h4>
+                        <p>
+                            Operation Sindoor demonstrated that modern wars are waged as much on social media feeds and through AI-generated content as they are on physical battlegrounds. While the government has a legitimate interest in countering information warfare, actions must remain anchored in the rule of law. Landmark judgments like <em>Anuradha Bhasin</em>, <em>Shreya Singhal</em>, and <em>Puttaswamy</em> reinforce that constitutional protections cannot be suspended under the guise of urgency.
+                        </p>
+                        <p className="mt-4">
+                            To effectively counter modern information warfare, India needs a comprehensive, dedicated legal framework. This framework should:
+                        </p>
+                        <ul className="list-disc pl-5 mt-2 space-y-2">
+                            <li>Clearly define deepfakes and penalize the malicious creation of synthetic media.</li>
+                            <li>Establish an independent, transparent, and judicially reviewable process for content removal during wartime.</li>
+                            <li>Draw a clear line between actual national security threats and legitimate political dissent or criticism.</li>
+                        </ul>
+                        <p className="mt-4">
+                            Without such a structured framework, future emergencies run the risk of repeating the same pattern: the state exercising broad, unchecked censorship powers over online content, while citizens are left unable to distinguish between genuine national security measures and the suppression of the truth.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-zinc-400">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes &amp; Rules</h5>
+                                <ol className="list-decimal pl-5 space-y-1">
+                                    <li>Constitution of India, 1950 (Article 19(1)(a)).</li>
+                                    <li>Constitution of India, 1950 (Article 19(2)).</li>
+                                    <li>Constitution of India, 1950 (Article 21).</li>
+                                    <li>Section 69A, Information Technology Act, 2000.</li>
+                                    <li>Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.</li>
+                                    <li>Temporary Suspension of Telecom Services Rules, 2017.</li>
+                                    <li>Digital Personal Data Protection Act, 2023.</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Judicial Citations</h5>
+                                <ol className="list-decimal pl-5 space-y-1" start={8}>
+                                    <li><em>Shreya Singhal v. Union of India</em>, (2015) 5 SCC 1.</li>
+                                    <li><em>Kunal Kamra v. Union of India</em>, 2024 SCC OnLine Bom 1152.</li>
+                                    <li><em>Ram Manohar Lohia v. State of Bihar</em>, 1966 SCR (1) 709.</li>
+                                    <li><em>Anuradha Bhasin v. Union of India</em>, (2020) 3 SCC 637.</li>
+                                    <li><em>K. S. Puttaswamy v. Union of India</em>, (2017) 10 SCC 1.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Samridhi Chakra, KIIT School of Law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Research Paper on Polluter Pays Principle",
+            author: "By Mankirat Singh Chawla",
+            abstract: "The Polluter Pays Principle (PPP) is a fundamental pillar of international and Indian environmental law. This research paper explores the evolution of PPP, tracing its history from the 1972 OECD recommendations to its formal international recognition in Principle 16 of the 1992 Rio Declaration. The article examines the application of PPP through regulatory mechanisms like Extended Producer Responsibility (EPR), environmental taxes, and strict liability regimes. It outlines India's environmental governance structure, including the National Green Tribunal (NGT), CPCB, and SPCBs, and discusses the landmark Supreme Court decision in Indian Council for Enviro-Legal Action v. Union of India, which established the judicial authority of the principle in Indian jurisprudence.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Concept of Polluter Pays Principle</li>
+                            <li>History and Evolution</li>
+                            <li>Application and Legal Mechanisms</li>
+                            <li>Extended Producer Responsibility (EPR)</li>
+                            <li>Rio Declaration &amp; Global Frameworks</li>
+                            <li>Institutional Architecture in India</li>
+                            <li>Landmark Judgments</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            The Polluter Pays Principle (PPP) is a vital concept in environmental law aimed at protecting the environment and conserving natural resources for present and future generations. It asserts that those who cause environmental degradation must bear the costs of managing, controlling, and remedying the harm they produce. The principle plays a foundational role in achieving sustainable development and advancing environmental justice.
+                        </p>
+                        <p className="mt-4">
+                            Understanding environmental jurisprudence, particularly the Polluter Pays Principle, is essential for establishing corporate and individual accountability. In India, this principle is not just a regulatory guideline but a constitutional mandate integrated into environmental jurisprudence. Its primary objective is to curb pollution and promote responsible industrial, commercial, and economic activities.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHAT IS THE POLLUTER PAYS PRINCIPLE?</h4>
+                        <p>
+                            The Polluter Pays Principle is a widely accepted environmental rule requiring polluters to bear the financial costs of pollution prevention and control measures. It ensures that the costs of environmental damage are not externalized and shifted to the state or society at large.
+                        </p>
+                        <p className="mt-4">
+                            For example, if an industrial unit generates hazardous waste as a by-product of its manufacturing activities, it is legally and financially responsible for the safe treatment, transport, and disposal of that waste. By forcing enterprises to internalize environmental costs, the principle discourages negligent behavior and encourages industries to adopt clean technologies and sustainable practices. The principle is a key part of the broader international framework guiding sustainable development, and was formally recognized in the 1992 Rio Declaration on Environment and Development.<sup className="text-[#D4AF37] ml-0.5">3</sup>
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORY AND EVOLUTION</h4>
+                        <p>
+                            The Polluter Pays Principle first gained international recognition through the Organisation for Economic Co-operation and Development (OECD) in 1972. The OECD recommended that polluters should bear the expenses of pollution prevention and control measures decided by public authorities to ensure that trade and investment remain fair and undistorted.
+                        </p>
+                        <p className="mt-4">
+                            Initially, the principle focused narrowly on the allocation of costs for pollution control and prevention. Over time, its scope expanded significantly to encompass liability for accidental pollution, restoration of damaged ecosystems, and remediation of contaminated sites. Today, the principle is a well-established norm of international environmental law and is incorporated into the domestic environmental legislation of nations worldwide, including India.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">APPLICATION AND LEGAL MECHANISMS</h4>
+                        <p>
+                            The practical application of the Polluter Pays Principle depends on the specific legal framework and the type of environmental harm. Key mechanisms include:
+                        </p>
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4 my-4">
+                            <ul className="space-y-4 list-disc pl-5">
+                                <li>
+                                    <strong className="text-white">Environmental Taxes and Charges:</strong> Imposition of green taxes based on the quantity or toxicity of pollutants discharged, providing a direct financial incentive to reduce emissions.
+                                </li>
+                                <li>
+                                    <strong className="text-white">Compliance and Consents:</strong> Requiring mandatory environmental permits and consents for industrial operations. The administrative and monitoring costs of these regulatory bodies are funded through fee structures collected from the industries.
+                                </li>
+                                <li>
+                                    <strong className="text-white">Liability Regimes:</strong> Establishing legal frameworks that hold polluters strictly liable for cleaning up contaminated soil or water bodies and compensating affected communities. Strict liability is particularly crucial in cases involving hazardous or inherently dangerous substances.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EXTENDED PRODUCER RESPONSIBILITY (EPR)</h4>
+                        <p>
+                            Extended Producer Responsibility (EPR) is an important modern extension of the Polluter Pays Principle. Under EPR, manufacturers are held responsible for the entire life-cycle of their products, particularly for their disposal, recycling, and post-consumer management.
+                        </p>
+                        <p className="mt-4">
+                            This approach shifts the logistical and financial burden of waste management away from local municipalities and consumers to the producers themselves. EPR is widely implemented in waste management regulations for electronics (e-waste), plastic packaging, batteries, and end-of-life vehicles, encouraging manufacturers to design eco-friendly, recyclable, and less toxic products.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIO DECLARATION &amp; GLOBAL FRAMEWORKS</h4>
+                        <p>
+                            The Rio Declaration on Environment and Development was adopted at the United Nations Conference on Environment and Development (UNCED) in 1992 by more than 175 countries.<sup className="text-[#D4AF37] ml-0.5">3</sup> It serves as a foundational text balancing environmental conservation with developmental needs.
+                        </p>
+                        <p className="mt-4">
+                            Principle 16 of the Rio Declaration explicitly endorses the Polluter Pays Principle, stating:
+                        </p>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic text-zinc-400 my-4">
+                            &quot;National authorities should endeavour to promote the internalization of environmental costs and the use of economic instruments, taking into account the approach that the polluter should, in principle, bear the cost of pollution, with due regard to the public interest and without distorting international trade and investment.&quot;
+                        </blockquote>
+                        <p className="mt-4">
+                            Despite initial criticisms that the Declaration lacked binding enforcement powers, it has successfully shaped domestic environmental legislations and international treaties globally.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INSTITUTIONAL ARCHITECTURE IN INDIA</h4>
+                        <p className="mb-4">
+                            In India, the enforcement of environmental laws and the application of the Polluter Pays Principle are carried out through specialized statutory and judicial bodies:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. National Green Tribunal (NGT)</strong>
+                                <p>
+                                    Established in 2010 under the National Green Tribunal Act, 2010, the NGT is a specialized judicial body created to expedite the resolution of environmental disputes.<sup className="text-[#D4AF37] ml-0.5">5</sup> The NGT handles civil cases relating to environmental protection, forest conservation, and the enforcement of legal rights. Its binding decisions frequently include orders for environmental restoration, cleanup costs, and compensatory damages under its statutory jurisdiction, which covers:
+                                </p>
+                                <ul className="list-disc pl-5 mt-2 space-y-1 text-sm text-zinc-400">
+                                    <li>The Water (Prevention and Control of Pollution) Act, 1974</li>
+                                    <li>The Water (Prevention and Control of Pollution) Cess Act, 1977</li>
+                                    <li>The Forest (Conservation) Act, 1980</li>
+                                    <li>The Air (Prevention and Control of Pollution) Act, 1981</li>
+                                    <li>The Environment (Protection) Act, 1986</li>
+                                    <li>The Public Liability Insurance Act, 1991</li>
+                                    <li>The Biological Diversity Act, 2002</li>
+                                </ul>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Central Pollution Control Board (CPCB)</strong>
+                                <p>
+                                    The CPCB is a statutory organization constituted under the Water Act, 1974, and later vested with powers under the Air Act, 1981, and the Environment (Protection) Act, 1986.<sup className="text-[#D4AF37] ml-0.5">4</sup> It advises the Central Government, coordinates state-level pollution control efforts, and establishes nationwide environmental quality standards.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. State Pollution Control Boards (SPCBs)</strong>
+                                <p>
+                                    SPCBs are constituted by State Governments under the Water Act, 1974, and the Air Act, 1981, to enforce environmental rules at the state level. They monitor compliance, issue &quot;Consent to Establish&quot; (CTE) and &quot;Consent to Operate&quot; (CTO) permits to industries, and levy administrative fees and pollution penalties.
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK JUDGMENTS</h4>
+                        <p className="mb-4">
+                            The Indian judiciary has played a pioneering role in establishing the Polluter Pays Principle as an essential part of the law of the land:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Indian Council for Enviro-Legal Action v. Union of India (1996)</strong>
+                                <p><span className="text-[#D4AF37]">Facts:</span> Chemical industries in Bichhri village, Rajasthan, discharged highly toxic, untreated effluents that seeped into the soil and aquifer, contaminating agricultural fields and drinking water wells.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Ruling:</span> The Supreme Court of India held the industries strictly liable for the damage. It formally applied the Polluter Pays Principle for the first time in India, directing the polluters to compensate the villagers and pay the entire cost of soil and groundwater restoration, emphasizing that no business should profit from polluting the environment.<sup className="text-[#D4AF37] ml-0.5">1</sup></p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Vellore Citizens Welfare Forum v. Union of India (1996)</strong>
+                                <p><span className="text-[#D4AF37]">Facts:</span> Public interest litigation was filed against tanneries in Tamil Nadu discharging untreated effluents into the Palar river, a major source of drinking water.</p>
+                                <p className="mt-2"><span className="text-[#D4AF37]">Ruling:</span> The Supreme Court integrated the Polluter Pays Principle and the Precautionary Principle into the concept of sustainable development, declaring them to be essential parts of Indian environmental law under Articles 21, 47, 48A, and 51A(g) of the Constitution.<sup className="text-[#D4AF37] ml-0.5">2</sup></p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            Although the Polluter Pays Principle is not explicitly defined in a single Indian statute, judicial interpretations have firmly established its authority. Courts have consistently applied it to balance economic growth with environmental protection.
+                        </p>
+                        <p className="mt-4">
+                            Under modern environmental jurisprudence, industries are not viewed merely as profit-maximizing economic entities but as social institutions carrying legal, moral, and ecological responsibilities. Unchecked exploitation of natural resources under the guise of industrial development is no longer legally permissible. Sustainable development, guided by the Polluter Pays Principle and the Precautionary Principle, must be the foundation of future policy. Environmental protection remains a collective responsibility shared by individuals, corporate entities, and the state alike.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-zinc-400">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Judicial Decisions</h5>
+                                <ol className="list-decimal pl-5 space-y-1">
+                                    <li>
+                                        <a href="https://indiankanoon.org/doc/1934109/" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            Indian Council for Enviro-Legal Action v. Union of India, (1996) 3 SCC 212.
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://indiankanoon.org/doc/1934109/" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            Vellore Citizens Welfare Forum v. Union of India, (1996) 5 SCC 647.
+                                        </a>
+                                    </li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Statutes &amp; Declarations</h5>
+                                <ol className="list-decimal pl-5 space-y-1" start={3}>
+                                    <li>Rio Declaration on Environment and Development, 1992 (Principle 16).</li>
+                                    <li>
+                                        <a href="https://cpcb.nic.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            Central Pollution Control Board (CPCB) Official Portal.
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://greentribunal.gov.in" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">
+                                            National Green Tribunal (NGT) Official Portal.
+                                        </a>
+                                    </li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mankirat Singh Chawla, LL.B. Student (2025–2028), Amity Law School, Noida.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Criminal Justice Reform in India: Between Decolonisation and Due Process",
+            author: "By Mkhokheli Ngwenya",
+            abstract: "India's criminal justice system is undergoing its most significant overhaul since independence. The replacement of colonial-era laws with the Bharatiya Nyaya Sanhita (BNS), Bharatiya Nagarik Suraksha Sanhita (BNSS), and Bharatiya Sakshya Adhiniyam (BSA) in 2024 marks a dramatic shift toward digitisation, forensic science, and victim rights. However, these changes also introduce crucial concerns regarding police powers, trials in absentia, and due process. This article evaluates the key innovations and constitutional challenges of the new codes. By analyzing seminal cases like Hussainara Khatoon, D.K. Basu, Prakash Singh, and Satender Kumar Antil, the paper explores the delicate balance between state authority and procedural safeguards.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Need for Criminal Justice Reform</li>
+                            <li>Key Features of the New Criminal Laws</li>
+                            <li>Critical Concerns and Constitutional Challenges</li>
+                            <li>Police and Prison Reforms: The Missing Link</li>
+                            <li>The Way Forward</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            India&apos;s criminal justice system is undergoing one of the most significant transformations since independence. With the introduction of the Bharatiya Nyaya Sanhita, 2023 (BNS), Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), and Bharatiya Sakshya Adhiniyam, 2023 (BSA), the Government of India has sought to replace colonial-era criminal laws with a modern framework focused on justice, technology, and victim rights. These laws officially came into force on July 1, 2024, replacing the Indian Penal Code, 1860, the Code of Criminal Procedure, 1973, and the Indian Evidence Act, 1872.
+                        </p>
+                        <p className="mt-4">
+                            The reforms have been presented as a move &quot;from punishment to justice,&quot; emphasizing efficiency, forensic investigation, digitisation, and victim-centric procedures. However, while the reforms introduce important procedural innovations, they have also generated constitutional and human rights concerns regarding police powers, civil liberties, and procedural safeguards. The success of these reforms will depend not merely on legislative change, but on institutional accountability and implementation.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE NEED FOR CRIMINAL JUSTICE REFORM</h4>
+                        <p>
+                            India&apos;s criminal justice system has long suffered from systemic deficiencies: delayed trials, overcrowded prisons, prolonged undertrial detention, low conviction rates, poor forensic infrastructure, witness hostility, and excessive dependence on confessions and police discretion. According to National Crime Records Bureau (NCRB) data, conviction rates remain inconsistent across states, reflecting deep investigative and prosecutorial weaknesses.
+                        </p>
+                        <p className="mt-4">
+                            The Supreme Court of India has repeatedly emphasized the constitutional necessity of speedy trials and procedural fairness. In <em>Hussainara Khatoon v. State of Bihar</em>, the Court recognized the right to a speedy trial as an integral part of the right to life and liberty under Article 21 of the Constitution.<sup className="text-[#D4AF37] ml-0.5">1,2</sup> Similarly, in <em>DK Basu v. State of West Bengal</em>, guidelines were laid down to prevent custodial torture and arbitrary arrest, establishing a vital precedent for due process.<sup className="text-[#D4AF37] ml-0.5">3</sup> These judicial interventions highlighted the urgent need to modernize criminal procedure while protecting fundamental rights.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">KEY FEATURES OF THE NEW CRIMINAL LAWS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Digitisation and Technology Integration</h5>
+                        <p>
+                            One of the most progressive aspects of the reforms is the increased use of technology in investigations and trials. The BNSS allows electronic FIR registration, digital summonses, audio-video recording of searches and seizures, electronic evidence recognition, and online filing of complaints. The BSA significantly expands the admissibility of electronic records and modernizes evidentiary standards to reflect the realities of cybercrime and digital communication.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Mandatory Forensic Investigation</h5>
+                        <p>
+                            The BNSS mandates forensic investigation for offences punishable with imprisonment of seven years or more. States have begun investing in mobile forensic laboratories and crime-scene investigation units to strengthen scientific evidence collection. This reform has the potential to reduce wrongful convictions based solely on confessions and improve scientific investigation standards, aligning Indian criminal procedure with global best practices.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3. Victim-Centric Justice</h5>
+                        <p>
+                            The reforms attempt to strengthen victim participation in criminal proceedings. Victim compensation provisions have been reinforced, and there is an increased emphasis on keeping victims informed about case progress. Additionally, witness protection mechanisms are receiving greater institutional recognition, with several states moving toward implementing schemes to reduce intimidation and hostile testimony.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4. Recognition of New Categories of Crime</h5>
+                        <p>
+                            The BNS introduces specific provisions dealing with organized crime, terrorism, mob lynching, cyber offences, and crimes against women and children, attempting to address regulatory gaps that existed under older colonial-era statutes.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL CONCERNS AND CONSTITUTIONAL CHALLENGES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Expansion of Police Powers</h5>
+                        <p>
+                            One of the most controversial aspects of the BNSS is the expansion of police custody provisions. Critics argue that the extended scope for custodial detention increases the risk of custodial torture and abuse, especially in a system already criticized for weak accountability. India has not yet enacted comprehensive anti-torture legislation despite repeated recommendations from the Law Commission of India and international human rights bodies.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Concerns Regarding Due Process</h5>
+                        <p>
+                            The introduction of trials in absentia for proclaimed offenders has raised questions regarding fair trial rights. Legal scholars argue that criminal trials must prioritize the accused&apos;s right to defend themselves under principles of natural justice. Similarly, expanded definitions relating to terrorism and organized crime have generated concerns regarding vague terminology and potential misuse. The Supreme Court has consistently held that laws restricting liberty must satisfy constitutional standards of reasonableness under Articles 14, 19, and 21.<sup className="text-[#D4AF37] ml-0.5">4</sup>
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3. Limited Structural Reform</h5>
+                        <p>
+                            Although the reforms replace colonial statutes, many provisions remain substantially similar to the previous laws, leading critics to argue that &quot;decolonisation&quot; has been more symbolic than structural. Deeper structural issues—such as judge shortages, poor prosecution quality, overcrowded prisons, delays in forensic reports, inadequate legal aid, and underfunded police training—must be addressed alongside legislative changes.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">POLICE AND PRISON REFORMS: THE MISSING LINK</h4>
+                        <p>
+                            True criminal justice reform cannot succeed without comprehensive police and prison reforms. The Supreme Court&apos;s judgment in <em>Prakash Singh v. Union of India</em> directed states to implement major police reforms, including fixed tenures for police officers, the separation of investigation from law-and-order functions, and the establishment of police complaints authorities.<sup className="text-[#D4AF37] ml-0.5">5</sup> However, implementation remains weak across many states.
+                        </p>
+                        <p className="mt-4">
+                            Similarly, Indian prisons continue to face overcrowding and high undertrial populations. The landmark judgment in <em>Satender Kumar Antil v. CBI</em> re-emphasized that &quot;bail is the rule and jail is the exception.&quot;<sup className="text-[#D4AF37] ml-0.5">6</sup> Yet in practice, economically weaker accused persons continue to face prolonged incarceration before conviction.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE WAY FORWARD</h4>
+                        <p>
+                            For criminal justice reform to become meaningful, India must move beyond legislative symbolism toward institutional transformation. The following reforms are essential:
+                        </p>
+                        <ul className="list-decimal pl-5 space-y-2 mt-2">
+                            <li>Strengthening forensic infrastructure through trained personnel and independent laboratories.</li>
+                            <li>Establishing independent police accountability mechanisms to address custodial violence.</li>
+                            <li>Speeding up trials through judicial appointments and case management reforms.</li>
+                            <li>Redirecting prison reforms to focus on rehabilitation rather than punitive incarceration.</li>
+                            <li>Implementing robust witness protection programs to improve trial integrity.</li>
+                            <li>Expanding legal aid services to ensure equal access to justice.</li>
+                            <li>Introducing strong human rights safeguards within counter-terrorism and organized crime provisions.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            India&apos;s new criminal laws represent a historic turning point in the evolution of its criminal justice system. The reforms introduce valuable innovations in forensic investigation, digitisation, victim rights, and procedural efficiency. However, a truly modern criminal justice system must balance efficiency with constitutional liberty, police power with accountability, and punishment with fairness. The ultimate test of these reforms will lie not in legislative intent, but in whether they strengthen public trust, protect individual rights, and ensure accessible justice for ordinary citizens.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-zinc-400">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Constitutional Provisions &amp; Statutes</h5>
+                                <ol className="list-decimal pl-5 space-y-1">
+                                    <li>Constitution of India, 1950 (Articles 14, 19, &amp; 21).</li>
+                                    <li>Bharatiya Nyaya Sanhita, 2023 (BNS).</li>
+                                    <li>Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS).</li>
+                                    <li>Bharatiya Sakshya Adhiniyam, 2023 (BSA).</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-md mb-2">Judicial Decisions</h5>
+                                <ol className="list-decimal pl-5 space-y-1" start={5}>
+                                    <li><em>Hussainara Khatoon v. State of Bihar</em>, (1980) 1 SCC 81.</li>
+                                    <li><em>DK Basu v. State of West Bengal</em>, (1997) 1 SCC 416.</li>
+                                    <li><em>Prakash Singh v. Union of India</em>, (2006) 8 SCC 1.</li>
+                                    <li><em>Satender Kumar Antil v. Central Bureau of Investigation</em>, (2022) 10 SCC 51.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mkhokheli Ngwenya, BA LLB Student, Parul University.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Human Trafficking and State Responsibility",
+            author: "By Priyanka Kumari",
+            abstract: "Human trafficking is a profound violation of fundamental human rights and a crime against humanity that challenges both national integrity and international law. Under international law, states have a legal responsibility to act with due diligence to prevent trafficking, protect victims, and prosecute perpetrators. This article analyzes the legal framework of human trafficking in India—anchored by Article 23 of the Constitution, the Immoral Traffic (Prevention) Act, and Section 370 of the IPC—and examines landmark judicial interventions, including Vishal Jeet v. Union of India and the recent Pinki v. State of UP (2025) judgment, highlighting the critical balance between socio-economic vulnerabilities and state accountability.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>What is Human Trafficking?</li>
+                            <li>Causes of Human Trafficking</li>
+                            <li>Legal Provisions Related to Human Trafficking in India</li>
+                            <li>Case Laws</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            India is one of the sovereign and democratic countries in the global world and honors the law, rules, regulations, and human rights. In its state life, India is obliged to protect all of its citizens from various threats and trafficking, at both the domestic and foreign level. States have a legal responsibility to act with due diligence to prevent trafficking, protect victims, and prosecute perpetrators, even when trafficking is committed by private actors rather than state officials. Under international law, failures in these areas or direct involvement of officials can lead to state accountability.
+                        </p>
+                        <p className="mt-4">
+                            It is the responsibility of a nation or a state to control human trafficking. If they are unable to take care of that, the state will have to answer to the International Court of Justice (ICJ), which is the permanent judicial organ dealing with disputes and negotiations in the global arena.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHAT IS HUMAN TRAFFICKING?</h4>
+                        <p>
+                            Human trafficking is the act of transporting, transferring, harboring, trapping, or buying human beings through force, fraud, or coercion for the purpose of exploiting them for profit. Human exploitation may include forced labor, sexual slavery, or any other form of commercial exploitation and use. It is a form of crime against humanity and a serious violation of human rights. It is believed that human trafficking has become one of the most common crimes in the past few decades, involving not only India but the entire world. Controlling it requires the cooperation of international law, national policy, and non-governmental organizations.
+                        </p>
+                        <p className="mt-4">
+                            Human trafficking can occur both within a single country and across national borders. It is distinct from people smuggling, which typically involves the consent of the individual being smuggled and ends upon arrival at the destination. In contrast, human trafficking involves exploitation without the consent of the individual, achieved through fraud, force, or coercion. Human trafficking is a broad concept in modern times, recognized as a violation of human rights by international agreements such as the United Nations Protocol to Prevent, Suppress and Punish Trafficking in Persons. Globally, millions of individuals, including women, men, and children, are estimated to be victims of human trafficking for forced labor, sexual exploitation, and other forms of abuse. Human trafficking is particularly prevalent in developing or impoverished countries, as citizens of these nations often migrate seeking job opportunities and basic life needs, making them vulnerable to traffickers.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CAUSES OF HUMAN TRAFFICKING</h4>
+                        <div className="space-y-6">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">1. Poverty</h5>
+                                <p>
+                                    Poverty and the lack of employment and education opportunities in a country may lead citizens to voluntarily migrate in search of better prospects, which can inadvertently lead to human trafficking. Basically, men and women migrate from rural or impoverished areas to urban areas or foreign countries for job opportunities. The voluntary migration of individuals, particularly women, often results in their being involuntarily trafficked into sex work or bonded labor.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">2. Globalization</h5>
+                                <p>
+                                    Globalization was designed to facilitate the import and export of goods, services, and capital. However, as it opened up national borders, labor migration also increased. The economic impacts of globalization push people to make conscious decisions to migrate, thereby increasing their vulnerability to trafficking. Gender inequalities that hinder women from participating in the formal sector often push them into the informal economy, where they are at greater risk.
+                                </p>
+                                <p className="mt-2">
+                                    Furthermore, a thriving international black market has emerged. Traffickers illegally harvest organs, particularly kidneys, and sell them for large profits, targeting victims from poor, rural communities who are willing to sell their organs for income. Globalization and the rise of internet technology have also facilitated human trafficking, with online sites and social networking platforms being used by clients and traffickers to coordinate sex trafficking and exploit women.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">3. Political and Institutional Factors</h5>
+                                <p>
+                                    Corrupt law enforcement officers and politicians can be complicit in human trafficking or commit violence against sex workers and trafficking victims. In response, sex workers&apos; rights movements and organizations seek to eliminate trafficking while fighting for their rights. However, police interventions aimed at prosecuting traffickers can sometimes infringe upon the rights of sex workers, creating tension between law enforcement efforts and rights organizations, particularly when minors are involved.
+                                </p>
+                                <p className="mt-2">
+                                    Political instability, such as civil war and social conflicts, are also significant factors driving migration and trafficking. Countries experiencing extreme wealth disparities or restrictive political regimes are highly susceptible to higher levels of human trafficking.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL PROVISIONS RELATED TO HUMAN TRAFFICKING IN INDIA</h4>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">1. Article 23 of the Constitution of India:</strong> Prohibits human trafficking and forced labor. Article 23(1) states that trafficking in human beings and begar and other similar forms of forced labor are prohibited, and any contravention of this provision shall be an offense punishable in accordance with the law.
+                            </li>
+                            <li>
+                                <strong className="text-white">2. The Immoral Traffic (Prevention) Act, 1956:</strong> Specifically deals with the prevention of human trafficking for the purpose of commercial sexual exploitation.
+                            </li>
+                            <li>
+                                <strong className="text-white">3. Criminal Law (Section 370 of IPC, 1860):</strong> Deals with the trafficking of persons. Whoever, for the purpose of exploitation, (a) recruits, (b) transports, (c) harbors, (d) transfers, or (e) receives a person or persons by using threats, force, coercion, abduction, fraud, deception, abuse of power, or inducement (including payments or benefits), commits the offense of trafficking.
+                                <p className="mt-2 pl-4 border-l-2 border-[#D4AF37]/30 text-zinc-400">
+                                    <strong>Section 370-A (Exploitation of a trafficked person):</strong> Anyone who knowingly, or having reason to believe that a minor has been trafficked, engages such minor for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine.
+                                </p>
+                            </li>
+                            <li>
+                                <strong className="text-white">4. Protection of Children from Sexual Offences (POCSO) Act, 2012:</strong> Enacted to protect children from sexual abuse and exploitation. This act defines different forms of sexual abuse, including penetrative and non-penetrative sexual assault, and sexual harassment.
+                            </li>
+                        </ul>
+                        <p className="mt-6">
+                            The Ministry of Home Affairs plays an important role in coordinating anti-trafficking efforts. Furthermore, various State Governments have enacted specific legislation to address the issue, such as the Punjab Prevention of Human Smuggling Act, 2012.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS</h4>
+                        <div className="space-y-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Bachpan Bachao Andolan vs Union of India and others (2011)</strong>
+                                <p>
+                                    In this public interest litigation (PIL) addressing child trafficking and the extreme exploitation of children in India, the Supreme Court ordered a ban on employing children in circuses and directed the rescue and rehabilitation of such children.
+                                </p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Laxmi Kant Pandey vs Union of India (1984)</strong>
+                                <p>
+                                    The Supreme Court laid down comprehensive guidelines for inter-country adoption to prevent the trafficking of children, ensuring the welfare of the child and preventing their exploitation for forced labor or sexual abuse.
+                                </p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Vishal Jeet v. Union of India (1990)</strong>
+                                <div className="mt-2 space-y-2 text-sm">
+                                    <p><span className="text-[#D4AF37] font-semibold">Facts:</span> The case originated from a writ petition filed under Article 32 of the Constitution, highlighting the issues of sexual exploitation, forced labor, and kidnapping of minor girls.</p>
+                                    <p><span className="text-[#D4AF37] font-semibold">Issues:</span> (1) Whether the existing legal framework was sufficient to address the problem. (2) Whether the CBI should conduct a nationwide inquiry, including in red-light areas.</p>
+                                    <p><span className="text-[#D4AF37] font-semibold">Judgment:</span> The Supreme Court declined a nationwide CBI inquiry but issued key directives, holding that prostitution is a socio-economic malady requiring a humanistic approach. The Court ordered the Central and State governments to set up advisory committees to raise awareness and establish rehabilitation homes.</p>
+                                </div>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Pinki vs State of Uttar Pradesh (2025)</strong>
+                                <div className="mt-2 space-y-2 text-sm">
+                                    <p><span className="text-[#D4AF37] font-semibold">Facts:</span> The case arose from a major interstate child trafficking racket operating out of Varanasi, where children from impoverished backgrounds were abducted and sold across states for illegal adoption. A rescued child was recovered from Kolkata in March 2025 following Supreme Court intervention. The Allahabad High Court had granted bail to the accused in a callous manner, allowing several of them to abscond. The probe also revealed potential links to IVF centers where accused worked as egg donors, raising violations of the Assisted Reproductive Technology (Regulation) Act, 2021.</p>
+                                    <p><span className="text-[#D4AF37] font-semibold">Major Issues:</span> (1) Whether the High Court erred in granting bail without considering the risk of absconding. (2) Whether trials delays infringe on the right to speedy trial under Article 21. (3) Whether the State was negligent in not challenging questionable bail orders. (4) Whether the BIRD Report action plan should be made mandatory.</p>
+                                    <p><span className="text-[#D4AF37] font-semibold">Judgment and Directions (April 15, 2025):</span> The Supreme Court cancelled the bail of the accused and issued nationwide mandates:</p>
+                                    <ul className="list-disc pl-5 space-y-1 mt-1 text-zinc-400">
+                                        <li><strong>Bail Principles:</strong> Societal interest must outweigh individual liberty in organized crime like trafficking.</li>
+                                        <li><strong>Speedy Trials:</strong> Child trafficking trials must be completed within six months.</li>
+                                        <li><strong>AHTUs:</strong> Mandated independent Anti-Human Trafficking Units in every district.</li>
+                                        <li><strong>Victim Protection:</strong> Mandated child-friendly courts and video conferencing.</li>
+                                        <li><strong>Hospital Accountability:</strong> Immediate license suspension for any hospital/nursing home involved in newborn trafficking.</li>
+                                        <li><strong>Missing Children Protocol:</strong> Every missing child case must initially be treated as potential trafficking.</li>
+                                        <li><strong>National Compliance:</strong> Union and States must implement the BIRD report&apos;s 20-point action plan.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            The fight against human trafficking in India represents a complex battle between systemic socio-economic vulnerabilities and the legal mandate of a sovereign state. Human trafficking is not merely a local criminal issue but a profound violation of fundamental human rights and a crime against humanity that challenges both national integrity and international law.
+                        </p>
+                        <p className="mt-4">
+                            The legal landscape in India—anchored by Article 23 of the Constitution, the Immoral Traffic (Prevention) Act, and the stringent provisions of Section 370 of the IPC—provides a robust framework for prosecution. Landmark judicial interventions, such as <em>Pinki v. State of UP (2025)</em> and <em>Vishal Jeet v. Union of India</em>, underscore that the judiciary is increasingly intolerant of state negligence and procedural lapses. However, the transition from legal theory to ground-level safety remains a continuous challenge.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Constitution of India, Article 23.</li>
+                            <li>Immoral Traffic (Prevention) Act, 1956.</li>
+                            <li>Indian Penal Code, 1860, Sections 370 and 370-A.</li>
+                            <li>Protection of Children from Sexual Offences (POCSO) Act, 2012.</li>
+                            <li>Bachpan Bachao Andolan vs Union of India and others, 2011.</li>
+                            <li>Laxmi Kant Pandey vs Union of India, (1984) 2 SCC 244.</li>
+                            <li>Vishal Jeet v. Union of India, (1990) 3 SCC 318.</li>
+                            <li>Pinki vs State of Uttar Pradesh, Supreme Court Judgment dated April 15, 2025.</li>
+                            <li>The BIRD Report (Action Plan against Trafficking).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Priyanka Kumari, BA LLB Student, Sarala Birla University, Ranchi, Jharkhand.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Human Rights Violations and the Right to Self-Determination in Kashmir: A Legal Analysis",
+            author: "By Shubha Sree H",
+            abstract: "The situation in Jammu and Kashmir remains one of the enduring issues on the UN Security Council's agenda. There persists a prolonged conflict for the self-determination rights of the people, where specific security-oriented laws have led to human rights concerns that challenge constitutional ideals. This article examines the legal dimensions of human rights and self-determination in Jammu and Kashmir, evaluates the implications of the 2019 abrogation of Article 370, and explores the delicate balance between India's national security imperatives and the protection of civil liberties.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Human Rights Concerns in Kashmir</li>
+                            <li>The Right to Self-Determination in International Law</li>
+                            <li>Balancing National Security and Human Rights</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Kashmir, often referred to as &quot;Paradise on Earth&quot; or &quot;Jannat-e-Kashmir,&quot; has long been a zone of conflict between India and Pakistan. This conflict is more than a territorial dispute; it has a profound impact on both nations and the local population, raising significant questions regarding human rights, ethical norms, and the right to self-determination for the people of Kashmir.
+                        </p>
+                        <p className="mt-4">
+                            The territory had been under a special status under the Indian Constitution following the end of British colonial rule in 1947, a status that was intended to be temporary pending a final resolution. However, on August 5, 2019, the Indian Government abrogated Article 370, stripping Jammu and Kashmir of its autonomous status and splitting the state into two separate Union Territories: Jammu &amp; Kashmir and Ladakh.
+                        </p>
+                        <p className="mt-4">
+                            This paper evaluates whether these actions and security measures are consistent with <em>jus cogens</em><sup className="text-[#D4AF37] ml-0.5">1</sup> principles of international law, which define the rights of &quot;peoples&quot; to exercise their right to determine their political future. It also examines how national laws, such as the Armed Forces Special Powers Act (AFSPA), interact with constitutional safeguards for human rights.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HUMAN RIGHTS CONCERNS IN KASHMIR</h4>
+                        <p>
+                            Kashmir has a complex history regarding the restriction of basic civil liberties, including freedom of expression, movement, and personal security. The exercise of fundamental rights in the region has frequently been constrained, limiting access to ordinary civil liberties. Notably, targeted killings, including those of Kashmiri Pandits, have historically escalated tensions and worsened the socio-political climate. While the Indian Government has implemented security and administrative measures to maintain order, these measures have frequently faced allegations of human rights violations, affecting the population&apos;s civil liberties. This situation highlights the ongoing tension between executive actions taken for national security and the protection of individual rights.
+                        </p>
+
+                        <div className="bg-black/40 p-6 rounded-2xl border-l-4 border-[#D4AF37] text-zinc-300 italic my-4 text-sm leading-relaxed">
+                            &quot;On August 5, before revoking the state&apos;s special autonomous status, the government imposed a security lockdown and deployed additional troops. Thousands of Kashmiris were detained without charge,<sup className="text-[#D4AF37] ml-0.5">2</sup> including former chief ministers, political leaders, opposition activists, lawyers, and journalists. The internet and phones were shut down.<sup className="text-[#D4AF37] ml-0.5">3</sup> The government said it was to prevent loss of life, but there were credible, serious allegations of beatings and torture<sup className="text-[#D4AF37] ml-0.5">4</sup> by security forces. By November, even though some restrictions were lifted, hundreds remained in detention and mobile phone services and internet access was still limited. The government blocked opposition politicians,<sup className="text-[#D4AF37] ml-0.5">5</sup> foreign diplomats, and international journalists from independent visits to Kashmir.&quot;<sup className="text-[#D4AF37] ml-0.5">6</sup>
+                        </div>
+
+                        <p className="mt-4">
+                            These prolonged lockdowns, curfews, and communication bans have caused significant disruption to daily life. Such sweeping restrictions prevent the full exercise of fundamental rights guaranteed by Article 19 and Article 21 of the Indian Constitution.
+                        </p>
+                        <p className="mt-4">
+                            The Public Safety Act (PSA) and sections of the Armed Forces (Special Powers) Act (AFSPA) have generated substantial controversy. Critics argue that detainees held under the PSA face risks of arbitrary detention and lack prompt access to legal representation. Reports from international observers raise concerns about harsh interrogation methods in detention facilities.<sup className="text-[#D4AF37] ml-0.5">7</sup> Concurrently, AFSPA has been criticized for providing broad immunity from prosecution to security forces, which opponents argue weakens accountability for abuses.<sup className="text-[#D4AF37] ml-0.5">8</sup> While the government defends these laws as vital for public safety and counter-terrorism, civil society groups emphasize the necessity of judicial oversight to prevent abuse of power.
+                        </p>
+                        <p className="mt-4">
+                            Living under prolonged curfews and digital blackouts raises questions of proportionality and necessity under international human rights law. The government maintains that these measures are temporary, protective steps to safeguard civilian lives from militancy and cross-border threats.
+                        </p>
+
+                        <div className="bg-black/40 p-6 rounded-2xl border-l-4 border-[#D4AF37] text-zinc-300 italic my-4 text-sm leading-relaxed">
+                            &quot;Jammu and Kashmir continues to face frequent barriers to internet access as the authorities continue to suspend arbitrarily internet services. According to a United Nations Educational, Scientific and Cultural Organization (UNESCO), South Asia reported the highest number of shutdowns in the world between April 2017 and May 2018 with India accounting for the highest level of shutdowns in the world. Half of all internet shutdowns in India was reported from the Kashmir Valley.&quot;<sup className="text-[#D4AF37] ml-0.5">9</sup>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE RIGHT TO SELF-DETERMINATION IN INTERNATIONAL LAW</h4>
+                        <p>
+                            The right to self-determination is a foundational principle of international law, defined as the collective right of a people to &quot;freely determine political status and freely pursue economic, social and cultural development.&quot;<sup className="text-[#D4AF37] ml-0.5">10</sup> It is recognized as customary international law, a general principle of law, and is enshrined in major international covenants.<sup className="text-[#D4AF37] ml-0.5">11</sup> Specifically, Article 1 of both the International Covenant on Civil and Political Rights (ICCPR) and the International Covenant on Economic, Social and Cultural Rights (ICESCR) codifies this right.<sup className="text-[#D4AF37] ml-0.5">12</sup>
+                        </p>
+                        <p className="mt-4">
+                            In international forums, the Kashmir dispute has historical ties to UN Security Council Resolution 47 (1948), which called for a plebiscite.<sup className="text-[#D4AF37] ml-0.5">13</sup> India, however, maintains that the dispute is a bilateral matter governed by the 1972 Simla Agreement, making earlier UN resolutions less applicable in practice.<sup className="text-[#D4AF37] ml-0.5">14</sup> Nonetheless, legal debates often reference Article 103 of the UN Charter, which asserts that UN Charter obligations prevail over other international agreements.<sup className="text-[#D4AF37] ml-0.5">15</sup>
+                        </p>
+                        <p className="mt-4">
+                            Legal theory generally distinguishes between two forms of self-determination:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>
+                                <strong>Internal Self-Determination:</strong> The right of a people within a state to govern themselves, achieve political representation, and pursue development under the existing governmental authority (such as autonomy or federalism).<sup className="text-[#D4AF37] ml-0.5">16</sup>
+                            </li>
+                            <li>
+                                <strong>External Self-Determination:</strong> The right of a people to determine their own sovereign political status externally, free from alien domination, which may include secession or the creation of an independent state.<sup className="text-[#D4AF37] ml-0.5">17</sup>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BALANCING NATIONAL SECURITY AND HUMAN RIGHTS</h4>
+                        <p>
+                            Human rights monitoring organizations have highlighted that preemptive security measures in Jammu &amp; Kashmir raise serious rights concerns.<sup className="text-[#D4AF37] ml-0.5">18</sup> Achieving a balance between national security interests and individual human rights is a core challenge. While a sovereign state has the right to defend its territorial integrity, any restrictions on fundamental rights must satisfy strict proportionality and necessity tests. Security measures must be reasonable and should not disproportionately disrupt civilian life. The quest for stability in Kashmir is not merely a legal question, but a complex political and ethical task.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            The situation in Kashmir represents a complex intersection of constitutional law, international law, and human rights. While territorial integrity is a primary tenet of state sovereignty, human rights norms require constant legal and judicial oversight of state actions to protect individuals. Disregarding civil liberties and self-determination for immediate security can sometimes undermine long-term national security by alienating the local population. Resolving this enduring issue requires a holistic approach combining judicial vigilance, dialogue, and constitutionally sound solutions.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Swastik Bhushan Singh, <em>The Right to self determination of the kashmir people</em> (2011), SSRN.</li>
+                            <li>Human Rights Watch, <em>India: Free Kashmiris arbitrarily detained</em> (Sept 2019).</li>
+                            <li>Human Rights Watch, <em>India: Restore Kashmiris Internet Phones</em> (Aug 2019).</li>
+                            <li>BBC News, <em>Kashmir: India revokes special status in disputed region</em> (Aug 5, 2019).</li>
+                            <li>South China Morning Post, <em>Indian authorities defend blocking opposition politicians</em> (Aug 25, 2019).</li>
+                            <li>Nigel Walker &amp; John Curtis, <em>Human Rights in Kashmir</em>, House of Commons Library (Sept 2021).</li>
+                            <li>Amnesty International, <em>India: The Jammu and Kashmir Public Safety Act - a threat to human rights</em> (2000).</li>
+                            <li>Human Rights Watch, <em>World Report 2021: India</em>.</li>
+                            <li>OHCHR, <em>Update of the Situation of Human Rights in Indian-Administered Kashmir</em> (July 2019).</li>
+                            <li>International Covenant on Civil and Political Rights (ICCPR), Art. 1; ICESCR, Art. 1.</li>
+                            <li>Cornell Law School Legal Information Institute, <em>Self-Determination (International Law)</em>.</li>
+                            <li>Supra note 10.</li>
+                            <li>Fozia N. Lone, <em>The Creation Story of Kashmiri People: The Right to Self-Determination</em> (2009).</li>
+                            <li>International Human Rights Council, <em>Kashmir and Self-Determination: International Law as a Way Forward</em>.</li>
+                            <li>UN Charter, Chapter XVI: Miscellaneous Provisions (Articles 102-105).</li>
+                            <li>Princeton Encyclopedia of Self-Determination.</li>
+                            <li>Id.</li>
+                            <li>Human Rights Watch, <em>India: Basic Freedoms at Risk in Kashmir</em> (Aug 6, 2019).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shubha Sree H, 2nd Year BA LLB Student, Damodaram Sanjivayya National Law University.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Climate Change as a Threat to International Peace and Security by the UN Security Council",
+            author: "By Srishna R",
+            abstract: "Climate change has emerged as a serious global security threat, extending far beyond environmental disruption to act as a 'threat multiplier' that exacerbates instability, resource scarcity, and humanitarian crises worldwide. This article analyzes the legal and political dimensions of the United Nations Security Council's (UNSC) involvement in climate security under Chapter VII and Article 39 of the UN Charter. It explores critical issues such as resource conflicts in the Sahel, climate-induced migration, risks to statehood sovereignty, and the ongoing political divisions between UNSC member states regarding climate governance.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Understanding Climate Change as a Security Threat</li>
+                            <li>The Legal Basis for UNSC Engagement</li>
+                            <li>Evolution of the UNSC&apos;s Climate Agenda</li>
+                            <li>Climate Change and International Peace: Key Concerns</li>
+                            <li>Political Divisions Within the Security Council</li>
+                            <li>The Need for a Balanced Approach</li>
+                            <li>Recent Developments in Climate Governance</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Climate change has become an important global security threat that extends far beyond environmental concerns. In recent years, it has emerged as a serious challenge to international peace and security. Rising temperatures, droughts, floods, and sea levels, alongside food and water shortages, trigger climate-related migration and exacerbate conflicts both between nations and within their borders. Existing conflicts receive worse outcomes because these environmental effects disrupt governance structures and initiate complex humanitarian emergencies.
+                        </p>
+                        <p className="mt-4">
+                            The international community has increasingly recognized climate change as a &quot;threat multiplier,&quot; especially through its growing acceptance within the United Nations (UN). The United Nations Security Council (UNSC), which operates under the UN Charter to maintain international peace and security, has joined the climate discussion. However, the Security Council&apos;s role in climate management remains a topic of disagreement. Most countries support stronger Security Council authority to handle climate-security issues, while some nations argue that climate change should stay within the jurisdiction of environmental and development organizations, including the United Nations Framework Convention on Climate Change (UNFCCC). This article investigates climate change as an international security threat, evaluating how the UNSC develops its methods for dealing with climate-related conflicts and instability.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">UNDERSTANDING CLIMATE CHANGE AS A SECURITY THREAT</h4>
+                        <p>
+                            Historically, international security focused on military threats, armed conflicts, and state aggression. Modern security challenges, however, extend far beyond traditional warfare. Today, the global community considers terrorism, cyber threats, pandemics, and climate change as critical security threats.
+                        </p>
+                        <p className="mt-4">
+                            Multiple pathways exist through which climate change impacts security. Extreme weather events destroy livelihoods and increase poverty. Droughts and water shortages cause local populations to compete for limited resources. Rising sea levels directly endanger the territorial sovereignty of island nations. Environmental disasters create food insecurity and displacement, leading to political unrest and social instability.
+                        </p>
+                        <p className="mt-4">
+                            While climate change may not directly instigate armed conflicts, experts agree that the phenomenon increases existing vulnerabilities, including weak governance, economic inequality, ethnic tensions, and political instability. Scholars and policymakers view climate change as a &quot;threat multiplier&quot; that creates additional hazards. For instance, the extended drought from 2006 to 2010 in Syria forced thousands of farmers to leave their rural homes and seek employment in cities, leading to increased unemployment and social unrest that contributed to the outbreak of the Syrian civil war. Similarly, the Lake Chad Basin has experienced decreased water supplies and reduced agricultural productivity, creating challenges that result in severe poverty and support for extremist organizations like Boko Haram.
+                        </p>
+                        <p className="mt-4">
+                            UN Secretary-General António Guterres has issued multiple warnings that climate change exacerbates global security problems and humanitarian crises. Recent UN discussions highlight how climate-related risks create additional difficulties for peacekeeping operations and conflict prevention efforts.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE LEGAL BASIS FOR UNSC ENGAGEMENT</h4>
+                        <p>
+                            The Security Council&apos;s authority is derived from the UN Charter, which gives the Council the power to address threats to international peace and security through Chapter VII. Under Article 39, the UNSC has the authority to identify any threat to the peace, breach of the peace, or act of aggression. The Charter does not precisely define these terms, giving the Council broad discretionary powers. Over time, the UNSC has expanded its understanding of threats to peace to include non-traditional, non-military situations. For example, the Council has recognized terrorism, nuclear proliferation, piracy, and public health emergencies (such as the Ebola outbreak) as dangers to global peace and security.
+                        </p>
+                        <p className="mt-4">
+                            This evolving interpretation establishes a legal basis for climate change to be recognized as a security threat. Supporters of UNSC action argue that climate change clearly falls within the scope of Article 39 because it contributes to instability, displacement, and violence across borders. They argue that the Security Council must address this situation because it poses direct threats to global peace and human security.
+                        </p>
+                        <p className="mt-4">
+                            Conversely, critics contend that climate change represents a developmental and environmental challenge, rather than a security matter. They argue that granting the UNSC additional authority over climate change would weaken democratic climate negotiations under the UNFCCC, which requires equal state participation. Because the Security Council operates with five permanent members holding veto power, critics fear it would centralize climate policy under a politically imbalanced body compared to the UN General Assembly and international climate conferences.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EVOLUTION OF THE UNSC&apos;S CLIMATE AGENDA</h4>
+                        <p>
+                            The United Kingdom brought climate change to the Security Council for its first official debate in 2007. Since then, Security Council resolutions regarding specific conflict areas have increasingly referenced climate change issues. Resolutions concerning Somalia, Mali, Darfur, and the Lake Chad Basin have identified climate change as a factor undermining regional stability.
+                        </p>
+                        <p className="mt-4">
+                            The UNSC has also established informal mechanisms to address climate-security concerns. The creation of the Informal Expert Group on Climate and Security was a major development supporting climate risk assessment in peacekeeping and conflict prevention programs. The Group visited Chad in 2025 to study climate-security problems affecting the Lake Chad Basin and Eastern Chad. Security Council debates continue to show that climate change creates complex challenges for peace operations, and UN officials have acknowledged that modern security threats increasingly include climate-related risks alongside terrorism, organized crime, and cyber threats.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CLIMATE CHANGE AND INTERNATIONAL PEACE: KEY CONCERNS</h4>
+                        <div className="space-y-6">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">1. Resource Scarcity and Conflict</h5>
+                                <p>
+                                    Climate change leads to diminished water supplies, food resources, and agricultural land. This scarcity increases competition among various communities and nations. In areas already experiencing poverty and political unrest, resource competition can lead to violent conflict. For example, the Sahel region of Africa has seen increased conflict between farmers and herders due to desertification and altered rainfall patterns. Similarly, South Asia faces challenges as glacier melting and altered river flows impact water-sharing treaties between neighboring nations.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">2. Climate-Induced Migration</h5>
+                                <p>
+                                    Environmental degradation forces millions of people to evacuate their homes due to floods, storms, droughts, and sea-level rise. Climate migration strains urban infrastructure, exacerbates unemployment, and increases community conflicts in host areas. Nations like Tuvalu and the Maldives face existential threats as rising sea levels endanger their physical existence. Under international law, this creates complex questions about sovereignty, nationality, and refugee protection. Because the 1951 Refugee Convention currently excludes &quot;climate refugees,&quot; there is a critical legal gap that demonstrates the necessity for enhanced global systems to protect individuals displaced by climate change.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">3. Threats to Statehood and Sovereignty</h5>
+                                <p>
+                                    Rising sea levels threaten to submerge low-lying island nations, creating unprecedented legal challenges regarding statehood, maritime zones, and sovereignty under international law. The UNSC must prepare to address the political instability and sovereignty questions that arise when a member state loses its physical territory.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">4. Impact on Peacekeeping Operations</h5>
+                                <p>
+                                    UN peacekeeping missions are directly affected by climate change. Environmental degradation and extreme weather conditions hamper the delivery of humanitarian assistance and complicate peacekeeping operations. The UN has acknowledged that peace operations must adapt to increasingly complex security environments influenced by climate change.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">POLITICAL DIVISIONS WITHIN THE SECURITY COUNCIL</h4>
+                        <p>
+                            Despite growing recognition of climate-security risks, the UNSC remains politically divided. The United Kingdom, France, and Germany, alongside multiple small island developing states, support enhanced Security Council authority over climate security. They argue that climate change poses direct threats to global stability that fall within the UNSC&apos;s mandate.
+                        </p>
+                        <p className="mt-4">
+                            Conversely, Russia and China oppose these proposals, advocating that climate change be addressed through the UNFCCC and dedicated environmental organizations. They argue that securitizing climate change could lead to unwarranted intervention and infringe on state sovereignty. The United States has demonstrated varying policies depending on political leadership. These divisions have prevented the Council from adopting binding resolutions on climate security; for example, a draft resolution in 2021 was vetoed by Russia, with India voting against it, on the grounds that climate change should not be securitized under the UNSC.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE NEED FOR A BALANCED APPROACH</h4>
+                        <p>
+                            The Security Council should not replace the UNFCCC, but it must address the clear security risks that climate change creates. The Council can play an important supporting role by:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Integrating climate-risk assessments into peacekeeping operations.</li>
+                            <li>Developing better early warning systems to detect climate-related conflicts.</li>
+                            <li>Protecting vulnerable regions through preventive diplomacy and conflict mediation.</li>
+                            <li>Coordinating international humanitarian assistance during climate-related disasters.</li>
+                            <li>Promoting international partnerships between countries facing resource conflicts.</li>
+                        </ul>
+                        <p className="mt-4">
+                            However, the UNSC must not exceed its defined powers. Security measures should not restrict international climate governance, which must remain collaborative and inclusive. Successful governance requires cooperation between the Security Council, the General Assembly, the UNFCCC, the International Court of Justice, and regional organizations.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT DEVELOPMENTS IN CLIMATE GOVERNANCE</h4>
+                        <p>
+                            UN discussions in 2024 and 2025 have solidified climate change as a key link between peacekeeping and conflict prevention. Furthermore, the International Court of Justice (ICJ) is currently examining advisory proceedings concerning state responsibilities for climate change. This demonstrates that climate change is no longer just an environmental issue but a matter of international legal obligation and global security, establishing strong connections between environmental law, human rights law, refugee law, and international security law.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            Climate change represents one of the most significant challenges of the twenty-first century, with impacts that threaten global peace and human security. Rising temperatures, resource shortages, human migration, and severe weather patterns create conditions ripe for social unrest and political conflict. While the UNSC has evolved its understanding of climate change as a security issue, it faces ongoing disputes regarding state sovereignty, power imbalances, and overlaps with the UNFCCC. The Security Council should not be the primary body for climate governance, but it must address the security threats climate change poses. Stopping climate change from becoming a primary driver of future conflict requires international collaboration, political commitment, and coordinated security cooperation.
+                        </p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Srishna R, BA LLB Student, Christ Academy Institute of Law, Bengaluru.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "A Comprehensive Overview on ADR mechanisms in India",
+            author: "By Paiyyavula Ramya",
+            abstract: "Alternative Dispute Resolution (ADR) has transitioned from a traditional communal practice to a crucial statutory tool for mitigating the case backlog in the Indian judicial system. This research paper evaluates the efficiency of various ADR methods in India, including arbitration, mediation, conciliation, and Lok Adalats. By analyzing the legal framework, constitutional mandates (such as Article 39A), and landmark Supreme Court decisions (e.g., Guru Nanak Foundation, Fuerst Day Lawson, Swiss Ribbons, and Amazon v. Future Retail), the article highlights existing challenges—such as public skepticism and judicial interference—and outlines suggestions for technology-driven reforms in dispute resolution.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Historical Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Relevant Case Laws</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Alternative Dispute Resolution (ADR) is a means of resolving disputes outside the courts, without involving them formally. ADR encourages cooperation, communication, and consensus between parties to solve disputes amicably. Through ADR mechanisms, parties can develop their own solutions rather than waiting for years for a court verdict at trial. The most commonly applied approaches in India as alternative dispute resolution include arbitration, mediation, conciliation, negotiation, and Lok Adalats.
+                        </p>
+                        <p className="mt-4">
+                            In recent times, ADR has become an essential component of the law enforcement process in India, given the escalating caseloads faced by courts. It is sensible to adopt such dispute-resolution systems, given that India is currently grappling with a backlog of 4.4 crore (or 44 million) cases. Therefore, by applying these dispute-resolution approaches, people can save time and reach mutual agreements.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>
+                            This research paper evaluates the efficiency of ADR methods in India and proposes recommendations to enhance their application. This is achieved through:
+                        </p>
+                        <ol className="list-roman pl-5 space-y-2 mt-2">
+                            <li>Evaluation of various types of ADR processes together with their strengths;</li>
+                            <li>A determination of the capacity of ADR to reduce the substantial workload faced by the Indian judiciary system;</li>
+                            <li>An examination of the legislation and judicial decisions supporting ADR;</li>
+                            <li>Suggestions on how to make ADR the most effective means of resolving disputes.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORICAL BACKGROUND OF THE ISSUE</h4>
+                        <p>
+                            The dispute resolution process in India has a long and complex history. Traditionally, disagreements were addressed in panchayats and informal meetings among influential community members. The purpose of this practice was to promote social cohesion and balance, with winning the argument secondary to restoring harmony between the disputing parties.
+                        </p>
+                        <p className="mt-4">
+                            The era of colonialism marked a significant shift in the way disputes between people were handled.<sup className="text-[#D4AF37] ml-0.5">1</sup> During that period, a structured, systematic court system emerged, gradually replacing the indigenous tradition. Although the implementation of a more formalised procedure introduced some benefits, such as order, the rigid and adversarial nature of the new approach had several drawbacks. As a result, communities turned away from discussion-based methods to litigation, which caused delays in the process of justice that are now inherent to the Indian legal system.
+                        </p>
+                        <p className="mt-4">
+                            After the end of the colonial period, there was a dire need to develop an efficient and effective justice system. However, the traditional court system proved incapable of coping with the rising population and the increased number of lawsuits. According to data from May 2021, the backlog reached 4.4 crore (44 million) cases, an increase of 19% from the previous year.<sup className="text-[#D4AF37] ml-0.5">2</sup>
+                        </p>
+                        <p className="mt-4">
+                            Disputes are typically addressed within an adversarial litigation framework, meaning the goal is to defeat the opposing party at trial. A large body of literature on the topic argues that this process contributes little to resolving the disagreement and promoting reconciliation. Furthermore, the limitations of the court system, including a shortage of judges and bureaucratic procedures, cause delays in the process, thereby discrediting the institution entirely. Therefore, it is critical to introduce ADR procedures to alleviate the burden of cases in the courtroom.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">Constitutional Directives (Article 39A):</strong> Article 39A<sup className="text-[#D4AF37] ml-0.5">3</sup> of the Indian Constitution, which came into force in 1976, directs that the State must guarantee that equal opportunity will be available to all in seeking justice through the legal system. Specifically, it states that the State should provide free legal aid so that no citizen is denied justice due to economic circumstances or disabilities. It is, therefore, the highest constitutional directive promoting ADR in India to facilitate access to justice.
+                            </li>
+                            <li>
+                                <strong className="text-white">The Arbitration and Conciliation Act, 1996:</strong> This law is considered the most important statute related to ADR in India.<sup className="text-[#D4AF37] ml-0.5">4</sup> The UNCITRAL Model Law on International Commercial Arbitration serves as its inspiration. It comprises four Parts: Part I on domestic arbitrations, Part II on foreign awards, Part III on conciliation, and Part IV on miscellaneous provisions. Amendments made in 2015 and 2019 have provided a timeline for the proceedings and established the Arbitration Council of India to regulate the process.
+                            </li>
+                            <li>
+                                <strong className="text-white">The Legal Services Authorities Act, 1987:</strong> This law provides for the establishment of the Lok Adalat mechanism in India.<sup className="text-[#D4AF37] ml-0.5">5</sup> Its main objective is to provide free and effective legal services to the weaker sections of society. NALSA, the National Legal Services Authority of India,<sup className="text-[#D4AF37] ml-0.5">6</sup> plays a vital role in the implementation of ADR mechanisms in India.
+                            </li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-3 mt-6">Primary ADR Mechanisms in India</h5>
+                        <ul className="space-y-4 pl-4 border-l-2 border-[#D4AF37]/30">
+                            <li>
+                                <strong className="text-white">1. Arbitration:</strong> The most adhered means for solving civil disputes outside traditional court settings by a neutral arbitrator, appointed with the assent of both parties. The decision of this method is known as an award and is binding on both parties. It is mostly preferred because of its efficiency and flexibility. The Supreme Court has upheld arbitration as a valid and key dispute resolution mechanism.<sup className="text-[#D4AF37] ml-0.5">7</sup>
+                            </li>
+                            <li>
+                                <strong className="text-white">2. Mediation:</strong> A dispute resolution mechanism in which the mediator doesn&apos;t decide but helps the parties to communicate to rectify their own issues and solve the dispute amicably. The outcome is in the hands of the parties rather than a third party. Designated mediators must undergo stipulated training. There is no provision for appeal or revision after a mutual decision is reached.
+                            </li>
+                            <li>
+                                <strong className="text-white">3. Conciliation:</strong> A mechanism in which a third-party conciliator assists parties to reach a conclusion after mutual satisfaction or settlement. It is less formal in procedure than arbitration. If both parties accept the decision made by the conciliator, it becomes binding.
+                            </li>
+                            <li>
+                                <strong className="text-white">4. Lok Adalat:</strong> A forum under the Legal Services Authorities Act that provides binding decisions. Dissatisfied parties still retain the choice to initiate litigation. Lok Adalats handle civil matters and compoundable criminal offences, persuading parties to settle mutually rather than pressurising them.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RELEVANT CASE LAWS</h4>
+                        <p className="mb-4">
+                            Some of the key principles identified by the Supreme Court of India to ensure the integrity of the alternative dispute resolution system, thereby restricting the role of judicial intervention in the field of ADR, are discussed below:
+                        </p>
+                        <div className="space-y-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Guru Nanak Foundation v. Rattan Singh and Sons (1981)<sup className="text-[#D4AF37] ml-0.5">8</sup></strong>
+                                <p>
+                                    In this case concerning a breach of contract in a construction project, the court noted that arbitration had not proved fully efficient due to procedural delays. Thus, the court decided that, despite arbitration&apos;s independence, there may be a need to set procedural deadlines if the case experiences delays, protecting the expediency of the trial process under Article 21.
+                                </p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Fuerst Day Lawson Ltd. v. Jindal Exports Ltd. (2011)<sup className="text-[#D4AF37] ml-0.5">9</sup></strong>
+                                <p>
+                                    Regarding an appeal against an foreign arbitral award claiming a violation of public policy in India, the Supreme Court narrowed the concept of public policy. The Court ruled that foreign awards would be refused enforcement only in cases of severe injustice, improving India&apos;s reputation as an international trade hub.
+                                </p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. M/S. Emkay Global Financial Services Ltd. v. Girdhar Sondhi (2018)<sup className="text-[#D4AF37] ml-0.5">10</sup></strong>
+                                <p>
+                                    An arbitral award was challenged, with a party insisting on its cancellation because of an alleged excess of power. The Supreme Court ruled that the award remains valid unless it directly conflicts with statutory law, reinforcing the principle of minimal judicial intervention in arbitration.
+                                </p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Amazon.com NV Inv. Holdings LLC v. Future Retail Ltd. (2021)<sup className="text-[#D4AF37] ml-0.5">11</sup></strong>
+                                <p>
+                                    This landmark case strengthened the arbitration framework in India by explicitly recognizing emergency arbitration awards under the Arbitration and Conciliation Act.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <div className="space-y-4">
+                            <p>
+                                The analysis of the existing ADR framework reveals both its significant advantages and current weaknesses:
+                            </p>
+                            <ul className="list-disc pl-5 space-y-2">
+                                <li>
+                                    <strong>Lok Adalat Success:</strong> The people&apos;s court is one of the best examples of native ADR in India. They operate without court fees and can resolve disputes within a single day if a settlement is reached, holding the status of a civil court decree.
+                                </li>
+                                <li>
+                                    <strong>Lack of Public Knowledge:</strong> A large number of Indians are skeptical of applying ADR due to a lack of awareness and faith in its effectiveness. Furthermore, many ADR awareness campaigns are delivered in English, failing to reach the wider public.
+                                </li>
+                                <li>
+                                    <strong>Skill Inconsistency:</strong> Inconsistent skill sets among arbitrators and mediators present challenges, as practitioners do not always possess the required expertise to handle complex, specialized disputes.
+                                </li>
+                                <li>
+                                    <strong>Judicial Overreach:</strong> Despite the statutory bars against judicial intervention under the 1996 Act, excessive court interference continues to occur, slowing down the resolution process.
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS AND REFORMS</h4>
+                        <p>
+                            Certain key reforms would enhance the efficacy of the ADR process in India:
+                        </p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-2">
+                            <li>
+                                <strong>Curriculum Integration and ODR:</strong> Integrating comprehensive ADR training into law school curricula to prepare future practitioners. Additionally, Online Dispute Resolution (ODR) should be adopted to allow remote dispute resolution using digital platforms.
+                            </li>
+                            <li>
+                                <strong>Regional Awareness Campaigns:</strong> Organizing national awareness programs in regional languages to educate the public on the benefits of ADR.
+                            </li>
+                            <li>
+                                <strong>District Mediation Centres:</strong> Establishing mediation centres in every district to provide accessible and cost-effective services, and mandating pre-litigation mediation for matrimonial and commercial disputes.
+                            </li>
+                            <li>
+                                <strong>Government Incentives:</strong> Offering fiscal incentives, such as lower fees or tax rebates, for individuals and corporations that prefer ADR over traditional litigation.
+                            </li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>
+                            The future of law in India points toward a collaborative, dispute-prevention model rather than an adversarial one. With the rapid increase in internet users, ADR (specifically ODR) will likely become the primary mechanism for resolving minor disputes. Innovations such as AI-driven arbitral data analysis and virtual reality for conducting remote mediations could transition ADR from a last resort to a preferred choice for justice delivery in India.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            ADR is no longer merely a supplementary practice, but an indispensable pillar of the Indian legal system. It reduces the caseload burden on traditional courts and offers a quick, cost-effective avenue for justice. While challenges like low public awareness persist, strategic approaches integrating regional awareness, technology, and mandatory pre-litigation mediation will pave the way for a more harmonious and effective justice system.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Shreya Sinha, <em>Alternative dispute resolution (ADR) mechanisms in India: an overview</em>, ILE Multidisciplinary Journal, 3(1), 2024.</li>
+                            <li>Pradeep Thakur, <em>Pending Cases in India Cross 4.4 Crore</em>, The Times of India (May 16, 2021).</li>
+                            <li>Constitution of India, Article 39A.</li>
+                            <li>The Arbitration and Conciliation Act, 1996.</li>
+                            <li>The Legal Services Authorities Act, 1987.</li>
+                            <li>National Legal Services Authority (NALSA) Annual Reports.</li>
+                            <li>Swiss Ribbons Pvt. Ltd. v. Union of India, (2019) 4 SCC 17.</li>
+                            <li>Guru Nanak Found. v. Rattan Singh and Sons, (1981) 4 SCC 634.</li>
+                            <li>Fuerst Day Lawson Ltd. v. Jindal Exports Ltd., (2011) 8 SCC 333.</li>
+                            <li>M/S. Emkay Global Financial Services Ltd. v. Girdhar Sondhi, (2018) 9 SCC 49.</li>
+                            <li>Amazon.com NV Inv. Holdings LLC v. Future Retail Ltd., (2021) 9 SCC 624.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Paiyyavula Ramya, 1st Year BA LLB Student, NALSAR University of Law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Custodial Violence in India's Criminal Justice System: A Constitutional and Statutory Critique",
+            author: "By Marme Temai Sillah",
+            abstract: "Custodial violence represents one of the gravest challenges within India's criminal justice system, striking at the core of constitutional guarantees of dignity, liberty, and equality under Articles 21 and 22. This article critically examines the constitutional and statutory framework surrounding detention in India, evaluates the impact of recent legislative overhauls under the BNS and BNSS, and reviews key judicial safeguards from landmark rulings such as D.K. Basu v. State of West Bengal, Joginder Kumar, and Nilabati Behera. Ultimately, the paper highlights persistent enforcement gaps, political interference, and Nontraditional challenges, proposing comprehensive legislative, institutional, and technological reforms.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim</li>
+                            <li>Background of the Issue</li>
+                            <li>Custodial Violence: Constitutional and Statutory Framework</li>
+                            <li>Judicial Safeguards and Enforcement Gaps</li>
+                            <li>Case Laws, Statutes, and Policy Developments</li>
+                            <li>Contemporary Challenges in Custodial Justice</li>
+                            <li>Proposed Reforms: Towards Accountability and Transparency</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Custodial violence represents one of the gravest challenges within India&apos;s criminal justice system, striking at the core of constitutional guarantees of dignity, liberty, and equality. Despite safeguards under Articles 21 and 22 of the Constitution,<sup className="text-[#D4AF37] ml-0.5">1</sup> incidents of torture, unlawful detention, and custodial deaths continue to surface, exposing systemic flaws in policing and accountability. These violations are not isolated acts of misconduct but symptoms of deeper structural problems in law enforcement, oversight, and political interference.
+                        </p>
+                        <p className="mt-4">
+                            Recent legislative reforms under the Bharatiya Nyaya Sanhita (BNS), 2023, and the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, sought to modernize arrest procedures and limit arbitrary use of force, while judicial interventions such as <em>D.K. Basu v. State of West Bengal</em><sup className="text-[#D4AF37] ml-0.5">2</sup> mandated transparency in custody. Yet, the persistence of custodial abuse highlights the gap between law and practice. This article critically examines the legal framework, judicial pronouncements, and policy debates surrounding violence in detention, while exploring reforms necessary to align India&apos;s justice system with constitutional values and international human rights standards.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM</h4>
+                        <p>
+                            The objective of this article is to critically examine the problem of custodial violence in India&apos;s criminal justice system, with particular focus on constitutional safeguards, statutory frameworks, and judicial pronouncements. The aim is to evaluate the enforcement gaps that persist despite progressive legal standards, highlight systemic challenges such as political interference and weak oversight, and propose reforms that align domestic law with constitutional values and international human rights obligations. By doing so, the article seeks to contribute to ongoing debates on criminal justice reform and underscore the urgency of protecting custodial rights as non-negotiable constitutional guarantees.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>
+                            Abuse in custody has long been a structural problem in India, rooted in colonial policing practices<sup className="text-[#D4AF37] ml-0.5">3</sup> and perpetuated by weak accountability mechanisms. Reports by the National Crime Records Bureau (NCRB)<sup className="text-[#D4AF37] ml-0.5">4</sup> consistently document custodial deaths and torture, reflecting systemic reliance on coercive interrogation methods. Despite constitutional guarantees under Articles 21 and 22, custodial abuse has remained widespread, often shielded by political influence and institutional inertia.
+                        </p>
+                        <p className="mt-4">
+                            The failure to enact a comprehensive anti-torture statute,<sup className="text-[#D4AF37] ml-0.5">5</sup> despite repeated calls from the judiciary and civil society, has left a significant gap in deterrence. Internationally, India&apos;s refusal to ratify the UN Convention Against Torture (UNCAT)<sup className="text-[#D4AF37] ml-0.5">6</sup> further underscores its reluctance to bind itself to global standards. This background situates custodial brutality not as isolated misconduct but as a recurring challenge undermining the credibility of India&apos;s justice system.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CUSTODIAL VIOLENCE: CONSTITUTIONAL AND STATUTORY FRAMEWORK</h4>
+                        <p>
+                            Custodial violence strikes at the heart of constitutional protections guaranteed under Articles 21 and 22 of the Indian Constitution. Article 21 ensures the right to life and personal liberty, while Article 22 safeguards individuals against arbitrary arrest and detention. Despite these provisions, recurring incidents of custodial deaths and torture reveal systemic gaps in enforcement.
+                        </p>
+                        <p className="mt-4">
+                            Statutory frameworks have attempted to address these concerns. The Bharatiya Nyaya Sanhita (BNS), 2023,<sup className="text-[#D4AF37] ml-0.5">7</sup> and the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023,<sup className="text-[#D4AF37] ml-0.5">8</sup> introduced stricter arrest procedures, limits on police use of force, and penalties for unlawful detention. Judicial pronouncements have further clarified the scope of custodial rights. In <em>D.K. Basu v. State of West Bengal</em> (1997), the Supreme Court laid down mandatory guidelines for arrest and detention, emphasizing lucidity and answerability. In <em>Joginder Kumar v. State of Uttar Pradesh</em> (1994),<sup className="text-[#D4AF37] ml-0.5">9</sup> the Court stressed that arrests must be justified by necessity, reinforcing liberty safeguards.
+                        </p>
+                        <p className="mt-4">
+                            The National Human Rights Commission (NHRC)<sup className="text-[#D4AF37] ml-0.5">10</sup> has issued custodial guidelines, conducted inquiries into custodial deaths, and published reports to monitor compliance. In <em>Nilabati Behera v. State of Orissa</em> (1993),<sup className="text-[#D4AF37] ml-0.5">11</sup> the Court established compensation for custodial deaths, reinforcing accountability. Policy debates around the long-pending Prevention of Torture Bill (introduced in 2010 but never enacted) further underscore the need for explicit criminalization of mistreatment of detainees. Internationally, India&apos;s failure to ratify the UN Convention Against Torture highlights a critical gap in aligning domestic law with global standards.
+                        </p>
+                        <p className="mt-4">
+                            Thus, the legal issue lies in reconciling constitutional ideals and statutory safeguards with persistent violations, highlighting the urgent need for stronger accountability mechanisms. With the explanation of the legal issue now complete, the discussion turns to a critical legal analysis, evaluating how these safeguards and judicial interventions have functioned in practice and why enforcement gaps continue to perpetuate human rights violations.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL SAFEGUARDS AND ENFORCEMENT GAPS</h4>
+                        <p>
+                            The persistence of carceral violence in India highlights a troubling disconnect between constitutional ideals and ground realities. Judicial safeguards, though progressive on paper, have struggled to achieve consistent enforcement. For instance, in <em>Prakash Singh v. Union of India</em> (2006),<sup className="text-[#D4AF37] ml-0.5">12</sup> the Supreme Court directed wide-ranging police reforms, including the creation of independent oversight commissions, yet most states resisted implementation, reflecting systemic reluctance to change. Similarly, <em>Sheela Barse v. State of Maharashtra</em> (1983)<sup className="text-[#D4AF37] ml-0.5">13</sup> underscored the need for gender-sensitive custodial protections, but recurring reports of abuse against women in custody demonstrate weak compliance.
+                        </p>
+                        <p className="mt-4">
+                            The National Human Rights Commission continues to document custodial deaths in its annual reports, but its recommendations remain advisory, limiting their impact. Even technological safeguards, such as Supreme Court directives mandating CCTV installation in police stations (2020),<sup className="text-[#D4AF37] ml-0.5">14</sup> have faced poor implementation, undermining transparency. Legislative inertia is evident in the long-delayed anti-torture statute, which remains unenacted despite repeated calls for explicit criminalization of ill treatment. Internationally, India&apos;s reluctance to ratify the UN Convention Against Torture reflects hesitation to embrace binding global standards, further weakening amenability. Thus, while the legal framework appears robust, its inconsistent application exposes structural weaknesses.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS, STATUTES, AND POLICY DEVELOPMENTS</h4>
+                        <p>
+                            Judicial pronouncements and statutory reforms have provided important safeguards against systematic victimization, though their impact has been uneven. In <em>People&apos;s Union for Civil Liberties v. Union of India</em> (1997),<sup className="text-[#D4AF37] ml-0.5">15</sup> the Supreme Court underscored the need for trustworthiness in custodial practices, reinforcing that constitutional rights must extend meaningfully into detention settings. In <em>Prakash Singh v. Union of India</em> (2006), the Court directed structural police reforms, including the establishment of independent oversight commissions, yet widespread non-compliance revealed entrenched resistance to change. These decisions expanded jurisprudence from individual safeguards to systemic reform.
+                        </p>
+                        <p className="mt-4">
+                            Legislative developments in 2023 sought to modernize custodial protections by tightening arrest protocols and limiting arbitrary police powers, reflecting an intent to align statutory law with constitutional guarantees. Policy measures have also emerged, such as Supreme Court directives mandating CCTV installation in police stations and interrogation rooms, designed to enhance transparency and deter abuse. The National Human Rights Commission (NHRC) has played a monitoring role by investigating custodial deaths and publishing annual reports, though its advisory status limits enforcement. Debates around the persistently postponed torture law and India&apos;s continued refusal to ratify the UN Convention Against Torture highlight the need for explicit criminalization and global alignment.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONTEMPORARY CHALLENGES IN CUSTODIAL JUSTICE</h4>
+                        <p>
+                            Despite constitutional safeguards and statutory reforms, custodial violence remains an entrenched challenge in India&apos;s criminal justice system. A major obstacle is the weak enforcement of judicial directives. Guidelines laid down in <em>D.K. Basu v. State of West Bengal</em> and subsequent rulings are often ignored in practice, with arrest memos, medical examinations, and transparency measures inconsistently followed. The implementation gap between law and ground realities perpetuates abuse.
+                        </p>
+                        <p className="mt-4">
+                            Political interference in policing further shields errant officers from responsibility, undermining independent oversight. Police Complaint Authorities,<sup className="text-[#D4AF37] ml-0.5">16</sup> created to investigate misconduct, suffer from inadequate resources, delays, and a lack of binding powers, reducing their effectiveness. Custodial deaths continue to rise, reflecting systemic issues such as poor training, reliance on coercive interrogation methods, and a lack of sensitivity to human rights. The absence of a comprehensive anti-torture statute weakens deterrence, as India has yet to ratify the UN Convention Against Torture or enact the Prevention of Torture Bill. Technological safeguards, while promising, face challenges of sustainability: biometric monitoring, digital arrest registers, and video recording of interrogations<sup className="text-[#D4AF37] ml-0.5">17</sup> are often underfunded or poorly maintained, limiting their deterrent value. Public trust in law enforcement erodes when accountability mechanisms fail, creating a cycle of impunity.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PROPOSED REFORMS: TOWARDS ACCOUNTABILITY AND TRANSPARENCY</h4>
+                        <p>
+                            Addressing custodial misconduct requires a comprehensive reform strategy that strengthens responsibility, enhances openness, and aligns domestic law with international human rights standards:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>
+                                <strong>Anti-Torture Legislation:</strong> India must enact a dedicated anti-torture statute by reviving the proposed Prevention of Torture Bill, thereby explicitly criminalizing brutality in custody and providing clear penalties for offenders. Aligning with international anti-torture norms would bind India to universal benchmarks.
+                            </li>
+                            <li>
+                                <strong>Independent Oversight:</strong> External watchdogs and Police Complaint Authorities must be empowered with binding powers, adequate resources, and independence from political influence to ensure impartial investigations.
+                            </li>
+                            <li>
+                                <strong>Technological Auditing:</strong> Biometric arrest registers,<sup className="text-[#D4AF37] ml-0.5">18</sup> mandatory video recording of interrogations, and digital monitoring systems<sup className="text-[#D4AF37] ml-0.5">19</sup> should be introduced, maintained, and audited by independent bodies to prevent tampering.
+                            </li>
+                            <li>
+                                <strong>Sensitization and Capacity Building:</strong> Capacity-building and training programs should sensitize police personnel to constitutional rights, ethical interrogation practices, and human rights obligations.<sup className="text-[#D4AF37] ml-0.5">20</sup>
+                            </li>
+                            <li>
+                                <strong>Judicial Monitoring:</strong> Enhanced judicial monitoring of custodial cases,<sup className="text-[#D4AF37] ml-0.5">21</sup> including fast-track trials for custodial deaths and mandatory compliance reporting, would enhance deterrence.
+                            </li>
+                            <li>
+                                <strong>Structural Autonomy:</strong> Reforms must address political interference in policing by ensuring greater autonomy, professionalization, and merit-based appointments within the police force.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>
+                            The future of custodial justice in India depends on sustained institutional reform and global alignment. Ratification of the UN Convention Against Torture would signal India&apos;s commitment to international human rights standards, while the enactment of a dedicated anti-torture statute would provide explicit legal deterrence. Technological innovations such as biometric arrest registers, AI-enabled monitoring of interrogation rooms, and blockchain-based custody records<sup className="text-[#D4AF37] ml-0.5">22</sup> could enhance transparency and reduce tampering. Greater professionalization of the police force, coupled with training in non-coercive investigation techniques, would help shift the institutional culture away from reliance on violence. Embedding custodial rights into everyday policing practices can transform custodial justice from a fragile promise into a robust constitutional reality.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            Custodial violence continues to erode the credibility of India&apos;s criminal justice system despite constitutional guarantees under Articles 21 and 22 and repeated judicial safeguards. Weak enforcement, political interference, and inadequate oversight have allowed violations to persist, making reforms urgent. India must ratify the UN Convention Against Torture, enact a comprehensive anti-torture statute, empower independent complaint authorities, professionalize the police force, and embed human rights training into everyday policing.
+                        </p>
+                        <p className="mt-4">
+                            Custodial justice in India stands at a crossroads. The law promises dignity, but practice delivers impunity. Every custodial death is not just a statistic but a constitutional failure. True reform requires moving from symbolic compliance to substantive enforcement, embedding integrity into police structures, and treating custodial rights as non-negotiable constitutional values. Safeguarding liberty in custody is both a legal necessity and a moral imperative to preserve democratic integrity.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-zinc-400">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Case Law</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>D.K. Basu v. State of West Bengal, (1997) 1 SCC 416 (SC).</li>
+                                    <li>Joginder Kumar v. State of Uttar Pradesh, (1994) 4 SCC 260 (SC).</li>
+                                    <li>Nilabati Behera v. State of Orissa, (1993) 2 SCC 746 (SC).</li>
+                                    <li>Sheela Barse v. State of Maharashtra, (1983) 2 SCC 96 (SC).</li>
+                                    <li>Prakash Singh v. Union of India, (2006) 8 SCC 1 (SC).</li>
+                                    <li>People&apos;s Union for Civil Liberties v. Union of India, (1997) 3 SCC 433 (SC).</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Statutes &amp; International Instruments</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>Constitution of India (as amended by 106th Amendment Act, 2023).</li>
+                                    <li>Bharatiya Nyaya Sanhita (BNS), 2023.</li>
+                                    <li>Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023.</li>
+                                    <li>Prevention of Torture Bill, 2010 (not enacted).</li>
+                                    <li>UN Convention Against Torture (UNCAT), 1984.</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Policy and Reports</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>National Human Rights Commission (NHRC), Custodial Death Reports.</li>
+                                    <li>National Crime Records Bureau (NCRB) Reports on Custodial Violence.</li>
+                                    <li>MHA Guidelines on Biometric Registers &amp; Oversight (2019/2021).</li>
+                                    <li>NITI Aayog, Digital Monitoring Systems Policy Paper (2021).</li>
+                                    <li>BPRD, De-escalation &amp; Non-Coercive Training Manual (2019).</li>
+                                    <li>Law Commission of India, 273rd Report on UNCAT (2017).</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Academic &amp; Other Sources</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>David Arnold, <em>Police Power and Colonial Rule in India, 1860–1947</em> (OUP, 1986).</li>
+                                    <li>Upendra Baxi, <em>Human Rights in a Posthuman World</em> (OUP, 2007).</li>
+                                    <li>M.P. Jain, <em>Indian Constitutional Law</em> (5th edn, 1998).</li>
+                                    <li>ICRIER, <em>Blockchain Applications in Governance and Justice Systems</em> (2021).</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Marme Temai Sillah, 2nd Year BBA LLB Student, Parul Institute of Law, Parul University.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "The Ghost in the Archive: A Critical Analysis of the Use of Orphan Works Under Section 31-A of the Copyright Act, 1957",
+            author: "By Shipra Saloni",
+            abstract: "Orphan works—copyrighted works whose authors or owners are deceased, unknown, or untraceable—often sit in a 'legal limbo' within archives, inaccessible to the public. Under Section 31-A of India's Copyright Act, 1957, compulsory licensing provides a potential remedy, yet procedural challenges such as the 'diligent search' requirement and digital licensing barriers obstruct its practical efficacy. This article examines the statutory framework of Section 31-A, Section 32, and Section 52 (Fair Use), reviews key judicial precedents (such as Brooke Bond India and Anil G. Karkhanis), and proposes critical reforms to balance the interests of original creators with the needs of the public domain in the digital era.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Defining &quot;The Ghost&quot; and Orphan Works</li>
+                            <li>Legal Provisions Under Copyright Act, 1957</li>
+                            <li>Process to Obtain a License</li>
+                            <li>Critical Analysis: The &quot;Public Domain&quot; vs. &quot;Legal Limbo&quot;</li>
+                            <li>Judicial Precedents</li>
+                            <li>Recommendations</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            This article analyses how original works created by untraceable individuals can remain accessible to the public at large despite the protection provided under intellectual property laws.
+                        </p>
+                        <p className="mt-4">
+                            We live in a 21st-century society where technology has advanced to such an extent that everything is available and accessible to almost everyone. Access to the internet allows works and content to be used, sometimes without direct permission of their owners or authors, as they appear in the public domain and are accessible to all. Under the Copyright Act, 1957, work created by a person is automatically protected from the moment of its creation. This protection lasts throughout the lifetime of the author and extends for sixty years after their death. After this duration, the work enters the public domain, becoming freely accessible.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DEFINING &quot;THE GHOST&quot; AND ORPHAN WORKS</h4>
+                        <p>
+                            The word &quot;Ghost&quot; in this title is a metaphor used for the owners and authors of original works. When the author is deceased, unknown, or untraceable and the work still exists, one cannot obtain permission for its use unless it enters the public domain. Consequently, the work remains in the archive, of no use to society. Since you cannot get permission from a ghost, these works often sit in a &quot;legal limbo.&quot;
+                        </p>
+                        <p className="mt-4">
+                            Copyright-protected works whose authors are unknown or untraceable despite a diligent search are known as &quot;Orphan Works.&quot;
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL PROVISIONS UNDER COPYRIGHT ACT, 1957</h4>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">1. Section 31-A (Compulsory License in Unpublished or Published Works):</strong> Section 31-A of the Copyright Act, 1957, recognizes orphan works. This section permits individuals to apply for a compulsory license to use an orphan work, provided that the author is either deceased, untraceable, or unknown. Additionally, the work must be unpublished and have originated in India.
+                            </li>
+                            <li>
+                                <strong className="text-white">2. Section 32 (Licensing for Translations):</strong> Section 32 allows any person to apply for a license to produce and publish translations of literary or dramatic works in an Indian language after a mandatory waiting period. It applies to non-Indian works, enabling access for the purpose of teaching, research, education, or scholarship after 3 to 7 years if authorized translations are unavailable. This section functions as a safety valve which ensures that copyrighted works are not kept out of public reach by the owner&apos;s inaction regarding translations.
+                            </li>
+                            <li>
+                                <strong className="text-white">3. Section 52 (Fair Use / Fair Dealing):</strong> Section 52 of the Copyright Act, 1957, provides the exceptional circumstances where one can use the original work of others without legal liability, meaning such acts are not considered copyright infringement. It is also known as &quot;Fair Use or Fair Dealing.&quot;
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PROCESS TO OBTAIN A LICENSE</h4>
+                        <p>
+                            To obtain a compulsory license for an orphan work under the Copyright Act, an applicant must apply to the Commercial Court. The process involves three key stages:
+                        </p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-2">
+                            <li>
+                                <strong>The Diligent Search:</strong> The applicant must conduct a thorough, documented search to locate the original owner or author.
+                            </li>
+                            <li>
+                                <strong>Inquiry and Grant:</strong> The court conducts an inquiry to verify the search efforts and the untraceable status of the owner before granting the license.
+                            </li>
+                            <li>
+                                <strong>The Public Revision Account:</strong> Royalties or license fees are deposited into a public account in case the owner eventually appears to claim them.
+                            </li>
+                        </ol>
+                        <p className="mt-4">
+                            When the work finally loses its copyright protection 60 years after the death of the owner, it formally enters the public domain, making it accessible for public use without licensing.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL ANALYSIS: THE &quot;PUBLIC DOMAIN&quot; VS. &quot;LEGAL LIMBO&quot;</h4>
+                        <p>
+                            The primary objective of copyright law is to protect the creator&apos;s rights while eventually moving works into the public domain for fair use and further creativity. However, the legal limbo surrounding orphan works often causes market failures:
+                        </p>
+                        <div className="space-y-6 mt-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">1. The Diligent Search Hurdle</h5>
+                                <p>
+                                    The statute mandates a &quot;diligent search&quot; but does not clarify the exact criteria for it. If a work is not widely famous, it is extremely difficult for a user to know the best practices to locate the author, creating high barriers to entry.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">2. Digital Library Dilemma</h5>
+                                <p>
+                                    Institutional users, such as National Digital Libraries, face severe obstacles regarding mass licensing. When dealing with bulk digital archives containing thousands of potentially orphaned books, applying for separate court licenses for each individual work is practically impossible.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">3. Prolonged Protection Duration</h5>
+                                <p>
+                                    Because copyright protection is automatic and lasts for 60 years after the author&apos;s death, untraceable works remain locked away even when there is no active creator to benefit from it. If the creator is untraceable, this protection fails to incentivize creativity and instead obstructs public access.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">4. The Digital Gap and Liability Risk</h5>
+                                <p>
+                                    Formulated in 1957, the Act did not anticipate the digital era where digital preservation is crucial. Users who digitize and share untraceable works after a search face technical liability for infringement if a &quot;zombie&quot; owner suddenly appears and objects.
+                                </p>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-xl mb-2">5. The Creative Paradox</h5>
+                                <p>
+                                    Copyright is not meant to obstruct subsequent creations that build upon existing ideas. If existing, orphaned works are unavailable in the public domain and their owners are unknown, subsequent authors cannot legally create updated, translated, or extended versions of those works.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL PRECEDENTS</h4>
+                        <p className="mb-4">
+                            Courts frequently interpret Section 31-A alongside broader rules concerning pseudonymous, unlocatable, or foreign authors:
+                        </p>
+                        <div className="space-y-6">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Brooke Bond India Limited Versus Balaji Tea (India) Private Limited (1989 Supreme (Mad) 374)</strong>
+                                <p>
+                                    This case addresses jurisdiction in combined lawsuits. The plaintiff used a specific artistic carton for their &quot;Super Dust Tea,&quot; and the defendant adopted a design that looked remarkably similar. The plaintiff sued for copyright infringement and passing off. Under Section 62 of the Copyright Act, a plaintiff can sue where they carry on business. The court held that if it has jurisdiction over the copyright claim, it should also allow related passing off claims in the same suit, preventing fragmented litigation in different cities.
+                                </p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Anil G. Karkhanis Versus Kirloskar Press, Mukund Nagar, Pune, &amp; Anr. (2023 SCC OnLine Bom 678)</strong>
+                                <p>
+                                    This landmark ruling represents India&apos;s first Section 32 translation license granted by a High Court. The petitioner wanted to translate the English autobiography of Madeleine Slade (Mira Behen, a follower of Mahatma Gandhi), published in 1960. The author was deceased and had no traceable heirs. The High Court verified that: (i) the work was published over 7 years ago, (ii) the applicant demonstrated a due diligent search, and (iii) a public notice was issued for 120 days. Since no heirs came forward, the translation license was successfully granted, illustrating Section 32 acting as a safety valve.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECOMMENDATIONS</h4>
+                        <ul className="list-disc pl-5 space-y-3">
+                            <li>
+                                <strong>Public-Interest Categorization:</strong> The Government should categorize orphan works according to public utility before providing access. Not all works should enter the public domain indiscriminately, particularly with the risk of AI-generated distortions violating the original creator&apos;s moral rights.
+                            </li>
+                            <li>
+                                <strong>Standardize &quot;Diligent Search&quot;:</strong> The law must establish clear, standardized criteria for what constitutes a &quot;diligent search&quot; to prevent bad-faith exploitation while protecting user interest.
+                            </li>
+                            <li>
+                                <strong>Update for the Digital and AI Era:</strong> The Copyright Act of 1957 must be amended to reflect modern internet technologies, digital archiving, and AI-driven creative environments.
+                            </li>
+                            <li>
+                                <strong>Secure Public Access:</strong> Access to public domain works could be restricted to verified researchers or students (using institutions, student IDs, or biometrics) to ensure that the materials are not exploited for commercial plagiarism.
+                            </li>
+                            <li>
+                                <strong>Increase Penalties for Distortion:</strong> Penalties for misusing or distorting original works that harm the creator&apos;s reputation and moral rights must be increased to act as a proper deterrent.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            The challenge of orphan works in India highlights a critical gap in the Copyright Act, 1957, between protecting original creators and enabling subsequent cultural and educational growth. Compulsory licensing under Section 31-A provides a starting point, but the rigid procedural requirements fail to match the speed and scale of the digital age. Reforming the criteria for diligent searches, incorporating guidelines for digital library archives, and protecting works from AI distortions will help unlock the potential of these &quot;ghost&quot; archives, ensuring they serve the public interest rather than languishing in legal limbo.
+                        </p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shipra Saloni, Law Student.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Prison Reform and Protection of Prisoners' Rights in India",
+            author: "By Bathsheba Joe",
+            abstract: "Prisoners' rights represent a fundamental pillar of the Indian criminal justice system, rooted in the philosophy that incarceration does not strip an individual of their humanity or constitutional entitlements. Under Articles 14 and 21 of the Constitution of India, prisoners retain their right to dignity and protection against cruel, inhuman, or degrading treatment. This article examines the statutory safeguards under the Prisons Act of 1894, the Protection of Human Rights Act of 1993, and the new Model Prisons and Correctional Services Act of 2023. It also analyzes seminal judicial precedents—including Sunil Batra, Maneka Gandhi, D.K. Basu, and Hussainara Khatoon—highlighting the critical path from punitive custody to human rights-based rehabilitation.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional Protection of Prisoners&apos; Rights</li>
+                            <li>Statutory Provisions Extending Protection</li>
+                            <li>Landmark Cases on Prisoners&apos; Rights</li>
+                            <li>Rights and Objectives of the Prisoner</li>
+                            <li>Recent Development: Correctional Reform and Modernization</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Prisoners&apos; rights represent a fundamental pillar of the criminal justice system in India. The foundational philosophy of the Indian legal system dictates that even when a person is incarcerated as punishment for a wrongdoing, they do not lose their status as a citizen or their entitlement to their fundamental rights, except those specifically restricted by the law. The protection of these individuals from cruel, inhuman, or degrading treatment is woven through a complex web of the Indian Constitution, judicial precedents, domestic prison law, and international human rights principles. Historically, the Supreme Court of India has acted as the primary guardian of these rights, interpreting the Constitution through a broad lens to ensure that humane treatment remains a reality for those in custody.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL PROTECTION OF PRISONERS&apos; RIGHTS</h4>
+                        <p>
+                            In the Indian legal context, a prisoner is not viewed as a person who has forfeited their humanity upon entering the jail cell. Although their physical liberty is lawfully restricted, they remain human beings entitled to dignity, equality, and protection under the Constitution of India. The Constitution serves as a shield against torture and ensures that the State maintains fair treatment for individuals while they are in prison.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Key Constitutional Articles</h5>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">Article 14 (Right to Equality):</strong> This article guarantees equality before the law, ensuring that prisoners cannot be subjected to arbitrary discrimination. It reinforces the principle that the law applies equally to all, including those behind bars.
+                            </li>
+                            <li>
+                                <strong className="text-white">Article 21 (Right to Life and Personal Liberty):</strong> This is perhaps the most critical article for prisoners. It ensures that no person is deprived of their life or personal liberty except according to a fair procedure established by law. For inmates, this means the right to live with dignity and protection against abuse.
+                            </li>
+                        </ul>
+                        <p className="mt-4">
+                            The landmark case of <em>Sunil Batra v. Delhi Administration</em> remains one of the most significant judgments in this area. In this decision, the Supreme Court affirmed that prisoners are human beings who do not lose their fundamental rights simply by being incarcerated.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATUTORY PROVISIONS EXTENDING PROTECTION</h4>
+                        <p>
+                            Beyond constitutional mandates, various statutory provisions and regulations govern prisoner protection to ensure rehabilitation, fair procedure, and safety from abuse.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Key Legislation</h5>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">The Prisons Act, 1894:</strong> This remains the primary legislation for prison administration in India. It outlines provisions for the safe custody of inmates, internal discipline, and essential healthcare. While it is a colonial-era law focused primarily on custody, it provides the structural basis for daily prison operations.
+                            </li>
+                            <li>
+                                <strong className="text-white">The Protection of Human Rights Act, 1993:</strong> This Act is vital for protecting inmates from torture and systemic violence while in custody. The National Human Rights Commission (NHRC) utilizes this framework to monitor conditions, investigate custodial deaths, and address human rights violations, providing a crucial layer of external oversight.
+                            </li>
+                            <li>
+                                <strong className="text-white">Model Prison Manual Act, 2026:</strong> This modern framework provides guidelines for the administration and welfare of prisoners. Focused on improving the quality of life within prisons, it introduces standards for sanitation, hygiene, and nutrition, viewing the prison not merely as a place for detention but as a space for reform and welfare.
+                            </li>
+                            <li>
+                                <strong className="text-white">Indian Penal Code, 1860:</strong> The IPC provides indirect protection by criminalizing unlawful detention and custodial abuse. Specifically, Sections 330 and 331 provide punishments for officials who abuse their power or treat prisoners unlawfully. These sections act as a critical safeguard against custodial violence and the arbitrary use of power.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK CASES ON PRISONERS&apos; RIGHTS</h4>
+                        <p className="mb-4">
+                            The evolution of prisoners&apos; rights in India is largely a story of judicial activism. The courts have repeatedly stepped in where legislation was silent or where administrative actions were abusive:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Maneka Gandhi v. Union of India</strong>
+                                <p>
+                                    This case established that any legal procedure depriving a person of liberty must be fair, just, and reasonable, rather than merely legally enacted. It expanded the scope of Article 21 to include the right to a dignified life, shifting the legal focus from mere adherence to statutory rules to the quality and fairness of the law itself.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. D.K. Basu v. State of West Bengal</strong>
+                                <p>
+                                    Addressing the alarming rise in custodial violence, torture, and deaths, the Supreme Court laid down strict guidelines for arrest and detention. This ensures that law enforcement cannot abuse their power and must respect the constitutional protections against arbitrary arrest under Articles 21 and 22.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Hussainara Khatoon v. State of Bihar</strong>
+                                <p>
+                                    This landmark judgment focused on the rights of under-trial prisoners, emphasizing the right to a speedy trial and free legal aid for poor and impoverished inmates. The Court ruled that detaining individuals for years without trial is a direct violation of their constitutional rights.
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIGHTS AND OBJECTIVES OF THE PRISONER</h4>
+                        <p className="mb-4">
+                            The primary objective of the prison system is to balance security needs with the inherent rights of the individual.
+                        </p>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">Right to Life:</strong> Regardless of conviction status or under-trial status, all inmates possess an inherent fundamental right to life and personal liberty under Article 21. This means that prisoners must be treated humanely and detention must be free from arbitrary cruelty.
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to Fair Trial:</strong> This right applies to prisoners with the same force as it does to any other citizen. For prisoners, a fair trial means the right to be informed of charges, to have legal representation, and to have their case heard by an impartial court, preventing arbitrary detention and ensuring proper legal procedure.
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to Equality:</strong> Article 14 guarantees that the State cannot deny any person equality before the law or equal protection of the law. Prisoners have the right to be treated equally without discrimination, whether regarding access to necessities, treatment by authorities, or rehabilitation opportunities.
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to Legal Aid:</strong> Linked with constitutional guarantees of access to justice, anyone facing criminal charges or detention has the right to defend themselves through legal counsel. If they cannot afford representation, the State must provide free legal aid in the interest of justice.
+                            </li>
+                            <li>
+                                <strong className="text-white">Responsibilities of Prisoners:</strong> Inmates are expected to comply with lawful instructions and regulations given by prison authorities. This includes maintaining proper behavior, avoiding violence or misconduct, and actively participating in rehabilitation programs. This balance of rights and duties is designed to treat individuals with fairness while providing pathways to reform.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT DEVELOPMENT: CORRECTIONAL REFORM AND MODERNIZATION</h4>
+                        <p>
+                            A significant shift occurred with the introduction of the Model Prisons and Correctional Services Act, 2023. Enacted by the Ministry of Home Affairs, this Act serves as a template for states to modernize their prison systems and replace colonial-era legislation like the Prisons Act of 1894.
+                        </p>
+                        <p className="mt-4">
+                            Key aspects of the 2023 reform include:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Classifying prisoners according to the crime committed to ensure safety and targeted reform.</li>
+                            <li>Technological integration, including the use of video conferencing for court appearances and biometrics for enhanced security.</li>
+                            <li>Mandating separate facilities for women, men, and transgender prisoners.</li>
+                            <li>Ensuring access to legal aid, parole, and furlough to incentivize good conduct and maintain contact with society.</li>
+                        </ul>
+                        <p className="mt-4">
+                            These provisions have sparked a national discussion on whether the proposed reforms can effectively reduce chronic issues such as prison overcrowding, promoting a national dialogue on systemic correctional challenges.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            In conclusion, prison reform and the protection of prisoners&apos; rights stand at the intersection of justice, human dignity, and human rights. The Indian legal journey has moved away from the colonial mindset that viewed prisoners merely as objects of punishment.
+                        </p>
+                        <p className="mt-4">
+                            Through landmark judgments such as <em>Hussainara Khatoon v. State of Bihar</em> and new frameworks like the Model Prisons and Correctional Services Act, a paradigm shift is occurring. This shift moves from mere custodial detention toward a rehabilitative, rights-based approach. Prisoners are recognized not as forsaken individuals, but as people entitled to fair treatment, access to justice, and opportunities for reform.
+                        </p>
+                        <p className="mt-4">
+                            However, despite these strides, much remains to be done. Implementation varies across states, and resource constraints, overcrowding, and systemic bias still pose challenges. While these reforms are a critical step forward, sustained commitment, judicial oversight, and state-level implementation will be essential to achieving a truly just and humane prison system.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Constitution of India, Articles 14, 21, &amp; 22.</li>
+                            <li>The Prisons Act, 1894.</li>
+                            <li>The Protection of Human Rights Act, 1993.</li>
+                            <li>Indian Penal Code, 1860 (Sections 330 &amp; 331).</li>
+                            <li>Model Prisons and Correctional Services Act, 2023.</li>
+                            <li>Model Prison Manual, 2016 / 2026 guidelines.</li>
+                            <li>Sunil Batra v. Delhi Administration, (1978) 4 SCC 494.</li>
+                            <li>Maneka Gandhi v. Union of India, (1978) 1 SCC 248.</li>
+                            <li>D.K. Basu v. State of West Bengal, (1997) 1 SCC 416.</li>
+                            <li>Hussainara Khatoon v. State of Bihar, (1980) 1 SCC 81.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Bathsheba Joe.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Climate Constitutionalism in India: International Climate Obligations and the Right Against Climate Change: Analysing M.K. Ranjitsinh v. Union of India (2024-2025)",
+            author: "By Tamelna Tinning",
+            abstract: "Climate change has transformed from a policy problem into a key constitutional and human rights challenge. In the landmark case of M.K. Ranjitsinh v. Union of India (2024), the Supreme Court of India explicitly recognized a fundamental 'right against the adverse effects of climate change' under Articles 14 and 21 of the Constitution. This article explores the development of climate constitutionalism in India, analyzes the conflict between GIB wildlife conservation and renewable energy targets, and examines how international climate commitments like the Paris Agreement shape domestic legal obligations and future environmental litigation.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research Papers</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions or Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Climate change has emerged as one of the most serious global challenges of the twenty-first century. Rising temperatures, extreme heatwaves, floods, droughts, environmental degradation, and biodiversity loss increasingly threaten human survival and sustainable development. Across the world, courts are now recognizing that climate change is not merely an environmental concern but also a constitutional and human rights issue. This growing interaction between constitutional law and environmental governance is commonly referred to as &quot;climate constitutionalism.&quot; In India, this concept gained major legal significance through the Supreme Court&apos;s landmark judgment in the case <em>M.K. Ranjitsinh v. Union of India</em>, 2024 INSC 280.
+                        </p>
+                        <p className="mt-4">
+                            The judgment of the case is important because, for the first time, the Supreme Court explicitly recognized a constitutional &quot;right against the adverse effects of climate change&quot; under Articles 14 and 21 of the Constitution of India. The Court linked climate governance with international environmental obligations, constitutional rights, and sustainable development principles. This decision marked a significant development in Indian environmental jurisprudence because it transformed climate protection and promotion from a policy concern into a constitutional obligation enforceable through courts.
+                        </p>
+                        <p className="mt-4">
+                            The increasing impact of climate-related disasters in India, including floods, cyclones, heatwaves, and water scarcity, has intensified the need for stronger legal and governance mechanisms. At the same time, India faces the challenge of balancing economic development with environmental protection due to being one of the developing countries in the world. The <em>M.K. Ranjitsinh</em> judgment reflects this tension and demonstrates how Indian courts are attempting to harmonize biodiversity protection, renewable energy expansion, and constitutional rights.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>
+                            The primary objective of this article is to examine the development of climate constitutionalism in India through the judgment in <em>M.K. Ranjitsinh v. Union of India</em>. The article seeks to explain the legal issues involved in the case, analyse the role of constitutional and international environmental law, and evaluate the broader implications of the judgment for climate governance in India.
+                        </p>
+                        <p className="mt-4">
+                            The article also aims to explore how international climate obligations under agreements such as the Paris Agreement and the United Nations Framework Convention on Climate Change (UNFCCC) are influencing domestic constitutional interpretation. Further, it seeks to analyse whether judicial intervention can effectively strengthen climate governance and environmental accountability in India.
+                        </p>
+                        <p className="mt-4">
+                            Finally, the article attempts to identify the future scope of climate litigation in India and suggest reforms for establishing a more comprehensive and effective climate governance framework.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>
+                            The <em>M.K. Ranjitsinh</em> case originally arose from concerns regarding the protection of the Great Indian Bustard (GIB), one of India&apos;s most critically endangered bird species found primarily in Rajasthan and Gujarat. Environmental activists argued that overhead electricity transmission lines installed for renewable energy projects were causing frequent bird deaths due to collisions. The petitioners therefore sought directions from the Supreme Court for undergrounding power transmission lines in areas identified as habitats of the Great Indian Bustard.
+                        </p>
+                        <p className="mt-4">
+                            Earlier, the Supreme Court had directed that transmission lines in certain areas should be placed underground wherever technically feasible. However, the Union Government later sought modification of this order on the ground that undergrounding high-voltage transmission lines across large desert regions was technically difficult, financially expensive, and potentially harmful to India&apos;s renewable energy goals.
+                        </p>
+                        <p className="mt-4">
+                            The dispute therefore involved a conflict between two important environmental concerns. On one hand was the protection of biodiversity and endangered wildlife, while on the other was the expansion of renewable energy infrastructure necessary for reducing greenhouse gas emissions and meeting India&apos;s international climate obligations.
+                        </p>
+                        <p className="mt-4">
+                            The Court recognized that the issue extended beyond wildlife conservation and involved broader constitutional and governance concerns relating to climate change, sustainable development, and environmental justice. Consequently, the judgment evolved into one of the most important climate governance decisions in India.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <p>
+                            The legal framework governing climate change and environmental protection in India consists of constitutional provisions, environmental statutes, judicial precedents, and international environmental obligations.
+                        </p>
+                        <p className="mt-4">
+                            The Constitution of India plays a central role in environmental governance. Article 21 guarantees the right to life and personal liberty. The Supreme Court has repeatedly interpreted Article 21 broadly to include the right to a healthy environment, clean and fresh air, and clean water. In <em>Subhash Kumar v. State of Bihar</em>, (1991) 1 SCC 598, the Court held that the right to life includes the right to enjoy pollution-free water and air.
+                        </p>
+                        <p className="mt-4">
+                            Article 14 of the Constitution guarantees equality before the law and equal protection of laws. In the <em>M.K. Ranjitsinh</em> judgment, the Court connected climate change with Article 14 by recognizing that vulnerable communities disproportionately suffer from environmental degradation and climate related disasters.
+                        </p>
+                        <p className="mt-4">
+                            Further, Article 48A of the Constitution directs the State to protect and improve the environment, while Article 51A(g) imposes a fundamental duty upon citizens to protect the natural environment.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Key Legislation</h5>
+                        <ul className="list-disc pl-5 space-y-2">
+                            <li>The Environment (Protection) Act, 1986</li>
+                            <li>The Air (Prevention and Control of Pollution) Act, 1981</li>
+                            <li>The Water (Prevention and Control of Pollution) Act, 1974</li>
+                            <li>The Biological Diversity Act, 2002</li>
+                        </ul>
+                        <p className="mt-4">
+                            However, India still lacks dedicated climate change legislation despite increasing environmental challenges.
+                        </p>
+                        <p className="mt-4">
+                            International law also forms an important part of climate governance. India is a signatory to the Paris Agreement, the United Nations Framework Convention on Climate Change (UNFCCC), and the Kyoto Protocol. Under the Paris Agreement, India committed itself to reducing emissions intensity and increasing renewable energy capacity. Although international treaties are not automatically enforceable domestically, Indian courts have often relied upon international environmental principles while interpreting constitutional rights. Article 51(c) of the Constitution encourages respect for international law and treaty obligations.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS AND LEGAL RESEARCH PAPERS</h4>
+                        <p className="mb-4">
+                            Significant environmental precedents and research papers influencing this domain include:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. M.K. Ranjitsinh v. Union of India, 2024 INSC 280</strong>
+                                <p>
+                                    The Supreme Court held that citizens possess a constitutional &quot;right against the adverse effects of climate change&quot; under Articles 14 and 21 of the Constitution. The Court recognized that climate change affects health, livelihood, shelter, and environmental stability and therefore directly impacts fundamental rights.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Vellore Citizens Welfare Forum v. Union of India, (1996) 5 SCC 647</strong>
+                                <p>
+                                    The Supreme Court incorporated core principles such as sustainable development, the precautionary principle, and the polluter pays principle into Indian environmental jurisprudence.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. M.C. Mehta v. Union of India, AIR 1987 SC 1086</strong>
+                                <p>
+                                    The Supreme Court expanded environmental protection through judicial activism and emphasized the importance of protecting public health and ecological balance.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Subhash Kumar v. State of Bihar, (1991) 1 SCC 598</strong>
+                                <p>
+                                    The Court held that environmental protection forms part of the constitutional right to life under Article 21.
+                                </p>
+                            </li>
+                        </ul>
+                        <p className="mt-6">
+                            Recent legal scholarship has also analysed the rise of climate constitutionalism in India:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>
+                                <strong>Shibani Ghosh, &quot;Climate Litigation in India: Trends and Developments&quot; (2023)</strong> (Centre for Policy Research): Discusses the increasing role of courts in climate governance and environmental accountability.
+                            </li>
+                            <li>
+                                <strong>&quot;India&apos;s New Constitutional Climate Right: Examining the Significance of M.K. Ranjitsinh&quot; (2024)</strong> (ResearchGate): Analyses how the judgment integrates constitutional law with international climate obligations and climate justice principles.
+                            </li>
+                            <li>
+                                <strong>ICJ 2025 Advisory Opinion:</strong> Internationally, the 2025 Advisory Opinion of the International Court of Justice (ICJ) on climate change obligations further strengthened climate governance principles, declaring that states have legal obligations under international law to protect the climate system and prevent environmental harm.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <p>
+                            The <em>M.K. Ranjitsinh</em> judgment represents a historic development in Indian constitutional law because it explicitly recognized protection from climate change as part of the right to life under Article 21. Earlier environmental judgments recognized rights to clean air and water, but this judgment extended constitutional protection specifically to climate change impacts. This expansion is legally significant because it creates stronger grounds for climate litigation in India. Government inaction, environmentally harmful projects, or weak climate policies may now potentially be challenged as violations of constitutional rights.
+                        </p>
+                        <p className="mt-4">
+                            The judgment also demonstrates the growing influence of international environmental law on domestic constitutional interpretation. By relying upon principles under the Paris Agreement and UNFCCC, the Court reinforced the idea that international climate commitments are not merely political promises but important legal principles relevant to constitutional governance.
+                        </p>
+                        <p className="mt-4">
+                            Another important aspect of the judgment is its emphasis on climate justice. The Court acknowledged that poor and marginalized communities are disproportionately affected by climate-related disasters despite contributing the least to global emissions. This recognition strengthens the relationship between environmental protection, equality, and social justice.
+                        </p>
+                        <p className="mt-4">
+                            However, the judgment also raises concerns regarding judicial activism. Critics argue that climate governance involves scientific, economic, and technical issues that should primarily be addressed by legislatures and policymakers rather than courts. Excessive judicial intervention may create uncertainty in infrastructure and energy projects.
+                        </p>
+                        <p className="mt-4">
+                            In my opinion, judicial intervention becomes necessary when environmental harm threatens constitutional rights and when legislative action is insufficient. However, courts alone cannot solve the climate crisis. Effective climate governance requires comprehensive legislation, institutional reforms, and coordinated policymaking mechanisms.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS OR REFORMS</h4>
+                        <p>
+                            To establish a more robust and effective environmental framework, the following reforms are proposed:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-3 mt-2">
+                            <li>
+                                <strong>Comprehensive Climate Change Act:</strong> India urgently requires a dedicated Act that clearly defines emission reduction responsibilities, adaptation strategies, institutional accountability, and enforcement mechanisms. Fragmented policies must be integrated under a singular law.
+                            </li>
+                            <li>
+                                <strong>Rigorous Environmental Impact Assessments (EIA):</strong> EIAs must become more rigorous, especially for large infrastructure and renewable energy projects, balancing renewable energy expansion with wildlife and biodiversity protection.
+                            </li>
+                            <li>
+                                <strong>Strengthened Adaptation Measures:</strong> Adaptation policies must target vulnerable communities—including farmers, coastal populations, and economically weaker groups—with investments in climate-resilient infrastructure and disaster preparedness.
+                            </li>
+                            <li>
+                                <strong>Coordinated Institutional Action:</strong> The judiciary, legislature, executive, and civil society must work together to ensure effective climate governance rather than relying solely on post-facto judicial intervention.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>
+                            The <em>M.K. Ranjitsinh</em> judgment is likely to influence future climate litigation in India significantly. Citizens and environmental organizations may increasingly approach courts to challenge environmentally harmful projects and demand stronger climate action from governments.
+                        </p>
+                        <p className="mt-4">
+                            The judgment may also encourage recognition of additional environmental rights under the Constitution, including stronger protections for future generations and ecological sustainability. International developments such as the 2025 ICJ Advisory Opinion on climate obligations will likely further strengthen climate litigation globally, reinforcing the interaction between constitutional law, international environmental obligations, and sustainable development principles.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            The judgment in <em>M.K. Ranjitsinh v. Union of India</em>, 2024 INSC 280, marks a historic turning point in Indian environmental and constitutional law. For the first time, the Supreme Court explicitly recognized a constitutional right against the adverse effects of climate change under Articles 14 and 21 of the Constitution.
+                        </p>
+                        <p className="mt-4">
+                            The judgment is important because it integrates constitutional rights, international climate obligations, environmental protection, and climate justice within a unified legal framework. It reflects the growing global trend of climate constitutionalism, where courts increasingly treat climate governance as a matter of human rights and constitutional accountability.
+                        </p>
+                        <p className="mt-4">
+                            At the same time, the judgment highlights the urgent need for comprehensive climate legislation and stronger environmental governance mechanisms in India. Judicial recognition of climate rights is an important development, but long-term climate protection requires coordinated legislative, executive, and institutional action. Ultimately, the <em>M.K. Ranjitsinh</em> judgment represents the beginning of a new phase in Indian climate governance, where environmental protection is viewed not merely as a policy objective but as an essential component of constitutional justice, human dignity, and sustainable development.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>M.K. Ranjitsinh v. Union of India, 2024 INSC 280.</li>
+                            <li>Subhash Kumar v. State of Bihar, (1991) 1 SCC 598.</li>
+                            <li>Vellore Citizens Welfare Forum v. Union of India, (1996) 5 SCC 647.</li>
+                            <li>M.C. Mehta v. Union of India, AIR 1987 SC 1086.</li>
+                            <li>The Environment (Protection) Act, 1986.</li>
+                            <li>The Air (Prevention and Control of Pollution) Act, 1981.</li>
+                            <li>The Water (Prevention and Control of Pollution) Act, 1974.</li>
+                            <li>The Biological Diversity Act, 2002.</li>
+                            <li>Shibani Ghosh, Climate Litigation in India: Trends and Developments (Centre for Policy Research 2023).</li>
+                            <li>
+                                &quot;India&apos;s New Constitutional Climate Right: Examining the Significance of M.K. Ranjitsinh&quot; (2024) ResearchGate, <a href="https://www.researchgate.net/publication/380106081" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">publication/380106081</a> accessed 13 May 2026.
+                            </li>
+                            <li>
+                                International Court of Justice, Advisory Opinion on Obligations of States in Respect of Climate Change (2025), <a href="https://www.icj-cij.org/case/187" target="_blank" rel="noopener noreferrer" className="hover:text-[#D4AF37] underline transition-colors">icj-cij.org/case/187</a> accessed 13 May 2026.
+                            </li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Tamelna Tinning, Law Student, Parul Institute of Law, Parul University.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Temple Prasadam as a Geographical Indication: Protecting Sacred Heritage Through Intellectual Property Law",
+            author: "By H. Priya",
+            abstract: "Intellectual Property Rights are increasingly invoked to protect assets carrying deep cultural and religious significance. Geographical Indications (GIs) offer a collective right that can protect the unique identity and reputation of temple prasadam. Using the landmark 2009 GI registration of the Tirupati Laddu as a case study, this article examines how GI law serves as a constitutional instrument to safeguard India's sacred heritage under Articles 25, 26, 29, 49, and 51A(f) of the Constitution, while identifying the structural challenges of applying market-based intellectual property frameworks to religious traditions.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Understanding Geographical Indications and Constitutional Values</li>
+                            <li>Temple Prasadam as Religious and Cultural Heritage</li>
+                            <li>Case Study: Tirupati Laddu and GI Protection</li>
+                            <li>Challenges in Protecting Sacred Products Under GI Law</li>
+                            <li>Need for Reform and Heritage-Oriented GI Protection</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Intellectual Property Rights (IPR) constitute a complex legal architecture designed to protect the fruits of human creativity, innovation, and cultural expression. Among the various categories of IPR, Geographical Indications (GIs) occupy a distinctive position by conferring legal protection on products whose identity, quality, and reputation are essentially attributable to their geographical origin. Unlike patents or copyrights which protect individual creativity, GIs function as a collective right, enabling communities of producers within a defined region to distinguish their goods from competing products in the marketplace. Historically, the GI framework has protected commodities ranging from Darjeeling tea to Champagne — products whose unique characteristics arise from a combination of the natural environment and accumulated human knowledge.
+                        </p>
+                        <p className="mt-4">
+                            In recent decades, however, GI protection has increasingly been invoked for products that carry not merely economic but deep cultural and religious significance. Temple prasadam — the sacred food offered to deities and subsequently distributed to devotees — presents a compelling yet contested frontier in this evolution. Prasadam is not an ordinary foodstuff; it embodies centuries of ritual tradition, collective spiritual identity, and community-linked customary practice. Its preparation follows methods handed down across generations within specific temple traditions, and its sanctity derives from its inseparable association with a particular place of worship and its presiding deity.
+                        </p>
+                        <p className="mt-4">
+                            The growing commercialisation of religious products and the proliferation of counterfeit prasadam in temple towns have exposed the vulnerability of these sacred items to market exploitation. This has prompted temple administrations to seek GI protection, most prominently illustrated by the Tirumala Tirupati Devasthanams (TTD) securing a GI tag for the Tirupati Laddu in 2009 — reportedly the first instance anywhere in the world of a religious shrine&apos;s offering being recognised as a geographical indication.
+                        </p>
+                        <p className="mt-4">
+                            Crucially, the protection of temple prasadam through GI law is not merely an economic intellectual property mechanism. It engages deeper constitutional values embedded in the Indian constitutional framework. Articles 25 and 26 guarantee freedom of religion and the right of religious denominations to manage their own affairs; Article 29 protects the cultural interests of communities; Article 49 mandates the protection of monuments and cultural heritage; and Article 51A(f) imposes a fundamental duty on citizens to value and preserve India&apos;s composite culture. Read together, these provisions establish an indirect but powerful constitutional basis for treating GI protection of sacred products as an instrument of cultural and religious heritage preservation.
+                        </p>
+                        <p className="mt-4">
+                            This article argues that GI protection of temple prasadam transcends the domain of commercial intellectual property and must be understood, evaluated, and reformed as a constitutional tool for safeguarding India&apos;s sacred cultural heritage.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">UNDERSTANDING GEOGRAPHICAL INDICATIONS AND CONSTITUTIONAL VALUES</h4>
+                        <p>
+                            Geographical Indications are defined under Article 22.1 of the TRIPS Agreement as indications that identify a good as originating in the territory of a Member, or a region or locality therein, &quot;where a given quality, reputation or other characteristic of the good is essentially attributable to its geographical origin.&quot; The Geographical Indications of Goods (Registration and Protection) Act, 1999 (GI Act) domesticates this framework with an additional criterion: in the case of manufactured goods, at least one activity of production, processing, or preparation must occur within the specified geographical area.
+                        </p>
+                        <p className="mt-4">
+                            The GI Act confers a collective right. It is a right held in perpetuity by an association of producers, non-assignable, and intended primarily to protect community-level stakeholders rather than individual enterprises. As Vinayan (2017) observes, GI functions as a &quot;general descriptor of all producers/traders within a designated geographical area for a particular good with certain qualities,&quot; thereby distinguishing it sharply from trademarks, which protect the commercial interests of specific entities. The GI framework reduces information asymmetry in the marketplace by signalling to consumers that a product&apos;s quality or reputation derives from its authentic geographical and cultural provenance.
+                        </p>
+                        <p className="mt-4">
+                            Scholars like Gangjee (2012) have traced an important evolution within GI doctrine — from an initial emphasis on physical geography (soil, climate, terrain) as the source of a product&apos;s distinctiveness, towards a growing recognition of the human or cultural contribution: collectively generated knowledge, intergenerational production techniques, and historically embedded practices. This &quot;cultural turn&quot; in GI law creates the conceptual space for heritage arguments. The European Commission has explicitly acknowledged that &quot;GIs are key to EU and developing countries cultural heritage, traditional methods of production and natural resources.&quot; India&apos;s own position in WTO negotiations reflects a similar understanding, characterising GIs as &quot;the property or heritage of all the persons engaged in the activity of creating such products.&quot;
+                        </p>
+                        <p className="mt-4">
+                            This evolution aligns GI protection with India&apos;s constitutional commitments. Article 29 of the Constitution guarantees any section of citizens having a distinct language, script, or culture the right to conserve it — a provision that extends beyond linguistic minorities to encompass the preservation of distinct cultural practices, including those of religious communities. Article 51A(f), as a fundamental duty, requires every citizen to value and preserve the rich heritage of India&apos;s composite culture. Directive Principles of State Policy, though non-justiciable, further oblige the state to promote cultural preservation and protect the interests of marginalised communities.
+                        </p>
+                        <p className="mt-4">
+                            The analytical implication is significant: GI protection in India increasingly functions not merely as a mechanism for protecting commercial reputation, but as a vehicle for safeguarding collective cultural identity. When applied to temple prasadam, this function acquires an additional constitutional dimension, linking intellectual property law directly to the preservation of religious and intangible cultural heritage.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">TEMPLE PRASADAM AS RELIGIOUS AND CULTURAL HERITAGE</h4>
+                        <p>
+                            Prasadam — derived from the Sanskrit word meaning &quot;grace&quot; or &quot;blessing&quot; — refers to the sacred food that is first offered to the deity and then distributed to devotees as a material embodiment of divine favour. It occupies a central place in Hindu religious practice across India, functioning simultaneously as a ritual object, a cultural artefact, and a medium of communal belonging. The preparation of prasadam is not a mere culinary activity; it follows prescribed methods, uses specific ingredients, and is conducted within the sanctified space of the temple by trained and ritually observant personnel. In many temples, the recipes and preparation techniques have remained unchanged for centuries, representing a living tradition of intangible cultural heritage.
+                        </p>
+                        <p className="mt-4">
+                            Article 25 of the Constitution guarantees all persons the freedom of conscience and the right freely to profess, practise, and propagate religion. The Supreme Court in <em>Ratilal Panachand Gandhi v. State of Bombay</em> (AIR 1954 SC 388) recognised that &quot;religious practices or performances of acts in pursuance of religious belief are as much a part of religion as faith or belief in particular doctrines.&quot; The preparation, offering, and distribution of prasadam plainly fall within this understanding of religious practice — they are acts performed in pursuance of religious belief that form an integral part of temple worship. Article 26 reinforces this by guaranteeing religious denominations the right to manage their own affairs in matters of religion, which necessarily includes controlling the production and distribution of sacred offerings.
+                        </p>
+                        <p className="mt-4">
+                            Article 29 extends constitutional protection to the distinct cultural practices and traditions of communities. Temple prasadam embodies such a practice — it carries the collective spiritual value of the community of devotees, expresses their identity and continuity, and perpetuates a tradition that distinguishes them as a group bound by shared religious heritage. The UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage (2003) defines intangible cultural heritage as practices, representations, expressions, knowledge, and skills that communities recognise as part of their heritage and which provide them with &quot;a sense of identity and continuity.&quot; Temple prasadam, with its ritually prescribed preparation and its centuries-old association with specific shrines, satisfies this definition precisely.
+                        </p>
+                        <p className="mt-4">
+                            The critical concern that arises from this analysis is the effect of unauthorised commercialisation. When hawkers and black-market operators produce and sell counterfeit prasadam — as documented extensively in the case of Tirupati — they do not merely engage in unfair commercial competition. They dilute the religious sanctity of the offering by severing it from the ritual process that confers its spiritual meaning. They damage the cultural identity of the devotee community by misleading its members into receiving counterfeit blessings. And they interfere with a community-linked tradition that has been carefully maintained across generations. The harm, in other words, is not merely economic but profoundly cultural and constitutional in character.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE STUDY: TIRUPATI LADDU AND GI PROTECTION</h4>
+                        <p>
+                            The Tirumala Venkateshwara temple at Tirupati, administered by the Tirumala Tirupati Devasthanams (TTD), is regarded as one of the world&apos;s wealthiest and most visited Hindu shrines. The Sri Varu Laddu — popularly known as the Tirupati Laddu — has been offered as prasadam to devotees for more than three centuries. Prepared from boondi mixed with sugar syrup, pure cow ghee, cashewnuts, cardamom, diamond sugar candies, raisins, and almonds, the laddu is produced in two sizes in the temple&apos;s kitchens, with over 1.25 lakh laddus prepared daily. In March 2008, the TTD applied for GI certification before the GI Registry in Chennai, citing the growing menace of fake and spurious laddus being sold to unsuspecting pilgrims in and around Tirupati. On 15 September 2009, the Tirupati Laddu was formally registered as a GI — reportedly the first instance globally of a religious shrine&apos;s offering receiving this status.
+                        </p>
+                        <p className="mt-4">
+                            The TTD&apos;s GI application argued that the laddu derives its sanctity, reputation, and uniqueness from its association with the temple, including the practice of first offering a portion to the deity as naivedyam before incorporating it into the larger production batch. The application also emphasised stringent quality controls, the skill of temple cooks, and the exclusive nature of production within the temple premises.
+                        </p>
+                        <p className="mt-4">
+                            The GI registration of Tirupati Laddu raises important constitutional considerations. The GI protection granted to TTD, understood in isolation as a commercial monopoly, may appear problematic. However, understood through a constitutional-cultural lens, the protection serves to preserve the integrity of a religious tradition that is constitutionally protected under Articles 25 and 26, and to safeguard the cultural identity of a community of millions of devotees whose spiritual practice is centred on this sacred offering. The protection, in this sense, extends beyond economic benefit and enters the domain of constitutional-cultural preservation — defending a living tradition of intangible heritage against the corrosive effects of commercial exploitation.
+                        </p>
+                        <p className="mt-4">
+                            Banerjee and Naushad (2010), while raising legitimate criticisms about the grant of a GI to a single entity, nonetheless acknowledge the unique sanctity of the Tirupati Laddu and the genuine harm caused by counterfeit products. Their critique — that the GI Act envisions collective rather than monopolistic rights — identifies a structural tension in applying GI law to temple prasadam that calls not for the rejection of GI protection but for its thoughtful reform.
+                        </p>
+                        <p className="mt-4">
+                            The Tirupati Laddu case thus illustrates the dual potential and limitation of current GI law as applied to sacred products: it can protect religious heritage, preserve cultural identity, and support collective rights associated with temple traditions, but its existing framework, designed primarily for producer communities rather than religious institutions, may require adaptation to fulfil this function adequately.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CHALLENGES IN PROTECTING SACRED PRODUCTS UNDER GI LAW</h4>
+                        <p>
+                            The application of GI law to temple prasadam exposes several significant challenges. The most fundamental is the structural mismatch between the GI framework&apos;s assumption of a collective community of producers and the reality of temple institutions as single-entity administrators. Section 11(1) of the GI Act requires the application to be made by &quot;any association of persons or any organisation or authority established by or under any law for the time being in force representing the interest of the producers.&quot; The TTD, as a single trust employing salaried workers, does not neatly fit this requirement — a concern raised in the PIL filed before the Madras High Court challenging the registration.
+                        </p>
+                        <p className="mt-4">
+                            Beyond structural issues, the GI framework faces conceptual limitations in protecting sacred products. The Act defines &quot;goods&quot; in economic terms and subjects GI registration to the requirement that the product&apos;s distinctiveness be &quot;essentially attributable to its geographical origin&quot; — a criterion more naturally applied to the soil or climate of Darjeeling than to the ritual sanctity of a temple kitchen. The claim that the Tirupati Laddu&apos;s uniqueness derives from divine blessing rather than a demonstrable geographical factor sits uneasily within a framework premised on empirical product-place linkage.
+                        </p>
+                        <p className="mt-4">
+                            The proliferation of counterfeit prasadam, both in physical markets and increasingly through online platforms, represents a growing enforcement challenge. The absence of heritage-specific enforcement mechanisms within the GI Act leaves authorities dependent on general criminal and civil provisions that are ill-equipped to address the particular harm of sacred product misuse — namely, the deception of spiritually motivated consumers and the desecration of religious traditions.
+                        </p>
+                        <p className="mt-4">
+                            There is also a deeper constitutional concern: the tension between commercial exploitation of religious symbols and constitutional morality. The Attukal Bhagawathy Temple&apos;s trademarking of the image of its deity illustrates how IPR protection, when applied to religious symbols without adequate safeguards, can potentially interfere with the rights of other temples and devotees under Articles 25 and 26 — raising the spectre of one institution using intellectual property law to appropriate symbols that belong to an entire religious tradition.
+                        </p>
+                        <p className="mt-4">
+                            Critically, current GI law, premised on market-based protection of commercial reputation, is structurally ill-equipped to address the spiritual significance, collective religious sentiments, and intangible heritage dimensions of sacred products. As Gangjee (2012) notes, the heritage dimension of GI protection is still developing and contested — and the particular case of religious heritage has not been adequately theorised within either GI scholarship or Indian jurisprudence.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">NEED FOR REFORM AND HERITAGE-ORIENTED GI PROTECTION</h4>
+                        <p>
+                            The foregoing analysis establishes a clear case for legislative and interpretive reform to adapt GI law to the protection of sacred cultural products. Several directions for reform merit consideration:
+                        </p>
+                        <ul className="list-disc pl-5 space-y-3">
+                            <li>
+                                <strong>Heritage-Sensitive Interpretation:</strong> The &quot;link to geographical origin&quot; requirement should be interpreted expansively to encompass not only physical geography but also the intangible human, cultural, and ritual factors that generate a product&apos;s distinctiveness — consistent with the evolving international understanding of GIs as recognised in TRIPS Article 22 and the Lisbon Agreement. This would allow the ritual dimensions of prasadam preparation to count as relevant characteristics attributable to geographical origin.
+                            </li>
+                            <li>
+                                <strong>Special Cultural Category:</strong> There is a compelling case for creating a special category within the GI framework for culturally and religiously sensitive products. Such a category could accommodate single-institution applicants like temple trusts where the institution demonstrably represents the interests of a broader community of devotees and where collective religious heritage is at stake. This would address the structural mismatch identified in the Tirupati Laddu case without abandoning the GI framework&apos;s collective orientation.
+                            </li>
+                            <li>
+                                <strong>Digital Monitoring and Enforcement:</strong> Stronger digital enforcement mechanisms are required to combat the online misuse and counterfeit marketing of GI-protected sacred products. The GI Registry should develop dedicated monitoring protocols for products of religious and cultural significance, in partnership with temple authorities and digital platforms.
+                            </li>
+                        </ul>
+                        <p className="mt-4">
+                            These reforms find robust constitutional justification. Article 29&apos;s guarantee of the right to conserve distinct cultural practices, Article 51A(f)&apos;s fundamental duty to preserve composite culture, and the state&apos;s constitutional commitment to protecting religious freedom under Articles 25 and 26 together provide a strong normative basis for heritage-oriented GI reform. The Directive Principles of State Policy further reinforce the state&apos;s obligation to protect and promote cultural heritage as part of its broader welfare mandate.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            Temple prasadam is not an ordinary commercial product. It is a sacred offering that embodies centuries of religious tradition, collective spiritual identity, and intangible cultural heritage. Its preparation methods, ritual significance, and community-linked character place it squarely within the category of living heritage that both the Indian Constitution and the international cultural heritage framework seek to protect.
+                        </p>
+                        <p className="mt-4">
+                            GI protection offers a legally coherent and practically effective mechanism for defending sacred products against commercial exploitation and counterfeit misuse. The Tirupati Laddu case demonstrates both the potential and the limitations of current GI law in this context: it can serve as a powerful instrument of cultural preservation, but only if its structural assumptions and enforcement mechanisms are adapted to address the unique characteristics of religious heritage products.
+                        </p>
+                        <p className="mt-4">
+                            The deeper argument of this article is that GI protection of temple prasadam must be understood not merely as an economic IPR mechanism but as a constitutional instrument. Articles 25, 26, 29, 49, and 51A(f) of the Indian Constitution collectively mandate the protection of religious freedom, cultural identity, and composite heritage — values that are directly implicated when sacred products are commercialised, counterfeited, or appropriated without regard for their spiritual significance. In a rapidly commercialised marketplace, GI protection must evolve from a purely economic framework into a constitutional instrument for safeguarding India&apos;s sacred cultural heritage.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Banerjee, M. &amp; Naushad, S. (2010). Grant of Geographical Indication Designation to Tirupati Laddu: Commercialization of Faith? NUJS Law Review, 3(1), 107–121.</li>
+                            <li>Gangjee, D.S. (2012). Geographical Indications and Cultural Heritage. WIPO Journal, 4(1), 85–96.</li>
+                            <li>Vinayan, S. (2017). Geographical Indications in India: Issues and Challenges — An Overview. Journal of World Intellectual Property, 20(1–2), 1–14.</li>
+                            <li>Bhoi, C. (2024). Unveiling Odisha’s Cultural Treasures: A Review of Seven Products Granted Geographical Indication Tags. Vigyan Varta, 5(4), 120–124.</li>
+                            <li>Geographical Indications of Goods (Registration and Protection) Act, 1999.</li>
+                            <li>Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), 1994.</li>
+                            <li>UNESCO Convention for the Safeguarding of the Intangible Cultural Heritage, 2003.</li>
+                            <li>Ratilal Panachand Gandhi v. State of Bombay, AIR 1954 SC 388.</li>
+                            <li>Constitution of India, Articles 25, 26, 29, 49, 51A(f).</li>
+                            <li>Payyannur Pavithra Ring, Artisans &amp; Devp v K Balakrishnan, 2009 (41) PTC 719 (GIG).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by H. Priya, Law Student, Saveetha School of Law, SIMATS.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Safeguarding Digital Dignity: A Critical Analysis of Cyber Crimes Against Women and the Evolving Legal Framework in India",
+            author: "By Radhika Saxena",
+            abstract: "With over 900 million internet users, India faces an alarming escalation of gender-based cyber violence, including cyber stalking, online harassment, deepfake pornography, morphing, and identity theft. This article provides a comprehensive constitutional and statutory analysis of cyber crimes targeting women. It evaluates key protections under Articles 14, 19, and 21 of the Constitution alongside the IT Act of 2000, the Bharatiya Nyaya Sanhita (BNS) of 2023, and the Digital Personal Data Protection Act of 2023. By reviewing landmark judicial interventions such as Shreya Singhal, Puttaswamy, and Aveek Sarkar, the paper identifies critical regulatory gray areas and advocates for victim-centric law enforcement and AI-specific reforms.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Constitutional and Legal Framework</li>
+                            <li>Case Laws and Legal Research Papers</li>
+                            <li>Analysis, Findings, and Gray Areas</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            The twenty-first century has brought an unprecedented technological revolution, making India one of the largest digital societies with over 900 million internet users. Digital platforms have transformed governance, banking, communication, and employment. However, this transformation has also generated new forms of criminality. Women face increasing vulnerability to technologically facilitated violence ranging from cyber stalking and online harassment to AI-driven exploitation such as deepfake pornography, morphing, identity theft, sextortion, and coordinated abuse campaigns. NCRB data reflects this rise, with reported cases increasing from 2,284 in 2018 to over 4,455 in 2022, with a sharp surge during the COVID-19 pandemic.
+                        </p>
+                        <p className="mt-4">
+                            Cyber violence undermines constitutional guarantees of equality under Article 14, freedom of speech under Article 19, and privacy and dignity under Article 21. The rise of artificial intelligence has further aggravated the problem, enabling realistic fabricated content that targets women for harassment and humiliation. Thus, cyber crimes against women represent not merely criminal acts but broader challenges to constitutional morality, gender justice, and digital human rights.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>
+                            The objective of this study is to examine the nature and forms of cyber crimes against women in India, analyze the legal framework governing such offenses, and evaluate constitutional protections relating to privacy, dignity, and equality. It further seeks to assess judicial responses through landmark judgments, identify challenges in investigation and enforcement, and propose reforms for effective protection in cyberspace.
+                        </p>
+                        <p className="mt-4">
+                            The primary aim is to critically evaluate the legal and constitutional efficacy of India&apos;s response to gender-based cyber violence. By analyzing statutory provisions alongside judicial interpretations, the study explores whether current frameworks sufficiently safeguard women&apos;s fundamental rights in a digitized society. Ultimately, it aims to highlight systemic gaps in enforcement and propose a victim-centric reform model that harmonizes technological advancement with the constitutional mandate of gender justice.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>
+                            India&apos;s rapid digital transformation has created new opportunities but also new vulnerabilities. Women are increasingly targeted through technologically facilitated violence such as online harassment, cyber stalking, morphing, identity theft, sextortion, and AI-driven exploitation like deepfake pornography. NCRB data shows a steady rise in cases, from 2,284 in 2018 to over 4,455 in 2022,<sup className="text-[#D4AF37] ml-0.5">1</sup> with a sharp surge during the COVID-19 pandemic.
+                        </p>
+                        <p className="mt-4">
+                            Unlike traditional crimes, cyber offenses exploit anonymity, transcend borders, and leave permanent digital footprints, complicating investigations and intensifying victim trauma. Scholars have noted that the rise of artificial intelligence has aggravated the problem, enabling realistic fabricated content used for harassment, extortion, and humiliation. As Zoengpuii &amp; Singh (2023) argue, the law struggles to keep pace with these technological shifts, making cyber crimes against women not merely criminal acts but broader challenges to constitutional morality, gender justice, and digital human rights.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL AND LEGAL FRAMEWORK</h4>
+                        <p>
+                            The Bharatiya Nyaya Sanhita, 2023 criminalizes stalking under Section 78 (formerly IPC 354D),<sup className="text-[#D4AF37] ml-0.5">2</sup> covering both physical and online forms, while Section 77 addresses voyeurism and Sections 356–357 provide remedies against digital defamation.<sup className="text-[#D4AF37] ml-0.5">3</sup>
+                        </p>
+                        <p className="mt-4">
+                            The Information Technology Act, 2000 supplements these protections: Section 66E punishes privacy violations through unauthorized image sharing, Sections 66C and 66E–67B address identity theft, obscenity, obscene/explicit content, and child abuse material.<sup className="text-[#D4AF37] ml-0.5">4</sup> Section 66C specifically addresses identity theft and impersonation.
+                        </p>
+                        <p className="mt-4">
+                            Furthermore, the Digital Personal Data Protection Act, 2023 strengthens privacy by mandating consent-based data processing<sup className="text-[#D4AF37] ml-0.5">5</sup> and conferring rights of correction and erasure. The IT Rules, 2021 impose obligations on intermediaries<sup className="text-[#D4AF37] ml-0.5">6</sup> to appoint grievance officers, remove unlawful content promptly, cooperate with law enforcement, and preserve evidence.
+                        </p>
+                        <p className="mt-4">
+                            These statutory protections are underpinned by constitutional guarantees: Article 14 ensures equality before law, Article 19(1)(a) secures freedom of speech, and Article 21<sup className="text-[#D4AF37] ml-0.5">7</sup> enshrines the rights to privacy, dignity, and autonomy. Together, they form the constitutional foundation for safeguarding women against cyber crimes.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS AND LEGAL RESEARCH PAPERS</h4>
+                        <p className="mb-4">
+                            Significant judicial precedents shaping the cyber legal landscape in India include:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Shreya Singhal v. Union of India (2015)</strong>
+                                <p>
+                                    The Supreme Court struck down Section 66A of the IT Act<sup className="text-[#D4AF37] ml-0.5">8</sup> for being vague and unconstitutional. The judgment clarified that online speech enjoys constitutional protection under Article 19(1)(a), and restrictions must satisfy the reasonableness test under Article 19(2). While this protected free expression and prevented the chilling effect of vague laws, it raised concerns about the adequacy of remaining legal channels to combat online harassment.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Justice K.S. Puttaswamy v. Union of India (2017)</strong>
+                                <p>
+                                    This landmark ruling recognized privacy as a fundamental right under Article 21.<sup className="text-[#D4AF37] ml-0.5">9</sup> It established clear constitutional safeguards against unauthorized data collection, digital surveillance, intimate image abuse, and online privacy violations, directly strengthening protections for women&apos;s dignity and autonomy.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Aveek Sarkar v. State of West Bengal (2014)</strong>
+                                <p>
+                                    The Supreme Court refined obscenity standards in India by adopting the &quot;community standards test.&quot;<sup className="text-[#D4AF37] ml-0.5">10</sup> This distinguished genuine artistic expression from exploitative obscenity, protecting creative works while ensuring exploitative content remains punishable.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Swami Ramdev v. Facebook, Inc. (2019)</strong>
+                                <p>
+                                    The Delhi High Court ordered platforms to remove defamatory content globally and block URLs.<sup className="text-[#D4AF37] ml-0.5">11</sup> Rulings like this show a growing trend toward holding intermediaries accountable to remove harmful content, block URLs, and preserve digital evidence.
+                                </p>
+                            </li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-3 mt-8">Verified Legal Research Papers</h5>
+                        <div className="space-y-4">
+                            <div className="bg-black/40 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">Cyber Crimes Against Women in India: Types, Impact, and Legal Challenges (Satish Kumar, IJRTI)</strong>
+                                <p className="text-zinc-400 text-sm">
+                                    Explores cyber stalking, online harassment, and unauthorized explicit content dissemination.<sup className="text-[#D4AF37] ml-0.5">12</sup> It highlights severe psychological impacts and critical enforcement gaps under the IT Act and IPC, urging stronger victim support.
+                                </p>
+                            </div>
+                            <div className="bg-black/40 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">Cyber Crimes Against Women: Legal Challenges and Regulatory Responses in the Digital Age (Baby Zoengpuii &amp; Prof. Arun Kumar Singh)</strong>
+                                <p className="text-zinc-400 text-sm">
+                                    Provides a doctrinal analysis of the IT Act, BNS 2023, and DPDP Act 2023 alongside cases like Shreya Singhal and Puttaswamy.<sup className="text-[#D4AF37] ml-0.5">13</sup> It benchmarks Indian laws against the EU Digital Services Act, UK Online Safety Act, and Australia&apos;s eSafety model, recommending stronger intermediary obligations.
+                                </p>
+                            </div>
+                            <div className="bg-black/40 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">Invisible Wounds in a Digital World: A Legal Dissection of Cyber Victimization of Women in Contemporary India (Sapnaben Pruthvisinh Zala, Gokul Global University)</strong>
+                                <p className="text-zinc-400 text-sm">
+                                    Uses NCRB data and case studies to analyze cyberstalking, image-based sexual abuse, and online blackmail.<sup className="text-[#D4AF37] ml-0.5">14</sup> It identifies low conviction rates, lack of trained personnel, and inadequate forensic infrastructure as key challenges.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS, FINDINGS, AND GRAY AREAS</h4>
+                        <p>
+                            Cyber crimes against women are increasing both quantitatively and qualitatively due to rapid technological advancement and digital dependence. Offenses like cyber stalking, morphing, deepfakes, revenge porn, and online harassment exploit gaps in existing legal frameworks. Despite statutory protections, enforcement remains highly inconsistent. Reports highlight underreporting, weak police literacy, poor infrastructure, low victim awareness, and the complete absence of specific deepfake legislation.
+                        </p>
+                        <p className="mt-4">
+                            Judicial innovation has expanded constitutional protections. <em>Shreya Singhal</em> safeguarded online free speech, <em>Puttaswamy</em> recognized privacy as a fundamental right, and <em>Aveek Sarkar</em> refined obscenity standards. High Courts have imposed greater accountability on intermediaries. Academic research corroborates these findings, emphasizing enforcement gaps, patriarchal amplification in digital spaces, and the disproportionate impact of technological violence on women. Comparative insights from global frameworks like the EU&apos;s GDPR and Digital Services Act underscore India&apos;s need for specialized legislation on emerging threats.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS AND REFORMS</h4>
+                        <ul className="list-disc pl-5 space-y-3">
+                            <li>
+                                <strong>Fast-Track Cyber Courts:</strong> India needs specialized cyber court benches to ensure the swift disposal of online abuse and harassment cases.
+                            </li>
+                            <li>
+                                <strong>Targeted Deepfake Legislation:</strong> With the rise of AI-generated non-consensual sexual content, clear statutory definitions and strict criminal penalties are needed specifically for deepfakes.
+                            </li>
+                            <li>
+                                <strong>Forensics and AI Police Training:</strong> Police forces must be trained in digital forensics, AI detection, and gender-sensitive SOPs. Anonymous complaint systems and psychological support must be coupled with a National Cyber Victim Support Fund.
+                            </li>
+                            <li>
+                                <strong>Strengthened Intermediary Liabilities:</strong> Intermediaries must face stricter statutory obligations for the prompt takedown of harmful content, backed by mandatory transparency reports and financial penalties for non-compliance.
+                            </li>
+                            <li>
+                                <strong>Digital Literacy Campaigns:</strong> Educational and government programs should promote cyber safety, digital citizenship, and responsible online behavior.
+                            </li>
+                            <li>
+                                <strong>Cross-Border Cooperation &amp; AI Ethics:</strong> Streamlined international law enforcement sharing and an independent AI ethics oversight body are necessary to prevent the weaponization of generative technologies.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>
+                            The future of cyber law and women&apos;s safety in India lies in bridging the gap between constitutional ideals and technological realities. While statutes provide a strong foundation, emerging threats like deepfakes, AI-driven impersonation, and algorithmic harassment demand forward-looking reforms. Fast-track cyber courts and deepfake-specific legislation will be crucial. Police training must evolve into continuous, technology-driven modules. Integration of AI detection tools, blockchain-based evidence preservation, and advanced digital forensics will enhance efficiency. Victim-centric mechanisms should expand to include holistic rehabilitation and financial support.
+                        </p>
+                        <p className="mt-4">
+                            The role of intermediaries will grow in importance, with stricter obligations aligning Indian law with global frameworks such as the EU Digital Services Act and UK Online Safety Act. Public awareness initiatives must embed cyber safety education into curricula and workplace training. Finally, international cooperation will be vital for evidence sharing and cross-border prosecution of digital offenses.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            Cyber crimes against women represent one of the gravest challenges of the digital age. These offenses are not merely technological wrongs but direct violations of constitutional rights to dignity, equality, privacy, and autonomy. India has made significant progress through statutory frameworks like the Information Technology Act, the Bharatiya Nyaya Sanhita, and the Digital Personal Data Protection Act, alongside judicial recognition of privacy as a fundamental right.
+                        </p>
+                        <p className="mt-4">
+                            Yet, legislation alone cannot guarantee safety. Effective protection requires institutional capacity, specialized cyber courts, gender-sensitive policing, faster takedown mechanisms, responsible intermediary conduct, and widespread digital literacy. The future of women&apos;s digital freedom depends on India&apos;s ability to harmonize technological advancement with constitutional morality and gender justice, ensuring that cyberspace becomes a domain of empowerment rather than exploitation.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>National Crime Records Bureau, Crime in India Report 2022, Ministry of Home Affairs, Government of India.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, Section 78 (formerly Indian Penal Code, 1860, Section 354D).</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, Sections 77, 356, and 357.</li>
+                            <li>Information Technology Act, 2000, Sections 66C, 66E, 67, 67A, and 67B.</li>
+                            <li>Digital Personal Data Protection Act, 2023, Government of India.</li>
+                            <li>Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021.</li>
+                            <li>Constitution of India, 1950 (Articles 14, 19, and 21).</li>
+                            <li>Shreya Singhal v. Union of India, (2015) 5 SCC 1.</li>
+                            <li>Justice K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>Aveek Sarkar v. State of West Bengal, (2014) 4 SCC 257.</li>
+                            <li>Swami Ramdev v. Facebook, Inc., (2019) SCC OnLine Del 10701.</li>
+                            <li>Satish Kumar, Cyber Crimes Against Women in India: Types, Impact, and Legal Challenges, International Journal of Research and Technology Innovations (IJRTI), 2023.</li>
+                            <li>Baby Zoengpuii &amp; Arun Kumar Singh, Cyber Crimes Against Women: Legal Challenges and Regulatory Responses in the Digital Age, Indian Journal of Law and Legal Research, 2023.</li>
+                            <li>Sapnaben Pruthvisinh Zala, Invisible Wounds in a Digital World: A Legal Dissection of Cyber Victimization of Women in Contemporary India, Gokul Global University Law Review, 2023.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Radhika Saxena, Student, Delhi Metropolitan Education, Noida.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Artificial Intelligence and Judicial Efficiency: Reducing Pendency of Cases in India",
+            author: "By Disha Paul",
+            abstract: "Artificial Intelligence (AI) is transforming the Indian judiciary by enhancing operational efficiency and aiming to drastically reduce the pendency of millions of cases. By leveraging tools like predictive analytics, natural language processing, and automated case management, AI speeds up legal research, documentation, and scheduling, helping to alleviate the massive burden on courts. While AI serves as an assistive technology designed to support judges rather than replace human decision-making, it holds significant potential for enhancing judicial speed and transparency under the e-Courts initiative.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional and Legal Recognition</li>
+                            <li>Statutory Provisions Extending Protection</li>
+                            <li>Landmark Judicial Pronouncements</li>
+                            <li>Rights and Obligations in the AI Era</li>
+                            <li>Recent Developments: AI and Case Management</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            Artificial Intelligence (AI) is transforming the Indian judiciary by enhancing operational efficiency and aiming to drastically reduce the pendency of millions of cases. By leveraging tools like predictive analytics, natural language processing, and automated case management, AI speeds up legal research, documentation, and scheduling, helping to alleviate the massive burden on Courts.
+                        </p>
+                        <p className="mt-4">
+                            The Indian judicial system faces a significant challenge with millions of pending cases, leading to substantial delays in justice delivery. Traditional methods of management have proven insufficient, prompting the adoption of modern technology under the e-Courts Phase III initiative. AI serves as an assistive technology designed to support judges and legal professionals, rather than replace human decision-making.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL AND LEGAL RECOGNITION</h4>
+                        <p>
+                            The constitutional and legal recognition of Artificial Intelligence (AI) in the Indian judiciary refers to the framework where AI is formally integrated as a decision-support tool to uphold the fundamental right to a speedy trial under Article 21.<sup className="text-[#D4AF37] ml-0.5">1</sup> Judicial efficiency in this context is defined as the use of technology to streamline administrative workflows and automate routine legal tasks, thereby reducing the pendency of cases.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Speedy Trial under Article 21</h5>
+                        <p>
+                            In the landmark case of <em>Hussainara Khatoon v. State of Bihar</em>,<sup className="text-[#D4AF37] ml-0.5">2</sup> the Court recognized that a fair and reasonable procedure under Article 21 must include a speedy trial.
+                        </p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">The SUPACE Initiative</h5>
+                        <p>
+                            The SUPACE initiative represents a significant shift in how India&apos;s highest court approaches technology. It is built as a &quot;hybrid system&quot; where human intelligence and machine learning work in tandem. By handling the &quot;heavy lifting&quot; of data analysis, it empowers judges to focus more on the core intellectual aspects. The Court has clarified that AI is strictly an augmentation tool, not a substitute for judges, as the critical elements of moral reasoning and human compassion remain beyond the reach of algorithms.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATUTORY PROVISIONS EXTENDING PROTECTION</h4>
+                        <p className="mb-4">
+                            There is no singular &quot;AI Act&quot; for the judiciary yet, but several existing frameworks and initiatives provide the legal infrastructure for these changes:
+                        </p>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">E-Courts Mission Mode Project:</strong> This project has digitized millions of records, providing the &quot;big data&quot; necessary for AI algorithms to function effectively.
+                            </li>
+                            <li>
+                                <strong className="text-white">Digital Personal Data Protection Act, 2023:</strong> As AI systems process sensitive litigant data, this Act ensures that the right to privacy, as established in <em>Justice K.S. Puttaswamy v. Union of India</em>,<sup className="text-[#D4AF37] ml-0.5">3</sup> is protected during technological transitions.
+                            </li>
+                            <li>
+                                <strong className="text-white">Section 125 of the Code of Criminal Procedure, 1973:</strong> AI-driven Online Dispute Resolution (ODR) platforms are increasingly being explored to handle maintenance and petty dispute cases to reduce the burden on formal courts.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LANDMARK JUDICIAL PRONOUNCEMENTS</h4>
+                        <p className="mb-4">
+                            The Indian judiciary has delivered several judgments that have shaped the legal landscape for technological adoption:
+                        </p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. State of Maharashtra v. Praful B. Desai (2003) 4 SCC 601</strong>
+                                <p>
+                                    This case provided crucial clarity by accepting video conferencing as a valid means for judicial proceedings,<sup className="text-[#D4AF37] ml-0.5">4</sup> setting a precedent for virtual courts.
+                                </p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Swapnil Tripathi v. Supreme Court of India (2018) 10 SCC 639</strong>
+                                <p>
+                                    By supporting the live-streaming of cases, the Court emphasized transparency,<sup className="text-[#D4AF37] ml-0.5">5</sup> a principle that must be embedded in any AI-based &quot;black box&quot; system.
+                                </p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIGHTS AND OBLIGATIONS IN THE AI ERA</h4>
+                        <p className="mb-4">
+                            The rights and obligations in the AI era are defined by digital autonomy, consent, and transparency:
+                        </p>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">Data Protection and Privacy:</strong> Under the DPDP Act 2023, individuals have the right to access, correct, and erase their personal data used to train or operate AI systems.
+                            </li>
+                            <li>
+                                <strong className="text-white">Consent Mandate:</strong> Personal data cannot be used for AI training without explicit, informed consent, which can be withdrawn at any time.
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to Transparency:</strong> Users have the right to know when they are interacting with an AI system or viewing synthetic content, enforced by mandatory labelling laws.
+                            </li>
+                            <li>
+                                <strong className="text-white">Protection against Deepfakes/Harms:</strong> Citizens have the right to swift redressal against non-consensual intimate imagery or AI-generated impersonation, with platforms required to remove such content within 2 hours.
+                            </li>
+                            <li>
+                                <strong className="text-white">Non-Discrimination:</strong> AI systems should be designed to ensure fair treatment and avoid unfair bias in decisions.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT DEVELOPMENTS: AI AND CASE MANAGEMENT</h4>
+                        <p>
+                            As of early 2026, the rights and obligations regarding Artificial Intelligence (AI) in India are governed by a combination of the Digital Personal Data Protection Act (DPDP Act), 2023, the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026, and established Intellectual Property Rights laws.
+                        </p>
+                        <p className="mt-4">
+                            The legal framework focuses heavily on transparency, user safety, and data privacy, particularly in response to deepfakes and AI-driven misinformation.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            The journey from manual record-keeping to AI-assisted adjudication shows the judiciary&apos;s responsiveness to changing societal realities. While gaps remain in the legal architecture—specifically regarding a formal regulatory framework for AI ethics—the potential for reducing pendency is undeniable.
+                        </p>
+                        <p className="mt-4">
+                            The ultimate goal is to create a legal framework that respects personal autonomy and constitutional rights while utilizing every available technological tool to ensure that justice is not just a promise, but a timely reality for every Indian citizen.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Constitution of India, Art. 21.</li>
+                            <li>Hussainara Khatoon v. State of Bihar, (1979) 10 SCC 81.</li>
+                            <li>Justice K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>State of Maharashtra v. Praful B. Desai, (2003) 4 SCC 601.</li>
+                            <li>Swapnil Tripathi v. Supreme Court of India, (2018) 10 SCC 639.</li>
+                            <li>Digital Personal Data Protection Act, 2023.</li>
+                            <li>Code of Criminal Procedure, 1973, Section 125.</li>
+                            <li>Supreme Court of India, SUPACE Portal Launch Report.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Disha Paul, Student, Kazi Nazrul University / Binoda Law College, B.A.LL.B(H.).</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Evolution of the Indian Criminal Justice System: A Critical Appraisal of the 2024 Reforms (BNS, BNSS, and BSA)",
+            author: "By Sakshi Pal",
+            abstract: "On July 1, 2024, India entered a new legal era with the implementation of the Bharatiya Nyaya Sanhita (BNS), the Bharatiya Nagarik Suraksha Sanhita (BNSS), and the Bharatiya Sakshya Adhiniyam (BSA), replacing the century-old colonial triad of the IPC, CrPC, and Indian Evidence Act. This article provides a critical appraisal of these 2024 reforms, evaluating how they modernize procedural laws, prioritize crimes against women and children, incorporate digital evidence, and address implementation challenges in the criminal justice system.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Decolonizing the Penal Framework: The BNS</li>
+                            <li>BNSS: Modernizing Procedure</li>
+                            <li>Electronic Evidence and the BSA</li>
+                            <li>Critical Challenges in 2026</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>
+                            The criminal justice system of any nation is the barometer of its democracy. For over 160 years, India&apos;s legal landscape was dominated by the triad of the Indian Penal Code (1860), the Code of Criminal Procedure (1973), and the Indian Evidence Act (1872). While these laws provided a skeletal framework for order, they were rooted in colonial objectives — primarily the maintenance of imperial authority.
+                        </p>
+                        <p className="mt-4">
+                            On July 1, 2024, India entered a new era with the implementation of the Bharatiya Nyaya Sanhita (BNS), the Bharatiya Nagarik Suraksha Sanhita (BNSS), and the Bharatiya Sakshya Adhiniyam (BSA). As we stand in 2026, it is imperative to analyze whether these reforms have truly shifted the focus from punishment to justice.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DECOLONIZING THE PENAL FRAMEWORK: THE BNS</h4>
+                        <p>
+                            The BNS replaces the IPC with a streamlined structure. One of the most significant shifts is the prioritization of crimes against women and children. The BNS has officially repealed &apos;sedition&apos; but introduced Section 152 to protect sovereignty.
+                        </p>
+                        <p className="mt-4">
+                            Furthermore, the inclusion of &apos;Mob Lynching&apos; as a specific offense reflects the judiciary&apos;s stance in <em>Tehseen S. Poonawalla v. Union of India (2018)</em>.<sup className="text-[#D4AF37] ml-0.5">1</sup> The law now recognizes the changing social fabric of India, moving away from 19th-century Victorian morality.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BNSS: MODERNIZING PROCEDURE</h4>
+                        <p>
+                            The BNSS aims to solve the perennial Indian problem of judicial backlog. It imposes strict timelines: police must provide progress reports within 90 days, and judgments must be delivered within 45 days of trial conclusion.
+                        </p>
+                        <p className="mt-4">
+                            The &apos;Zero FIR&apos; allows victims to report crimes anywhere, and mandatory videography of search and seizure ensures transparency. This digital-first approach is a massive leap toward accountability.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ELECTRONIC EVIDENCE AND THE BSA</h4>
+                        <p>
+                            The BSA recognizes that in 2026, most crimes have a digital footprint. Electronic records are now primary evidence, which simplifies the prosecution of cyber-crimes and financial frauds. By aligning with the &apos;Digital India&apos; mission, the BSA ensures the law stays ahead of technological advancements.<sup className="text-[#D4AF37] ml-0.5">3</sup>
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL CHALLENGES IN 2026</h4>
+                        <p>
+                            Despite the progress, infrastructure remains a hurdle. Mandatory forensics for crimes with 7+ year sentences requires massive investment in labs. Privacy concerns regarding biological data collection also persist,<sup className="text-[#D4AF37] ml-0.5">2</sup> necessitating a robust data protection framework. Training of police and the bar remains a continuous process.
+                        </p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>
+                            The reforms of 2024 mark a bold attempt to create an indigenous legal system. The success of BNS, BNSS, and BSA depends on grassroots implementation. For the law to be a tool of justice, it must be accessible, swift, and fair. This overhaul is just the beginning of a larger journey toward a more humane criminal justice system.
+                        </p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Tehseen S. Poonawalla v. Union of India, (2018) 9 SCC 501.</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal, (2020) 7 SCC 1.</li>
+                            <li>Ministry of Home Affairs, &apos;Handbook on BNS and BNSS&apos; (2024).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sakshi Pal.</p>
+                    </div>
+                </div>
+            )
+        },
+        // {
+        // {
         // {
         //     title: "The Admissibility of Synthetic Media: Regulating Deepfakes in Evidentiary Law",
         //     author: "By Dr. Vikram Desai",
