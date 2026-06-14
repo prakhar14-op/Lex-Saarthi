@@ -9054,6 +9054,886 @@ export function Header04() {
                 </div>
             )
         },
+        {
+            title: "Recognising marital rape as a crime",
+            author: "By Mali Kira",
+            abstract: "Sexual violence in marital relationships is one of the most privatized and least addressed forms of violence. While many countries have recognised non-consensual sexual acts within marriage as a crime, Indian law continues to provide an exception for marital rape under certain circumstances. This has led to increasing calls for legal reforms, with activists, scholars, and courts engaging in discussions on whether such an exception violates fundamental rights, particularly the right to equality, dignity, and personal liberty.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Legal and Constitutional Acknowledgement</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws</li>
+                            <li>Rights of the Wife</li>
+                            <li>Obligation of Husband</li>
+                            <li>Development in the judicial system regarding marital rape in India</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>“Marriages are made in Heaven” is a popular saying in Indian Culture. In India, marriages are a colourful celebration of a blend of culture, tradition, and love. Sexual violence in marital relationships is one of the most privatized and least addressed forms of violence. While many countries have recognised non- consensual sexual acts within marriage as a crime, Indian law continues to provide an exception for marital rape under certain circumstances. This has led to increasing calls for legal reforms, with activists, scholars, and courts engaging in discussions on whether such an exception violates fundamental rights, particularly the right to equality, dignity, and personal liberty.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL AND CONSTITUTIONAL ACKNOWLEDGEMENT</h4>
+                        <p>In India, marital rape is not explicitly criminalized under the law, as Exception 2 to Section 375 of the Indian Penal Code exempts forced sexual intercourse by a husband upon his wife (if she is above 18) from the definition of rape<sup className="text-[#D4AF37] ml-0.5">1</sup>. The judiciary plays a vital role in all matters, be it a minute act of theft or dacoity, so it is of no difference in the matter concerned with marital rape. The judiciary has played a vital role in the matter of marital rape by giving some judgments that have clarified the meaning of marital rape.</p>
+                        <p className="mt-4">The Supreme Court of India, in the landmark case of X v. Principal Secretary, Health and Family Welfare Department, Govt. of NCT of Delhi, took a significant step toward the legal recognition of marital rape by interpreting the Medical Termination of Pregnancy Act, 1971, expansively<sup className="text-[#D4AF37] ml-0.5">2</sup>. The Court extended access to abortion up to 24 weeks for all women, irrespective of marital status, thereby affirming reproductive autonomy and bodily integrity. Notably, the Court recognized that a husband’s act of non-consensual sexual intercourse with his wife could fall within the ambit of “rape” for the limited purposes of the MTP Act.</p>
+                        <p className="mt-4">In the case of Sakshi v. Union of India<sup className="text-[#D4AF37] ml-0.5">3</sup>, the Honourable Supreme Court of India has recognised the inadequacies regarding the law relating to rape and has suggested that the legislature should bring about changes in the law.</p>
+                        <p className="mt-4">In the judicial decision of Queen Empress v. Haree Mythee<sup className="text-[#D4AF37] ml-0.5">4</sup>, it was held that if the wife is over the age of 15, then the rape law does not apply in that situation. In this case, the husband was punished because his wife was only 15 years old. Kerala High Court in the matter of Sree Kumar v. Pearly Karun<sup className="text-[#D4AF37] ml-0.5">5</sup>, held that the wife does not live separately with the husband under the Judicial separation, and being subject to sexual intercourse without her will, the act does not amount to rape. Hence, it was held that the husband was not found to be guilty of raping his wife, though he was de facto guilty of doing or committing the act.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Indian Penal Code (IPC) or BNS 2023:</strong> Under IPC section 375 define rape but Exception 2 states that a husband’s intercourse with his wife is not a crime unless she is 15 years and below, and separation. Rape is defined under section 63 of BNS, which is the same as IPC, except that the wife should be above 18<sup className="text-[#D4AF37] ml-0.5">6</sup>.</li>
+                            <li><strong className="text-white">2. Exception recognised by minor wives:</strong> The Supreme Court of India held that sexual intercourse with a wife below the age of 18 years leads to rape, thereby narrowing the marital rape exception in Independent Thought v. Union of India<sup className="text-[#D4AF37] ml-0.5">7</sup>.</li>
+                            <li><strong className="text-white">3. Protection of Women from Domestic Violence Act, 2005:</strong> Protection of Women from Domestic Violence Act, 2005, acknowledges sexual abuse within marriages as a form of Domestic Violence<sup className="text-[#D4AF37] ml-0.5">8</sup>. Still, it does not provide criminal punishment for rape but provides civil remedies such as protection orders, residence, and maintenance.</li>
+                            <li><strong className="text-white">4. Medical Termination of Pregnancy (MTP) Act, 1971:</strong> According to the Medical Termination of Pregnancy Act 1971<sup className="text-[#D4AF37] ml-0.5">9</sup>, as construed in X v. Principal Secretary, Health and Family Welfare Department, Government of NCT of Delhi, marital rape is acknowledged for the limited purpose of abortion access.</li>
+                            <li><strong className="text-white">5. Other related provisions:</strong> Section 498A IPC addresses husband’s or relatives’ cruelty, which may include sexual abuse but not explicitly marital rape. Section 376B IPC criminalises sexual intercourse by a husband during separation, indirectly acknowledging lack of consent in certain marital situations.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Independent Thought v. Union of India (2017)</strong>
+                                <p>This landmark Supreme Court case struck down the exception to section 375 for minor wives, declaring that forced sexual intercourse by a husband with his wife under the age of 18 is rape. The court ruled that Exception 2 to section 375(allowed marital rape of girls over 15) was arbitrary and unconstitutional, violating articles 14 (Equality), 15 (non-discrimination), and 21 (Right to Life and Dignity). It affirmed that consent cannot be presumed, even within a marriage for a minor.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Hrishikesh Sahoo v. State of Karnataka (2022)</strong>
+                                <p>In this case, the High Court ruled that if a husband rapes his wife, it is still rape regardless of their marital status<sup className="text-[#D4AF37] ml-0.5">10</sup>. Justice M. Nagaprasanna noted that the marital rape exception is a “regressive” law, violating the right to equity. The court emphasised that no legal exception could act as a license for committing a crime against society, and that a wife cannot be treated as a chattel or property.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. RIT Foundation v. Union of India</strong>
+                                <p>A set of petitions filed in the Delhi High Court challenging the constitutionality of the marital rape exception. The case resulted in a split verdict in May 2022, highlighting the urgent need for Supreme Court intervention. The split verdict in RIT Foundation v. Union of India (2022) highlights a conflict between constitutional rights and the institution of marriage<sup className="text-[#D4AF37] ml-0.5">11</sup>. While one opinion rightly recognised women’s bodily autonomy and equality, the other placed undue emphasis on marital status and the legislative domain. Overall, the case exposes the need for clear legal reform to protect married women from sexual violence.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. State of Karnataka v. Krishnappa (2000)</strong>
+                                <p>The Supreme Court recognises that non- consensual sexual intercourse amounts to physical and sexual violence and constitutes an intrusion on a woman’s right to privacy and dignity. The Supreme Court held that rape is a serious violation of a woman’s dignity and bodily integrity, and courts must not show undue leniency in sentencing. It emphasised that strict punishment is necessary to ensure justice and act as a deterrent.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIGHTS OF THE WIFE</h4>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white">Right to bodily autonomy and consent (Article 21 – dignity & privacy)</strong>
+                                <p className="mt-1">This ensures that a woman has control over her own body and the freedom<sup className="text-[#D4AF37] ml-0.5">12</sup> to refuse sexual relations, even within marriage. Forced intercourse violates her dignity and personal liberty.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to equality (Article 14) and protection from discrimination (Article 15)</strong>
+                                <p className="mt-1">The law must treat married and unmarried women equally<sup className="text-[#D4AF37] ml-0.5">13</sup>. Denying protection against sexual violence within marriage creates unjust discrimination based on marital status.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to live free from violence under the Protection of Women from Domestic Violence Act, 2005</strong>
+                                <p className="mt-1">This law recognises sexual abuse within marriage as a form of domestic violence and provides civil remedies to protect women from such harm.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white">Right to seek remedies such as protection orders, residence, and maintenance</strong>
+                                <p className="mt-1">A wife can approach the court for legal relief to ensure her safety, secure housing, and financial support when facing abuse.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBLIGATION OF HUSBAND</h4>
+                        <p>The husband has a duty to respect his wife’s consent and bodily integrity and must not subject her to cruelty or sexual abuse. He is also legally obligated to provide maintenance, ensure her safety, and comply with laws such as Section 498A IPC/BNS provisions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DEVELOPMENT IN THE JUDICIAL SYSTEM REGARDING MARITAL RAPE IN INDIA</h4>
+                        <p>The judicial system has seen major developments in marital rape in India, with the Supreme Court and various High Courts delivering important judgments and rulings. Some highlights of these developments are:</p>
+                        <p className="mt-4"><strong className="text-white">Supreme Court Observations:</strong> The Supreme Court has been at the helm of discussions surrounding marital rape, with observations hinting at a possible change in the direction of reform. The issue came into focus because the Court decided on constitutional principles and social realities.</p>
+                        <p className="mt-4"><strong className="text-white">Judicial Precedents:</strong> The Karnataka HC (2022) recognised marital rape as an offence and called for progressive legal reform. This indicates a judicial preparedness to re-explore archaic norms and address the issue of marital rape.</p>
+                        <p className="mt-4"><strong className="text-white">Chhattisgarh High Court Ruling:</strong> The Chhattisgarh High Court opined that the exemption for marital rape in Section 377 IPC provides legal immunity to husbands<sup className="text-[#D4AF37] ml-0.5">14</sup>. The ruling closes the last legal avenue for married women to prosecute their husbands for sexual violence.</p>
+                        <p className="mt-4"><strong className="text-white">Need for Change:</strong> The ongoing work of women&apos;s rights groups and the looming Supreme Court cases highlight the pressing need for legal reform. Survivors are forced to seek other avenues, such as domestic violence or cruelty laws, which do not specifically address sexual violence due to the lack of legal recognition.</p>
+                        <p className="mt-4">These developments point to a growing awareness of the issue of marital rape and a possible shift towards legal reform in India<sup className="text-[#D4AF37] ml-0.5">15</sup>. But the road is still tangled with constitutional principles, social realities and questions of individual rights versus the sanctity of marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>To conclude, the matter of marital rape in India exposes a vast gap between constitutional ideals and the existing criminal law. The Constitution guarantees the dignity, equality, and bodily integrity of every person, but the non-criminalisation of marital rape<sup className="text-[#D4AF37] ml-0.5">16</sup> is a betrayal of old notions of implied consent in marriage. But judicial developments and progressive interpretations have started to challenge this position, but there has been no clear legislative reform so far</p>
+                        <p className="mt-4">It is both a legal obligation and a moral and social duty to acknowledge marital rape and to protect women’s rights and human dignity. However, concerns about misuse and evidentiary issues need to be addressed with careful legal safeguards. Ultimately, a combination of legal reform, judicial clarity, and social awareness will be necessary to ensure that marriage is not a cover for violence, but a relationship based on consent, respect, and equality.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Indian Penal Code, No. 45 of 1860, § 375 Exception 2 (India).</li>
+                            <li>X v. Principal Sec’y, Health &amp; Family Welfare Dept., Gov’t of NCT of Delhi, (2022) 10 S.C.C. 1 (India).</li>
+                            <li>Sakshi v. Union of India, (2004) 5 S.C.C. 518 (India).</li>
+                            <li>Queen Empress v. Haree Mythee, (1891) I.L.R. 18 Cal. 49 (India).</li>
+                            <li>Marital Rape-A Crime Committed By Our Own https://www.legalserviceindia.com/legal/article-1393-marital-rape-a-crime-committed-by-our-own.html</li>
+                            <li>Bharatiya Nyaya Sanhita § 63 Exception 2 (2023); Indian Penal Code § 375 Exception 2 (1860).</li>
+                            <li>Independent Thought v. Union of India, (2017) 10 S.C.C. 800 (India).</li>
+                            <li>Protection of Women from Domestic Violence Act, 2005, §§ 3, 18–20, No. 43 of 2005, India Code.</li>
+                            <li>Medical Termination of Pregnancy Act, 1971, No. 34 of 1971, § 3(2)(b) (India).</li>
+                            <li>State of Karnataka v. Krishnappa, 2022 SCC OnLine Kar 1249 (India).</li>
+                            <li>RIT Foundation v. Union of India, 2022 SCC OnLine Del 1404 (India).</li>
+                            <li>INDIA CONST. art. 21.</li>
+                            <li>INDIA CONST. arts. 14–15.</li>
+                            <li>Arjun v. State of Chhattisgarh, 2021 SCC OnLine Chh 493 (India).</li>
+                            <li>Law Commission of India, Consultation Paper on Reform of Family Law (2018); Justice J.S. Verma Comm.</li>
+                            <li>Reference regarding non-criminalisation of marital rape.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mali Kira, BCom/ LLB Student, Parul Institute of Law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Reforms in the Indian Criminal Justice System",
+            author: "By Abhirami D R",
+            abstract: "The criminal justice system is a set of laws, processes and institutions that aim at prevention and detection of crimes and punish criminals while ensuring the rights and safety of public. It includes police forces, judiciary, legislative bodies and other organizations. The criminal justice system in India was governed by Indian Penal Code,1860 (IPC), Indian Evidence Act,1872 (IEA), Code of Criminal Procedure,1973 (CrPC), Police Act,1861 and Prisons Act,1894. Over the years, special laws such as the Protection of Children from Sexual Offences Act,2012, the Food Safety and Standards Act,2006, the Unlawful Activities (Prevention) Act,1967 etc were enacted to address the rising offences.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Background</li>
+                            <li>Legal Frameworks</li>
+                            <li>Police Reforms</li>
+                            <li>Prison Reforms</li>
+                            <li>Victim Rights</li>
+                            <li>Case Laws</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The criminal justice system is a set of laws, processes and institutions that aim at prevention and detection of crimes and punish criminals while ensuring the rights and safety of public. It includes police forces, judiciary, legislative bodies and other organizations. The criminal justice system in India was governed by Indian Penal Code,1860 (IPC), Indian Evidence Act,1872 (IEA), Code of Criminal Procedure,1973 (CrPC), Police Act,1861 and Prisons Act,1894. Over the years, special laws such as the Protection of Children from Sexual Offences Act,2012, the Food Safety and Standards Act,2006, the Unlawful Activities (Prevention) Act,1967 etc were enacted to address the rising offences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND</h4>
+                        <p>The need for reforming criminal justice system roots in the criminal laws in India which were enacted during the colonial era. These laws are outdated and complex and reforms focuses on modernizing and simplifying laws. One of the driving factor behind reformation is delay in administering justice to public. As per National Judicial Data Grid, there are over 4.7crore cases pending in Indian courts. This overcrowding of cases undermine the integrity and capability of judiciary as well as it leads to corruption in judicial system. Thus, speedy justice in sine non qua in criminal justice system. The criminal justice system also suffers from lack of resources and infrastructure. India, being the most populous country in the world, does not have adequate number of judges and there are hazardous number of vacancies in courts.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORKS</h4>
+                        <p>On July 1, 2024, three new criminal laws came into force which replaced colonial era frameworks. They are Bharatiya Nyaya Sanhita,2023 (BNS), Bharatiya Nagarik Suraksha Sanhita,2023 (BNSS) and Bharatiya Sakshya Adhiniyam,2023 (BSA). These new laws will work concurrently with old laws like IPC and CrPC as the cases are still pending in courts.</p>
+                        <p className="mt-4">The Bharatiya Nyaya Sanhita,2023 (BNS), introduced and defined offences like terrorism (Sec 113), organized crimes(Sec 111) and mob lynching(Sec103(2)). It repealed the offence of sedition and replaced it “acts endangering sovereignty, unity and integrity of India”(Sec 152). It also introduced community service as a form of punishment in petty offences like theft(Sec 303) and thus upholding the reformative nature of Indian criminal justice system.</p>
+                        <p className="mt-4">On May 5, 2026, the Union Cabinet approved the Supreme Court (Number of Judges) Amendment Bill, 2026. It increased the strength of judges in Supreme Court from 34 to 38. This Amendment is intended to address the backlog of over 92,000 cases.</p>
+                        <p className="mt-4">Bharatiya Nagarik Suraksha Sanhita, 2023, was the newly enacted Act which replaces CrPC and it was introduced on August 11,2023. During the Covid-19 pandemic, the use of technology is increasing in trials and other proceedings. Thus, the Bill acknowledges the use of technology in trials, appeals and other recordings. The Bill mandates the video recording of statement of survivors of sexual violence. The Bill adds that the release of accused on personal bond will not be applicable to offences punishable with life imprisonment and accused against whom proceedings are pending n more than one offences.</p>
+                        <p className="mt-4">The Bharatiya Sakshya Adhiniyam which replaced the IEA,1872 increased the number of sections from 167 to 170. With the increase in the use of electronic evidences, the Act provides the definition and criteria for admissibility of electronic evidences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">POLICE REFORMS</h4>
+                        <p>Police forces plays a vital role in delivering and administering justice to public. The need for police reforms lays on the outdated colonial laws, escalating number of custodial deaths, political interference and caste bias. V R Krishna Iyer had quoted in his article, “Grim Realities, Hopeful Hues” that the escalating number of custodial deaths causes the freedom of Bharat to be in peril. The police-person ratio in India does not met up the global standards.</p>
+                        <p className="mt-4">Police forces are the law enforcement agencies. They have the authority to use force but this use of force should be in proportion to their obligation towards the law and essential for delivering their public duty to ensure public justice. United Nations Human Rights treatises such as the International Covenant on Civil and Political Rights and the United Nations Convention against Torture improves the efficiency of police forces and assist them in complying with their obligations. The Prakash Singh vs Union of India was a public interest litigation filed by Prakash Singh and the landmark judgment directed all states and union territories to bring in police reforms. Though 18 states passed and amended their Police Acts, not even one state was able to be fully compliant with the directions of the Apex court.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PRISON REFORMS</h4>
+                        <p>Prison serves as one of the crucial components of criminal justice system. The constitutional provisions like Articles 21, 22 and 39A extend protection to prisoners and arrested persons. In D K Basu vs State of West Bengal, the Supreme court provided guidelines for arresting a person in order to prevent custodial torture. The main crisis affecting prisons are overcrowding of prisoners, undertrial imprisonment and custodial violence. The Model Prisons and Correctional Services Act, 2023 was enacted which replaces the 1894 Act. Prisons system in India is rehabilitative in nature but is still remains punitive. The other concerning issue is the neglect towards prisoners ih disabilities.</p>
+                        <p className="mt-4">The Central Prisons and Correctional Home, Trivandrum is one of the significant correctional home in Kerala, which demonstrates the reformative nature of criminal justice system. The Correctional home have spaces like “Kaivalya” which is used for meditation and rehabilitation. It also has library for the inmates to use and educational opportunities are also available in the prison. An important administrative program called “Kacheri” was conducted everyday at 10am, which is supervised by the Superintendent and other prison officers to address the concerns and issues of prisoners. Thus, through this way correction, rehabilitation and reintegration of prisoners into society will be facilitated.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VICTIM RIGHTS</h4>
+                        <p>Whenever a crime is committed, our system revolves around the accused and the state. The victim are often neglected and subjected to secondary victimization. The United Nations Declaration of Basic Principles of Justice for Victims of Crime and Abuse of Power widened the scope of definition of VICTIM. Thus, it includes not only the person who suffers from the crime but also extends to people who vicariously suffers from it. The injuries inflicted on victims are not just physical but also mental, emotional and financial.</p>
+                        <p className="mt-4">The biggest support granted to the victim in criminal offences is that when a crime is committed, it is presumed to be committed against the state. Thus, the state becomes the prosecutor in that case. Moreover, withdrawal of cases are not possible in criminal offences except in some exceptional cases. In civil offences, the punishment is given to make the offender obey his duty or to prevent him from omitting to do his duty. While in criminal offences, the punishment is given to deter him and other potential offenders from committing offences and thus, setting an examples to society.</p>
+                        <p className="mt-4">In 2009, victim compensation scheme was incorporated into CrPC, Sec 357A (BNSS Sec 395). It directs the state government to coordinate with central government and prepare victim compensation fund. Even if the accused is discharged or acquitted, the victim has access to compensation.</p>
+                        <p className="mt-4">The Maintenance and Welfare of Parents and Senior Citizens Act, 2007 was enacted to address growing number of desertion of parents by children. As per the Act, the children, grandchildren and relative of senior citizen is bound to look after them (Sec 4). The Act also provisions for establishment of oldage homes and medical care of senior citizens. The Tribunal can impose a maximum amount of maintenance upto Rs.10,000 per month as per the Act.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Hussainara Khatoon &amp; Ors vs Home Secretary, Bihar</strong>
+                                <p>One of major concerns affecting prisons are overcrowding and undertrial prisoners management. In this landmark judgement, Jus. P N Bhagwati recognized speedy trial as a fundamental right under Article 21. The judgment uphold Article 39A which emphasizes the free legal services are an inalienable element of reasonable, fair and just procedure. The judgment directs the State to provide a lawyer to an accused person who is incapable of engaging a lawyer on account of poverty, indigence and incommunicado situations.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Prakash Singh &amp; Ors vs Union of India</strong>
+                                <p>This case is a public interest litigation filed by Prakash Singh, DGP of UP and Assam police post-retirement. The need for reforming police forces arises from the concerns like abuse and misuse of power, corruption, inefficiency and lack of infrastructure. The petitioner argued that the government should be directed to redefine the role and functions of the police and frame a new Police Act based on the model Act rafted by National Police Commission to ensure that the police is made essentially accountable to the law and the public. The Supreme court through this judgment provided guidelines for police reform such as establishment of state security commission, selection of DGP, tenure for officers, Police Establishment Board and Police Complaints Authority.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Sunil Batra vs Delhi Administration</strong>
+                                <p>The petition was filed by mode of a letter sent by a convict under dead sentence in Tihar jail that another prisoner was tortured by the warder to get money from his visiting relatives. The Supreme Court held that the Prem Chand, prisoner is illegally tortured and superintendent is responsible though he is not a party. The Apex Court also held that in the eyes of law, prisoners are persons not animals. The court rejected ‘hands-off’ doctrine and held that the prisoner also has fundamental rights. When these rights are violated, the Article 32 comes to the rescue.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>On the occasion of independence, the Indian economy was extremely weak and fragile. Centuries of colonial rule had drained the country’s resources. The reformation in justice system is mandatory for the shift from colonial era laws to modern democratic laws. The broader awareness about human rights among public increased the usage of public interest litigation. A vital role is also played by National Human Rights Commission and State Human Rights Commissions. Acceptance of human rights as an essential part of governance is the greatest achievement of the century. The newly enacted laws have acknowledged the enhanced use of technology in the criminal justice system. When India progresses towards achieving a modern democratic criminal justice system, it should uphold rule of law, protect human rights and serves the needs of public.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Abhirami D R, Mar Gregorios College of Law, TVM, Kerala.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "THE DIGITAL FUTURE OF JUSTICE: RETHINKING PENDENCY AND EFFICIENCY IN THE INDIAN JUDICIARY",
+            author: "By Anand Kumar sah",
+            abstract: "The Indian judiciary, frequently celebrated as the \"sentinel on the qui vive,\" stands as the ultimate guardian of constitutional rights, individual liberties, and the rule of law. However, this magnificent institutional structure is currently weathering a structural storm of unprecedented proportions: the systemic crisis of judicial pendency. As we navigate 2026, the backlog of cases across the Supreme Court, the twenty-five High Courts, and the thousands of subordinate courts has crossed a critical threshold. Millions of citizens find themselves caught in a cycle where the constitutional guarantee of \"speedy justice\" remains an elusive dream.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction: The Crisis of Pendency</li>
+                            <li>Constitutional and Legal Foundations</li>
+                            <li>Statutory Framework and Privacy Safeguards</li>
+                            <li>Landmark Pronouncements on Technology</li>
+                            <li>Rights, Obligations, and the Ethics of Technology</li>
+                            <li>Case Management: Practical Impacts</li>
+                            <li>Global Trends and the Indian Context</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION: THE CRISIS OF PENDENCY</h4>
+                        <p>The Indian judiciary, frequently celebrated as the &quot;sentinel on the qui vive,&quot; stands as the ultimate guardian of constitutional rights, individual liberties, and the rule of law. However, this magnificent institutional structure is currently weathering a structural storm of unprecedented proportions: the systemic crisis of judicial pendency. As we navigate 2026, the backlog of cases across the Supreme Court, the twenty-five High Courts, and the thousands of subordinate courts has crossed a critical threshold. Millions of citizens find themselves caught in a cycle where the constitutional guarantee of &quot;speedy justice&quot; remains an elusive dream.</p>
+                        <p className="mt-4">The time-worn maxim &quot;justice delayed is justice denied&quot; has transformed from an abstract legal theory into an exhausting daily reality. Litigants regularly spend entire decades navigating a maze-like legal process, watching personal lives, businesses, and family savings disappear into institutional inertia. Traditional approaches to reform—while remaining fundamentally necessary—have simply failed to match the pace of incoming litigation. Increasing the sanctioned strength of the judiciary, expanding physical courtrooms, and fine-tuning civil or criminal procedure codes have acted as temporary band-aids rather than permanent cures. The problem is geometric; our traditional remedies are linear.</p>
+                        <p className="mt-4">Entering the modern digital era opens up an entirely new frontier. Artificial Intelligence (AI) has shifted from a futuristic luxury into an absolute administrative necessity. It represents a tool capable of modernizing judicial workflows, optimizing scarce state resources, and systematically clearing away the administrative blockages that threaten to break the public’s faith in our courts.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. CONSTITUTIONAL AND LEGAL FOUNDATIONS</h4>
+                        <p>Integrating advanced technology into the court system is far more than a matter of administrative preference or convenience. It is a direct constitutional requirement rooted deeply within Article 21 of the Constitution of India. Over decades of robust jurisprudence, the Supreme Court has firmly elevated the right to a speedy trial to an essential pillar of the right to life and personal liberty.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Hussainara Khatoon v. Home Secretary, State of Bihar (1979)</h5>
+                        <p>In this foundational precedent, the Supreme Court ruled that any legal procedure which fails to guarantee a reasonably prompt trial cannot be deemed &quot;reasonable, fair or just&quot; under the scope of Article 21. The Bench emphasized that the State bears an absolute constitutional duty to build an operational system capable of delivering swift justice. Modern algorithmic tools present the precise technical means required to fulfill this enduring constitutional mandate.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">The SUPACE Framework</h5>
+                        <p>The launch of SUPACE (Supreme Court Portal for Assistance in Court Efficiency) represents a defining moment in the formal recognition of judicial technology. This specialized interface is designed to scan massive, chaotic files, instantly pulling out foundational facts and mapping out central legal issues at speeds that completely surpass human capacity. Crucially, the Supreme Court has firmly established the &quot;Assistive Tool&quot; doctrine. This doctrine ensures that advanced technology is utilized to support and sharpen judicial reasoning, rather than replace the moral intuition, equity, and human compassion that only a human judge can bring to a dispute.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">The SUVAS Tool: Breaking Linguistic Barriers</h5>
+                        <p>Alongside efficiency, true access requires understanding. The introduction of SUVAS (Supreme Court Vidhik Anuvaad Software) serves as an essential companion tool. SUVAS uses machine learning to translate judicial orders and foundational precedents from English into regional Indian languages. By democratizing access to judgments, this system ensures that language does not act as a barrier to constitutional relief, directly reducing the time spent by regional litigants trying to comprehend complex appellate outcomes.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. STATUTORY FRAMEWORK AND PRIVACY SAFEGUARDS</h4>
+                        <p>The legal framework supporting technical expansion in India is built upon a combination of long-term state programs and modern legislative acts. Together, they provide the organized records required to train secure, highly capable systems.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. The E-Courts Mission Mode Project</h5>
+                        <p>Spanning over two decades, this national project has systematically digitized hundreds of millions of case records across the country. It has transformed dusty document storage rooms into clean, searchable databases. This incredible volume of structured legal records provides the foundational material needed to train analytical models. Without the uniform, clean data sets produced by the e-Courts project, tasks like automated case matching, smart scheduling, and predictive filing analytics would remain entirely impossible.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2. Digital Personal Data Protection (DPDP) Act, 2023</h5>
+                        <p>As smart systems begin to automatically read and organize highly sensitive records containing personal details of litigants, witnesses, and victims, the DPDP Act, 2023, steps in as a vital defensive shield. In the landmark ruling of Justice K.S. Puttaswamy v. Union of India, the Supreme Court recognized privacy as an inherent fundamental right. Consequently, any system brought into the judicial network must follow a strict &quot;privacy by design&quot; standard. Automated text processing must never result in unauthorized state surveillance, commercial leaks, or data vulnerabilities.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. LANDMARK PRONOUNCEMENTS ON TECHNOLOGY</h4>
+                        <p className="mb-4">The evolutionary shift toward an automated judicial process has been systematically supported by key judgments that normalized technological tools within everyday court operations.</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">State of Maharashtra v. Praful B. Desai (2003)</strong>
+                                <p>In this case, the Supreme Court built the primary legal bridge for virtual courtroom operations by accepting video conferencing as a legally valid medium for recording witness testimony. The ruling firmly established that &quot;presence&quot; in a court of law is not confined to physical containment within a brick-and-mortar room, paving the way for digital file interactions.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Swapnil Tripathi v. Supreme Court of India (2018)</strong>
+                                <p>By declaring that courtroom proceedings should be live-streamed, the Supreme Court turned institutional transparency into a core operational principle. This openness is essential for deploying algorithms. If a technical model is used to categorize, flag, or schedule a matter, the underlying parameters must be as open to public view and accountability as a live broadcasted hearing.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. RIGHTS, OBLIGATIONS, AND THE ETHICS OF TECHNOLOGY</h4>
+                        <p className="mb-4">Deploying automated tools brings a fresh set of rights for citizens and responsibilities for the state. We are entering an era where Algorithmic Fairness must be guarded just as fiercely as traditional procedural fairness.</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">The Right to Explanation and Transparency:</strong> Citizens have an inherent right to know exactly when and how automated systems are being used to manage, sort, or influence the administrative flow of their legal matters.</li>
+                            <li><strong className="text-white">Algorithmic Bias and the Human Shield:</strong> Systems train on historical records, meaning they run a high risk of absorbing past human prejudices, regional biases, or historical disparities. The state is under an absolute duty to enforce strict &quot;Human-in-the-loop&quot; protocols, ensuring a legal expert acts as a final checkpoint.</li>
+                            <li><strong className="text-white">Data Sovereignty and State Security:</strong> Judicial records hold the private, intimate stories of citizens and highly sensitive corporate data. The state must build secure, localized server systems to guarantee that legal data remains protected against global vulnerabilities.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. CASE MANAGEMENT: PRACTICAL IMPACTS</h4>
+                        <p>The practical, day-to-day advantages of these systems are felt immediately across two core areas: real-time automated transcription and smart case scheduling. By eliminating the heavy clerical burden of manual record-keeping, these systems remove scheduling conflicts across courts, handle routine document verification, and automatically flag identical cases that can be grouped together. This relieves judges of heavy administrative workloads, freeing them to dedicate their time to deep legal analysis and thoughtful judgment.</p>
+
+                        <div className="mt-8 overflow-x-auto">
+                            <table className="w-full text-left border-collapse bg-black/30 rounded-xl overflow-hidden border border-white/10 text-sm md:text-base">
+                                <thead className="bg-black/50 text-[#D4AF37]">
+                                    <tr>
+                                        <th className="p-4 border-b border-white/10">Judicial Task</th>
+                                        <th className="p-4 border-b border-white/10">Traditional Manual Method</th>
+                                        <th className="p-4 border-b border-white/10">AI-Assisted Method</th>
+                                        <th className="p-4 border-b border-white/10">Systemic Benefit</th>
+                                    </tr>
+                                </thead>
+                                <tbody className="text-zinc-300">
+                                    <tr className="hover:bg-white/5 transition-colors">
+                                        <td className="p-4 border-b border-white/10 font-bold text-white">Case Classification &amp; Tagging</td>
+                                        <td className="p-4 border-b border-white/10">Manual reading and manual sorting by court clerks.</td>
+                                        <td className="p-4 border-b border-white/10">Automated text processing and thematic categorization.</td>
+                                        <td className="p-4 border-b border-white/10">Eliminates errors, groups identical issues instantly, and speeds up court placement.</td>
+                                    </tr>
+                                    <tr className="hover:bg-white/5 transition-colors">
+                                        <td className="p-4 border-b border-white/10 font-bold text-white">Court Scheduling</td>
+                                        <td className="p-4 border-b border-white/10">Static diaries prone to human error and lawyer overlaps.</td>
+                                        <td className="p-4 border-b border-white/10">Dynamic predictive scheduling algorithms.</td>
+                                        <td className="p-4 border-b border-white/10">Maximizes court hours and eliminates conflicting dates for advocates.</td>
+                                    </tr>
+                                    <tr className="hover:bg-white/5 transition-colors">
+                                        <td className="p-4 border-b border-white/10 font-bold text-white">Evidence Transcription</td>
+                                        <td className="p-4 border-b border-white/10">Manual shorthand typing by court stenographers.</td>
+                                        <td className="p-4 border-b border-white/10">Real-time secure speech-to-text processing.</td>
+                                        <td className="p-4 border-b border-white/10">Produces immediate, highly accurate transcripts for instant review.</td>
+                                    </tr>
+                                    <tr className="hover:bg-white/5 transition-colors border-b-0">
+                                        <td className="p-4 font-bold text-white">Precedent Research</td>
+                                        <td className="p-4">Hours of manual searching across multiple physical volumes.</td>
+                                        <td className="p-4">Semantic legal search and context mapping.</td>
+                                        <td className="p-4">Saves hours of preparation time for both research clerks and judges.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. GLOBAL TRENDS AND THE INDIAN CONTEXT</h4>
+                        <p>As India designs its digital path forward, analyzing global frameworks provides helpful perspective. For instance, Estonia has introduced automated systems to resolve small monetary claims without human intervention. However, the Indian legal landscape presents a radically different environment. Dealing with complex social realities, deep language variety, and immense population density, a fully automated judge is entirely unfeasible and dangerous for India.</p>
+                        <p className="mt-4">Instead, the nation is building a distinctive &quot;Hybrid Model.&quot; In this framework, deep data processing and administrative sorting are managed entirely by advanced technical systems, while the delicate balance of ethical wisdom, moral context, and final judgment remains firmly in the hands of human judges. This balanced approach is highly likely to become the definitive international blueprint for judicial modernization across developing economies.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VIII. CONCLUSION</h4>
+                        <p>The structural transition from handwritten registers and dusty record rooms to highly advanced, assisted courtrooms highlights the deep resilience of the Indian judiciary. Although a formal, standalone National Judicial AI Ethics Framework is currently still in development, the operational power of these systems to clear case backlogs is completely undeniable. By carefully incorporating these secure, modern tools, the judiciary is reaffirming its deep commitment to the common citizen—ensuring that the constitutional promise of timely justice shifts from an unreachable ideal into an accessible reality for all.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Constitution of India, 1950 (Article 21).</li>
+                            <li>Hussainara Khatoon &amp; Ors v. Home Secretary, State of Bihar, (1979) 1 SCC 81.</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>State of Maharashtra v. Praful B. Desai, (2003) 4 SCC 601.</li>
+                            <li>Swapnil Tripathi v. Supreme Court of India, (2018) 10 SCC 639.</li>
+                            <li>Digital Personal Data Protection Act, 2023.</li>
+                            <li>Supreme Court of India, Artificial Intelligence Committee Report.</li>
+                            <li>NITI Aayog, National Strategy for Artificial Intelligence.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Anand Kumar sah, NLUJA BA+LLB.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "-International law in climate change governance..",
+            author: "By T. Sethu Venkat",
+            abstract: "Climate change is no longer an abstract science-based issue; it has become a current legal crisis and problem. Millions of individuals worldwide have already started experiencing the real effects of climate change through the rise in sea levels, natural disasters, the melting of glaciers, and other environmental effects, which are being felt mostly by the most vulnerable communities. The legal complexities that come along with climate change arise due to its transboundary nature. For example, the pollution in one state results in environmental damage in another. Climate change is not a problem that a single state or legal regime can solve. It is this trans-boundary element that puts international law at the heart of climate change governance.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Objective and Aim of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>Legal Framework</li>
+                            <li>Case Laws and Legal Research</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Climate change is no longer an abstract science-based issue; it has become a current legal crisis and problem. Millions of individuals worldwide have already started experiencing the real effects of climate change through the rise in sea levels, natural disasters, the melting of glaciers, and other environmental effects, which are being felt mostly by the most vulnerable communities. The legal complexities that come along with climate change arise due to its transboundary nature. For example, the pollution in one state results in environmental damage in another. Climate change is not a problem that a single state or legal regime can solve. It is this trans-boundary element that puts international law at the heart of climate change governance.</p>
+                        <p className="mt-4">A lot of progress has been made concerning international climate change laws during the last fifty years, starting with the Stockholm Declaration of 1972, until the Paris Agreement of 2015. The purpose of this paper is to review and analyse the evolution of international climate law, identify the main instruments and institutions, state obligations according to international law principles, the position of international courts in terms of dealing with the problem, and link this topic with the domestic law of India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVE AND AIM OF THE ARTICLE</h4>
+                        <p>The article attempts to give a comprehensive yet simple analysis of the international law regulation of the global response to climate change. The purpose of this study is to map out the development of international treaties, ascertain the basic principles of law guiding state responsibility, examine the judicial and quasi-judicial trends, and assess the adequacy of the prevailing legal framework One key aim in this regard would be to know how India, a developing country which is very susceptible to the impacts of climate change, meets its international commitments at the national level.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>The phenomenon of climate change in the context of international law became significant towards the end of the twentieth century. The creation of the IPCC was done jointly by UNEP and WMO, which occurred in 1988, and today its scientific assessments serve as the key evidential framework for all international climate negotiations. The scientific fact that the global average temperature can go up to 1.5°C higher than in preindustrial times has a disastrous effect on human society and has strongly influenced the normative goals pursued by international law.</p>
+                        <p className="mt-4">The traditional rule is that states shall not use their &quot;The principle that the use of territory in a way detrimental to other parties stems from early international arbitration cases, including the classic Trail Smelter Arbitration, where an arbitration panel concluded that &apos;no state has the right to use or permit the use of its territory in such a manner as to cause injury in or to the territory of another state.&apos; This precedent provided the basis of attributing international responsibility for any environmental damage across borders – the principle that was severely challenged by climate change.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK</h4>
+                        <p>The foundation of international law on the climate is certainly the United Nations Framework Convention on Climate Change, created in 1992 (UNFCCC). The most important task here is maintaining a certain greenhouse gas concentration within the Earth&apos;s atmosphere so as to stabilize it within the necessary parameters, which would prevent any more anthropogenic impact on the environment. One more distinctive feature of the UNFCCC is its &apos;common but differentiated responsibilities and respective capabilities,&apos; implying that while all countries do indeed shoulder the burden of responsibility, in this case, therefore, it is the responsibility of developed countries to assume most of the obligations as a result of their high level of technology and emissions.</p>
+                        <p className="mt-4">While the Paris Agreement was more flexible than the Kyoto Protocol, it was constrained by non-participation from the highest historic emitter of GHG – the USA.</p>
+                        <p className="mt-4">This development marks a major change in the climate change negotiation process, especially since the NDC approach of the Paris Agreement replaced the rule-oriented nature of the Kyoto Protocol through a bottom-up regime. According to Article 2 of the Paris Agreement, the participating states committed to keeping the temperature increase well below 2 degrees Celsius and making efforts towards 1.5 degrees Celsius. In contrast to the Kyoto Protocol, the Paris Agreement enjoys almost all-party involvement involving 196 states.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE LAWS AND LEGAL RESEARCH</h4>
+                        <p>One of the most significant recent advancements in the field of international climate law is the ICJ Advisory Opinion in 2024, requested by the United Nations General Assembly in relation to an advisory opinion from the Pacific Island country of Vanuatu. For the first time in history, the Court considered the international obligations of the states with respect to climate change issues. The Court concluded that, as per customary international law, states must avoid causing serious environmental damage to other states as well as to the global commons and that high-emitter states are obligated to mitigate their emissions within international standards. Although the advisory opinions lack binding authority, they carry substantial normative weight and may influence future cases and agreements.</p>
+                        <p className="mt-4">Further, the right to have access to an unpolluted environment was established by the Indian Supreme Court in the case of Subhash Kumar v. State of Bihar. The above judicial decisions indicate that India has begun to internationalise its environmental</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <p>Thus, an analysis of the legal regime concerning climate change points out a contradiction between the ambition and the enforceability of the same. While the UNFCCC has managed to create a regime that is inclusive and flexible, it does not have any body to enforce such rules. This is because, unlike the WTO and international investment law, there is no international court that would have compulsory jurisdiction to hear the disputes between States on matters of climate change. The use of voluntary pledges in the Paris Agreement shows that States set their own targets and usually fail to achieve these targets as well. According to the Sixth Assessment Report of the IPCC,</p>
+                        <p className="mt-4">The trajectory of the existing NDCs falls short of achieving even the 1.5° C target. Another problem with this legal framework pertains to climate finance. The developed nations agreed in Copenhagen in 2009 to channel USD 100 billion annually by 2020 in order to help the developing nations with their adaptation and mitigation purposes; the above agreement has not been fulfilled yet. Such countries as India have experienced more harm from climate change than any other nation while contributing very little towards the increase in emissions. Hence, this scenario appears to be rather unjust, taking into account the principles of Common but Differentiated Responsibilities and Respective Capabilities.</p>
+                        <p className="mt-4">According to the Nationally Determined Contribution of India, revised in 2022, there is a strong commitment to the realization of certain objectives associated with the usage of renewables and the intensity of carbon emissions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS AND REFORMS</h4>
+                        <p>The most urgent reform to be made in the realm of international law dealing with climate issues should be the establishment of a compulsory compliance mechanism. The international community must amend the current treaty in such a way that the NDCs meet certain minimum requirements, with sanctions imposed if necessary. It is also important for the international community to create an international court dealing with all matters related to the climate problems, empowered to adjudicate disputes among nations and provide interpretive clarity on obligations regarding climate under customary international law.</p>
+                        <p className="mt-4">At the national level, there is a need for India to pass a Climate Change Act that would bring together the various obligations India has to fulfil under the Environment (Protection) Act, 1986, the Energy Conservation Act, 2001, and NDC commitments into one piece of legislation that could set statutory climate objectives and carbon budgets and have an independent national climate authority in place like the UK&apos;s Climate Change Act of 2008. India&apos;s National Environment Policy 2006 is certainly a great policy statement, but it does not have the necessary legal power required to initiate change.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>International climate law is going to find itself intersecting the laws dealing with human rights and trade. The phenomenon of climate litigation is growing increasingly common as cases filed in countries such as the Netherlands, Germany, Australia, and Pakistan have already ordered their governments to take more concrete steps in terms of climate change mitigation measures. The ICJ’s advisory opinion of 2024 is expected to precipitate another era of state-on-state climate litigation and even constitutional disputes in developing and island countries that stand to be the worst-hit due to rising sea levels. New challenges in international law will include the problem of climate-induced displacement, the status of island nations that have disappeared undersea, and the regulation of solar geoengineering technology.</p>
+                        <p className="mt-4">From an Indian perspective, the future possibilities of international climate law entail greater congruence between domestic jurisprudence and international commitments to climate change mitigation and adaptation; a climate-conscious strategy toward infrastructural development and planning in India; and, finally, as the most populated and important developing country on Earth, greater leadership and initiative in international climate diplomacy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Indeed, international law has come quite far in dealing with the issue of climate governance since the aspirational language of the UNFCCC, to the universal membership of the Paris Agreement, to Trail Smelter arbitration and the advisory opinion of the ICJ.</p>
+                        <p className="mt-4">Nevertheless, the fundamental contradiction at the heart of the current regime is still unresolved: there is an ambitious but unenforceable system of international climate law. States continue to regard their climate obligations in terms of political promises rather than legal duties, and the discrepancy between the former and the latter only grows larger.</p>
+                        <p className="mt-4">There is no task that is more pressing for international law practitioners and activists than to make these promises into enforceable duties. That will involve strengthening multilateral organizations, narrowing the equity gap in climate finance, developing domestic law capable of implementing international climate commitments, and elevating the views of communities most vulnerable to climate change, including Indian communities, in international climate politics.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>United Nations Framework Convention on Climate Change, 1992.</li>
+                            <li>Kyoto Protocol to the United Nations Framework Convention on Climate Change, 1997.</li>
+                            <li>Paris Agreement to the United Nations Framework Convention on Climate Change, 2015.</li>
+                            <li>Trail Smelter Arbitration (United States v. Canada), 3 R.I.A.A. 1905 (1938 &amp; 1941).</li>
+                            <li>Stockholm Declaration on the Human Environment, UN Doc. A/CONF.48/14/Rev.1 (1972).</li>
+                            <li>Rio Declaration on Environment and Development, UN Doc. A/CONF.151/26/Rev.1 (1992).</li>
+                            <li>Srinivasan Raghunandan, &apos;Climate Justice and International Law&apos; (2020) 15(2) Journal of Environmental Law 78.</li>
+                            <li>Advisory Opinion of the International Court of Justice on Obligations of States in respect of Climate Change, 2024 ICJ Rep. 1.</li>
+                            <li>National Environment Policy, 2006 (Ministry of Environment, Forest and Climate Change, Government of India).</li>
+                            <li>M.C. Mehta v. Union of India, (1987) 1 SCC 395.</li>
+                            <li>The Environment (Protection) Act, 1986.</li>
+                            <li>The Energy Conservation Act, 2001 (as amended in 2022).</li>
+                            <li>181st Law Commission of India Report, Amendment to Section 106 of the Transfer of Property Act 1882, 8 (2002); see also Ministry of Environment, Forest and Climate Change, India&apos;s Nationally Determined Contribution (NDC) under the Paris Agreement, 2022.</li>
+                            <li>Subhash Kumar v. State of Bihar, AIR 1991 SC 420.</li>
+                            <li>Kyoto Protocol, supra note 2, art. 3.</li>
+                            <li>Paris Agreement, supra note 3, art. 2.</li>
+                            <li>Intergovernmental Panel on Climate Change, Sixth Assessment Report (IPCC 2022).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by T. Sethu Venkat, student, K.V. Ranga Reddy Law College - LLB.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "From Sedition to Sovereignty: A Critical Analysis of Section 152 of the Bharatiya Nyaya Sanhita, 2023",
+            author: "By Chilakala Aswini",
+            abstract: "The Bharatiya Nyaya Sanhita, 2023 (BNS) is one of the major changes in Indian criminal law since the country gained independence. Among the many new rules introduced by this law, the removal of the sedition offense from Section 124A of the Indian Penal Code, 1860 (IPC) and its replacement with Section 152 of the BNS has led to a lot of discussion among lawyers and judges. For over a century, sedition was criticized for its origins during British rule and for being used unfairly against people like journalists, activists, students, and those who voiced different opinions. The government claimed that removing sedition was part of a process to modernize Indian law and get rid of colonial influences, but at the same time, they added new rules to protect the country's unity, security, and independence.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Abstract</li>
+                            <li>Introduction</li>
+                            <li>Historical Background of Sedition in India</li>
+                            <li>Constitutional Framework and Freedom of Speech</li>
+                            <li>Judicial Interpretation of Sedition</li>
+                            <li>Sedition Replaced by Offences Against Sovereignty</li>
+                            <li>Benefits of the Reforms</li>
+                            <li>Criticisms and Challenges</li>
+                            <li>Legal Analysis</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. ABSTRACT</h4>
+                        <p>The Bharatiya Nyaya Sanhita, 2023 (BNS) is one of the major changes in Indian criminal law since the country gained independence. Among the many new rules introduced by this law, the removal of the sedition offense from Section 124A of the Indian Penal Code, 1860 (IPC) and its replacement with Section 152 of the BNS has led to a lot of discussion among lawyers and judges. For over a century, sedition was criticized for its origins during British rule and for being used unfairly against people like journalists, activists, students, and those who voiced different opinions. The government claimed that removing sedition was part of a process to modernize Indian law and get rid of colonial influences, but at the same time, they added new rules to protect the country&apos;s unity, security, and independence.</p>
+                        <p className="mt-4">However, replacing sedition with Section 152 brings up some important questions about the balance between national security and freedom of speech. Although the new rule does not make it illegal to dislike the government, it uses terms like &quot;subversive activities&quot; and &quot;activities that threaten the nation&apos;s sovereignty&quot; that could be interpreted in different ways. This article looks at the history of sedition laws, how the Indian Constitution protects freedom of speech, how the courts have interpreted sedition in the past, and the legal effects of Section 152. It also examines the pros and cons of this reform and evaluates whether India has actually moved away from sedition or just changed the way it controls threats to the state.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. INTRODUCTION</h4>
+                        <p>Sedition laws have always been a controversial part of India&apos;s criminal justice system. Introduced during British colonial rule, Section 124A of the Indian Penal Code was meant to control political opposition and prevent people from resisting colonial rule. Over the years, this provision became known for limiting freedom of expression and was often seen as conflicting with democratic values. Many scholars considered sedition to be a leftover from British rule that had no place in a modern, free India.</p>
+                        <p className="mt-4">After independence, India adopted a constitution that guaranteed freedom of speech under Article 19(1)(a). This right was meant to allow people to criticize government actions, take part in public discussions, and hold public officials accountable. Despite these constitutional rights, Section 124A remained part of the law and was used in many cases involving political speech and criticism of government policies.</p>
+                        <p className="mt-4">In recent years, there have been growing concerns about how sedition laws were being misused. Reports showed that sedition charges were being filed even in cases where there was no actual violence or threat to public order. This led to strong calls for the law&apos;s repeal from legal experts, journalists, and constitutional scholars. Responding to these concerns, Parliament passed the Bharatiya Nyaya Sanhita, 2023, which removed Section 124A and introduced Section 152 to cover offenses that threaten the country&apos;s sovereignty, unity, and integrity. This reform has sparked a new debate about whether Section 152 truly replaces sedition with a narrower national security law or if it just changes the name of the problem without solving it.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. HISTORICAL BACKGROUND OF SEDITION IN INDIA</h4>
+                        <p>The offense of sedition was officially added to the Indian Penal Code in 1870 by the British colonial administration. The provision was meant to stop the spread of nationalist ideas and stop people from criticizing British rule. Under Section 124A IPC, any attempt to create hatred, contempt, or a feeling of disloyalty towards the government was considered a criminal act punishable by imprisonment.</p>
+                        <p className="mt-4">The British government often used this law to punish leaders of the Indian freedom movement. One of the first high-profile cases was against Bal Gangadhar Tilak, who was charged with sedition for writing articles in his newspaper that called for self-rule and criticized British rule. The colonial courts interpreted sedition broadly, allowing the government to silence political dissent.</p>
+                        <p className="mt-4">Mahatma Gandhi was also charged under Section 124A in 1922. During his trial, Gandhi called sedition &quot;the prince among the political sections of the IPC, designed to suppress the liberty of the citizen.&quot; His words showed how oppressive the provision was and how it did not align with democratic principles. The frequent use of sedition against freedom fighters reinforced the idea that the law was being used for political reasons rather than real public order concerns.</p>
+                        <p className="mt-4">After independence, many members of the Constituent Assembly were wary of sedition because of its colonial history. However, the law was still kept in the Penal Code, causing tension between the constitutional rights of citizens and the restrictions imposed by criminal law. This tension eventually became one of the most debated issues in Indian constitutional law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. CONSTITUTIONAL FRAMEWORK AND FREEDOM OF SPEECH</h4>
+                        <p>The Constitution of India guarantees freedom of speech and expression under Article 19(1)(a). This right allows people to share their opinions, criticize government actions, participate in discussions, and help shape democratic decisions. The Supreme Court has consistently said that freedom of expression is the foundation of democratic governance and is essential for keeping citizens informed.</p>
+                        <p className="mt-4">However, Article 19(2) allows the government to place reasonable restrictions on free speech if it is in the interest of the country&apos;s sovereignty and integrity, public order, security, decency, morality, and other specified reasons. These restrictions acknowledge that free speech can sometimes lead to problems for public welfare or national security. Therefore, the Indian legal system tries to find a balance between personal freedoms and the government&apos;s legitimate interests.</p>
+                        <p className="mt-4">The real challenge lies in figuring out how much speech can be limited without causing harm to democratic freedoms. While national security is a valid concern, restrictions should be reasonable and proportional. Laws that are too broad or uncertain can discourage people from speaking up and create a climate where people self-censor. Therefore, courts play an important role in ensuring that any limits on free speech align with constitutional values.</p>
+                        <p className="mt-4">The debate around sedition and Section 152 must be understood in this context. Any law that criminalizes speech must be careful to distinguish between genuine threats to national security and legitimate criticism. Failing to make this distinction can damage the democratic principles that the Indian Constitution is built upon.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. JUDICIAL INTERPRETATION OF SEDITION</h4>
+                        <p>The Supreme Court looked into whether the law against sedition was allowed under the Constitution in a case called Kedar Nath Singh v. State of Bihar. This ruling is still considered the main guide for how sedition is understood in India. The Court said that Section 124A of the Indian Penal Code was still valid, but it also set some limits on when it could be used. According to the Court, only speech that encouraged violence or public disturbance could be considered sedition. Simple criticism of the government, even if it was harsh or not popular, was still protected under Article 19(1)(a) of the Constitution.</p>
+                        <p className="mt-4">This decision was meant to balance the law against sedition with the rights of people to speak freely. By narrowing the use of the sedition law, the Court wanted to make sure that people could still criticize the government without being punished. However, some worries remained because police and other authorities sometimes used the sedition law even when the Court had limited its use.</p>
+                        <p className="mt-4">Later court cases supported the protection of free speech. In the case of Balwant Singh v. State of Punjab, the Supreme Court said that shouting slogans in a casual way without any call to violence or disorder did not amount to sedition. The Court stressed that in a democratic society, people should be allowed to express their views, even if they are not popular, as long as they don&apos;t threaten public order.</p>
+                        <p className="mt-4">These changes in court rulings have affected current discussions about improving criminal laws. Legal experts have pointed out that although there are court protections, the sedition law still gives opportunities for it to be used wrongly. Because of this, the passage of the Bharatiya Nyaya Sanhita was seen as a chance to replace old laws with something that fits better with the country&apos;s democratic values.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. SEDITION REPLACED BY OFFENCES AGAINST SOVEREIGNTY</h4>
+                        <p>One of the key changes in the Bharatiya Nyaya Sanhita is replacing sedition with a new law called Section 152. Unlike the previous law, Section 124A which focused on disapproval of the government, Section 152 deals with actions that put the country&apos;s sovereignty, unity, and integrity at risk. This law covers people who try to encourage or actually cause breaking away from the country, engaging in armed rebellion, separatist activities, subversive actions, or any activities that could harm the country&apos;s integrity.</p>
+                        <p className="mt-4">The government has claimed that this reform is a sign of its commitment to getting rid of colonial laws. They believe that modern India doesn&apos;t need an old law that was used to protect government power. Instead, they want to focus on protecting the country&apos;s sovereignty and constitutional existence. By moving from laws against criticizing the government to laws against threats to national integrity, Section 152 tries to make a clear difference between democratic criticism and actions against the nation.</p>
+                        <p className="mt-4">Another important part of Section 152 is that it includes modern ways of communication. The law clearly says that it covers electronic communications and digital platforms. This change reflects how the world has changed with the use of the internet, cyber threats, online radicalization, and digital misinformation. Lawmakers felt it was necessary to address these new ways of threatening national security.</p>
+                        <p className="mt-4">Despite these differences, some people say that the language of Section 152 is too broad. Words like &quot;subversive activities&quot; are not clearly defined in the law, which can lead to different meanings depending on how judges or law enforcement interpret them. Because of this, the difference between sedition and Section 152 is still a topic of discussion.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. BENEFITS OF THE REFORMS</h4>
+                        <p>The replacement of sedition with Section 152 brings several advantages. First, it removes a colonial-era law that was linked to controlling political opposition. Removing Section 124A is a step towards modernizing the legal system and getting rid of laws that aren&apos;t in line with democratic governance.</p>
+                        <p className="mt-4">Second, Section 152 changes the focus from punishing criticism of the government to protecting the country&apos;s sovereignty. This is important because democratic governments should be open to public criticism and hold themselves accountable. By targeting real threats to national unity, the law tries to protect freedom of speech while addressing security issues.</p>
+                        <p className="mt-4">Third, the reform updates criminal law by including things like the internet and social media. Today&apos;s threats often come from online networks, social media campaigns, and cyber attacks. Section 152 takes these modern challenges into account and provides legal tools to handle them.</p>
+                        <p className="mt-4">Finally, the changes make criminal law more in line with the country&apos;s founding values. By removing references to disapproval of the government, the law allows people to speak freely about policies, challenge decisions, and push for change, as long as their actions don&apos;t harm the country&apos;s sovereignty or integrity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. CRITICISMS AND CHALLENGES</h4>
+                        <p>Despite the benefits, Section 152 has faced a lot of criticism. One main issue is that the language is unclear. Words like &quot;subversive activities&quot; and &quot;acts endangering sovereignty&quot; aren&apos;t clearly defined, which can cause confusion about what is considered a crime.</p>
+                        <p className="mt-4">Another concern is that the law might be misused. The history of sedition shows that vague laws can be used against political opponents, reporters, and activists. Critics worry that Section 152 could be stretched in the same way as the previous sedition law.</p>
+                        <p className="mt-4">Another problem is the possible effect on free speech. If people fear being punished for their opinions, they might avoid speaking up, which could weaken democratic discussions and harm free expression.</p>
+                        <p className="mt-4">There are also practical challenges in enforcing the law. Law enforcement must be able to tell the difference between normal criticism and actual threats to national security. Without clear guidance and proper training, there might be different interpretations and inconsistent enforcement across regions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. LEGAL ANALYSIS</h4>
+                        <p>From a constitutional point of view, Section 152 needs to be looked at based on the ideas of reasonableness and proportionality. The government definitely has a valid reason to protect the country&apos;s independence and borders. However, any limits on basic rights should be very specific and necessary to reach their goals.</p>
+                        <p className="mt-4">The principle of proportionality means that courts have to check if there are less restrictive ways to achieve the same goal. If Section 152 is taken to mean that even peaceful political speech is not allowed, it might not be allowed under the constitution. But if it&apos;s only used for actions that really threaten the country&apos;s security, it might stand up better in court.</p>
+                        <p className="mt-4">The ideas from the case Kedar Nath Singh are still very important. Even though the law about sedition has been removed, the difference between criticizing the government and inciting violence is still used to decide cases. Courts should make sure that Section 152 is only applied to real dangers to national security, not to opinions that are just unpopular or different politically.</p>
+                        <p className="mt-4">Looking at how other countries&apos; laws work also shows the need for a careful approach. Most democratic nations accept laws that deal with national security, but they usually apply them in a way that doesn’t take away too much freedom of speech. India&apos;s constitution, which supports democracy and freedom, needs to be careful in this area too.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">10. CONCLUSION</h4>
+                        <p>Replacing sedition with Section 152 in the Bharatiya Nyaya Sanhita, 2023 is one of the biggest changes in recent Indian criminal law. This change shows an effort to move away from old colonial laws and create a system that fits better with modern democratic values. By focusing on protecting the country&apos;s sovereignty, unity, and integrity, rather than the government’s power, the new rule tries to balance security with freedoms.</p>
+                        <p className="mt-4">However, there are still important concerns about how broad and unclear the rule is. Without clear definitions, there&apos;s a chance for different interpretations, and it raises questions about how well free speech will be protected in the future. The success of Section 152 will depend on how it is used and how the courts review it.</p>
+                        <p className="mt-4">To make sure it works with the constitution, the government should give clearer definitions for the important terms in the law. Police officers should get training about free speech and rights. Courts should keep using the ideas from Kedar Nath Singh and make sure that only real threats to the country&apos;s security are punished. With these protections, India can keep its national security while also keeping the democratic freedoms that are central to its constitution.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">11. BIBLIOGRAPHY</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>M.P. Jain, Indian Constitutional Law (9th ed., LexisNexis 2023).</li>
+                            <li>V.N. Shukla, Constitution of India (Eastern Book Company 2023).</li>
+                            <li>Gautam Bhatia, Offend, Shock, or Disturb: Free Speech under the Indian Constitution (Oxford University Press 2016).</li>
+                            <li>A.G. Noorani, Constitutional Questions in India (Oxford University Press 2000).</li>
+                            <li>Kedar Nath Singh v. State of Bihar, AIR 1962 SC 955.</li>
+                            <li>Balwant Singh v. State of Punjab, (1995) 3 SCC 214.</li>
+                            <li>Shreya Singhal v. Union of India, (2015) 5 SCC 1.</li>
+                            <li>Queen Empress v. Bal Gangadhar Tilak, (1897) ILR 22 Bom 112.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023.</li>
+                            <li>Constitution of India.</li>
+                            <li>Indian Penal Code, 1860.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Chilakala Aswini, Christ Academy Institute of law.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "THE MEDIATION ACT, 2023: A NEW DAWN FOR ALTERNATIVE DISPUTE RESOLUTION IN INDIA",
+            author: "By Aaryan Vichare",
+            abstract: "India has, for many years, struggled with an enormous backlog of cases. By early 2024, more than five crore cases were pending across all levels of the Indian judiciary. This persistent overcrowding has made delayed justice an even more pressing concern, compelling both legislators and the legal community to seriously consider alternative mechanisms for dispute resolution. Alternative Dispute Resolution (ADR) includes mediation, arbitration, conciliation, and negotiation, and has gradually assumed significance as an approach often more effective than the traditional litigation process. Among these mechanisms, mediation has received particular legislative attention in recent years. It is a process—whether voluntary or court-referred—in which a neutral third party assists disputing parties in communication and negotiation with a view to reaching a mutually acceptable resolution.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Aim and Objective of the Article</li>
+                            <li>Background of the Issue</li>
+                            <li>An Overview of the Mediation Act, 2023 Legal Framework</li>
+                            <li>Analysis and Findings</li>
+                            <li>Suggestions and Reforms</li>
+                            <li>Future Scope</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>India has, for many years, struggled with an enormous backlog of cases. By early 2024, more than five crore cases were pending across all levels of the Indian judiciary. This persistent overcrowding has made delayed justice an even more pressing concern, compelling both legislators and the legal community to seriously consider alternative mechanisms for dispute resolution. Alternative Dispute Resolution (ADR) includes mediation, arbitration, conciliation, and negotiation, and has gradually assumed significance as an approach often more effective than the traditional litigation process. Among these mechanisms, mediation has received particular legislative attention in recent years. It is a process—whether voluntary or court-referred—in which a neutral third party assists disputing parties in communication and negotiation with a view to reaching a mutually acceptable resolution.</p>
+                        <p className="mt-4">The enactment of the Mediation Act, 2023 (hereinafter referred to as &quot;the Act&quot;) marks a new phase in the development of ADR in India. It is the country&apos;s first standalone legislation dedicated exclusively to mediation and fills a significant legal vacuum. Prior to its enactment, the law relating to mediation was dispersed across various statutory provisions, including the Code of Civil Procedure, 1908, the Arbitration and Conciliation Act, 1996, and other enactments such as the Companies Act, 2013. The Act creates a uniform, integrated, and judicially enforceable framework that is capable of substantially transforming the manner in which disputes are resolved in India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">AIM AND OBJECTIVE OF THE ARTICLE</h4>
+                        <p>The objective of this article is to analyse the Mediation Act, 2023 in both its substantive and procedural dimensions. It seeks to examine the key provisions of the Act, assess its compatibility with international standards, and identify the remaining gaps and challenges while proposing measures for effective implementation. The article also situates the Act within the broader Indian ADR ecosystem and explains why institutionalised mediation is not merely a matter of procedural convenience, but a necessity in light of India&apos;s constitutional commitment to access to justice and its social fabric.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND OF THE ISSUE</h4>
+                        <p>Dispute resolution through dialogue and mutual agreement is not new to India. Community-based mechanisms such as panchayats long functioned as informal forums for resolving disputes well before the formal court system became dominant. However, the contemporary legal structure of mediation in India emerged only in the late twentieth and early twenty-first centuries, influenced substantially by developments in jurisdictions such as the United States, the United Kingdom, Singapore, and Australia.</p>
+                        <p className="mt-4">The 238th Report of the Law Commission of India (2012) recommended the enactment of a standalone mediation statute. In Salem Advocate Bar Association v. Union of India (2005), the Supreme Court reiterated that mediation would be more effective if conducted by trained mediators in accordance with a proper and structured process. Despite these recommendations, legislative action remained largely absent for nearly two decades. Momentum toward institutional mediation gained real force only when the COVID-19 pandemic exposed the fragility of an overwhelmingly court-centric model of dispute resolution, with courts either closing or functioning only minimally. Thereafter, the Mediation Bill was introduced, considered by the Parliamentary Standing Committee, and passed by both the Lok Sabha and the Rajya Sabha. Following Presidential assent on 15 September 2023, it became the Mediation Act, 2023.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">AN OVERVIEW OF THE MEDIATION ACT, 2023 LEGAL FRAMEWORK:</h4>
+                        <p>The Mediation Act, 2023, like any comprehensive legislation, contains forty-four sections divided across nine chapters. Certain provisions, however, deserve particular attention.</p>
+                        <p className="mt-4">One of the notable requirements under the Act is the emphasis on pre-litigation mediation in civil and commercial disputes before parties approach a court or tribunal. Section 6 encourages mediation of a dispute before the institution of any suit. This marks a significant departure from the earlier position, where mediation was generally undertaken only after litigation had already commenced and a court referred the matter. The underlying objective is to resolve disputes at an early stage and thereby reduce the number of cases entering the formal legal system.</p>
+                        <p className="mt-4">An especially significant component of the Act is contained in Section 27, which deals with the enforcement of mediated settlement agreements. Under this provision, a Mediated Settlement Agreement (MSA), once authenticated by the mediator and executed by the parties, is enforceable in the same manner as a decree of a court or an arbitral award. This provision addresses one of the most longstanding criticisms of mediation—namely, that it often produced outcomes perceived as non-binding and therefore vulnerable to later contestation. Section 28 further provides that an MSA may be challenged only on limited grounds, such as fraud, corruption, impersonation, or where the settlement is void as being against public policy. In this respect, the Act grants mediated settlements a degree of finality comparable to that accorded to arbitral awards.</p>
+                        <p className="mt-4">Under Section 33, the Act also establishes the Mediation Council of India as a statutory body responsible for the registration of mediators, the regulation of mediation service providers, and the promotion of international mediation. The Council is empowered to lay down standards for the training and certification of mediators—an area that had previously lacked uniformity across institutions. The establishment of this body reflects the legislature&apos;s intention to recognise mediation not merely as an ad hoc activity, but as a professional legal service requiring standards, structure, and accountability.</p>
+                        <p className="mt-4">Importantly, the Act also recognises online mediation under Section 32, acknowledging that mediation may be conducted in a virtual environment. In the post-pandemic era, in which digital dispute-resolution platforms have expanded rapidly, this provision has particular significance. It places India among the jurisdictions that are receptive to technology-enabled modes of delivering justice.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS AND FINDINGS</h4>
+                        <p>The Mediation Act, 2023 is an important beginning in the long-awaited project of institutionalising mediation in India. A closer examination, however, reveals both substantial strengths and notable weaknesses.</p>
+                        <p className="mt-4">One of the most consequential features of the Act is the legal enforceability accorded to the Mediated Settlement Agreement. This may prove transformative. In the absence of statutory enforceability, businesses—particularly in commercial disputes—were often reluctant to invest time and resources in mediation if the resulting settlement could easily be challenged before courts. The Act is also significant because it aligns domestic law with the Singapore Convention on Mediation, a treaty that has been ratified by a growing number of jurisdictions worldwide. India was the first signatory to the Convention in 2019, and the implementation of the Act brings Indian domestic law into closer conformity with its international commitments, thereby strengthening India&apos;s position as a potentially attractive hub for cross-border commercial mediation.</p>
+                        <p className="mt-4">The Mediation Council of India fills a genuine regulatory void. Historically, mediation in India was conducted through a highly diverse range of institutions, including court-annexed mediation centres, private mediation providers, and the arbitration arms of trade bodies, with little coordination, regulation, or standardisation of quality. The establishment of qualifications and ethical standards for mediators is essential, and the Council is the appropriate body through which such standards may be developed. In that sense, the creation of the Council is an important step toward building public confidence in the competence, professionalism, and credibility of mediation as a dispute-resolution process.</p>
+                        <p className="mt-4">The Act, however, is not free from criticism. Pre-litigation mediation is not made strictly mandatory; rather, the statutory language appears to require only an &quot;attempt.&quot; While this approach may sound appealing in principle, it creates uncertainty regarding the consequences of non-compliance. In M.R. Krishna Murthi v. New India Assurance Co. Ltd. (2019), the Supreme Court broadly observed that pre-litigation mediation must carry a degree of compulsion if it is to be truly effective. A weak or diluted obligation may simply be disregarded by parties already prepared for adversarial contest.</p>
+                        <p className="mt-4">In addition, Section 7 expressly excludes a broad category of non-mediable disputes, including claims involving minors, criminal offences, and matters concerning rights in rem. Although the exclusion of certain categories is understandable, the breadth of these exclusions may significantly narrow the practical reach of the Act. This concern is particularly relevant in areas such as family law, where mediation is often regarded as one of the most humane and useful modes of dispute resolution.</p>
+                        <p className="mt-4">Another area of concern relates to the institutional independence of the Mediation Council. The Act prescribes a composition for the Council that gives substantial representation to the government. Critics argue that a regulatory body governing an inherently consensual process should be led primarily by practitioners and jurists, rather than government nominees, so as to ensure that the Council remains insulated from political influence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS AND REFORMS</h4>
+                        <p>For the Mediation Act, 2023 to realise its transformative potential, a range of reforms and policy measures must accompany its implementation.</p>
+                        <p className="mt-4">First, the legislature should seriously consider introducing properly mandatory pre-litigation mediation for certain classes of disputes, particularly family disputes, employment disputes, and low-value commercial disputes, along lines comparable to reforms seen in the United Kingdom under the Civil Procedure Rules. A purely optional or lightly enforced system is unlikely to make a meaningful dent in the already overwhelming judicial backlog.</p>
+                        <p className="mt-4">Secondly, the government must make substantial investments in mediation infrastructure across the country. At present, the availability of trained and certified mediators remains concentrated largely in metropolitan centres. There is a strong case for establishing district-level mediation centres staffed by professionally trained mediators so that the benefits of the Act extend beyond urban commercial litigants and generate meaningful momentum for mediation in rural and semi-urban India.</p>
+                        <p className="mt-4">Finally, legal aid services under the Legal Services Authorities Act, 1987 should be expanded to include free mediation services for economically disadvantaged parties. If the cost of engaging a mediator is beyond the reach of those who need ADR the most, then access to justice remains incomplete.</p>
+                        <p className="mt-4">The Act should also be amended to facilitate the training and availability of community mediators—individuals with the linguistic and cultural competence to resolve disputes within local communities. Such a reform is especially necessary in a country as linguistically and culturally diverse as India, where language and procedure may themselves become barriers to meaningful participation in formal mediation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FUTURE SCOPE</h4>
+                        <p>The Mediation Act, 2023 opens several significant possibilities for the future of legal practice in India. As India seeks to consolidate its position as a preferred destination for international arbitration and mediation, institutions such as the Mumbai Centre for International Arbitration (MCIA) may derive substantial support from the legislative framework established by the Act. The Act&apos;s prompt recognition of online mediation may also encourage the growth of technology-enabled dispute-resolution platforms, including AI-assisted mediation applications and related tools, which are already gaining ground globally.</p>
+                        <p className="mt-4">The Act also permits the development of sector-specific mediation frameworks. Industries with large volumes of contractual disputes—such as real estate, infrastructure, and banking—could design institutional mediation programmes tailored to their respective sectors within the broader framework created by the Act. For example, the Act may be read alongside the Insolvency and Bankruptcy Code, 2016 to facilitate pre-insolvency mediated settlements and thereby reduce the burden on the National Company Law Tribunal.</p>
+                        <p className="mt-4">Beyond the immediate horizon, judicial interpretation of the Act&apos;s provisions—particularly those concerning the grounds for setting aside MSAs and the scope of non-mediable disputes—will be crucial to its practical operation. Indian courts have historically adopted purposive interpretations of ADR legislation, as seen in the expansive reading of the Arbitration and Conciliation Act, 1996 in BALCO v. Kaiser Aluminium (2012). A similarly constructive judicial approach to the Mediation Act could significantly strengthen its framework.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Passed in September 2023, the Mediation Act is landmark legislation that provides mediation in India with long-needed statutory recognition and institutional support. It contains several features that can help make India a mediation-friendly jurisdiction in accordance with international best practices, including the enforceability of mediated settlement agreements, the creation of a regulatory authority for mediators, and the recognition of online mediation.</p>
+                        <p className="mt-4">At the same time, legislation alone cannot transform the culture of dispute resolution. The effectiveness of the Act will depend on the constitution and functioning of the Mediation Council of India, the quality of mediation training and certification programmes, and—perhaps most importantly—the degree to which courts, lawyers, and society at large begin to embrace mediation as a first resort rather than a last one. Judges who refer cases to mediation with genuine conviction, rather than as a routine procedural formality, can reshape the culture of dispute resolution in ways that legislation alone cannot achieve.</p>
+                        <p className="mt-4">India stands at a highly consequential moment. With millions of cases pending before its courts, the country can no longer afford an exclusively court-centric conception of justice. The Mediation Act, 2023 offers the possibility of a dispute-resolution system that is quicker, less expensive, more consensual, and therefore more humane. The law now exists; what remains is to build the institutional infrastructure and social commitment necessary to realise its promise.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aaryan Vichare, Kirit P Mehta School of Law, NMIMS / BBA LLB.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "SILENT FREEZERS LOUD GAPS : HOW INDIAN LAW FAILS TO ADRESS IVF EMBRYOS AFTER DIVORCE",
+            author: "By Shalvi Singh",
+            abstract: "Imagine being frozen and not knowing your fate , whether you will be allowed to live or be discarded .. Now imagine spending a major part of you life savings , your emotions , majority of your time , several procedures several test , several stages of failures and active treatments, only to have a judge decide it’s fate in a courtroom . This the reality of many couples that are going through their divorce procedure , who underwent In Vitro Fertilisation (IVF) , and now their embryos are frozen in a clinic cryogenic tank , and what happens to them is the most underexplored , and complex issue in modern Indian Family Law .",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Legal Standing Of Frozen Embryos</li>
+                            <li>Consent Framework Under ART (Regulation ) Act 2021</li>
+                            <li>Divorce Law And Lack Of Embryos Law</li>
+                            <li>Relevant Case Laws</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Imagine being frozen and not knowing your fate , whether you will be allowed to live or be discarded .. Now imagine spending a major part of you life savings , your emotions , majority of your time , several procedures several test , several stages of failures and active treatments, only to have a judge decide it’s fate in a courtroom .</p>
+                        <p className="mt-4">This the reality of many couples that are going through their divorce procedure , who underwent In Vitro Fertilisation (IVF) , and now their embryos are frozen in a clinic cryogenic tank , and what happens to them is the most underexplored , and complex issue in modern Indian Family Law .</p>
+                        <p className="mt-4">India is one of the most populated country in the world , with this huge population comes huge infants , India&apos;s Assisted Reproductive Technology (ART) sector is one of the largest in the world, with over 2,000 registered clinics performing tens of thousands of IVF cycles annually. Yet the legal framework of India remains silent on the issue of what is the fate of frozen embryos after the divorce initiation . This Blog examines the legal perspective and critically analyses the laws related to the embryos .</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL STANDING OF FROZEN EMBRYOS</h4>
+                        <p>The legal status of the frozen embryos is still sitting in a unique “interim category” whether to be classified as a person or a property .The ART (Regulation) Act 2021 defines an embryo as a &quot;fertilised ovum from the zygote stage to the end of the eighth week of development.&quot; This definition highlights the uncertainness of the identity and status of the embryos neither enjoying legal rights as a person and not being freely alienable as a chattel .</p>
+                        <p className="mt-4">The Indian Constitution under Article 21 gives the right to life , and with it gives the right to reproduction , In Suchita Srivastava v Chandigarh Administration, the Supreme Court recognised that reproductive choices fall within the ambit of personal liberty under Article 21.</p>
+                        <p className="mt-4">In the absence of embryo personhood recognition laws , the Indian courts likely treat them as quasi property , which is generally held jointly by the parties or the parents and a re subject to the written consent and the further provisions of the ART act , this framing has the practical usefulness , but still carries human and ethical rights implications that still remains unsolved and disputed . The legislature still cannot address it adequately .</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSENT FRAMEWORK UNDER ART (REGULATION) ACT 2021</h4>
+                        <p>The ART (Regulation) Act 2021 is the primary legislative instrument governing embryo creation, storage, and use in India. Section 27 of the Act mandates that written informed consent of both the couple must be obtained before the commencement of any ART procedure. Section 28 further provides that either party may withdraw consent before the embryo is implanted. But this laws stays silent on the issue of divorce cases , what happens after the divorce is initiated , can a single genetic parent or partner consent stay the freezing of the embryo to continue , can this be compelled by one partner against other’s wish , what happens when the other withdraws the consent to store it , and what happens when both neglect the storage and management of the embryos . Section 32 of the ART Act provides for penalties for non-compliance, including for clinics that facilitate procedures without valid consent. However is completely discards the disputes between the parents fighting for the claim of the embryos , their remains a legislative gap over the custody and ownership of the embryos , which is neither recognized as a person or a chattel , and remains on the middle ground .</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DIVORCE LAW AND LACK OF EMBRYOS LAW</h4>
+                        <p>In India the divorce law is mainly treated as personal laws , governed under the Hindu Marriage Act 1955 and the Special Marriage Act 1954 and the Muslim personal law , this laws are very ancient and while framing these the rising cases of frozen embryos were not considered as a possibility as it was too futuristic and unrealistic considering that period of time , but now that it has become a legal reality , it is still underexplored . The technology of IVF was simply beyond the legislative imagination of that time.</p>
+                        <p className="mt-4">When partied goes to the Family Court in India for divorce procedures , the court is empowered to discuss and decide the matrimonial property , but embryos they remain a separate category , which is not very specifically defined as to how it would be divided . Their fate inherently relies on Fundamental rights ., situations where the wife wants to keep and have a child from the embryo , which gets disputed by the husband vice versa or where any of the parties want to get rid of the embryo but the other objects , cases after divorce where the embryo remains the last chance of motherhood for the female party , all these case scenarios are not merely hypothetical but a mirror of reality and questions that are faced in the courts while the disputes in divorce cases .</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RELEVANT CASE LAWS</h4>
+                        <p>There is no such direct landmark case leading to this issue , which in itself displays the under exploration of this subject , but with the rising cases of IVF in India the real cases are rising in the court and the courts not having real provisions are unable to tackle the problems that arises out of these cases related to the treatment , rights , and status of the embryo .</p>
+                        <p className="mt-4">In Jan Balaz v Anand Municipality, the Gujarat High Court confronted questions of nationality and parentage arising from surrogacy-based ART — again in a transnational marital context. The court&apos;s reasoning, which emphasised the genetic link over formal legal marriage in determining parentage, has implications for embryo ownership claims post-divorce: if genetic contribution is the primary determinant of parental status, then both genetic contributors to a frozen embryo arguably retain equal rights over it, irrespective of marital status.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>In India frozen embryos have a unique identity , neither being considered a full person nor merely treated a s property , neither clearly regulated , neither being entirely unprotected . When divorce is initiated their rights remain crystalized , and all ethical ,legal ,and constitutional questions arises of their position , which till date remains unanswered adequately .</p>
+                        <p className="mt-4">With this analysis we can conclude that the adjudication of frozen embryos after divorce remains woefully unprepared and urgently requires further legislative and judicial reforms</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li>Firstly, and amendment to ART (Regulation ) Act 2021 , which mandates couples to decide and give written consent on the treatment of the embryo after the cases of divorce , separation or death , etc .</li>
+                            <li>Secondly , Indian family courts should be vested with express jurisdiction as to the treatment of the frozen embryos and the genetic and legal parenthood issues that arise out of matrimonial disputes .</li>
+                            <li>Thirdly, the ART authority should be given right and binding authority for the treatment of frozen embryos in the cases where parties cannot come to a conclusion or agreements , based on humanitarian grounds .</li>
+                        </ul>
+                        <p className="mt-4">As a second year law student engaging with this topic gave me an insight into the ever changing new laws and technological advancements that birth these laws , into the ART act , an how the family courts the laws deal with the existence of just new cases , which could never have been imagined while drafting of the ancient laws which are currently in effect . Until reforms of change arrives frozen embryos will remain frozen both in temperature and legally , waiting for new laws ..</p>
+                        <p className="mt-4">This question of what is the fate of the embryos after the divorce imposes a very important question at the humanitarian laws of the country , the quasi living entity being not decided of any fate gets isolated and discarded , which questions the protection of life provided by the article 21 of the constitution . The humanitarian purview of the matter leads us to ponder over the real and human treatment of life at hand , not just being a decision of court , but a decision of life . This Approach points out that while ART act was a great step forward of safety and regulations , it forgot to build a safety net or a sort of protective net for the relationships that fall out .</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Indian Council of Medical Research, National Guidelines for Accreditation, Supervision and Regulation of ART Clinics in India (ICMR 2005).</li>
+                            <li>The Assisted Reproductive Technology (Regulation) Act 2021 (India), s 2(a).</li>
+                            <li>Suchita Srivastava v Chandigarh Administration (2009) 9 SCC 1.</li>
+                            <li>The Assisted Reproductive Technology (Regulation) Act 2021 (India), s 27.</li>
+                            <li>The Assisted Reproductive Technology (Regulation) Act 2021 (India), s 28.</li>
+                            <li>The Assisted Reproductive Technology (Regulation) Act 2021 (India), s 32.</li>
+                            <li>Jan Balaz v Anand Municipality (2009) SCC Online Guj 4126.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shalvi Singh, Law Student, Guru Ghasidas University, BA LLB.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "ALTERNATIVE DISPUTE RESOLUTION (ADR): A MODERN APPROACH TO JUSTICE IN INDIA",
+            author: "By Shaurya Shree",
+            abstract: "Alternative Dispute Resolution (ADR) is the negotiation based method of resolving disputes and is a very different from traditional Dispute resolution processes, as it is a cost-effective and speedy means of dispute resolution. Alternative Dispute Resolution mechanisms reduces the burden on courts. Meaning, scope and various types of Alternative Dispute Resolution methods are discussed here. Various advantages and disadvantages/ limitations of Alternative Dispute Resolution mechanisms are also stated in this article. Lastly, the article ended up with some suggestions.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Meaning And Scope Of Alternative Dispute Resolution</li>
+                            <li>Types Of Alternative Dispute Resolution Mechanisms</li>
+                            <li>Advantages Of Alternative Dispute Resolution Mechanisms</li>
+                            <li>Disadvantages/ Limitations Of Alternative Dispute Resolution Mechanisms</li>
+                            <li>Conclusion And Suggestions</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Alternative Dispute Resolution (ADR) is the mechanism/method of resolving disputes outside the traditional court litigation, such as by arbitration, mediation, conciliation and negotiation. It&apos;s a very important method of Dispute resolution, especially for poverty strikes and disadvantaged people looking for quick settlement. The two important propositions, i.e justice delayed is justice denied, and justice hurried is justice buried, need more attention to render social justice to poverty stricken, underprivileged and needy people who seek to have their grievance heard in the Court of law, will have to find out a means to bridge the gap between the two. Alternative Dispute Resolution mechanisms are urgently needed to supplement the current infrastructure and mechanisms of traditional courts.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MEANING AND SCOPE OF ALTERNATIVE DISPUTE RESOLUTION</h4>
+                        <p>Alternate Dispute Resolution, or ADR, is an initiative aimed at developing technology that can serve as an alternative to traditional dispute resolution methods. A choice between two options is referred to as an alternative. It does not imply the selection of an alternative court, but rather anything that can function as an alternative to court procedures or as a court-announced method. ADR is not a substitute in the strict sense. ADR is essential to supplement and preserve the court&apos;s functions.</p>
+                        <p className="mt-4">According to Black&apos;s Law Dictionary, Alternative Dispute Resolution, or ADR, refers to a &quot;procedure for settling a dispute by means other than litigation, such as arbitration or mediation.&quot; ADR, according to Halsbury&apos;s Laws of England is a term for the procedures of settling disputes without resorting to litigation, and encompasses mediation, conciliation, expert determination, and early neutral assessment. As a result, the term ADR refers to a multitude of approaches for resolving conflicts without adjudication. It even covers the method of negotiation in which two parties resolve a problem amongst themselves without taking any assistance from a third party by communicating with one another. It may also include processes such as conciliation and mediation, in which a neutral third party is involved. As a result, it is a system for resolving conflicts and disputes that relies on private, consensual resolutions between parties, with or without the intervention of a neutral third party. In Food Corporation of India v. Joginderpal Mohinderpal, the Supreme Court observed- &quot;We should make the law of arbitration simple, less technical and more responsible to the actual realities of the situations, but must be responsive to the canons of justice and fair play and make the arbitrator adhere to such process and norms which will create confidence, not only by doing justice between the parties, but by creating sense that justice appears to have been done.&quot;</p>
+                        <p className="mt-4">The scope of ADR does not apply to all law cases, they are limited to cases involving civil matters only. ADR is a process that may be used in addition to or along with, or even independent of the judicial system. ADR is not intended to supplant litigation. It provides alternatives to traditional dispute settlement. There are still a handful of significant areas, such as constitutional law and criminal law, where court decisions remain the exclusive source of information. Since the techniques used in ADR are not the ones applied in adjudication, ADR is extra-judicial in character. The main objectives of ADR are speedy resolution and cost effectiveness. Since it is an amicable way of settling disputes, building a better relationship between parties is another objective. The Law Commission of India has stated that the cause of judicial delays is not an absence of clear procedural laws, but rather their faulty execution, or even complete non-observance. The Law Commission of India stated explicitly in its 14th Report that the delay is due to the non- observance of many of the legislation&apos;s critical provisions, particularly those intended to expedite the disposition of proceedings.</p>
+                        <p className="mt-4">The key objective of the ADR movement is to eliminate vexation, expenditure, and delay while also promoting the notion of &quot;equal access to justice&quot; for all. The ADR system aims to deliver justice that is inexpensive, simple, fast, and accessible. ADR is not the same as the traditional judicial process. Disputes are resolved with the help of a third party, and the proceedings are kept simple and, for the most part, handled in the way agreed upon by the parties. ADR encourages the resolution of disputes quickly with minimal time, skill, and money spent on the decision-making process, while maintaining the secrecy of the subject matter.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">TYPES OF ALTERNATIVE DISPUTE RESOLUTION MECHANISMS</h4>
+                        <p className="mb-4">Some of the common ADR methods are as follows:</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2">Arbitration</h5>
+                        <p className="mb-6">Arbitration is a form of Alternative Dispute Resolution where the parties submit their disputes to a neutral third party, such as an Arbitrator or a Tribunal, whose decision is binding upon them. The cases related to compoundable offences can only be resolved through Arbitration. The presence of an arbitration agreement is necessary for the resolution of the Dispute through Arbitration.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2">Conciliation</h5>
+                        <p className="mb-6">Conciliation is a friendly, voluntary and flexible ADR method of resolving disputes where a neutral third person, called the conciliator, helps the parties to settle their disputes amicably. In this method of ADR, the parties actively participate in resolving disputes, and the third party only assists them. The third party&apos;s decision is not binding upon the parties in dispute.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2">Mediation</h5>
+                        <p className="mb-6">Mediation is a voluntary, confidential, and non-binding process where a neutral third party (mediator) helps disputing parties reach a mutually acceptable settlement. Unlike arbitration, the mediator does not impose a decision but facilitates communication to help parties resolve issues themselves.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2">Negotiation</h5>
+                        <p className="mb-6">Negotiation is a voluntary and direct process where parties resolve disputes together among themselves, without a third party. It is the most flexible and common ADR method, focusing on communication to reach a mutually acceptable agreement while preserving relationships.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2">Ombudsman</h5>
+                        <p className="mb-6">Ombudsman is an independent, impartial official appointed to investigate and resolve complaints from individuals (often citizens or consumers) against public institutions, corporations or regulated entities. They act as a usually voluntary, informal bridge to settle disputes outside the court system,focusing on fairness, mediation, and recommendations.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2">Lok Adalat</h5>
+                        <p>Lok Adalat operates under the Legal Services Authorities Act, 1987, which empowers it to settle disputes that are pending in regular courts or have not yet been brought before them. These disputes can be civil, criminal (compoundable offences), family or financial in nature. Lok Adalat has jurisdiction over cases involving compromise or settlement.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ADVANTAGES OF ALTERNATIVE DISPUTE RESOLUTION MECHANISMS</h4>
+                        <p className="mb-4">ADR mechanisms have many advantages, which makes them better than traditional Dispute resolution mechanisms in many aspects. Some of the advantages of ADR are as follows:</p>
+                        <ol className="list-decimal pl-5 space-y-3">
+                            <li>ADR Mechanisms provide speedy resolution to the disputes as compared to traditional courtroom litigation. Traditional Dispute Resolution methods are comparatively slow compared to ADR mechanisms due to the high burden on the courts.</li>
+                            <li>ADR mechanisms are less expensive than those of the traditional courts, as in the traditional courtroom litigation parties are compelled to spend a lot of money on court fees, Advocate&apos;s fees, paperwork, etc.</li>
+                            <li>Parties&apos; information is confidential when their disputes are resolved through ADR mechanisms, unlike in open court proceedings in traditional dispute resolution methods, which ensures the smooth resolution of disputes.</li>
+                            <li>Due to its confidential nature, ADR mechanisms protect the reputation of the parties in disputes, unlike the traditional dispute resolution methods, in which many of the times the reputation of the parties gets hampered.</li>
+                            <li>In ADR mechanisms, parties are free to choose the procedure of Dispute resolution, the language in which the dispute can be resolved, the venue of dispute resolution and the adjudicator(s), unlike the traditional courtroom litigation where parties can&apos;t decide the language, venue and adjudicator(s) and are bound by the law to follow the prescribed procedure.</li>
+                            <li>ADR methods are informal as there are no strict legal or court procedures involved in resolving disputes, unlike the traditional courtroom litigation method, where strict legal and court procedures are required.</li>
+                            <li>ADR mechanisms are informal and flexible, because of which there is less procedural complexity while resolving disputes.</li>
+                            <li>ADR mechanisms preserve the relationships between the parties, as they are an informal and flexible method of resolving disputes, unlike the traditional Dispute Resolution methods in which the relationship between the parties becomes strained due to the rigorous and formal process of dispute resolution.</li>
+                            <li>The ADR mechanism provides a win-win settlement for both parties. In traditional Dispute Resolution methods, one of the parties wins, and the other one loses the case, but the situation is not the same in the case of ADR mechanisms, and no one loses their case in the ADR method.</li>
+                            <li>The neutral third party who is the adjudicator in the ADR method is the expert in their field, even other than law, unlike the judges in traditional Dispute Resolution methods who are the generalists.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DISADVANTAGES/ LIMITATIONS OF ALTERNATIVE DISPUTE RESOLUTION MECHANISMS</h4>
+                        <p className="mb-4">There are many advantages of ADR mechanisms, but as a coin has two sides, ADR also have many limitations. Some of the limitations of ADR mechanisms are as follows:</p>
+                        <ol className="list-decimal pl-5 space-y-3">
+                            <li>ADR mechanisms are not suitable for all types of disputes and are limited to civil matters. Criminal matters, constitutional matters or matters related to Public Interest Litigation cannot be resolved through ADR mechanisms.</li>
+                            <li>The matters resolved by ADR mechanisms do not hold precedential value, which means that they cannot be treated as precedent and cannot be taken as an example while resolving similar disputes in future.</li>
+                            <li>ADR mechanisms do not ensure guaranteed resolution once the matter is taken up, unlike traditional courts, where the resolution is guaranteed once the matter is taken over by the Court.</li>
+                            <li>There is no provision for appeal against the settlements made under ADR mechanisms to any higher authority or institution, unlike the traditional courts, where there are many provisions related to appeal at multiple stages.</li>
+                            <li>There is the risk of undue influence on the adjudicator by the powerful party while resolving disputes by ADR mechanisms.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION AND SUGGESTIONS</h4>
+                        <p>A large population in India believes that justice delivered in regular courts is inefficient and inconvenient. It is the need of the hour that ADR mechanisms should be developed, promoted and applied to decrease the pressure on regular courts. We can easily achieve the objective of justice by dispensing it to the parties in conflict if it is successfully implemented.</p>
+                        <p className="mt-4">Some suggestions for improving ADR mechanisms are spreading awareness, especially among the people living in rural areas, about the ADR mechanisms, providing ADR training programmes, establishing mediation centres in every district, establishing more ADR centres and allowing appeal against the awards.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Aggarwal N. Alternative Dispute Resolution Concept and Concerns VII Nyaya Deep 68; c2006 Jan.</li>
+                            <li>Garner, Bryan A, Black HC. Black&apos;s Law Dictionary 86.West, St. Paul, MN; c2009.</li>
+                            <li>Halsbury&apos;s Laws of England. 4th Ed, 2(3):5.</li>
+                            <li>Food Corporation of India v. Joginderpal Mohinderpal, 2 SCC 347; c1989.</li>
+                            <li>Sinha JSB. Mediation: Constituents, process and Merit National Conference on Mediation (Souvenir), 2012, 6.</li>
+                            <li>Rao PC. Alternatives to Litigation in India, in P.C Rao (ed.), Alternative Dispute Resolution. What It Is And How It Works, 1997, 24.</li>
+                            <li>Henry J. Brown and Arthur L. Marriott, ADR Principles and Practice 13. Sweet &amp; Maxwell, London; c2002.</li>
+                            <li>Law Commission of India, Seventy-seven Report on Delay and Arrears in Trial Courts; c1978 Nov.</li>
+                            <li>Law Commission of India, Fourteenth Report on Reforms of the Judicial Administration; c1958 Sep.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shaurya Shree, University Law College, Vinoba Bhave University, B.A LL.B (Hons).</p>
+                    </div>
+                </div>
+            )
+        },
         // {
         // {
         // {
