@@ -156,6 +156,4333 @@ export function Header04() {
             )
         },
         {
+            title: "Live-in Relationships and the Changing Face of Family Law",
+            author: "By Sonam Rajak",
+            abstract: "This article examines the changing legal position of live-in relationships in India through the constitutional values of dignity, privacy, personal liberty and individual autonomy. Although Indian law does not treat every live-in relationship as equivalent to marriage, the Supreme Court has recognised that consenting adults have a protected sphere of personal choice.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Social Acceptance and Legal Protection</li>
+                            <li>Article 21 and the Right to Choose a Partner</li>
+                            <li>Protection of Women under the Domestic Violence Act</li>
+                            <li>Maintenance: A Limited and Fact-Based Right</li>
+                            <li>Property, Inheritance and Children's Rights</li>
+                            <li>The Legislative Turn: Uttarakhand's UCC</li>
+                            <li>Conclusion: The Path Ahead</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>A live-in relationship may broadly be understood as an arrangement in which two consenting adults voluntarily live together in a shared household and maintain a domestic relationship without entering into a formal marriage. Unlike marriage, such a relationship does not necessarily arise from a marriage ceremony or formal registration under personal law.</p>
+                        <p className="mt-4">Indian society has traditionally regarded marriage as the foundation of family life. However, urbanisation, changing social values, economic independence and greater awareness of individual rights have made alternative forms of family life more visible. This has created an important legal question: should the law protect people who choose to live together without marriage, and if so, to what extent?</p>
+                        <p className="mt-4">There is no single central statute that gives every live-in relationship the same legal status. Instead, the legal position has developed through constitutional principles, judicial decisions and specific statutory protections. Article 21 is especially important because the Supreme Court has interpreted the right to life and personal liberty to include dignity, privacy and personal autonomy. In Lata Singh v. State of U.P. (2006), the Supreme Court protected the freedom of an adult to choose a partner and live according to her choice. The case is therefore an important starting point for understanding live-in relationships as an issue of constitutional liberty.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SOCIAL ACCEPTANCE AND LEGAL PROTECTION</h4>
+                        <p>Live-in relationships continue to receive mixed responses in Indian society. Some people view them as a part of modern life and individual freedom, while others criticise them because they conflict with traditional morality, family expectations or social norms. However, social disapproval by itself cannot turn a consensual relationship between adults into a criminal offence. In S. Khushboo v. Kanniammal & Anr. (2010), the Supreme Court dealt with public controversy concerning premarital relationships and emphasised that personal views about morality cannot automatically become criminal law. The judgment supports the broader principle that consenting adults have a sphere of personal choice.</p>
+                        <p className="mt-4">At the same time, legal recognition of live-in relationships does not mean that every such relationship is equal to marriage. In Indra Sarma v. V.K.V. Sarma (2013), the Supreme Court considered when a relationship may be treated as a "relationship in the nature of marriage" for the purposes of the Domestic Violence Act. The Court also recognised the need to protect women and children who may become vulnerable in such relationships.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ARTICLE 21 AND THE RIGHT TO CHOOSE A PARTNER</h4>
+                        <p>Article 21 of the Constitution provides that no person shall be deprived of life or personal liberty except according to procedure established by law. The Supreme Court has gradually expanded this provision to protect human dignity, privacy and decisional autonomy.</p>
+                        <p className="mt-4">In Lata Singh v. State of U.P., the Court recognised the right of an adult woman to choose her partner and made it clear that family or community disapproval cannot justify violence or unlawful interference with that choice.</p>
+                        <p className="mt-4">In Nandakumar v. State of Kerala (2018), the Supreme Court recognised the liberty of adults to live together even where they were not in a valid marriage. The decision is important because it shows that the freedom to choose a partner has a practical dimension: adults must also be able to live with the person they choose.</p>
+                        <p className="mt-4">The constitutional position became broader after the nine-judge Bench decision in K.S. Puttaswamy (Retd.) v. Union of India (2017), which recognised privacy as a fundamental right. Privacy protects a person's intimate and personal sphere and includes autonomy in making important personal decisions. Therefore, Article 21 provides an important constitutional foundation for the freedom of consenting adults to decide how they organise their personal lives. However, like other fundamental rights, privacy and liberty may be subject to constitutionally valid restrictions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PROTECTION OF WOMEN UNDER THE DOMESTIC VIOLENCE ACT</h4>
+                        <p>One of the strongest reasons for legal protection in live-in relationships is the possibility of economic dependence, domestic violence and abandonment. A woman who has lived for years with a partner may face serious difficulties if the relationship ends suddenly.</p>
+                        <p className="mt-4">The Protection of Women from Domestic Violence Act, 2005 is important in this context. Section 2(f) defines “domestic relationship” to include persons who live or have lived together in a shared household through a relationship “in the nature of marriage”. The Act also provides remedies such as the right to reside in a shared household, protection orders, residence orders and monetary relief in appropriate cases.</p>
+                        <p className="mt-4">In D. Velusamy v. D. Patchaiammal (2010), the Supreme Court explained that not every live-in relationship is a relationship in the nature of marriage. The Court identified factors relevant to this determination, including the duration and nature of the relationship, shared household, and whether the parties held themselves out as being like spouses.</p>
+                        <p className="mt-4">In Indra Sarma v. V.K.V. Sarma (2013), the Court further examined the concept and emphasised that legal protection must respond to the circumstances of the relationship. Thus, the law attempts to protect vulnerable women without declaring every informal relationship to be a marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MAINTENANCE: A LIMITED AND FACT-BASED RIGHT</h4>
+                        <p>Maintenance is often misunderstood in discussions about live-in relationships. It is not legally correct to say that every live-in partner automatically has the same maintenance rights as a legally married wife.</p>
+                        <p className="mt-4">Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023 contains provisions concerning maintenance of wives, children and parents in specified circumstances. It should therefore not be described as a general provision granting automatic maintenance to every live-in partner.</p>
+                        <p className="mt-4">For women in qualifying relationships, the Domestic Violence Act can provide monetary relief where the statutory requirements are satisfied. The exact remedy depends on the facts and the nature of the relationship. Courts therefore examine the substance of the relationship rather than relying only on the label “live-in”.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PROPERTY, INHERITANCE AND CHILDREN'S RIGHTS</h4>
+                        <p>A live-in partner does not automatically become a legal heir merely because the parties have lived together for a long period. Inheritance depends on the applicable succession law, ownership, wills and the facts of the case.</p>
+                        <p className="mt-4">In Dhannulal v. Ganeshram (2015), the Supreme Court discussed the principle that long and continuous cohabitation of a man and woman as husband and wife can create a rebuttable presumption of marriage. This principle may become important in property and succession disputes, but it should not be presented as an automatic inheritance right for every live-in partner.</p>
+                        <p className="mt-4">Children require separate consideration. Section 16 of the Hindu Marriage Act, 1955 provides legitimacy to children of certain void and voidable marriages. In Revanasiddappa v. Mallikarjun (2023), the Supreme Court clarified that children covered by Section 16 have rights in the property of their parents, subject to the statutory limitations. The Court stressed that the legal position of parents should not unfairly harm the child. This decision should, however, be distinguished from a purely informal live-in relationship because it principally concerns Section 16 of the Hindu Marriage Act.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE LEGISLATIVE TURN: UTTARAKHAND'S UCC</h4>
+                        <p>A major recent development is the Uniform Civil Code of Uttarakhand, 2024 and the Rules of 2025. The Uttarakhand UCC framework specifically provides services for registration and termination of live-in relationships. The official portal also provides procedures and documentary requirements for registration.</p>
+                        <p className="mt-4">This represents an important change from a purely judge-made approach. Instead of dealing with live-in relationships only after a dispute occurs, the State has created a formal regulatory framework. The framework addresses matters such as registration, verification and termination, and the official Rules also deal with maintenance and matters concerning children in specified circumstances.</p>
+                        <p className="mt-4">The policy argument in favour of registration is that documentary recognition may help vulnerable partners prove the existence and duration of a relationship. It may also create clearer records for legal remedies. However, compulsory disclosure of intimate relationships raises questions about privacy, dignity and autonomy.</p>
+                        <p className="mt-4">The constitutional debate must therefore be approached through the principles of legality, legitimate governmental purpose and proportionality. The central question is not whether the State may ever regulate family relationships, but whether the particular form and extent of regulation is necessary and proportionate to the protection being pursued.</p>
+                        <p className="mt-4">Second, the law must protect vulnerable persons, especially women and children, from domestic violence, exploitation, abandonment and economic insecurity. A fact-based approach is therefore preferable. Courts may need to consider whether the parties are adults, whether the relationship was voluntary, whether they shared a household, the duration and stability of the relationship, whether they represented themselves as spouses, whether there was economic dependence, and whether children or domestic violence are involved. This approach can protect vulnerable people without unnecessarily interfering with the private choices of consenting adults.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION: THE PATH AHEAD</h4>
+                        <p>Live-in relationships reflect an important change in the modern understanding of family law in India. Marriage continues to have a distinct legal status, but the law increasingly recognises that people may form intimate and domestic relationships outside formal marriage.</p>
+                        <p className="mt-4">The Supreme Court's decisions in Lata Singh, S. Khushboo, Nandakumar and Puttaswamy show the growing constitutional importance of personal liberty, privacy, dignity and autonomy. At the same time, D. Velusamy and Indra Sarma demonstrate that protective remedies for women depend on the nature and circumstances of the relationship.</p>
+                        <p className="mt-4">The Uttarakhand UCC represents a new stage in this development because it introduces a formal regulatory framework for live-in relationships. It may increase legal certainty and documentary protection, but it also raises legitimate questions about privacy and personal autonomy.</p>
+                        <p className="mt-4">The future of family law should therefore focus on balance. The law should protect liberty without permitting exploitation, and it should protect vulnerable partners without unnecessarily controlling private choices. The changing face of family law is not simply about replacing marriage with live-in relationships. It is about ensuring that dignity, equality, autonomy, security and the best interests of children remain at the centre of legal protection.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Lata Singh v. State of U.P. (2006)</li>
+                            <li>S. Khushboo v. Kanniammal & Anr. (2010)</li>
+                            <li>Indra Sarma v. V.K.V. Sarma (2013)</li>
+                            <li>Nandakumar v. State of Kerala (2018)</li>
+                            <li>K.S. Puttaswamy (Retd.) v. Union of India (2017)</li>
+                            <li>Protection of Women from Domestic Violence Act, 2005</li>
+                            <li>D. Velusamy v. D. Patchaiammal (2010)</li>
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023</li>
+                            <li>Dhannulal v. Ganeshram (2015)</li>
+                            <li>Revanasiddappa v. Mallikarjun (2023)</li>
+                            <li>Uniform Civil Code of Uttarakhand, 2024</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sonam Rajak.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">LNCT UNIVERSITY</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Marital Rape & Consent Laws",
+            author: "By Geethika S Nair",
+            abstract: "Marriage is an institution in which a man and a woman become legally wedded husband and wife, thereby having a legitimate child, regulating sexual interaction and having a legalised sexual relationship. This article explores whether forcing a partner into sexual intercourse constitutes an offence, examining the definition of rape under the BNS, constitutional validity, comparative global laws, and its impact on gender justice.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Marital Rape & Exceptions</li>
+                            <li>Constitutional Validity of Marital Rape</li>
+                            <li>Comparative Global Laws on Marital Rape</li>
+                            <li>Impact on Gender Justice</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Does forcing your partner into sexual intercourse constitute an offence?</p>
+                        <p className="mt-4">Marriage is an institution in which a man and a woman become legally wedded husband and wife, thereby having a legitimate child, regulating sexual interaction and having a legalised sexual relationship. If sexual relationship is the main interest of marriage, the question of the purpose of marriage seems to be the same.</p>
+                        <p className="mt-4">Consent is an unequivocal voluntary agreement given by woman to man (in this case) to do the particular act. The submission of the woman without resisting penetration would not be considered voluntary consent.</p>
+                        <p className="mt-4">Coming to the definition of rape under Section 63 of BNS, the following acts of a man under the seven circumstances explained in the provided section constitute the offence of rape. When the victim and accused are married, it constitutes the offence of marital rape.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MARITAL RAPE & EXCEPTIONS</h4>
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Marital rape</h5>
+                        <p>Already, in Section 67 of BNS, sexual intercourse with the wife during judicial separation is constituted as an offence; now the question arises whether non-consensual intercourse between a legally wedded wife and husband constitutes an offence. Till now, marital rape is not considered an offence in India. That is, non-consensual sexual intercourse between the husband and wife is not an offence.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Exception to Marital Rape</h5>
+                        <p>In Section 63 of BNS, the second exception of the particular section states that sexual intercourse or sexual acts by a man with his own wife who is aged 18 or older is not rape technically states that marital rape is not an offence. But even for this exception, there is another one: if the wife's age is between 15 and 18 years of age, aligning it with the age of majority and if her husband commits any of the acts mentioned under section 63 of BNS would be considered rape. Even if there is consent, it still amounts to rape according to the case Independent Thought v. Union of India (2017).</p>
+                        <p className="mt-4">The legal immunity in this case is that if the wife is 18 or older, if she is subjected to non-consensual or forced sexual intercourse by her husband, there is no criminal liability.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL VALIDITY OF MARITAL RAPE</h4>
+                        <p>The constitutional validity of the marital rape exception raises important questions about equality, dignity, personal liberty, bodily autonomy, and privacy under the Constitution of India. Under the earlier Section 375 of the Indian Penal Code, Exception 2 excluded sexual intercourse by a man with his own wife from the definition of rape, subject to the age requirement. The Bharatiya Nyaya Sanhita, 2023 also retains a marital rape exception, although it provides a separate framework for sexual intercourse by a husband with his wife during separation.</p>
+                        <p className="mt-4">The main constitutional challenge argues that the marital rape exception violates Article 14 because it creates an unreasonable distinction between married and unmarried women. A woman does not lose her right to sexual autonomy merely because she enters into marriage. The exception also raises concerns under Article 15, which protects individuals against discrimination on specified grounds, and Article 21, which protects life and personal liberty. The Supreme Court has repeatedly interpreted Article 21 to protect dignity, privacy, bodily autonomy and individual choice.</p>
+
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5 my-6 space-y-4">
+                            <div>
+                                <strong className="text-white block">Independent Thought v. Union of India, (2017) 10 SCC 800</strong>
+                                <p className="mt-1">The Supreme Court considered the marital rape exception in the context of a wife below eighteen years of age. The Court read down the exception and held that sexual intercourse with a wife below eighteen years constitutes rape, regardless of her marital status. The Court found that the distinction between a married and unmarried girl below eighteen lacked a rational basis and conflicted with Articles 14 and 21. However, the Court expressly stated that it had not decided the broader question of marital rape involving adult women.</p>
+                            </div>
+                            <hr className="border-white/10" />
+                            <div>
+                                <strong className="text-white block">Joseph Shine v. Union of India, (2019) 3 SCC 39</strong>
+                                <p className="mt-1">Although that case concerned adultery rather than marital rape, the Court emphasised that constitutional rights do not disappear within the private sphere of marriage. The Court held that laws cannot subordinate women or treat them as the property of their husbands. It also recognised sexual autonomy, dignity and equality as important aspects of constitutional liberty.</p>
+                            </div>
+                            <hr className="border-white/10" />
+                            <div>
+                                <strong className="text-white block">RIT Foundation v. Union of India, 2022 SCC OnLine Del 1404</strong>
+                                <p className="mt-1">The Delhi High Court directly considered the constitutional challenge to the marital rape exception along with connected petitions. The judges delivered a split verdict. Justice Rajiv Shakdher held that the exception could not survive constitutional scrutiny, while Justice C. Hari Shankar upheld it. The disagreement shows that the issue involves competing constitutional interpretations concerning equality, privacy, bodily autonomy, marriage and the limits of judicial intervention. The Delhi High Court therefore did not provide a uniform resolution of the issue.</p>
+                            </div>
+                        </div>
+
+                        <p className="mt-4">The arguments supporting constitutional invalidity rely heavily on Articles 14 and 21. They contend that the law cannot give a husband a legal immunity simply because he married the victim. Marriage does not permanently transfer a woman's bodily autonomy to her husband. From this perspective, the marital rape exception creates an artificial distinction between married and unmarried women and denies married women equal protection of the criminal law.</p>
+                        <p className="mt-4">On the other hand, those defending the exception argue that Parliament should decide whether and how to criminalize marital rape. They also raise concerns about protecting the institution of marriage, preventing misuse of criminal law, and distinguishing marital relationships from other sexual relationships. The Delhi High Court's split verdict reflects this continuing constitutional and policy debate.</p>
+                        <p className="mt-4">Therefore, Indian constitutional law has not yet conclusively settled the validity of the marital rape exception for adult wives. Independent Thought provides strong constitutional protection to minor wives, while Joseph Shine strengthens the principles of dignity, equality and sexual autonomy within marriage. The 2022 Delhi High Court split decision demonstrates the continuing disagreement over whether these principles require the complete removal of the marital rape exception.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">COMPARATIVE GLOBAL LAWS ON MARITAL RAPE</h4>
+                        <p className="mb-4">Countries have adopted different approaches to marital rape. While some legal systems continue to provide exceptions for sexual intercourse within marriage, many countries now recognize that marriage does not remove a person's right to refuse sexual activity. UN Women reports that at least 104 States allow prosecution for marital rape, either by specifically criminalizing it or by applying their general rape laws without a marital exemption. However, at least 53 States still do not allow prosecution for marital rape.</p>
+
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">United Kingdom:</strong> The United Kingdom abolished the common-law marital rape exemption through R v R (1991). The House of Lords rejected the idea that a wife gives permanent consent to her husband through marriage. The decision established that a husband can face criminal liability for raping his wife. The Sexual Offences Act 2003 subsequently modernized the law on sexual offences and placed consent at the centre of the legal framework. UN Women also identifies the United Kingdom as one of the jurisdictions that removed the historical marital exemption.</li>
+                            <li><strong className="text-white">Canada:</strong> Canada does not recognize marriage as a defence to sexual assault. Its Criminal Code applies the law of sexual assault to spouses and focuses on the complainant's voluntary agreement to the sexual activity in question. This approach rejects the traditional assumption that marriage itself creates continuing consent.</li>
+                            <li><strong className="text-white">South Africa:</strong> South Africa criminalizes marital rape and does not allow a marital relationship to operate as a defence. Its legal approach therefore treats non-consensual sexual intercourse within marriage as a criminal matter in the same way as other sexual violence. UN Women identifies South Africa, along with Namibia, Lesotho and Eswatini, among countries that have specifically removed marital immunity.</li>
+                            <li><strong className="text-white">Nepal:</strong> Nepal took an important constitutional approach to marital rape. In Forum for Women, Law and Development v. Government of Nepal (2002), the Supreme Court of Nepal challenged the marital rape exemption and found it inconsistent with constitutional and international human-rights principles. The decision contributed to the removal of the traditional legal immunity for husbands.</li>
+                            <li><strong className="text-white">Pakistan:</strong> Pakistan presents a more complex position. UN Women currently records that Pakistan has no specific statutory provision expressly criminalizing marital rape. However, amendments to the rape framework have broadened the definition of rape, and the Sindh High Court convicted a man for marital rape in January 2024. This shows that courts may increasingly interpret general sexual-offence provisions to address sexual violence within marriage even when legislation does not expressly use the term "marital rape."</li>
+                            <li><strong className="text-white">India:</strong> India continues to follow a different approach. The law retains a marital rape exception for adult wives, although courts have increasingly questioned the constitutional basis of such an exception. In Independent Thought v. Union of India (2017), the Supreme Court removed the protection of the marital exception in cases involving wives below eighteen years of age. The broader constitutional challenge concerning adult wives remains under consideration by the Supreme Court.</li>
+                        </ul>
+
+                        <p className="mt-4">The global trend shows a gradual movement away from the idea that marriage creates permanent sexual consent. Countries such as the United Kingdom, Canada, South Africa and Nepal have rejected marital immunity and recognized that spouses retain their individual sexual autonomy after marriage. Other countries, including India, Pakistan and Indonesia, continue to grapple with the issue.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IMPACT ON GENDER JUSTICE</h4>
+                        <p className="mb-4">The marital rape debate has a direct connection with gender justice because it concerns a woman's right to equality, dignity, bodily autonomy, and personal liberty within marriage. Gender justice requires the law to protect individuals from violence without treating marital status as a reason to reduce that protection.</p>
+
+                        <ul className="space-y-4">
+                            <li><strong className="text-[#D4AF37] block">Promotes Equality:</strong> The marital rape exception creates a distinction between married and unmarried women. A woman may receive legal protection against non-consensual sexual intercourse outside marriage, but the law may provide her with less protection when the same act occurs within marriage. This distinction raises serious concerns under Article 14 of the Constitution. Removing such an exception would place married and unmarried women on a more equal footing before the law.</li>
+                            <li><strong className="text-[#D4AF37] block">Protects Bodily Autonomy:</strong> Marriage does not transfer ownership of one person's body to another. Every individual should retain the freedom to decide whether, when, and with whom they engage in sexual activity. Recognizing marital rape as an offence would strengthen the principle that consent remains necessary even within a marital relationship.</li>
+                            <li><strong className="text-[#D4AF37] block">Strengthens Dignity and Personal Liberty:</strong> Article 21 protects the right to live with dignity and personal liberty. Forced sexual intercourse can seriously affect a person's physical and psychological well-being. When the law refuses to recognize such conduct as rape merely because the parties are married, it can undermine the victim's sense of dignity and autonomy.</li>
+                            <li><strong className="text-[#D4AF37] block">Challenges Patriarchal Attitudes:</strong> The marital rape exception reflects an older understanding of marriage in which husbands exercised greater authority over their wives. Removing this exception would challenge the belief that a wife owes her husband sexual access simply because she married him. It would promote a more equal understanding of marriage based on mutual respect rather than control.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The debate surrounding marital rape is ultimately a debate about consent, equality, and individual dignity within marriage. Marriage creates a relationship between two people, but it should not take away either person's right to decide what happens to their own body. Consent should remain a free and continuing choice, even between spouses.</p>
+                        <p className="mt-4">Indian law has taken steps towards protecting women within marriage, particularly in cases involving minors, but the legal position regarding marital rape involving adult wives remains unsettled. The constitutional principles of equality, dignity, privacy, and personal liberty make it difficult to justify a system that gives different levels of protection based only on marital status.</p>
+                        <p className="mt-4">At the same time, concerns about protecting families and preventing misuse of criminal law deserve consideration. Criminalizing marital rape should therefore go hand in hand with clear legal safeguards, fair investigation, and effective support for survivors. Ultimately, recognizing sexual autonomy within marriage does not weaken the institution of marriage. Instead, it encourages a healthier understanding of marriage based on mutual respect, equality, and free consent. A marriage should create a partnership between two individuals, not a permanent right over another person's body.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Independent Thought v. Union of India (2017) 10 SCC 800</li>
+                            <li>Joseph Shine v. Union of India, (2019) 3 SCC 39</li>
+                            <li>RIT Foundation v. Union of India, 2022 SCC OnLine Del 1404</li>
+                            <li>Lawbhoomi</li>
+                            <li>I Pleaders</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Geethika S Nair.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Government law college, Kozhikode</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Marital Rape In India: An Analysis",
+            author: "By Simran Karda",
+            abstract: "Marriage has traditionally been regarded in Indian society as a sacred institution founded upon trust, companionship, mutual respect, and shared responsibilities. However, the sanctity of marriage cannot overlook the individual rights and dignity of the persons within it. One such important and controversial issue is marital rape, which refers to non-consensual sexual intercourse by a husband with his wife. Indian criminal law recognizes non-consensual sexual intercourse as rape; however, the law continues to provide a specific exception in cases involving marriage. Under Section 63 of the Bharatiya Nyaya Sanhita, 2023 (BNS), Exception 2 provides that sexual intercourse or sexual acts by a man with his own wife, provided the wife is not under eighteen years of age, does not constitute rape under this provision. This article examines the legal and constitutional debate surrounding marital rape, its impacts, and the arguments for and against its criminalization.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Understanding Rape and Marital Rape</li>
+                            <li>Forms of Marital Rape</li>
+                            <li>Constitutional Dimensions of Marital Rape</li>
+                            <li>Impact on Victims</li>
+                            <li>Arguments in Favour of Criminalization</li>
+                            <li>Arguments Against Criminalisation</li>
+                            <li>Recent Judgments and Ongoing Legal Debate</li>
+                            <li>Conclusion and Suggestions</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic text-zinc-400 mb-4">
+                            "I say nothing, not one word, from beginning to end, and neither does he. If it were lawful for a woman to hate her husband, I would hate him as a rapist."<br />
+                            <span className="text-sm">- Philippa Gregory</span>
+                        </blockquote>
+                        <p>Marriage has traditionally been regarded in Indian society as a sacred institution founded upon trust, companionship, mutual respect, and shared responsibilities. However, the sanctity of marriage cannot overlook the individual rights and dignity of the persons within it. One such important and controversial issue is marital rape, which refers to non-consensual sexual intercourse by a husband with his wife.</p>
+                        <p className="mt-4">Indian criminal law recognizes non-consensual sexual intercourse as rape; however, the law continues to provide a specific exception in cases involving marriage. Under Section 63 of the Bharatiya Nyaya Sanhita, 2023 (BNS), Exception 2 provides that sexual intercourse or sexual acts by a man with his own wife, provided the wife is not under eighteen years of age, does not constitute rape under this provision. This exception has generated significant legal and constitutional debate.</p>
+                        <p className="mt-4">The issue of marital rape extends beyond the question of criminal liability. It raises fundamental concerns relating to consent, bodily autonomy, privacy, dignity, equality, and the constitutional protection of individual rights. The central question is whether marriage should be treated as creating permanent consent to sexual relations, or whether consent must remain an independent and continuing choice of every individual. The debate therefore requires a careful examination of the existing legal framework and the changing understanding of marriage, consent, and women's rights in India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">UNDERSTANDING RAPE AND MARITAL RAPE</h4>
+                        <p>Sexual intercourse with a woman without her consent constitutes rape and is recognized as a punishable offence under Indian criminal law. However, the legal position is different when the parties are married. Where a husband engages in sexual intercourse with his wife without her consent, such conduct is generally excluded from the offence of rape under the marital exception provided in Indian law, subject to the statutory age requirement. Consequently, marital rape remains outside the scope of the offence of rape under the existing criminal law framework in India, making it a significant issue of legal, constitutional, and social concern.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">What is Marital Rape?</h5>
+                        <p>Simply put, having a relationship against the will of the wife is marital rape, but it has not been kept in the category of crime. OR Non-consensual sexual intercourse or sexual conduct committed by one spouse against the other spouse.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">What is Rape? And Legal Status of Marital Rape in India</h5>
+                        <p>Section 63 of the Bharatiya Nyaya Sanhita, 2023 (BNS) defines the offence of rape. A man is said to commit rape when he engages in specified sexual acts with a woman under circumstances where the act is against her will or without her consent.</p>
+                        <p className="mt-4 mb-2">The provision also covers situations where consent is obtained through:</p>
+                        <ul className="list-disc pl-5 space-y-2">
+                            <li>fear of death or hurt,</li>
+                            <li>where the woman is incapable of understanding the nature and consequences of the act because of mental incapacity or intoxication,</li>
+                            <li>where she is below eighteen years of age, or</li>
+                            <li>where she is unable to communicate consent.</li>
+                        </ul>
+                        <p className="mt-4">The BNS further explains consent as an unequivocal and voluntary agreement to participate in a particular sexual act. Importantly, merely because a woman does not physically resist does not mean that she has consented.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Exception relating to Marital Rape</h5>
+                        <p>The major controversy arises from Exception 2 to Section 63. It provides that sexual intercourse or sexual acts by a man with his own wife, where the wife is not below eighteen years of age, do not constitute rape under Section 63. Thus, although absence of consent is central to the general definition of rape, the marital exception prevents non-consensual sexual intercourse by a husband with his adult wife from being treated as rape under this provision.</p>
+                        <p className="mt-4">This position must be distinguished from cases involving a wife below eighteen years of age. In Independent Thought v. Union of India (2017), the Supreme Court read down the earlier marital exception under Section 375 of the Indian Penal Code and held that sexual intercourse with a wife below eighteen years of age constitutes rape, irrespective of her marital status. The Court, however, expressly left the larger question of marital rape of adult women undecided.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FORMS OF MARITAL RAPE</h4>
+                        <p className="mb-4">Marital rape may take different forms, depending upon the nature of the non-consensual sexual act involved. Some of its commonly recognised forms include:</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Forced Sexual Intercourse:</strong> Forced sexual intercourse refers to sexual intercourse imposed upon a wife without her free and voluntary consent or against her will. It may involve physical force, threats, intimidation, or coercion by the husband. This is the most commonly recognised form of marital rape and directly concerns the violation of a woman's bodily autonomy and right to make decisions regarding her sexual activity.</li>
+                            <li><strong className="text-white">2. Forced Oral or Anal Sexual Acts:</strong> Forced oral or anal sexual acts involve compelling a wife to engage in oral or anal sexual activity without her consent. Such acts may be carried out through physical force, threats, intimidation, or other forms of coercion. These acts constitute sexual violence because the individual is deprived of the freedom to decide whether and how to participate in a sexual act.</li>
+                            <li><strong className="text-white">3. Sexual Acts Involving Objects or Other Forms of Penetration:</strong> This form involves forcing a wife to undergo penetration using an object or a part of the body other than the penis, without her consent. Such conduct can cause serious physical and psychological harm and represents a violation of bodily integrity. Section 63 of the Bharatiya Nyaya Sanhita, 2023, includes various forms of penetration within its statutory description of rape, although the marital exception affects its application to an adult wife.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL DIMENSIONS OF MARITAL RAPE</h4>
+                        <p>The issue of marital rape raises important constitutional questions concerning equality, dignity, privacy and individual autonomy.</p>
+                        <p className="mt-4">Article 14 of the Constitution guarantees equality before the law and equal protection of the laws. The marital exception to rape raises concerns about whether excluding married women from the protection of rape laws creates an unreasonable distinction based solely on marital status.</p>
+                        <p className="mt-4">Article 15 prohibits discrimination on grounds including sex, while Article 21 guarantees the right to life and personal liberty. The Supreme Court has interpreted Article 21 to include the right to live with dignity, bodily integrity, privacy and personal autonomy.</p>
+                        <p className="mt-4">Marital rape therefore raises the question of whether marriage can restrict a woman's fundamental right to make decisions concerning her own body and sexual choices. The institution of marriage cannot, by itself, be considered a permanent and unconditional consent to sexual relations.</p>
+                        <p className="mt-4">From a constitutional perspective, the protection of a woman's dignity, bodily autonomy and personal liberty remains significant even within marriage. Thus, the marital rape exception continues to raise questions regarding its compatibility with the constitutional guarantees of equality, dignity, privacy and personal liberty.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IMPACT ON VICTIMS</h4>
+                        <p className="mb-4">Rape being marital or not can have profound and lasting effects on a victims physical, psychological and social well-being. The consequences may continue long after the incident and can affect various aspects of the survivor's life.</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-[#D4AF37]">Physical Injuries:</strong> Forced sexual activity may cause physical pain, bruising, injuries and other forms of bodily trauma. Lack of timely medical attention may further aggravate these health problems.</li>
+                            <li><strong className="text-[#D4AF37]">Psychological and Emotional Trauma:</strong> Survivors may experience anxiety, fear, shock, depression and persistent emotional distress. Repeated abuse may also create feelings of helplessness and insecurity.</li>
+                            <li><strong className="text-[#D4AF37]">Loss of Confidence and Self-Esteem:</strong> Continuous violation of personal boundaries can negatively affect a survivor's self-confidence, self-esteem and sense of personal worth, sometimes resulting in feelings of shame, guilt or helplessness.</li>
+                            <li><strong className="text-[#D4AF37]">Gynaecological and Reproductive Health Problems:</strong> Marital rape may lead to unintended pregnancy, sexually transmitted infections and other reproductive-health complications, creating further physical and emotional difficulties.</li>
+                            <li><strong className="text-[#D4AF37]">Sleep, Eating and Other Long-Term Difficulties:</strong> Trauma may result in insomnia, disturbed eating patterns, low self-image and difficulties with intimacy. These problems can interfere with education, employment and everyday activities.</li>
+                            <li><strong className="text-[#D4AF37]">Social and Relationship Effects:</strong> Survivors may find it difficult to trust others or feel safe in intimate relationships. Fear of social stigma, family pressure and judgment may also lead to social isolation and prevent survivors from seeking assistance.</li>
+                            <li><strong className="text-[#D4AF37]">Need for Effective Support:</strong> The seriousness of these consequences highlights the need for medical care, psychological counselling, social support and effective legal remedies. Survivors should have access to appropriate assistance so that they can recover and live with dignity and security.</li>
+                        </ul>
+                        <p className="mt-4">The effects of marital rape extend beyond physical harm and may deeply affect a survivor's mental health, dignity, confidence, relationships and quality of life. Recognising these consequences is essential for addressing marital rape as an issue of consent, bodily autonomy and human dignity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ARGUMENTS IN FAVOUR OF CRIMINALIZATION</h4>
+                        <p className="mb-4">There are several arguments supporting the removal of the marital rape exception.</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-[#D4AF37] block">Consent Should Not Depend on Marital Status:</strong> The strongest argument is that consent should have the same importance regardless of whether the parties are married. Marriage should not create permanent consent.</li>
+                            <li><strong className="text-[#D4AF37] block">Protection of Bodily Autonomy:</strong> Every individual should have control over their own body. Criminal law should protect this autonomy even within intimate relationships.</li>
+                            <li><strong className="text-[#D4AF37] block">Protection of Dignity:</strong> Forced sexual activity can undermine personal dignity. Legal protection should not disappear merely because the parties are married.</li>
+                            <li><strong className="text-[#D4AF37] block">Equality Before Law:</strong> Supporters argue that the same non-consensual conduct should not receive substantially different treatment simply because the accused and the victim are spouses.</li>
+                            <li><strong className="text-[#D4AF37] block">Recognition of Sexual Violence Within Marriage:</strong> Criminalisation would recognize that sexual violence is possible within marriage and that family relationships should not automatically shield such conduct from legal scrutiny.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ARGUMENTS AGAINST CRIMINALISATION</h4>
+                        <p className="mb-4">There are also arguments raised against making marital rape a separate criminal offence.</p>
+                        <ul className="space-y-4">
+                            <li><strong className="text-[#D4AF37] block">Possibility of Misuse:</strong> Some opponents argue that the provision could be misused in matrimonial disputes. However, this concern can also arise in relation to many other criminal offences, and safeguards can be developed through proper investigation and judicial scrutiny.</li>
+                            <li><strong className="text-[#D4AF37] block">Difficulty in Determining Consent:</strong> It may sometimes be difficult to establish what occurred privately between spouses. This raises evidentiary concerns.</li>
+                            <li><strong className="text-[#D4AF37] block">Impact on Marriage and Family Structure:</strong> Opponents argue that criminalizing marital rape could increase criminal litigation within families and negatively affect marital relationships.</li>
+                            <li><strong className="text-[#D4AF37] block">Need for Legislative Reform:</strong> Another argument is that such a significant change in criminal law should be made by Parliament after detailed consideration of evidence, social conditions and appropriate safeguards.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT JUDGMENTS AND ONGOING LEGAL DEBATE</h4>
+                        <p className="mb-4">The issue of marital rape has remained a subject of serious legal and social debate in India. Although the law has gradually strengthened the protection of women against sexual violence, the question of whether a husband can be prosecuted for raping his adult wife remains unresolved. The following judicial developments have played an important role in shaping this debate.</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Independent Thought v. Union of India (2017)</strong>
+                                <p>The Supreme Court held that sexual intercourse by a husband with his wife below the age of 18 years would amount to rape. The judgment made it clear that marriage cannot take away the legal protection available to a minor girl.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">RIT Foundation v. Union of India (2022)</strong>
+                                <p>The Delhi High Court examined the constitutional validity of the marital rape exception for adult women. The Court delivered a split verdict, with the judges taking different views on the issue. The matter was subsequently brought before the Supreme Court.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Hrishikesh Sahoo v. State of Karnataka (2022)</strong>
+                                <p>The Karnataka High Court allowed criminal proceedings against a husband in a case involving allegations of sexual violence against his wife. The judgment emphasized that the marital relationship should not automatically be treated as permanent consent.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Supreme Court proceedings on marital rape (2026)</strong>
+                                <p>The Supreme Court is currently examining the constitutional validity and legal implications of the marital rape exception. The debate involves important constitutional principles such as consent, dignity, bodily autonomy, equality and the right to life and personal liberty under Article 21. The final decision of the Supreme Court is expected to have a significant impact on the future legal status of marital rape in India.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION AND SUGGESTIONS</h4>
+                        <p>Rape, including marital cases, is on the rise, and law enforcement authorities are to blame to a large measure because they are careless and lenient with perpetrators. Rape will not decrease unless the existing law not only makes rape a death penalty in theory but also in practice. The cases of marital rape would not be dropped unless stringent punitive legislation and measures are adopted. Even the laws will not suffice. It is past time for the victim to be treated with respect, and the rapist to be severely punished, even if the rapist is her husband!</p>
+
+                        <p className="mt-6 mb-4">The article concludes with the following suggestions for the social well-being of the victims and their families:</p>
+                        <ul className="list-disc pl-5 space-y-3">
+                            <li>The general attitude of society must be transformed in favor of women's dignity, which would need widespread female literacy and economic betterment for the impoverished masses.</li>
+                            <li>Marital rape must be treated as a crime by the justice system, and stringent punitive regulations and measures must be adopted against sexual offences committed within marriage.</li>
+                            <li>Authorities must eliminate Section 375 (Exception 2) of the IPC now being Section 63 of BNS to bring marital rape under the purview of rape laws.</li>
+                            <li>Along with criminal justice functionaries, Non-government organizations, social workers, media people, political leaders, and ordinary men must work together to create an environment in which sexual offences within marriages do not proliferate.</li>
+                            <li>The victim should not be ignored, but the rapist should be severely punished, even if the rapist is her husband.</li>
+                            <li>Women should be in control of the unit dealing only with violence against women in police stations. They should be well-trained in offering victims counseling and in instilling comfort and confidence in them.</li>
+                            <li>The women in charge of the cell dealing solely with violence against women should be placed in control of the police stations. They should be well-versed in bringing comfort and confidence to victims through counseling.</li>
+                            <li>Individuals, women's groups and cells, and victim's family members can assist the raped woman in overcoming her pain and humiliation while also pursuing criminal charges against the rapist.</li>
+                        </ul>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Constitution of India,1950</li>
+                            <li>The Bharatiya Nyaya Sanhita,2023</li>
+                            <li>Independent Thought v. Union of India(2017)10 SCC 800</li>
+                            <li>Vanisha Gehlot, "Marital Rape and Its Legal Status in India: The Continuing Constitutional and Social Debate," Record of law,2026</li>
+                            <li>Yogesh Kumar, "Marital Rape in India-A Socio-legal analysis," Researchgate, June 2022</li>
+                            <li>Akanksha Bhatt And Kuljit Singh," Marital Rape: Existing Legal Framework in India - Quest for Recognition and Liability," International Journal of Law Management & Humanities, Volume 4, Issue 4, 2021</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Simran Karda.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Renaissance Law College</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Cohabitation Without Marriage: Legal Challenges and Women's Rights in Live-in Relationships",
+            author: "By Aditya Tiwari",
+            abstract: "Live-in relationships have emerged as a substantial social and legal event, challenging the customary conception of marriage as the primary foundation of family life in progressive India. Whilst, the Indian law does not explicitly recognize live-in relationships as parallel to marriage, constitutional principles under Articles 14, 15, 19, and 21 provide protection to the autonomy, dignity, privacy, and personal liberty of consenting adults to select their partners and lifestyle. With evolving protection against exploitation and vulnerability, legal rulings have progressively acknowledged the rights of adults to cohabit. The Protection of Women from Domestic Violence Act, 2005, provides legal safeguards to women living in relationships in the nature of marriage, together with rights concerning maintenance and residence. Furthermore, Courts have articulated the legitimacy of children born from long-term cohabitation and the presumption of marriage originating from prolonged cohabitation. This paper scrutinizes the constitutional and legislative structure directing live-in relationships in India and analyses the judicial perspective concerning women's rights. It further underlines the social stigma and sensitivity confronted by women. The study asserts a coherent legal framework estimating individual autonomy, gender justice, and social realities.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Meaning</li>
+                            <li>Constitutional Provisions for Live-in Relationships</li>
+                            <li>Legislative Framework Governing Live-in Relationships</li>
+                            <li>Women's Rights in Live-in Relationships</li>
+                            <li>Social Dimensions and Women's Vulnerability</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The institution of marriage has been considered backbone of Indian society, associated with moral, religious, and legal sanctity. Nevertheless, with urbanization, globalization, and changing socio-economic patterns, long-established notions of family and marriage have been challenged. In the contemporary india for may individual the concept of a live-in relationship has emerged as an alternative lifestyle for many individual which refers to a man and woman cohabiting together without any formal marriage. While such relationships may not be legally recognized as marriages, they nonetheless raise issues of legality, social, and moral recognition.</p>
+                        <p className="mt-4">A married person fulfills his responsibilities to the outside world and lives a whole life. The perfect family consists of a husband, wife, and their children. Because the globe is a global community, ideas, cultures, technologies, beliefs, and other things are exchanged. People choose new family formation options, such as live-in relationships.</p>
+                        <p className="mt-4">However, as Indian society ui, these couples often face strong social criticism and legal uncertainty, as the traditional mindset still finds it difficult to accept relationships outside the framework of marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MEANING</h4>
+                        <p>A live-in relationship also called cohabitation in some countries is an arrangement when two people involved in a romantic and sexual relationship as partners for a long term or permanently, decide to live together without marriage. Also, a live-in relationship is a voluntary arrangement whereby two adults mutually agree to live together to conduct a long-term relationship that resembles a marriage.</p>
+                        <p className="mt-4">The Supreme Court in Indra Sarma v. V.K.V. Sarma defined it as a "domestic arrangement between two adults who live together for a significant period, sharing domestic and emotional intimacy." Unlike marriage, it is based purely on mutual consent and can be terminated at will.</p>
+                        <p className="mt-4">However, Indian society continues to view marriage as a sacred institution. Live-in relationships are often stigmatized as immoral or contrary to social order. Yet, from a legal perspective, the freedom to choose one's partner and mode of living is protected under Article 21 of the Constitution, which guarantees the right to life and personal liberty. The recognition of such freedom, however, does not automatically entail recognition of marital rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL PROVISIONS FOR LIVE-IN RELATIONSHIPS</h4>
+                        <p>Even though the Constitution does not expressly provide the provisions for "live-in relationships," but its fundamental rights framework, especially Articles 14, 15, 19, and 21 provides implicit protection to such choices.</p>
+                        <p className="mt-4">Article 14 ensures that individuals cohabiting without marriage cannot be arbitrarily denied legal protection merely because they do not follow the traditional practices and norms of marriage. Article 14 provides equality to the living partners. In Alok Kumar v. State of Delhi the Delhi High Court held that "a live-in relationship is a subject of choice which falls within the extent of Article 21, and discrimination against such a couple lead to the violation of Article 14."</p>
+                        <p className="mt-4">Article 15(1) of the Constitution prohibits discrimination on grounds of sex and Article 15(3) allows the State to make special provisions for women and children. This dual framework of prohibition and empowerment forms the constitutional cornerstone for protecting women in live-in relationships.</p>
+                        <p className="mt-4">Article 19(1)(a) guarantees freedom of expression, and Article 19(1)(d) ensures freedom of movement. Together, they form the foundation of personal liberty and self-expression. The choice to enter into a live-in relationship is a form of expression and articulation of one's personal beliefs about companionship, sexuality, and partnership.</p>
+                        <p className="mt-4">In S. Khushboo v. Kanniammal, the Supreme Court observed that "living together is a part of the right to life and cannot be considered illegal or immoral."</p>
+                        <p className="mt-4">In Hadiya (Shafin Jahan) v. Asokan K.M, the Court held that "the right to choose one's partner whether within or outside marriage falls within the ambit of liberty and freedom of association." Thus, adults living together by choice cannot be subjected to social or legal penalties merely because their union does not conform to traditional norms.</p>
+                        <p className="mt-4">Article 21 is the heart of the constitutional protection for live-in relationships. It guarantees the right to life and personal liberty, which the courts have widely interpreted to include dignity, privacy, and autonomy.</p>
+                        <p className="mt-4">In Lata Singh v. State of Uttar Pradesh, the Supreme Court held that "a live-in relationship between two consenting adults does not amount to any offence and, therefore, no one has the authority to harass them." Additionally, the "right to privacy" as a fundamental right under Article 21, encompassing "the right to choose one's partner and the right to intimacy" was recognized in K.S. Puttaswamy v. Union of India.</p>
+                        <p className="mt-4">The constitutional framework of India, through its fundamental rights, has evolved to protect personal autonomy and dignity in all forms of human relationships. Though live-in relationships lack explicit statutory recognition, constitutional principles under Articles 14, 15, 19, and 21 implicitly safeguard them.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGISLATIVE FRAMEWORK GOVERNING LIVE-IN RELATIONSHIPS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Protection of Women from Domestic Violence Act, 2005</h5>
+                        <p>Section 2(f) of the act defines "domestic relationship" to include not only traditional married women but also those "who live or have lived together in a relationship in the nature of marriage." In the case of D. Velusamy v. D. Patchaiammal, the court opined that a relationship "in the nature of marriage" is akin to common law marriage where there is no legally recognised ceremony or any civil contract entered into. For a common law marriage the following essentials must be fulfilled which will also apply in case of "relationship in nature of marriage"-</p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-4">
+                            <li>The couple must hold themselves out to society as being akin to spouses.</li>
+                            <li>They must be of legal age to marry.</li>
+                            <li>They must be otherwise qualified to enter into a legal marriage.</li>
+                            <li>They must have voluntarily cohabited for a significant period of time.</li>
+                        </ol>
+                        <p className="mt-4">The Court clarified that casual relationships or those formed for sexual convenience cannot be equated with a relationship in the nature of marriage.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">The Bhartiya Sakshya Adhiniyam, 2023: Presumption of Marriage and Long Cohabitation</h5>
+                        <p>The Bhartiya Sakshya Adhiniyam, 2023 does not directly address live-in relationships. However, Section 119 of the Act allows the court to presume the existence of certain facts based on human conduct and natural events. Using this provision, Indian courts have long held that prolonged cohabitation between a man and a woman gives rise to a presumption of marriage.</p>
+                        <p className="mt-4">In the landmark case of Badri Prasad v. Deputy Director of Consolidation, the Supreme Court recognized a 50-year cohabitation as sufficient proof of marriage, stating that "a strong presumption arises in favor of wedlock when a man and woman live together as husband and wife for a long spell." This presumption, however, is rebuttable. Similarly, in Tulsa v. Durghatiya, the Court held that "if a man and woman live together continuously for a significant time, the law will presume marriage unless proven otherwise."</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">The Bhartiya Nagrik Suraksha Sanhita, 2023</h5>
+                        <p>Section 144 of the Bhartiya Nagrik Suraksha Sanhita, 2023 (BNSS) provides for maintenance of wives, children, and parents who are unable to maintain themselves. The purpose of this provision is social justice to prevent destitution and vagrancy among dependent family members.</p>
+                        <p className="mt-4">In Chanmuniya v. Virendra Kumar Singh Kushwaha, the Supreme Court held that women in live-in relationships are entitled to claim maintenance under Section 144 of BNSS if the relationship resembles marriage in its nature and continuity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WOMEN'S RIGHTS IN LIVE-IN RELATIONSHIPS</h4>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">A. Right to Maintenance:</strong> In the US, the term "palimony" is used for granting relief in live-in relationships. The term "palimony" was conceived during a famous celebrity divorce case of "Marvin vs Marvin". The woman in a live-in relationship can take protection under Protection of Women from Domestic Violence Act, 2005 and can claim for 'maintenance' also which is held in case of D. Velusamy vs D. Patchaiammal. Similarly, in Chanmuniya v. Virendra Kumar Singh Kushwaha, the Supreme Court emphasized that a broad and liberal interpretation must be given to maintenance laws so that no woman is left destitute merely because her marriage was not legally formalized.</li>
+                            <li><strong className="text-white">B. Right to Residence:</strong> Under Section 17 of the Act, every woman in a domestic relationship has the right to reside in the shared household, whether or not she owns the property. This means that a woman living with her partner cannot be forcefully evicted without due legal process.</li>
+                            <li><strong className="text-white">C. Status of Legitimacy and Inheritance Rights Children:</strong> The apex court had upheld the legitimacy of children born out of live-in relationships in the case of Balasubramanyam v. Suruttayan. Similarly, the Supreme Court, in Tulsa v. Durghatiya, established legitimacy of children born from a live-in relationship.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SOCIAL DIMENSIONS AND WOMEN'S VULNERABILITY</h4>
+                        <p>In present India, live-in relationships have developed as an undebatable social truth, demonstrating a slight shift from traditional notions of marriage to relationships grounded on choice, companionship, and shared respect. Nevertheless, in spite of escalating urban acceptance, Indian society resumes to view such relationships through a moral and patriarchal lens. The hypothesis challenges long-established social structures that link a woman's individuality to marriage and family. Accordingly, it has resulted that women in live-in relationships frequently face discrimination, social stigma, and emotional vulnerability, even though their choices are secured under the Constitution by means of the right to life and personal liberty under Article 21.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Live-in relationships have changed into a progressively visible feature of contemporary Indian society, replicating dynamic perceptions of intimacy, personal autonomy, and family relationships. Although marriage endure to hold tough social and legal importance, the constitutional framework preserves the liberty of consenting adults to choose their partners and manner of living. Judicial interpretation of Articles 14, 15, 19, and 21 has reinforced the protection of individual choice, privacy, dignity, and personal liberty.</p>
+                        <p className="mt-4">Nevertheless, constitutional protection of cohabitation does not abruptly confer upon live-in partners all the rights and status accompanied by marriage. The Protection of Women from Domestic Violence Act, 2005, provides significant protection to women living in relationships in the nature of marriage, as well as safeguards relating to maintenance and residence. Moreover, courts have improved principles regarding the legitimacy of children and the presumption of marriage arising from prolonged cohabitation.</p>
+                        <p className="mt-4">Regardless of these developments, women perhaps continue to face social stigma, economic insecurity, discrimination and emotional vulnerability. Therefore, the law must stabilize individual autonomy with effectual protection for women and children. A logical and comprehensive legal framework is needed to narrow uncertainty, safeguard vulnerable partners, and guarantee that personal freedom is guided by suitable safeguards against exploitation.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Saloni Narula Khanna & Gagandeep Kaur, Live-in-Relationship in India: A Comparative Study 1 (2016)</li>
+                            <li>Dr. Saurabh Anand, "A Socio-Legal Analysis Of Live In Relationship: A Critical Analysis", 20 ilkogretim Online - Elementary Education Online 9006, 9029 (2021)</li>
+                            <li>"Live in Relationship Law in India" IndiaFilings</li>
+                            <li>Indra Sarma v. V.K.V. Sarma, AIR 2014 SC 309</li>
+                            <li>Lata Singh v. State of U.P., AIR 2006 SC 2522</li>
+                            <li>Alok Kumar v. State of Delhi, 2010 SCC OnLine Del 2042</li>
+                            <li>S. Khushboo v. Kanniammal, (2010) 5 SCC 600</li>
+                            <li>Hadiya (Shafin Jahan) v. Asokan K.M, (2018) 16 SCC 368</li>
+                            <li>K.S. Puttaswamy v. Union of India, AIR 2017 SC 4161</li>
+                            <li>D. Velusamy v. D. Patchaiammal, (2010) 10 SCC 469</li>
+                            <li>Badri Prasad v. Deputy Director of Consolidation, (1978) 3 SCC 527</li>
+                            <li>Tulsa v. Durghatiya, (2008) 4 SCC 520</li>
+                            <li>Chanmuniya v. Virendra Kumar Singh Kushwaha, (2011) 1 SCC 141</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aditya Tiwari.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Student B.A. LL.B(Hons.), ISDC, University of Allahabad, Prayagraj.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "FREE SPEECH VS HATE SPEECH IN INDIA : DRAWING THE CONSTITUTIONAL LINE.",
+            author: "By: Chiranthana.U.D",
+            abstract: "Freedom of speech and expression is essential to a democratic society because it enables citizens to criticize governments, express unpopular opinions, and participate in public debate. At the same time, speech can be used to promote hatred, hostility, and discrimination against groups. Indian constitutional law therefore attempts to balance individual liberty with public order, dignity and social harmony. Article 19(1)(a) guarantees freedom of speech and expression, while Article 19(2) permits reasonable restrictions on specified grounds. This article examines the legal boundary between free speech and hate speech through the Supreme Court's decisions in Shreya Singhal v. Union of India, Pravasi Bhalai Sangathan v. Union of India and Amish Devgan v. Union of India. It also considers the current criminal-law framework under the Bharatiya Nyaya Sanhita, 2023, and the problem of hate speech on social media. Finally, it analyses the Supreme Court's 2026 decision in Ashwini Kumar Upadhyay v. Union of India and argues that the solution lies neither in unrestricted speech nor excessive censorship, but in clear, proportionate and consistent enforcement of existing law.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Freedom of Speech and Its Constitutional Limits</li>
+                            <li>Understanding Hate Speech</li>
+                            <li>Judicial Approach to Free Speech and Hate Speech</li>
+                            <li>The Current Criminal-Law Framework</li>
+                            <li>The 2026 Supreme Court Development: Is There a Legislative Vacuum?</li>
+                            <li>Social Media and Censorship</li>
+                            <li>Finding the Constitutional Balance</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Few rights are as important to democracy as freedom to speak. The ability to criticize the government, question public institutions, express political opinions and challenge social practices is essential to democratic participation. However, the same freedom can also be misused to target communities, spread hostility, and promote hatred. This creates a difficult constitutional question: where should the law draw the line between protected expression and punishable hate speech?</p>
+                        <p className="mt-4">Article 19(1)(a) of the Constitution of India guarantees citizens the right to freedom of speech and expression. This right, however, is not absolute. Article 19(2) permits the State to impose reasonable restrictions on specified grounds, including sovereignty and integrity of India, security of the State, public order, decency or morality and incitement to an offence.</p>
+                        <p className="mt-4">The difficulty lies in distinguishing genuinely harmful speech from speech that is merely unpopular, controversial, or offensive. A democracy cannot function if criticism is suppressed simply because it causes discomfort. At the same time, constitutional freedom cannot become a license to deliberately promote hostility against groups.</p>
+                        <p className="mt-4">The Supreme Court's jurisprudence demonstrates that context, purpose and the nature of the harm are important in determining this boundary. The recent decision in Ashwini Kumar Upadhyay v. Union of India has added an important contemporary dimension by considering whether India's existing criminal law adequately addresses hate speech and whether courts themselves can create new criminal offences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FREEDOM OF SPEECH AND ITS CONSTITUTIONAL LIMITS</h4>
+                        <p>Freedom of speech protects more than the expression of popular opinions. Democratic discourse necessarily includes disagreement, dissent, and criticism. If only socially acceptable opinions were protected, freedom of speech would lose much of its constitutional value.</p>
+                        <p className="mt-4">At the same time, Article 19(2) establishes that the Indian Constitution does not adopt an unlimited model of free speech. Restrictions may be imposed when they fall within the constitutionally recognized grounds. Therefore, the relevant legal question is not simply whether particular speech is offensive, but whether restricting that speech is legally authorized and constitutionally justified.</p>
+                        <p className="mt-4">This principle was strongly recognized in Shreya Singhal v. Union of India. The Supreme Court struck down Section 66A of the Information Technology Act, 2000, finding that its vague and overbroad language could restrict legitimate expression and was not saved by Article 19(2).</p>
+                        <p className="mt-4">The Court made an important distinction between discussion, advocacy, and incitement. Discussion and advocacy, even unpopular ideas, receive constitutional protection. The constitutional justification for restriction becomes stronger when expression moves towards incitement.</p>
+                        <p className="mt-4">This principle remains important today. Importantly, Section 66A itself should not be presented as a current criminal provision: it was struck down by the Supreme Court and cannot be used as an enforceable offence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">UNDERSTANDING HATE SPEECH</h4>
+                        <p>There is no single comprehensive statutory definition of "hate speech" applicable to every situation in Indian criminal law. Instead, different statutory provisions address particular forms of harmful expression.</p>
+                        <p className="mt-4">In Pravasi Bhalai Sangathan v. Union of India, the Supreme Court considered hate speech in the context of its impact on individuals and groups. The judgment recognized the importance of applying hate-speech restrictions objectively and examining whether a reasonable person, aware of the relevant context and circumstances, would regard the expression as exposing a protected group to hatred.</p>
+                        <p className="mt-4">This distinction is significant. Mere disagreement is not hate speech. Mere criticism is not hate speech. Nor should every offensive statement automatically become a criminal offence. The legal concern arises when expression falls within a specific statutory prohibition or creates the type of harm recognized by the Constitution and criminal law.</p>
+                        <p className="mt-4">In Amish Devgan v. Union of India, the Supreme Court undertook a detailed examination of hate speech and observed that its constitutional and statutory treatment depends upon the values being protected, the perceived harm and the importance of that harm. The Court also recognized the difficulty of creating a universal definition of hate speech.</p>
+                        <p className="mt-4">Thus, context is crucial. The same words may have different legal consequences depending on their purpose, audience, circumstances, and likely impact.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL APPROACH TO FREE SPEECH AND HATE SPEECH</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">4.1 Shreya Singhal v. Union of India</h5>
+                        <p>Shreya Singhal remains one of India's most important free-speech decisions in the digital era. The Court's concern was that vague restrictions can create a chilling effect, causing people to avoid legitimate expression because they cannot predict what may lead to criminal liability.</p>
+                        <p className="mt-4">The discussion-advocacy-incitement distinction provides a useful constitutional test. Political criticism and advocacy cannot automatically be treated as criminals simply because some people strongly disagree with them.</p>
+                        <p className="mt-4">The case also demonstrates an important principle for social-media regulation: the existence of harmful online speech does not justify vague laws capable of capturing lawful speech as well.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4.2 Pravasi Bhalai Sangathan v. Union of India</h5>
+                        <p>Pravasi Bhalai Sangathan highlights the other side of the constitutional balance. Hate speech may marginalize people because of their membership of a particular group and may threaten social harmony. The Court considered the difficulties involved in creating an appropriate legal framework while also recognising the need for objective standards.</p>
+                        <p className="mt-4">The judgment therefore supports a middle path: harmful expression should be addressed, but restrictions should not be so broad that legitimate speech becomes vulnerable.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4.3 Amish Devgan v. Union of India</h5>
+                        <p>Amish Devgan further developed the Court's discussion of hate speech. The judgment considered the relationship between free expression, dignity, fraternity and social harmony. It emphasised that the constitutional treatment of hate speech depends upon the nature of the harm and the context in which the expression occurs.</p>
+                        <p className="mt-4">The case is particularly useful because it shows why contextual and objective analysis is preferable to a rule based solely on subjective offence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE CURRENT CRIMINAL-LAW FRAMEWORK</h4>
+                        <p>India's criminal-law framework changed with the coming into force of the Bharatiya Nyaya Sanhita, 2023 (BNS). Therefore, a current legal article should rely on the BNS rather than presenting corresponding provisions of the repealed Indian Penal Code as the present law.</p>
+                        <p className="mt-4">Section 196 BNS deals with promoting enmity between different groups on grounds including religion, race, place of birth, residence, language, caste and community. It expressly covers words, signs, visible representations, and electronic communication. The provision also addresses conduct prejudicial to the maintenance of harmony where it disturbs or is likely to disturb public tranquility.</p>
+                        <p className="mt-4">Section 197 addresses certain imputations and assertions prejudicial to national integration, including specified communications concerning groups and constitutional allegiance.</p>
+                        <p className="mt-4">Section 299 deals with deliberate and malicious acts intended to outrage the religious feelings of a class by insulting its religion or religious beliefs, including expression through electronic means.</p>
+                        <p className="mt-4">These provisions demonstrate that it would be inaccurate to state that India has no criminal law dealing with hate-related expression. However, they also demonstrate why "hate speech" cannot simply be treated as one universal offence. The prosecution must establish the ingredients of the particular statutory provision being invoked.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE 2026 SUPREME COURT DEVELOPMENT: IS THERE A LEGISLATIVE VACUUM?</h4>
+                        <p>A significant recent development is the Supreme Court's decision in Ashwini Kumar Upadhyay v. Union of India, decided on 29 April 2026.</p>
+                        <p className="mt-4">The case involved petitions concerning hate speech and rumormongering and raised questions concerning the adequacy of the legal framework and the power of courts to direct the creation or expansion of criminal offences.</p>
+                        <p className="mt-4">The Court held that courts cannot create new criminal offences or prescribe new punishments in the absence of legislative authority. Creating criminal offences is principally a legislative function. The Court also rejected the idea that there is a complete legislative vacuum concerning hate speech, pointing to existing statutory provisions capable of addressing various forms of harmful expression.</p>
+                        <p className="mt-4">This judgment is important because it changes the focus of the debate. The question is not merely whether Parliament should enact another broad hate-speech offence. It is also whether existing laws are being enforced effectively, consistently, and impartially.</p>
+                        <p className="mt-4">In my opinion, this is a sound constitutional approach. Criminal law should be precise. Expanding criminal liability whenever a new form of offensive expression appears could create laws that are vulnerable to misuse. Where existing provisions adequately cover the conduct, better enforcement and clearer application may be preferable to unnecessarily broad legislation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SOCIAL MEDIA AND CENSORSHIP</h4>
+                        <p>The internet has transformed the practical meaning of freedom of expression. A statement that once reached a small audience can now be shared with millions within minutes. This creates genuine difficulties in dealing with hate speech, misinformation, and communal hostility.</p>
+                        <p className="mt-4">The current digital framework includes the Information Technology Act, 2000 and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. The Ministry of Electronics and Information Technology continues to list the IT Rules, 2021 and the Information Technology Act, 2000 among its current legal and policy materials.</p>
+                        <p className="mt-4">Section 69A of the IT Act provides a statutory mechanism for blocking public access to specified information through computer resources. The Supreme Court in Shreya Singhal upheld Section 69A and the associated procedural safeguards while striking down Section 66A.</p>
+                        <p className="mt-4">However, regulation must not become a substitute for censorship. If every controversial post is removed merely because someone finds it offensive, legitimate political debate and dissent may suffer. Social media regulation should therefore remain connected to identifiable legal standards rather than subjective dislike.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FINDING THE CONSTITUTIONAL BALANCE</h4>
+                        <p>The best approach is neither absolute freedom nor unlimited censorship.</p>
+                        <p className="mt-4">First, there must be legality. Criminal liability should arise from an existing statutory provision whose ingredients can be established. Courts should not create new crimes merely because speech appears undesirable.</p>
+                        <p className="mt-4">Second, there must be a contextual assessment. The words, purpose, audience, and circumstances should be considered together. This is consistent with the Supreme Court's approach in Pravasi Bhalai Sangathan and Amish Devgan.</p>
+                        <p className="mt-4">Third, restrictions should be proportionate. Political criticism, satire, and unpopular opinions should not automatically be placed in the same category as expression that deliberately promotes hostility between communities or falls within a specific criminal offence.</p>
+                        <p className="mt-4">Finally, enforcement must be consistent and impartial. Hate-speech laws should apply irrespective of the political identity or social status of the speaker. Selective enforcement can undermine both the credibility of the law and public confidence in the justice system.</p>
+                        <p className="mt-4">The 2026 Ashwini Kumar Upadhyay decision makes this final point particularly significant by focusing attention on the operation and enforcement of the existing framework rather than if India has no law dealing with hate speech.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Freedom of speech is indispensable to Indian democracy, but it is not an unlimited right. Article 19(1)(a) protects discussion, criticism and advocacy, while Article 19(2) permits reasonable restrictions on constitutionally specified grounds.</p>
+                        <p className="mt-4">The Supreme Court's decisions in Shreya Singhal, Pravasi Bhalai Sangathan and Amish Devgan demonstrate the continuing effort to balance individual liberty with social harmony and protection from harmful expression.</p>
+                        <p className="mt-4">The current BNS also contains provisions addressing conduct that promotes enmity, threatens communal harmony, or deliberately insults religious beliefs. The 2026 Ashwini Kumar Upadhyay judgment further indicates that the central challenge is not necessarily the complete absence of law, but the effective and appropriate enforcement of existing provisions.</p>
+                        <p className="mt-4">Therefore, the constitutional line should not be drawn merely at the point of offence. It should be drawn where expression falls within a constitutionally permissible restriction and an applicable statutory offence. India needs enough freedom to tolerate disagreement and dissent, but also enough legal protection to respond to genuine hatred and threats to social harmony. The objective should consequently be neither unrestricted speech nor unrestricted censorship, but constitutionally disciplined freedom.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Constitution of India — Article 19</li>
+                            <li>Shreya Singhal v. Union of India (2015)</li>
+                            <li>Pravasi Bhalai Sangathan v. Union of India (2014)</li>
+                            <li>Amish Devgan v. Union of India (2020)</li>
+                            <li>Ashwini Kumar Upadhyay v. Union of India (2026) — Supreme Court judgment</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023</li>
+                            <li>Information Technology Act / IT Rules</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Chiranthana.U.D.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">KLE LAW COLLEGE, 1 BBA. LLL(Hons)</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "MARITAL RAPE AND THE CONSTITUTIONAL TEST OF BODILY AUTONOMY: RE-EVALUATING STATUTORY IMMUNITY UNDER BNS, 2023",
+            author: "By Anrill E J",
+            abstract: "The codification of India’s criminal laws through the Bharatiya Nyaya Sanhita, 2023 (BNS) presented Parliament with an opportunity to reconsider several historical assumptions embedded in penal law. Yet Exception 2 to Section 63 retains the marital rape exception, providing that sexual intercourse or sexual acts by a man with his wife, where the wife is not under eighteen years of age, do not constitute rape. This article examines the constitutional and statutory tensions created by the continued immunity.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Historical Foundations of the Marital Rape Exception</li>
+                            <li>The Statutory Position under the Bharatiya Nyaya Sanhita, 2023</li>
+                            <li>Bodily Autonomy, Privacy and Dignity under Article 21</li>
+                            <li>Equality and the Problem of Classification under Articles 14 and 15</li>
+                            <li>The Delhi High Court's Split Verdict in RIT Foundation v. Union of India</li>
+                            <li>Legislative Competence, Judicial Review and Policy Concerns</li>
+                            <li>The Institutional Argument: Does Criminalisation Threaten Marriage?</li>
+                            <li>Comparative and Constitutional Developments</li>
+                            <li>Re-Evaluating Exception 2 under the BNS</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The marital rape exception reveals the tension between historical legal doctrine and modern constitutionalism. Under the IPC, sexual intercourse by a husband with his adult wife was excluded from rape. The BNS replaced the IPC but retained the core immunity in Exception 2 to Section 63. This raises a constitutional question: can marital status justify denying a woman the criminal-law protection available against the same non-consensual sexual act outside marriage? The issue must be assessed through Articles 14, 15 and 21, particularly the constitutional recognition of privacy, dignity, bodily integrity and autonomy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORICAL FOUNDATIONS OF THE MARITAL RAPE EXCEPTION</h4>
+                        <p>The exception has roots in the common-law doctrine associated with Sir Matthew Hale, under which matrimonial consent was treated as permanently given upon marriage. It reflected the wider structure of coverture, which subordinated a married woman’s independent legal identity. Although those foundations have changed, the idea of irrevocable sexual entitlement survived in Indian law through the IPC and now the BNS. Modern constitutional law instead treats marriage as a relationship between autonomous individuals, making the continued immunity constitutionally significant.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE STATUTORY POSITION UNDER THE BHARATIYA NYAYA SANHITA, 2023</h4>
+                        <p>Section 63 of the BNS defines rape by reference to circumstances in which sexual intercourse or specified sexual acts occur without legally valid consent, including absence of consent, coercion, deception or incapacity. Exception 2 nevertheless provides that sexual intercourse or sexual acts by a man with his wife, where she is not under eighteen, are not rape. Thus, the same physical act receives different legal treatment because of marriage. Section 67 addresses specified non-consensual intercourse during separation, while Sections 85 and 115 and the Protection of Women from Domestic Violence Act, 2005 provide other remedies. These provisions do not remove the conceptual distinction created by Exception 2.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BODILY AUTONOMY, PRIVACY AND DIGNITY UNDER ARTICLE 21</h4>
+                        <p>Article 21 presents the strongest constitutional challenge. In Justice K.S. Puttaswamy (Retd.) v. Union of India, the Supreme Court recognised privacy as a fundamental right encompassing bodily integrity, autonomy and decisional freedom. Sexual autonomy follows from the ability to decide whether and with whom to participate in an intimate act. Marriage may create legal rights and obligations, but it does not logically convert consent into continuing permission. Navtej Singh Johar v. Union of India linked autonomy, intimacy and dignity and rejected majoritarian morality as a basis for restricting intimate choices. Joseph Shine v. Union of India likewise rejected a patriarchal conception of marriage that subordinates the wife. Together, these decisions support the proposition that marriage does not extinguish constitutional personhood. A rule that denies legal recognition to a married woman’s refusal therefore raises a direct Article 21 concern.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EQUALITY AND THE PROBLEM OF CLASSIFICATION UNDER ARTICLES 14 AND 15</h4>
+                        <p>Exception 2 also raises an Article 14 classification issue. An unmarried woman who refuses intercourse is protected by the general rape provision, while an adult cohabiting wife cannot invoke Section 63 against her husband merely because the same act occurred within marriage. A wife living separately occupies a different position because Section 67 addresses specified non-consensual intercourse. The key question is whether marital status bears a rational connection to the objective of protecting bodily integrity and deterring non-consensual sexual conduct. Marriage does not reduce the physical invasion or automatically transform refusal into consent. The gendered framing of the exception, which privileges the husband’s sexual position, further strengthens concerns under Articles 14 and 15.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE DELHI HIGH COURT'S SPLIT VERDICT IN RIT FOUNDATION V. UNION OF INDIA</h4>
+                        <p>In RIT Foundation v. Union of India, a Delhi High Court Division Bench delivered a split judgment in 2022. Justice Rajiv Shakdher held the marital rape exception unconstitutional, placing consent and sexual autonomy at the centre of the analysis and finding the distinction between married and unmarried women impermissible. Justice C. Hari Shankar upheld the exception, giving greater weight to the distinctive nature of marriage, expectations of sexual relations, Parliament’s role in creating offences, evidentiary difficulties and possible misuse. The split reflects two competing approaches: one treats consent as an individual right unaffected by marital status; the other gives greater weight to marriage as an institution and legislative competence. The constitutional task is to balance these concerns without allowing the social importance of marriage to justify denial of fundamental rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGISLATIVE COMPETENCE, JUDICIAL REVIEW AND POLICY CONCERNS</h4>
+                        <p>Parliament has an important role in defining offences, evidentiary rules and punishment, and it may argue that comprehensive reform should be legislative. However, legislative competence does not place criminal legislation beyond constitutional review. Courts must examine compatibility with fundamental rights. Evidentiary difficulties within marriage are real, but difficulty of proof is not equivalent to absence of criminality. Offences committed in private settings are already addressed through investigative and trial safeguards. Likewise, the possibility of false accusations is not unique to marital offences; the burden of proof and judicial scrutiny provide safeguards. These concerns may inform procedure and policy but do not, by themselves, establish the need for categorical immunity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE INSTITUTIONAL ARGUMENT: DOES CRIMINALISATION THREATEN MARRIAGE?</h4>
+                        <p>Protection of marriage is a principal policy argument for retaining the exception. Critics of criminalisation contend that ordinary rape law could increase litigation, intensify marital conflict and affect family stability. The argument, however, assumes that recognition of non-consensual sex is incompatible with marriage. Criminal and civil law already recognises wrongdoing between spouses through remedies for cruelty, domestic violence and maintenance. The constitutionally stronger distinction is between protecting marriage and protecting marital privilege. The state may support families and reconciliation, but these objectives cannot require an individual to surrender control over her body. Marriage should rest on mutual consent and respect, not legally enforceable sexual entitlement.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">COMPARATIVE AND CONSTITUTIONAL DEVELOPMENTS</h4>
+                        <p>Comparative developments show that marital rape immunity is not immutable. Numerous jurisdictions have removed marital exemptions and recognised that marriage does not constitute permanent consent. This international movement reflects broader understandings of equality, bodily integrity and sexual autonomy. Indian constitutional interpretation has similarly moved toward substantive dignity and autonomy. Decisions concerning privacy, sexual orientation, adultery and reproductive and intimate choices show that constitutional rights do not disappear merely because conduct occurs within marriage. Foreign models need not be transplanted automatically; their significance is that they reinforce the domestic principle that legal status alone cannot justify denial of bodily autonomy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RE-EVALUATING EXCEPTION 2 UNDER THE BNS</h4>
+                        <p>Exception 2 creates three principal constitutional tensions. First, it creates a consent paradox: Section 63 is structured around absence or invalidity of consent, yet the exception removes marital sexual acts from the rape framework irrespective of refusal. Second, it creates an equality problem by attaching different legal consequences to materially similar conduct based on marital status. Third, it creates an autonomy problem because a married woman’s refusal receives a different legal value from that of an unmarried woman. The constitutional challenge does not require ignoring the special nature of marriage. It requires recognising marriage as a relationship between constitutional persons whose rights and obligations operate within the Constitution.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The retention of Exception 2 to Section 63 continues a colonial legal approach that treated marriage as a source of irrevocable sexual consent. Contemporary constitutional jurisprudence has changed the premises underlying that doctrine. Articles 14, 15 and 21 place equality, dignity, bodily integrity and personal autonomy at the centre of intimate relationships. Puttaswamy, Navtej Singh Johar and Joseph Shine reinforce the proposition that constitutional personhood does not disappear upon marriage, while RIT Foundation demonstrates that legislative competence and the institutional character of marriage remain contested considerations. Nevertheless, marriage cannot by itself amount to permanent consent. Protecting marriage should not require denying legal recognition to sexual violence within it. Whether reform occurs through judicial review or legislative amendment, the governing principle should be that consent is individual, continuing and revocable.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Bipin Chandra Jaisinghbhai Shah v. Prabhavati, AIR 1957 SC 176.</li>
+                            <li>Independent Thought v. Union of India, (2017) 10 SCC 800.</li>
+                            <li>Joseph Shine v. Union of India, (2019) 3 SCC 39.</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                            <li>P.K. v. S.M., 2026:MPHC-JBP:52390.</li>
+                            <li>RIT Foundation v. Union of India, 2022 SCC OnLine Del 1404.</li>
+                            <li>Samar Ghosh v. Jaya Ghosh, (2007) 4 SCC 511.</li>
+                            <li>State of Karnataka v. Krishnappa, (2000) 4 SCC 75.</li>
+                            <li>Sureshta Devi v. Om Prakash, (1992) 1 SCC 27.</li>
+                            <li>Law Commission of India. (2000). 172nd Report on Review of Rape Laws. Ministry of Law and Justice, Government of India.</li>
+                            <li>Justice Verma Committee. (2013). Report of the Committee on Amendments to Criminal Law. Government of India.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023), §§ 63, 67, 85, 115.</li>
+                            <li>Constitution of India, 1950, arts. 14, 15 and 21.</li>
+                            <li>Indian Penal Code, 1860 (Act No. 45 of 1860), §§ 375, 497, 498A.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Anrill E J.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Saveetha School of Law / BA LLB(Hons)</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Defining the indefensible: Regulation of hate speech a balancing act even the world's largest democracy cannot escape.",
+            author: "By: Cailen Edwin Mark",
+            abstract: "Article 19(1)(a) of the Constitution of India is tested and scrutinised by an increasing prevalence of viral hate speech, social media censorship, and the persistent deployment of archaic sedition laws. The risk of dismissing legitimate dissent borne from an over-bearing regulation, and threats to public order and social cohesion borne from under-regulation make the quest for striking a balance an integral task to the survival of Indian democracy and therein manifests the legal issue.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Digital Frontier: Social Media Platforms and State-Enforced Censorship</li>
+                            <li>Weapons of State: The Colonial Legacy of Sedition vs. Democratic Dissent</li>
+                            <li>Drawing the Line: Hate Speech Regulation and the Horizontal Effect of Rights</li>
+                            <li>The Balance of Power: National Security, Proportionality, and the Right to Inform</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Article 19(1)(a) of the Constitution of India is tested and scrutinised by an increasing prevalence of viral hate speech, social media censorship, and the persistent deployment of archaic sedition laws. The risk of dismissing legitimate dissent borne from an over-bearing regulation, and threats to public order and social cohesion borne from under-regulation make the quest for striking a balance an integral task to the survival of Indian democracy and therein manifests the legal issue.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE DIGITAL FRONTIER: SOCIAL MEDIA PLATFORMS AND STATE-ENFORCED CENSORSHIP</h4>
+                        <p>The boundaries of free expression in India have been tested by a surge on dissent on public platforms and social media, something so prevalent it is even described as the battlegrounds on which state-enforced censorship has become most important. At the heart of this modern legal tension sits the landmark ruling in Shreya Singhal v. Union of India (2015), where the Supreme Court struck Section 66A of the Information Technology Act down. This statutory provision had granted law enforcement, what was deemed, overbroad and vague powers to arrest individuals for posting "offensive" online content, effectively creating a severe chilling effect that silenced legitimate digital dissent.</p>
+                        <p className="mt-4">S66A being invalidated, was an act by the judiciary that set a precedent entitling online speech the same robust constitutional protections as traditional media under Article 19(1)(a). The Court clarified that speech can only be restricted if it directly incites violence or clear public disorder, a hard legal distinction between mere discussion, advocacy, and actual incitement was drawn.</p>
+                        <p className="mt-4">In spite of this progressive precedent being set, the State's regulatory framework continues to be tested by the ever-growing prevalence of viral hate speech. The strategic deployment of archaic sedition laws and platform takedown orders has not had a wholesale elimination of the persistent threat of state overreach. Consequently, an uphill battle is placed before this decision. Attempts have frequently been made by the government to circumvent the restrictions placed by this ruling by compel compliance through the strategic use of intermediary. Balancing the prevention of digital public disorder with protection of online democratic discourse, accordingly, remains a critical test for Indian democracy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WEAPONS OF STATE: THE COLONIAL LEGACY OF SEDITION VS. DEMOCRATIC DISSENT</h4>
+                        <p>One of the most potent weapons of state overreach is the exploitation of sedition law that directly threaten the democratic dissent protected under Article 19(1)(a). The case of Kedar Nath Singh v. State of Bihar (1962) is where this issue is born from. The constitutional validity of Section 124A of the Indian Penal Code was reaffirmed by this integral case, its scope however, was strategically confined to prevent it from becoming an instrument of totalitarian censorship.</p>
+                        <p className="mt-4">An integral line was drawn between strong, even passionate, criticism of the government and acts that actively incite public disorder or violence. Under this precedent, a citizen's speech is constitutionally protected bar an implicit or explicit tendency to create public disorder or involve the incitement of violence against the state. Permitting the state to silence peaceful, legitimate dissent under the guise of national security would ultimately result in a precedent that has not applied in ways that allowed it to achieve its ultimate purpose.</p>
+                        <p className="mt-4">Despite this clear judicial limitation, colonial sedition laws continue to burden the Indian Constitution. The law is regularly misapplied by the modern state, using it as a tool to suppress political opposition, journalists, and activists, at the expense of genuine threats to public order not being prioritised. Peaceful protest and systemic critique being mislabelled as existential threats results in the under-regulated application of Section 124A, the social cohesion it claims to protect is neglected, enforcing the strict boundaries of Kedar Nath Singh has thus proved vital for its survival.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DRAWING THE LINE: HATE SPEECH REGULATION AND THE HORIZONTAL EFFECT OF RIGHTS</h4>
+                        <p>A fundamental shift in the application of constitutional law has materialised from the persistently enlarging prevalence hate speech on digital platforms, challenging the framework given for "free speech" regulation under Article 19(1)(a). Previously it was understood that fundamental rights were required to behave as umbrellas against state overreach. The minutiae of this dynamic were challenged by the Supreme Court of India in Kaushal Kishore v. State of Uttar Pradesh (2023). The Bench herein held that fundamental rights under Articles 19 and 21 can be enforced horizontally against private individuals and non-state actors. What would appear on a surface level to be a minor shift means that citizens can hold private entities, including digital platforms and algorithmic systems, directly accountable for constitutional violations. Consequently, the judiciary acknowledged that modern threats to democratic discourse and social cohesion frequently emerge or at least hold the threat of stemming from non-state actors weaponizing speech.</p>
+                        <p className="mt-4">Regulating this space still demands a careful balancing act to prevent an adverse effect on legitimate dissent. Pravasi Bhalai Sangathan v. Union of India (2014) plays an interesting role in clarifying the lines in which the court must operate to achieve this purpose. The Supreme Court herein highlighted the potential for and relied on the existence of societal harms that had materialised as a result of hate speech, pointing to its history of harming vulnerable communities and fractures public order. While the Court declined to enact judicial legislation, the Law Commission of India implored to draft specific regulatory criteria. The Court emphasized that hate speech should not be dismissed as mere offense; it seeks to delegitimize the targeted group, directly threatening social cohesion.</p>
+                        <p className="mt-4">The Pravasi Bhalai Sangathan case defines the systemic threat that under-regulation poses to a diverse democracy, while the Kaushal Kishore case provides the constitutional mechanism to enforce accountability across the modern digital landscape, an interesting dynamic is created when they are considered together. Striking this ultimate balance remains the central imperative for the survival of Indian democracy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE BALANCE OF POWER: NATIONAL SECURITY, PROPORTIONALITY, AND THE RIGHT TO INFORM</h4>
+                        <p>In Anuradha Bhasin v Union of India (2020) the tension between national security and freedom of expression is underscored, the Supreme Court of India herein confronted the constitutional implications of restrictions imposed on communication in Jammu and Kashmir. On 5 August 2019, restrictions on internet access, alongside limitations on movement and communication were brought into effect by the Government. journalists and news organisations, including Kashmir Time, were hindered in their ability to carry out their services. Article 19(1)(a) was placed at the intersection of national security, public order and the public's right to receive information.</p>
+                        <p className="mt-4">Freedom of speech and expression extending to the medium through which that speech is communicated were both acknowledged by the court. Access to the internet being recognised as constitutionally significant where it facilitates the exercise of Article 19(1)(a), particularly for journalists and the press was the coherent conclusion drawn hereon. The Court did not treat this right as unilateral. Where they satisfy the requirements of Article 19(2), including considerations of security and public order, restrictions held the potential for legal justification.</p>
+                        <p className="mt-4">The Court subjected governmental restrictions to the principle of proportionality. Restrictions on fundamental rights were placed under legal compulsion to not be broader than necessary to achieve what would in such cases be argued as legitimate governmental objective. Demonstrating that restrictions were necessary, suitable and proportionate to the threat identified was a burden allocated to the state. Indefinite suspension of internet services was, in light of this determination, deemed incompatible with constitutional standards, as the State could not exercise national-security powers in the absence of proven meaningful temporal and legal limits.</p>
+                        <p className="mt-4">The delicate balance identified in this article is illustrated herein: protecting national security cannot be misused as a justification for suppressing inconvenient information or legitimate dissent. Constitutional democracy burdens governmental restrictions on communication to remain legally justified, transparent and proportionate. With digital platforms growing increasingly foundational to both political participation and journalism, the judgment provides an important guideline against transforming national security from a legitimate constitutional limitation into an unrestricted power to control public discourse.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The difficulty of maintaining constitutional supremacy in the world's largest democracy remains an administrative hurdle for the state and the courts, as demonstrated in this article. A fundamental foundation for democratic participation is established in Article 19(1)(a), and yet the examined cases demonstrate that this freedom cannot exist without reasonable limitations. The Shreya Singhal case establishes the importance of protecting legitimate online expression from unclear and insufficiently elaborated restrictions, while the Kedar Nath Singh case illustrates the need to distinguish genuine incitement from criticism of government. The Pravasi Bhalai Sangathan case recognises that hate speech can produce tangible consequences for vulnerable communities and social cohesion, demonstrating the dangers of under-regulation.</p>
+                        <p className="mt-4">The ever-growing prevalence of social media platforms have manifested the need for these principles to be evaluated and built upon. The Kaushal Kishore case reflects the growing significance of accountability beyond traditional state action, while the Anuradha Bhasin case reinforces proportionality as an essential safeguard against excessive governmental restrictions. Taken together, these authorities suggest that neither unrestricted speech nor expansive state control provides an adequate constitutional solution. The survival of democratic discourse in India is in essence, incumbent, not merely on protecting the right to speak, but on ensuring that attempts to regulate speech remain contextually appropriate to prevent the suppression of legitimate dissent.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Legislation</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Constitution of India art. 19 & 21</li>
+                            <li>Information Technology Act 2000 (India), s 66.</li>
+                            <li>Indian Penal Code, s 124A.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Cases</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Anuradha Bhasin v. Union of India, 1 N. V. Ramana 1308 (Supreme Ct. India 2020).</li>
+                            <li>Kaushal Kishor v. State of Uttar Pradesh, 1 Supreme Ct. India Reporter 4 (Supreme Ct. India 2020).</li>
+                            <li>Kedar Nath Singh v. State of Bihar, 2 Bhuvneshwar P. Sinha (Supreme Ct. India 1962).</li>
+                            <li>Pravasi Bhalai Sangathan v. Union of India & Ors, 11 B.S. Chauhan 447 (Supreme Ct. India 2014).</li>
+                            <li>Shreya Singhal v. Union of India, Supreme Ct. India Reporter 1523 (Supreme Ct. India 2015).</li>
+                        </ul>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Cailen Edwin Mark.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Bachelor of Laws</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "SAME-SEX MARRIAGE, FUNDAMENTAL RIGHTS, AND JUDICIAL POWER IN INDIA",
+            author: "By TSHETSANA RITA RAMODIKO",
+            abstract: "The debate surrounding same-sex marriage in India extends beyond the institution of marriage itself. It concerns the constitutional protection of dignity, judicial interpretation of rights, and the determination of whether societal change is the prerogative of the judiciary or Parliament. LGBTQ+ individuals in India were historically criminalized under Section 377 of the Indian Penal Code. This changed in 2018 when the Supreme Court decriminalized homosexuality in Navtej Singh Johar v. Union of India. Following this decision, advocacy shifted towards seeking legal recognition of same-sex relationships.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Is Marriage a Fundamental Right?</li>
+                            <li>Supriyo v. Union of India and the Judgment</li>
+                            <li>Judicial Restraint and the Limits of Court Power</li>
+                            <li>LGBTQ+ Rights and Existing Family Laws</li>
+                            <li>How Other Countries Have Handled This</li>
+                            <li>Analysis</li>
+                            <li>The Way Forward</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The debate surrounding same-sex marriage in India extends beyond the institution of marriage itself. It concerns the constitutional protection of dignity, judicial interpretation of rights, and the determination of whether societal change is the prerogative of the judiciary or Parliament.</p>
+                        <p className="mt-4">LGBTQ+ individuals in India were historically criminalized under Section 377 of the Indian Penal Code. This changed in 2018 when the Supreme Court decriminalized homosexuality in Navtej Singh Johar v. Union of India. Following this decision, advocacy shifted towards seeking legal recognition of same-sex relationships.</p>
+                        <p className="mt-4">In 2023, this question came before a 5-judge bench in Supriyo @ Supriya Chakraborty v. Union of India. The Court had to answer two questions. First, is there a fundamental right to marry? Second, can courts recognize same-sex marriage, or is that for Parliament?</p>
+                        <p className="mt-4">On 17 October 2023, the Court said no to legal recognition through a judicial order. But it did affirm protection from discrimination and harassment. This article looks at that judgment, the idea of marriage as a right, and how it interacts with India's family laws.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IS MARRIAGE A FUNDAMENTAL RIGHT?</h4>
+                        <p>The Constitution does not mention marriage. The claim is built on Articles 14, 15, 19 and 21. Article 21 protects life, dignity, and autonomy. In Puttaswamy, the Court held that privacy includes the right to choose a partner. In Navtej, it said sexual orientation is part of that autonomy. The argument is simple: if you can choose a partner, the State should also recognize that choice.</p>
+                        <p className="mt-4">Article 14 demands equality. Married heterosexual couples get hundreds of legal benefits - tax, inheritance, insurance, medical decisions. Denying these to same-sex couples is unequal treatment.</p>
+                        <p className="mt-4">Article 15 prohibits discrimination on the ground of sex. In Navtej, the Court read "sex" to include "sexual orientation."</p>
+                        <p className="mt-4">The Union's response was different. It said marriage is not in the Constitution. It is created by statutes like the Hindu Marriage Act 1955 and Special Marriage Act 1954. All of them use the words "man" and "woman." Changing this means changing many laws. That is a job for Parliament, not courts.</p>
+                        <p className="mt-4">So, the core issue was this: should the Court read marriage into the Constitution, or should it wait for Parliament to act?</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUPRIYO V. UNION OF INDIA AND THE JUDGMENT</h4>
+                        <p>The 5-judge bench gave its verdict on 17 October 2023. There were 4 opinions.</p>
+                        <p className="mt-4">The majority of 4 judges held that there is no fundamental right to marry under the Constitution. Marriage is a legal status created by law. Courts cannot rewrite the Special Marriage Act to replace "man and woman" with "person." That would be legislation. The Court also refused to order the creation of civil unions.</p>
+                        <p className="mt-4">But the judgment was not entirely negative. The Court unanimously said that LGBTQ+ persons cannot face discrimination. Police cannot harass same-sex couples. Adults have the right to choose a partner and live together. States were asked to set up helplines and safe houses for queer persons facing violence from family.</p>
+                        <p className="mt-4">The dissent by CJI Chandrachud took a different view. He held that the right to marry is part of Article 21. The Constitution is meant to transform society. He suggested reading "spouse" in a gender-neutral way in the Special Marriage Act. Without this, he said, we create a "separate but unequal" system.</p>
+                        <p className="mt-4">Because it was 4:1, the majority view became law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL RESTRAINT AND THE LIMITS OF COURT POWER</h4>
+                        <p>Supriyo is important because it draws a line on what courts can do.</p>
+                        <p className="mt-4">The majority gave three reasons for restraint. First, separation of powers. Marriage involves social, religious and economic issues. Parliament is better placed to debate and decide. Second, institutional capacity. Recognizing same-sex marriage would affect tax, succession, adoption and all personal laws. A court cannot redesign the whole system in one case. Third, the text of the law. Statutes repeatedly use "bride" and "bridegroom." To read them as neutral would go beyond interpretation.</p>
+                        <p className="mt-4">Critics say this is too cautious. The Court has changed social institutions before. In Shayara Bano it struck down triple talaq. In Joseph Shine it struck down adultery. In Navtej it read down Section 377. The majority's answer was that those cases involved criminal law. Marriage requires the State to positively recognize a relationship.</p>
+                        <p className="mt-4">So Supriyo sets this rule: courts will protect people from discrimination. But for creating new legal structures like marriage, courts will defer to Parliament.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LGBTQ+ RIGHTS AND EXISTING FAMILY LAWS</h4>
+                        <p>India does not have one family law. Hindus, Muslims, Christians and Parsis each have their own laws on marriage. All of them assume marriage is between a man and a woman. If the Court had recognized same-sex marriage, it would have to answer difficult questions. Which personal law would apply? How would divorce and maintenance work? How would inheritance work under the Hindu Succession Act or Muslim law? The Court avoided this by not recognizing marriage.</p>
+                        <p className="mt-4">But it did say that discrimination must end. Hospitals cannot deny treatment to a partner. Police cannot harass live-in couples.</p>
+                        <p className="mt-4">The result is a gap. Socially, queer couples can live together. Legally, they still cannot jointly adopt, inherit automatically, or be nominees without separate documents. Adoption under CARA is still limited to married couples and single persons. Scholars have called this a "half-victory." Dignity was affirmed, but legal equality in family matters was left for later.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HOW OTHER COUNTRIES HAVE HANDLED THIS</h4>
+                        <p>In the US, the Supreme Court in Obergefell v. Hodges addressed whether state bans on same-sex marriage violated the 14th Amendment. The Court ruled that denying marriage to same-sex couples violated both Due Process and Equal Protection. Same-sex marriage was legalized nationwide with immediate effect. The judgement settled the issue as a constitutional right, removing it from state-by-state politics.</p>
+                        <p className="mt-4">In South Africa, the Constitutional Court in Fourie examined whether excluding same-sex couples from marriage violated the rights to equality and dignity under Sections 9 and 10 of the Constitution. The Court unanimously held that the exclusion was unconstitutional as it branded gay and lesbian couples as unequal. The Court gave Parliament time to amend the Marriage Act. It warned that if Parliament failed, the word “spouse” would be read into the law and Parliament enacted the law.</p>
+                        <p className="mt-4">The Fourie model shows a viable middle path. By declaring the exclusion unconstitutional but suspending the remedy, the South African Court protected rights immediately while respecting the legislature's role. Obergefell shows what full judicial recognition looks like.</p>
+                        <p className="mt-4">India has chosen to wait for Parliament. The Court invited Parliament to consider a law. So far, no bill has been introduced.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS</h4>
+                        <p>Was Supriyo correct?</p>
+                        <p className="mt-4">The majority is right that marriage in India is tied to many statutes and customs. A court order could have created confusion. It is also true that major social change is more stable when it comes through legislation and public debate. The dissent is also right that rights should not depend on waiting for Parliament. If 1000 benefits flow from marriage, denying them causes real harm today. "Let Parliament decide" can also mean indefinite delay. Both have merit, Courts should not legislate, but when a marginalized group faces daily exclusion from law, waiting for Parliament can mean years of harm. Therefore, it is legally sound but socially cautious meaning the Court protected dignity but avoided transformative equality</p>
+                        <p className="mt-4">A middle path was possible. The Court could have declared the exclusion from the Special Marriage Act unconstitutional and given Parliament time to amend Therefore, it could have issued interim directions to permit registration of such marriages to prevent immediate hardship. This approach would have balanced judicial restraint with constitutional protection, ensuring that fundamental rights were not left unremedied while respecting the legislative domain. It did something similar in Vishaka for sexual harassment. The Vishaka model demonstrates that the Judiciary can address a legal vacuum without usurping legislative power by providing temporary relief and prompting legislative action. Applying a similar framework in Supriyo would have offered immediate legal recognition and social legitimacy to queer couples, while still leaving the final structure of marriage law to Parliament. That respects both separation of powers and the need to protect rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE WAY FORWARD</h4>
+                        <p>The next step is with Parliament. Three options exist.</p>
+                        <p className="mt-4">First, amend the Special Marriage Act to make it gender-neutral. This would not interfere with religious marriage.</p>
+                        <p className="mt-4">Second, pass a new Civil Union Act that gives all marriage benefits.</p>
+                        <p className="mt-4">Third, even without a new law, the government can extend administrative benefits like nomination and joint accounts to same-sex partners.</p>
+                        <p className="mt-4">If nothing happens, the issue will come back to court through new petitions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Supriyo v. Union of India did not grant the right to marry. But it did something important. It said LGBTQ+ persons have dignity and must be protected from discrimination. The judgment drew a clear line. Courts will protect negative rights. For positive rights that need new laws, Parliament must act. The Constitution promises equality. The Court has said that promise includes queer persons. Now it is for Parliament to give that promise legal form. Until then, many couples in India will continue to live together, build families, and wait for the law to recognize what already exists in their lives.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Cases</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Joseph Shine v Union of India (2019) 3 SCC 39</li>
+                            <li>Justice K.S. Puttaswamy v Union of India (2017) 10 SCC 1</li>
+                            <li>Minister of Home Affairs v Fourie 2006 (1) SA 524 (CC)</li>
+                            <li>Navtej Singh Johar v Union of India (2018) 10 SCC 1</li>
+                            <li>Obergefell v Hodges 576 US 644 (2015)</li>
+                            <li>Shayara Bano v Union of India (2017) 9 SCC 1</li>
+                            <li>Supriyo @ Supriya Chakraborty v Union of India (2023) 14 SCC 1</li>
+                            <li>Vishaka v State of Rajasthan (1997) 6 SCC 241</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Legislation</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Constitution of India 1950</li>
+                            <li>Hindu Marriage Act 1955</li>
+                            <li>Indian Penal Code 1860</li>
+                            <li>Indian Succession Act 1925</li>
+                            <li>Special Marriage Act 1954</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Books</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Bhatia G, The Transformative Constitution: A Radical Biography in Nine Acts (HarperCollins 2019)</li>
+                            <li>Sathe SP, Judicial Activism in India: Transgressing Borders and Enforcing Limits (2nd edn, OUP 2003)</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Journal Articles</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Arvind TT and Khaitan N, 'Judicial Power and the Supreme Court' (2020) 11 NUJS Law Review 1</li>
+                            <li>Choudhry S, 'How Many Ways Can a Constitution Be Transformative? The Indian Case' (2021) 19 International Journal of Constitutional Law 1123</li>
+                            <li>Menon N, 'Living by the Constitution: The Politics of Same-Sex Marriage in India' (2023) 58 Economic and Political Weekly 12</li>
+                        </ul>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by TSHETSANA RITA RAMODIKO.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">LAW AND PUBLIC ADMINISTRATION</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Marriage and the Limits of Consent: Can India’s Marital Rape Exception Survive Constitutional Scrutiny?",
+            author: "By Olorato Belinda Buru",
+            abstract: "The marital rape exception remains one of the most contested questions in Indian criminal law. Although the Bharatiya Nyaya Sanhita 2023 (‘BNS’) replaced the Indian Penal Code 1860 (‘IPC’), it retained an exception excluding sexual intercourse or sexual acts by a man with his own wife, where the wife is not under eighteen years of age, from the offence of rape. This creates a significant constitutional question because the BNS otherwise places voluntary agreement at the centre of sexual consent. The Supreme Court is currently examining challenges to the marital rape exception and has indicated that it will consider both its constitutional validity and whether a husband can be prosecuted for rape while the exception remains legally operative. This article examines the exception through Articles 14 and 21 of the Constitution, focusing on equality, dignity and bodily autonomy. It argues that marriage cannot operate as permanent consent to sexual intercourse. However, it also argues that the Supreme Court must distinguish between striking down an unconstitutional statutory exception and creating a new criminal offence through judicial interpretation. The issue therefore requires a balance between constitutional protection of individual autonomy and the principle of separation of powers.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Marital Rape Exception Under Indian Law</li>
+                            <li>Marriage and Constitutional Autonomy</li>
+                            <li>The Delhi High Court Split</li>
+                            <li>The BNS: A New Code but an Old Controversy</li>
+                            <li>The Supreme Court’s 2026 Proceedings</li>
+                            <li>Judicial Review or Judicial Legislation?</li>
+                            <li>Does Marriage Justify Different Treatment?</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Few questions in contemporary Indian criminal law reveal the tension between social tradition and constitutional liberty as clearly as the treatment of non-consensual sexual intercourse within marriage. Indian law recognises rape as a serious violation of bodily autonomy, yet it continues to distinguish between sexual violence committed within and outside marriage.</p>
+                        <p className="mt-4">Under Section 63 of the BNS, rape is defined through specified sexual acts committed in circumstances including the absence of consent. The provision also contains Exception 2, which states that sexual intercourse or sexual acts by a man with his own wife, where the wife is not under eighteen years of age, do not constitute rape. The BNS therefore replaced the IPC but retained the central legal protection granted to husbands in relation to adult wives.</p>
+                        <p className="mt-4">This raises a fundamental constitutional question: can marriage provide a sufficient legal justification for treating non-consensual sexual intercourse differently from the same conduct outside marriage?</p>
+                        <p className="mt-4">The question has become particularly important because the Supreme Court is now examining the marital rape exception. In September 2026, the Court indicated that it would consider both whether the exception is constitutionally valid and whether a husband can be prosecuted for rape if the exception remains in force. The controversy therefore involves not only women's bodily autonomy but also criminal legality, judicial review and the limits of judicial power.</p>
+                        <p className="mt-4">This article argues that the marital rape exception is constitutionally vulnerable because marriage does not extinguish bodily or sexual autonomy. However, any judicial remedy must carefully respect the distinction between constitutional adjudication and legislative creation of criminal liability.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE MARITAL RAPE EXCEPTION UNDER INDIAN LAW</h4>
+                        <p>The marital rape exception has its origins in Section 375 of the IPC. The original exception excluded sexual intercourse by a man with his own wife from the definition of rape, subject to an age limitation. In Independent Thought v Union of India, the Supreme Court considered the constitutional implications of the exception in relation to married girls between fifteen and eighteen years of age.</p>
+                        <p className="mt-4">The Court held that the distinction between married and unmarried girls in this age group could not be sustained and read the exception consistently with the statutory age of eighteen. Importantly, however, the Court expressly left open the question of marital rape involving adult women.</p>
+                        <p className="mt-4">The BNS has now placed the age at eighteen directly within Exception 2 to Section 63. Consequently, while the protection for children has been strengthened, the legal position concerning adult married women remains substantially unchanged.</p>
+                        <p className="mt-4">The problem is particularly striking because Section 63 otherwise recognises consent as an important element of sexual autonomy. Consent must involve an unequivocal voluntary agreement, communicated through words, gestures or other forms of communication. Yet the marital exception means that the absence of such consent does not necessarily result in the offence of rape where the accused is the woman's husband.</p>
+                        <p className="mt-4">The law therefore recognises consent while simultaneously creating a relationship-based exception to its criminal consequences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MARRIAGE AND CONSTITUTIONAL AUTONOMY</h4>
+                        <p>The constitutional challenge cannot be examined solely through criminal law. It must also be understood through the development of Articles 14 and 21.</p>
+                        <p className="mt-4">Article 14 guarantees equality before the law and equal protection of the laws. Article 21 protects life and personal liberty. Over time, the Supreme Court has interpreted these provisions broadly to protect dignity, privacy and personal autonomy.</p>
+                        <p className="mt-4">In Justice KS Puttaswamy (Retd) v Union of India, the Supreme Court recognised privacy as a constitutionally protected right under Article 21. The judgment connected privacy with personal autonomy and the ability of individuals to make fundamental decisions concerning their bodies and personal lives.</p>
+                        <p className="mt-4">Similarly, in Joseph Shine v Union of India, the Supreme Court rejected a patriarchal conception of marriage in which a woman's individuality could be subordinated to her husband's interests. The Court emphasised dignity, equality and individual autonomy within marriage.</p>
+                        <p className="mt-4">Although Joseph Shine concerned the criminalisation of adultery rather than marital rape, its constitutional reasoning is relevant. If marriage does not result in the surrender of one spouse's constitutional identity to the other, it becomes difficult to justify the assumption that marriage creates permanent consent to sexual intercourse.</p>
+                        <p className="mt-4">Marriage may create mutual responsibilities, but it cannot reasonably be treated as permanent consent.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE DELHI HIGH COURT SPLIT</h4>
+                        <p>The constitutional controversy became particularly visible in the Delhi High Court's 2022 split decision in RIT Foundation v Union of India. The judges reached different conclusions concerning the constitutionality of the marital rape exception.</p>
+                        <p className="mt-4">Justice Rajiv Shakdher considered the exception unconstitutional, emphasising equality, dignity and bodily autonomy. On this approach, the marital relationship could not justify depriving a woman of the criminal-law protection available to other victims of non-consensual sexual intercourse.</p>
+                        <p className="mt-4">Justice C Hari Shankar reached the opposite conclusion and upheld the exception. His reasoning raised an important institutional concern: removing the exception could effectively expand the scope of criminal liability and thereby raise questions about whether the judiciary would be creating, rather than interpreting, criminal law.</p>
+                        <p className="mt-4">The split is significant because it captures the central difficulty facing the Supreme Court. One approach begins with constitutional rights: if bodily autonomy belongs to an individual, marriage cannot remove it.</p>
+                        <p className="mt-4">The other begins with institutional competence: Parliament has defined the offence and deliberately created an exception, so courts should be cautious about altering criminal liability.</p>
+                        <p className="mt-4">Neither concern can simply be dismissed.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE BNS: A NEW CODE BUT AN OLD CONTROVERSY</h4>
+                        <p>The introduction of the BNS provided Parliament with an opportunity to reconsider the marital rape exception. Instead, Exception 2 to Section 63 retained it for adult wives.</p>
+                        <p className="mt-4">This continuity is important. The question is no longer simply whether the old IPC exception was constitutional. The same fundamental distinction has been incorporated into India's new principal criminal statute.</p>
+                        <p className="mt-4">The BNS therefore creates an interesting legal tension. On one hand, it expressly recognises voluntary consent as central to the law of rape. On the other, it removes certain marital sexual acts from the offence even where the wife does not voluntarily agree.</p>
+                        <p className="mt-4">The distinction based on marital status must therefore be justified under Article 14.</p>
+                        <p className="mt-4">The State may argue that marriage is a unique legal relationship and that criminalising marital rape could have consequences for family life, evidentiary standards and misuse of criminal law. These are legitimate policy concerns. However, a legitimate governmental objective does not automatically make every classification constitutional.</p>
+                        <p className="mt-4">The central question should be whether excluding non-consensual sexual intercourse from the offence of rape is a constitutionally proportionate means of protecting marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE SUPREME COURT'S 2026 PROCEEDINGS</h4>
+                        <p>The current Supreme Court proceedings have added a further dimension to the debate. On 9 September 2026, the Court indicated that it would examine whether prosecution for marital rape can proceed if the statutory exception remains valid and whether the exception itself is constitutionally sustainable.</p>
+                        <p className="mt-4">The first question is particularly important because criminal offences must have a clear legal basis. Article 20(1) protects individuals from conviction under a law that did not constitute the offence at the relevant time. The Court must therefore consider whether allowing prosecution despite an express statutory exception would be consistent with the principle of legality.</p>
+                        <p className="mt-4">This is not merely a technical objection. Criminal law requires clarity because individuals must be able to know what conduct attracts criminal punishment.</p>
+                        <p className="mt-4">The constitutional question, however, remains separate. If the Court determines that Exception 2 violates Articles 14 or 21, it is not necessarily "creating" a new offence by invalidating the exception. It could instead be removing an unconstitutional statutory protection from an otherwise existing offence.</p>
+                        <p className="mt-4">That distinction should be central to the Court's reasoning.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL REVIEW OR JUDICIAL LEGISLATION?</h4>
+                        <p>The strongest argument against judicial intervention is that Parliament, rather than the judiciary, determines criminal offences and punishments. If courts substantially rewrite Section 63, they risk entering an area constitutionally entrusted to the legislature.</p>
+                        <p className="mt-4">However, judicial review necessarily includes the power to invalidate legislation that violates fundamental rights. The existence of legislative intent cannot by itself save an unconstitutional provision.</p>
+                        <p className="mt-4">The better approach is therefore neither complete judicial restraint nor unrestricted judicial intervention.</p>
+                        <p className="mt-4">If the Court concludes that the marital rape exception violates constitutional rights, it should clearly identify the constitutional defect and remove only what is necessary to cure that defect. It should not attempt to design an entirely new criminal-law framework.</p>
+                        <p className="mt-4">Parliament can then address consequential issues such as evidentiary safeguards, investigation procedures and victim support.</p>
+                        <p className="mt-4">Such an approach would protect constitutional rights without unnecessarily replacing legislative judgment.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DOES MARRIAGE JUSTIFY DIFFERENT TREATMENT?</h4>
+                        <p>In my view, the strongest difficulty with the marital rape exception lies in the assumption that marriage itself justifies a fundamentally different treatment of sexual violence.</p>
+                        <p className="mt-4">A marriage involves commitment, companionship and mutual responsibilities. It does not, however, amount to permanent consent to every future sexual act.</p>
+                        <p className="mt-4">If consent is understood as voluntary agreement, then consent must remain capable of being withheld. Otherwise, the concept of consent loses much of its meaning within marriage.</p>
+                        <p className="mt-4">The distinction also creates a troubling legal message: the same absence of consent can be treated as rape outside marriage but not rape within marriage solely because the victim and accused have a particular legal relationship.</p>
+                        <p className="mt-4">That distinction requires powerful constitutional justification.</p>
+                        <p className="mt-4">The constitutional values developed in Puttaswamy, Joseph Shine and Independent Thought point towards an understanding of marriage that preserves, rather than removes, individual autonomy.</p>
+                        <p className="mt-4">The criminal law should therefore recognise that a spouse remains an individual constitutional rights-holder after marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The marital rape exception presents the Supreme Court with a difficult constitutional problem because it brings two important principles into direct conflict: the protection of individual autonomy and the limits of judicial power.</p>
+                        <p className="mt-4">The BNS has retained the exception for adult wives, meaning that the replacement of the IPC has not resolved the controversy. At the same time, constitutional jurisprudence has increasingly recognised dignity, privacy and personal autonomy as central components of individual liberty.</p>
+                        <p className="mt-4">Marriage cannot reasonably be treated as an irrevocable agreement to sexual intercourse. The existence of a marital relationship may distinguish the social context of a case, but it should not automatically extinguish the right to refuse sexual activity.</p>
+                        <p className="mt-4">In my view, the marital rape exception is therefore vulnerable under Articles 14 and 21. It creates a relationship-based distinction that is difficult to reconcile with the constitutional protection of bodily autonomy and dignity.</p>
+                        <p className="mt-4">However, the Supreme Court should proceed carefully. Declaring an unconstitutional exception invalid is different from judicially inventing an entirely new criminal offence. The Court should identify the constitutional defect precisely and avoid creating new criminal rules that properly belong to Parliament.</p>
+                        <p className="mt-4">Ultimately, the principle should be straightforward: marriage creates a legal relationship between two individuals; it does not transfer ownership of one person's body to the other. Constitutional rights do not disappear at the point of marriage. The challenge before the Supreme Court is to give that principle legal effect while remaining faithful to the constitutional boundaries between judicial review and legislative power.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Cases</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Independent Thought v Union of India (2017) 10 SCC 800</li>
+                            <li>Justice KS Puttaswamy (Retd) v Union of India (2017) 10 SCC 1</li>
+                            <li>Joseph Shine v Union of India (2019) 3 SCC 39</li>
+                            <li>RIT Foundation v Union of India 2022 SCC OnLine Del 1404</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Legislation</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Bharatiya Nyaya Sanhita 2023</li>
+                            <li>Constitution of India 1950</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Secondary Sources</h5>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>'Marital rape: Supreme Court to begin final hearing after three weeks' The Indian Express (9 September 2026)</li>
+                            <li>'Supreme Court asks whether husband can be prosecuted for marital rape before deciding validity of exception' LiveLaw (9 September 2026)</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-lg mb-2 mt-4">Footnotes</h5>
+                        <ol className="list-decimal pl-5 space-y-1 text-sm text-zinc-400">
+                            <li>Bharatiya Nyaya Sanhita 2023, s 63, Exception 2.</li>
+                            <li>'Marital rape: Supreme Court to begin final hearing after three weeks' The Indian Express (9 September 2026).</li>
+                            <li>Independent Thought v Union of India (2017) 10 SCC 800.</li>
+                            <li>ibid 810–11.</li>
+                            <li>Bharatiya Nyaya Sanhita 2023, s 63, Exception 2.</li>
+                            <li>ibid, s 63, Explanation 2.</li>
+                            <li>Justice KS Puttaswamy (Retd) v Union of India (2017) 10 SCC 1.</li>
+                            <li>Joseph Shine v Union of India (2019) 3 SCC 39.</li>
+                            <li>RIT Foundation v Union of India 2022 SCC OnLine Del 1404.</li>
+                            <li>ibid.</li>
+                            <li>Bharatiya Nyaya Sanhita 2023, s 63, Exception 2.</li>
+                            <li>'Marital rape: Supreme Court to begin final hearing after three weeks' The Indian Express (9 September 2026).</li>
+                            <li>Independent Thought v Union of India (2017) 10 SCC 800; Justice KS Puttaswamy (Retd) v Union of India (2017) 10 SCC 1; Joseph Shine v Union of India (2019) 3 SCC 39.</li>
+                            <li>Bharatiya Nyaya Sanhita 2023, s 63, Exception 2.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Olorato Belinda Buru.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">MA IN POLITICAL SCIENCE</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Beyond Criminalization: Reforming the POCSO Act for Consensual Adolescence Relationship",
+            author: "By Ms. Saiba Azad Khan",
+            abstract: "The protection of children from sexual offences, (POCSO) Act, 2012, was created with the clear and essential purpose of protecting children from sexual abuse and exploitation. Regardless of the situation, its rigid, age-based framework considers anyone under the age of eighteen to be incapable pf legally consenting to any sexual conduct. However, this same rigidity has resulted in an unexpected casualty: consenting romantic and sexual relationship between teenagers who are close in age, frequently in their late teens, are being prosecuted with the same seriousness as predatory abuse. This paper argues that POCSO’s blanket criminalization model needs to move beyond a purely punitive lens. It further contends that the current structure of law disproportionately affects young men, reflecting deeper patriarchal presumptions about male responsibility and female autonomy that endure even in laws that are supposed to be protective.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Legal Framework as It Stands</li>
+                            <li>The Gendered Design of the Law</li>
+                            <li>Judicial Recognition of the Problem</li>
+                            <li>Toward Reform: Possible Models</li>
+                            <li>Safeguards Against Misuse</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The protection of children from sexual offences, (POCSO) Act, 2012, was created with the clear and essential purpose of protecting children from sexual abuse and exploitation. Regardless of the situation, its rigid, age-based framework considers anyone under the age of eighteen to be incapable pf legally consenting to any sexual conduct. However, this same rigidity has resulted in an unexpected casualty: consenting romantic and sexual relationship between teenagers who are close in age, frequently in their late teens, are being prosecuted with the same seriousness as predatory abuse. This paper argues that POCSO's blanket criminalization model needs to move beyond a purely punitive lens. It further contends that the current structure of law disproportionately affects young men, reflecting deeper patriarchal presumptions about male responsibility and female autonomy that endure even in laws that are supposed to be protective.</p>
+                        <p className="mt-4">The debate cannot be resolved by treating it as a binary between full criminalization and full decriminalization. Adolescence is not a single legal moment but a developmental process a 16-year-old and a 17-year-old occupy a materially different position from a 10-year-old, yet POCSO's architecture flattens this distinction entirely. This paper does not argue that the age of consent itself should be lowered, nor that protective legislation should be weakened. It argues, more narrowly, that the mechanism of enforcement who can file a complaint, what discretion a court retains, and what evidentiary weight is given to the adolescent's own voice needs recalibration. The persistence of a rigid framework, this paper contends, is sustained less by child-protection logic and more by inherited patriarchal assumptions about controlling female sexuality and assigning male culpability by default.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE LEGAL FRAMEWORK AS IT STANDS</h4>
+                        <p>POCSO's Sections 3 through 6 make penetrative and aggravated penetrative sexual assault illegal without making any exceptions for relationship context, consent, or age closeness. The Act does not distinguish between two 17-year-olds in a mutually consenting relationship and a 45-year-old taking advantage of a 15-year-old. Instead, it sets the age of consent at 18, which is higher than the age of majority recognized for most other civil reasons. When read in conjunction with the rape provisions of the Indian Penal Code (currently included in the Bharatiya Nyaya Sanhita), the law establishes a strict responsibility system; once the complainant is established to be a minor, intention or real consent are legally immaterial.</p>
+                        <p className="mt-4">It is worth situating this rigidity historically. India's age-of-consent legislation has long been entangled with questions of social control rather than pure child welfare. The Age of Consent Act, 1891, enacted after the Phulmonee case, raised the age of consent for consummation of marriage from 10 to 12, driven by colonial administrators and reformist elites but resisted by conservative sections as an intrusion into family autonomy. Successive amendments through the 20th century gradually raised this threshold, culminating in POCSO's fixation of 18 as the uniform age of consent in 2012, aligning India with the UN Convention on the Rights of the Child's definition of a "child."</p>
+                        <p className="mt-4">This trajectory matters because it shows India's age-of-consent framework has rarely been calibrated to adolescent developmental psychology; it moved instead in response to reform movements, treaty obligations, and moral panic around child marriage and trafficking. POCSO was drafted primarily to address high rates of abuse within families and institutions closing loopholes that let known abusers escape conviction by claiming the child had "consented" or by exploiting evidentiary gaps. The reversal of the ordinary burden of proof under Section 29, and the in-camera Special Court structure, were built for exactly this purpose: to compensate for the power asymmetry between an adult abuser and a child victim. That same reversal becomes disproportionately harsh when applied to a consensual adolescent relationship, where the "accused" is often a peer with no resources to rebut a presumption he did not create.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE GENDERED DESIGN OF THE LAW</h4>
+                        <p>This is the core argument of the paper. Although POCSO claims to be gender-neutral, its actual operations expose a persisting double standard based on patriarchal norms regarding who is assumed to be a "victim" and who is assumed to be a "aggressor." In reality, the male partner is typically prosecuted when a consensual relationship between two minors for example, a minor girl and a boy who is just over 18 comes to light. This is true even in cases where the girl, who is frequently an adult by the time of trial, testifies that the relationship was consensual and that she does not see herself as a victim. Family members who are often against the relationship because to caste, religion, or social standing use POCSO to criminalise the male rather than to safeguard the girl. The law becomes a tool for adult authority to overcome teenage agency because POCSO accusations can be submitted by parents or guardians rather than the "victim," and the burden of that override falls nearly entirely on the male.</p>
+                        <p className="mt-4">This relationship reflects a larger trend in Indian criminal law: young men are automatically blamed for every sexual interaction, while young women's sexuality is viewed as something that needs to be shielded from the outside world rather than an agency they can exercise. The outcome is a paradox: the same law designed to shield girls from being held accountable for "immoral" behaviour ends up depriving them of the credibility of their own testimony while simultaneously subjecting their male partners to a minimum sentence of 20 years under the aggravated provisions, with no opportunity for the court to consider age proximity or consent.</p>
+                        <p className="mt-4">The same relationship becomes fully legal as soon as both partners turn 18; the partnership's legal classification is the only thing that has altered, not its emotional or sexual aspects. This threshold effect reveals how the harshness of the law is more about imposing a strict border that ignores the lived realities of adolescent relationships and development than it is about keeping kids safe.</p>
+                        <p className="mt-4">This gendered pattern is not incidental to the statute's design but a product of how it is invoked in practice. Because POCSO complaints can be filed by parents or guardians rather than the "victim" herself, the law becomes a tool for adult authority to override adolescent agency and, as the data below shows, the burden of that override falls overwhelmingly on the male partner. Researchers studying this pattern describe the law as unidimensional casting adolescent girls as victims without agency to choose their own partners, while treating adolescent boys as being in conflict with the law, sometimes even tried as adults for offences arising from a relationship both parties entered willingly. This is the clearest evidence that the law's operation, whatever its text says, reproduces rather than corrects the same patriarchal logic it was meant to move beyond: girls are denied the credibility of their own testimony, while boys are presumed guilty by default the moment a relationship crosses into sexual activity before either partner turns 18.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL RECOGNITION OF THE PROBLEM</h4>
+                        <p>Indian courts have increasingly acknowledged this gap between statutory design and lived reality. Empirical data lends weight to this argument. A widely cited study by Enfold Proactive Health Trust, conducted with UNICEF India and UNFPA, examined 7,064 POCSO judgments registered between 2016 and 2020 across Assam, Maharashtra, and West Bengal. It found that 23.4% of these cases 1,715 in total were "romantic cases," meaning cases arising from consensual relationships rather than predatory abuse. More tellingly, 80.2% of these romantic cases were filed not by the girls themselves but by their parents or relatives, and in over 87.9% of them, the girl herself admitted to the court that the relationship was romantic and consensual. A parallel study in Karnataka found an even higher proportion nearly half of all POCSO complaints (49.1%) arose in a consensual context. A state-level review in Tamil Nadu, jointly conducted by the Juvenile Justice Committee and the state police, found this figure to be even starker, with 60% of all registered POCSO cases in the state traced to love affairs.</p>
+                        <p className="mt-4">The gendered dimension is explicit in how researchers describe these findings: the law is seen to unidimensional cast adolescent girls as victims without agency to choose their own partners, while adolescent boys are treated as being in conflict with the law, and can even be tried as adults. The former Chief Justice of India, D.Y. Chandrachud, publicly flagged this as a "growing concern," calling on lawmakers to address the criminalization of teenage boys caught in consensual relationships.</p>
+                        <p className="mt-4">At the same time, courts have been careful not to dilute POCSO's core protective mandate, they generally decline to quash proceedings where a genuine power imbalance, large age gap, or evidence of coercion exists. The distinction judges are drawing, informally and without statutory guidance, is precisely the one legislation has failed to codify: the difference between exploitation and adolescent consensual choice. Law Commission reports and parliamentary standing committee observations have flagged this inconsistency, noting that leaving such determinations to ad hoc judicial discretion, without a settled legal standard, produces unpredictable outcomes and unequal justice depending on which bench hears the case. If parents and relatives are responsible for over 80% of romantic-case filings, requiring some threshold of the adolescent's own corroboration, or at minimum a mandatory preliminary interview with an independent child welfare officer before an FIR proceeds to prosecution, could filter out cases motivated primarily by familial or social control rather than genuine protection from harm.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">TOWARD REFORM: POSSIBLE MODELS</h4>
+                        <p className="mb-4">Three broad reform directions merit consideration.</p>
+                        <ul className="space-y-4 list-disc pl-5">
+                            <li><strong className="text-white">A close-in-age exception:</strong> A statutory provision could exempt sexual activity between minors, or between a minor and a person marginally over 18, where the age gap falls within a defined band (commonly 2–3 years in comparative jurisdictions) and there is no evidence of coercion, exploitation, or authority-based power imbalance. This does not decriminalize adult-minor exploitation; it narrows the trigger for what counts as "criminal" in the first place.</li>
+                            <li><strong className="text-white">A judicial discretion/diversion clause:</strong> Alternatively, the law could empower courts (or a specialized POCSO board) to assess consent and relationship context before proceeding to trial, diverting genuinely consensual, near-age cases toward counseling or restorative mechanisms rather than the criminal process, while preserving full prosecutorial force for actual abuse.</li>
+                            <li><strong className="text-white">Gender-neutral accountability in complaint filing:</strong> Given that most misuse cases arise from third-party (usually parental) complaints rather than the girl's own initiative, reform could also examine who is permitted to file a POCSO complaint and under what evidentiary threshold, to reduce the law's use as a tool of family or social control over adolescent relationships a use that, as argued above, falls disproportionately on male partners.</li>
+                        </ul>
+                        <p className="mt-4">Any of these reforms must be paired with strong safeguards: clear evidentiary standards for "consent" in adolescence, protection against retraction of testimony under family pressure, and continued zero-tolerance for cases involving actual grooming, coercion, or significant power imbalance. The goal is not to weaken child protection but to ensure the law targets exploitation rather than adolescence itself.</p>
+                        <p className="mt-4">Elaborating on the close-in-age exception: comparative statutes typically define the exempted band narrowly — commonly a two-to-three-year age gap — and often further require both parties be above a statutory floor (commonly 14 or 15) below which no exception applies, preserving an absolute protective floor for younger children regardless of the partner's age. Any Indian version would need to reckon with the country's federal structure and patchwork of state-level child-marriage-prevention laws, ensuring such an exception does not inadvertently create a backdoor legitimization of child marriage, which remains a distinct and serious concern in several states.</p>
+                        <p className="mt-4">The judicial discretion model would require either an amendment empowering Special Courts to conduct a preliminary consent-and-context assessment before charges are framed, or a specialized adolescent-relationship review mechanism attached to the Juvenile Justice framework, tasked with distinguishing exploitative from non-exploitative cases before trial. This preserves case-by-case nuance but risks the same inconsistency currently produced by ad hoc High Court intervention, unless paired with binding statutory criteria a mandatory checklist covering age gap, evidence of coercion, dependency between the parties, and the timeline of disclosure to guide that discretion uniformly across benches.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SAFEGUARDS AGAINST MISUSE</h4>
+                        <p>Any of the above reforms must be paired with safeguards robust enough to prevent the exception from becoming the rule. Clear evidentiary standards for what counts as demonstrable consent in adolescence, protection against retraction of testimony under family pressure (distinguishing genuine reconciliation from coercion), and continued zero-tolerance for cases involving grooming, deception about age, or significant power imbalance are non-negotiable. A close-in-age exception without an absolute protective floor risks being exploited precisely in the child-marriage contexts POCSO was partly designed to prevent; a judicial discretion model without binding criteria risks reproducing today's inconsistency rather than curing it. The goal throughout must remain narrowing the trigger for prosecution in genuinely non-exploitative cases, not softening the law's response to actual abuse.</p>
+                        <p className="mt-4">A workable safeguard framework should also address the temporal dimension of these cases. Many "romantic case" prosecutions arise years after the relationship began, once the girl has reached adulthood, married the accused, or had a child with him — by which point continuing prosecution serves no protective purpose but the initial registration of the FIR has already triggered irreversible consequences: custodial detention, a criminal record, disruption of education, and social stigma that persists regardless of the eventual verdict. Any reform must therefore build in an early screening stage, rather than relying solely on courts to correct the record at the appellate stage after the damage is done. A preliminary assessment — conducted close to the time of the complaint rather than years into trial — would prevent the current pattern where the process itself becomes the punishment, irrespective of outcome.</p>
+                        <p className="mt-4">Safeguards must also directly address the risk that a close-in-age or discretionary exception could be weaponized by the accused's side to pressure a genuine victim into false claims of consent, particularly where family or social pressure could be exerted on a girl to protect an older or more powerful partner. This risk cuts in the opposite direction from the abuse this paper primarily addresses, and any reform proposal must guard against it symmetrically — for instance, by requiring that the adolescent's statement of consent be recorded independently, away from both the accused's family and her own, and preferably before a child welfare officer or magistrate rather than solely relied upon at trial when memories and loyalties may have shifted under pressure from either side.</p>
+                        <p className="mt-4">Finally, any reform should be accompanied by a mandatory periodic review mechanism audits of how the close-in-age exception or discretionary screening is actually being applied by Special Courts, to catch early signs of misuse in either direction before they harden into settled practice.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>POCSO's uncompromising approach was a necessary corrective to decades of under-enforcement against child sexual abuse. But a law that cannot distinguish between predatory exploitation and a consensual relationship between two 17-year-olds is not protecting children it is punishing them, and disproportionately punishing the male partner within a legal culture that still frames female sexuality as something to be guarded rather than exercised. Reform beyond criminalization through close-in-age exceptions, judicial discretion, or diversion would allow the law to retain its protective core while shedding the collateral damage it currently inflicts on young people's own choices.</p>
+                        <p className="mt-4">POCSO's uncompromising approach was a necessary corrective to decades of under-enforcement against child sexual abuse, built in direct response to documented patterns of abuse by known persons in positions of trust. But a law that cannot distinguish between predatory exploitation and a consensual relationship between two 17-year-olds is not protecting children — it is punishing them, and disproportionately punishing the male partner within a legal culture that still frames female sexuality as something to be guarded rather than exercised. Reform beyond criminalization — through a close-in-age exception, codified judicial discretion, and independent verification of complaints — would let the law retain its protective core while shedding the collateral damage it currently inflicts on adolescents' own choices.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Raha, Swagata, and Shruti Ramakrishnan. Assessing Vulnerabilities, Understanding Realities: A Study of the Working of Special Courts Dealing with Cases under the POCSO Act, 2012, in Assam, Maharashtra and West Bengal. Enfold Proactive Health Trust, in collaboration with UNICEF India and UNFPA, 2021.</li>
+                            <li>"'Romantic Cases' Make Up Nearly 20% of POCSO Cases in Three States: Report." The News Minute, 15 December 2022.</li>
+                            <li>"Growing Concern to Relook at Age of Consent under POCSO Act." Deccan Herald, 2022.</li>
+                            <li>"A Study Finds 25% of POCSO Cases as Romantic Relations: Report." Madhyamam Online, 12 December 2022.</li>
+                            <li>Tripathi, Ashish. "SC Notice to Centre, NCPCR on Plea Against Move to Term Sexual Assault of Teens as 'Consensual and Romantic Relationship'." Deccan Herald, 2024.</li>
+                            <li>Adolescents' Sexual Choices & the POCSO Act. Vidhi Centre for Legal Policy, 10 October 2025. Available at: vidhilegalpolicy.in/blog/adolescents-sexual-choices-the-pocso-act/</li>
+                            <li>"Legal Complexities of Adolescent Relationships: A Study of Protection of Child Sexual Offense Cases in India." PMC (PubMed Central), National Center for Biotechnology Information.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Ms. Saiba Azad Khan.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Shree L.R. Tiwari College of Law, Mira Road, Mumbai, Maharashtra</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Trial of Children as Adults: A critical analysis of law, constitutionality, and reform under the Juvenile Justice [care and protection of children] Act, 2015",
+            author: "By Aaliya Bilal Ahmed Nirban",
+            abstract: "The Juvenile Justice (Care and Protection of Children) Act 2015 brought a substantial change to the juvenile justice system in India. It allowed children aged 16 to 18 years to be tried for heinous offences in the adult system after a special evaluation. This research tries to assess this aspect of juvenile justice in India with reference to the rights of dignity, equality, fair hearing and rehabilitation of the child. It analyses the international standards and judgements related to juvenile justice and the problems related to preliminary assessment.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Research Objectives</li>
+                            <li>Hypothesis of the Study</li>
+                            <li>Research Methodology</li>
+                            <li>Introduction</li>
+                            <li>Evolution of Juvenile Justice in India</li>
+                            <li>Constitutional Analysis</li>
+                            <li>International Legal Framework</li>
+                            <li>Judicial Developments in Juvenile Justice</li>
+                            <li>Challenges and Gaps in the Existing Framework</li>
+                            <li>Survey Analysis</li>
+                            <li>Findings of the Study</li>
+                            <li>Recommendations and Reforms</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. RESEARCH OBJECTIVES</h4>
+                        <p className="mb-2">This study seeks to:</p>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>To scrutinise the legal structure that determines whether children aged sixteen to eighteen can be tried as adults under the Juvenile Justice (Care and Protection of Children) Act, 2015.</li>
+                            <li>To examine the constitutional values of equality, dignity, fair treatment and rehabilitation as they apply to children in conflict with law.</li>
+                            <li>To assess how far India’s juvenile justice framework aligns with international standards on child rights and juvenile justice.</li>
+                            <li>To analyse how the judiciary has interpreted the preliminary assessment mechanism and the protections granted to children under the Juvenile Justice Act, 2015.</li>
+                            <li>To pinpoint the difficulties and shortcomings in carrying out the preliminary assessment and adult-trial mechanism.</li>
+                            <li>To evaluate public views on the significance of age, maturity, accountability and rehabilitation in cases where children aged sixteen to eighteen are accused of serious offences.</li>
+                            <li>To propose measures for reinforcing the juvenile justice framework while preserving a balance between accountability and rehabilitation.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. HYPOTHESIS OF THE STUDY</h4>
+                        <p><strong className="text-white">H₁ (Alternative Hypothesis):</strong> Under the Juvenile Justice (Care and Protection of Children) Act, 2015, the process for treating children between sixteen and eighteen years of age as adults during trial calls for stronger safeguards and individualised evaluation, so that a proper balance is preserved between accountability for serious offences and the child's right to rehabilitation and development.</p>
+                        <p className="mt-4"><strong className="text-white">H₀ (Null Hypothesis):</strong> The current framework of the Juvenile Justice (Care and Protection of Children) Act, 2015 offers sufficient safeguards to balance accountability for serious offences against the rehabilitative and developmental rights of children.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. RESEARCH METHODOLOGY</h4>
+                        <p>This study employs both doctrinal and empirical research methods. The doctrinal aspect reviews the Juvenile Justice (Care and Protection of Children) Act, 2015, along with pertinent constitutional provisions, judicial rulings and international instruments on juvenile justice. The empirical aspect involves a structured survey administered via a Google Form to gauge respondents' views on age, maturity, accountability and rehabilitation of children between sixteen and eighteen years accused of serious offences. The survey gathered 20 responses and serves as supporting evidence for the legal analysis.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. INTRODUCTION</h4>
+                        <p>Juvenile justice operates on the core idea that kids aren’t adults they think differently, mature at a different pace, and often don’t fully grasp the fallout of what they do. Because of that, when youngsters run afoul of the law, the system is supposed to focus on shielding, fixing, and reintegrating them rather than just throwing the book at them. In India, this whole setup is mainly anchored by the Juvenile Justice Act of 2015. The whole vibe of the law is supposed to be kid-friendly, keeping their best interests front and center while handling anyone tangled up with the law.</p>
+                        <p className="mt-4">That said, the 2015 law shook things up compared to older rules, especially for kids between 16 and 18 accused of really brutal crimes. Under Section 15, the Juvenile Justice Board has to do a preliminary assessment. They look at whether the kid had the mental and physical maturity to pull off the act, whether they understood what they were doing, and what kind of situation they were dealing with at the time. They can even bring in psychologists or social workers to help figure it out. The law insists this isn't a trial, just an assessment.</p>
+                        <p className="mt-4">This creates a tricky balancing act between keeping kids safe, helping them turn things around, and holding them accountable. Plus, it brings up big constitutional questions things like equality, personal liberty, human dignity, and the government's duty to look out for minors. On top of all that, actually pulling off these preliminary assessments in the real world is messy, especially when it comes to getting consistent expert opinions and truly weighing a kid's unique background.</p>
+                        <p className="mt-4">So, this research dives right into how the Juvenile Justice Act handles pushing certain kids into the adult court system. It breaks down the legal wording, looks at constitutional and international angles, and checks out what the courts have been saying. On top of that, it includes a survey to see what everyday people actually think about how society handles youth accused of serious crimes. At the end of the day, the goal is to spot the biggest cracks in the current system and figure out how the laws and procedures could be fixed.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. EVOLUTION OF JUVENILE JUSTICE IN INDIA</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Early development of Juvenile justice in India</h5>
+                        <p>India's juvenile justice system has evolved from a largely punitive one to one that emphasizes care, protection, rehabilitation, and reintegration. Legislative actions that gradually separated juvenile criminals from adult offenders led to the awareness that minors need specific care within the criminal justice system.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2. Juvenile Justice Act , 1986</h5>
+                        <p>A significant step toward creating a consistent legal framework for minors implicated in crimes throughout India was the Juvenile Justice Act of 1986. It aimed to guaranty that minors were handled independently from the regular criminal justice system and offered care, protection, therapy, development, and rehabilitation for juvenile offenders. However, the framework's ability to handle India's evolving international duties and the evolving understanding of child rights was limited. The Juvenile Justice (Care and Protection of Children) Act, 2000 was eventually passed in response to the need for a more thorough child-centered framework.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">3. Juvenile Justice Act , 2000</h5>
+                        <p>The rehabilitative approach to children in legal trouble was reinforced by the Juvenile Justice (Care and Protection of Children) Act, 2000. It created organizations like Juvenile Justice Boards to handle youngsters accused of crimes and integrated concepts related to international child-rights standards. When it came to minors under the specified age the 2000 Act typically took a consistent stance emphasizing rehabilitation above traditional punishment. However, situations involving teenagers accused of major crimes sparked intense public discussion especially after high-profile criminal occurrences. Demands to reevaluate the current framework were influenced by this discussion.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">4. Juvenile Justice [ care and protection of children ] Act, 2015</h5>
+                        <p>The Juvenile Justice (Care and Protection of Children) Act, 2015 repealed the 2000 Act and brought in sweeping changes to the treatment of children aged 16-18 years accused of heinous offences. Most significantly, Section 15 of the 2015 Act mandates the Juvenile Justice Board to perform a preliminary assessment of the child’s mental and physical capacities to commit the alleged offence, understand its repercussions and the circumstances of the alleged crime. This was a move away from the broadly applicable approach to children taken until then, towards a more nuanced assessment based on the age of the child and the alleged offence. At the same time, the 2015 Act preserved many child-protective principles and safeguards, thus seeking to strike a balance between accountability and rehabilitation.</p>
+
+                        <p className="mt-4">The evolution of juvenile justice in India therefore reflects an attempt to balance two important objectives: protecting children on account of their relative immaturity and responding appropriately to serious offences alleged to have been committed by comparatively mature older adolescents. The adult trial mechanism provided by the 2015 Act therefore needs to be seen in this context, as part of a broader historical trend, and not as an aberration.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. CONSTITUTIONAL ANALYSIS</h4>
+                        <p>The Juvenile Justice (Care and Protection of Children) Act, 2015 must be read alongside the constitutional safeguards afforded to children in India. The Constitution acknowledges that children need special care and protection owing to their age and still-developing maturity. Simultaneously, when a child aged between 16 and 18 years is accused of a heinous offence, the law must also weigh matters of accountability and public safety. Hence, the provision that permits a child to potentially be tried before the Children’s Court must be scrutinized through the lens of both child rights and constitutional principles.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Article 14 - Right to equality</h5>
+                        <p>Article 14 ensures equality before the law as well as equal protection of the laws. Nevertheless, equality does not invariably require that every individual be treated in precisely the same way. The law may create a reasonable classification where there exists a valid basis for treating different groups differently. The JJ Act itself distinguishes between children under 16 years of age and those between 16 and 18 years who are accused of heinous offenses. This classification rests primarily on age and on how serious the alleged offence is. The rationale for this distinction is to establish a separate procedure for cases in which an older adolescent is alleged to have committed a particularly grave offence.</p>
+                        <p className="mt-4">The constitutional issue is whether this distinction bears a reasonable connection to the purpose of the legislation. Because the JJ Act is chiefly concerned with the care, protection and rehabilitation of children, the adult-trial mechanism must be applied with caution, so that the classification does not lead to a child being treated simply as an adult merely because of the gravity of the allegation.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2. Article 15[3] - special protection for children</h5>
+                        <p>Article 15(3) allows the State to enact special provisions for women and children. This provision mirrors the constitutional recognition that children, owing to their age and vulnerability, may need extra protection. The JJ Act can be understood against this backdrop, since it establishes a distinct system for children in conflict with law rather than merely putting them within the ordinary criminal justice system. Even where the Act allows for the possibility of proceedings before the Children's Court, the child continues to be governed by the special framework set up under the JJ Act.</p>
+                        <p className="mt-4">Hence, any reading of Section 15 ought to consider the constitutional aim of granting special protection to children. The preliminary assessment should not be reduced to a mere formality preceding the transfer of thecase.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">3. Article 21 - life, Personal liberty and Dignity</h5>
+                        <p>Article 21 safeguards life and personal liberty, which has been interpreted by the Supreme Court to include the right to live with dignity as well as the need for fair and reasonable procedures. The latter becomes particularly important in juvenile jurisprudence because the consequences of criminal proceedings can have a lasting effect. A decision made during adolescence can impact a young person’s educational, professional, familial as well as rehabilitative trajectory.</p>
+                        <p className="mt-4">Section 15 therefore acquires particular importance because it requires the authorities to account for the child’s capacities, comprehension as well as circumstances before embarking on the adult trial mechanism. A proper assessment of these factors is required to understand that the alleged offence seriousness may not be the only factor in determining the child’s future.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">4. Article 39[e] and 39[f]</h5>
+                        <p>Article 39(e) instructs the State to guarantee that children's health and strength are not subjected to abuse, whereas Article 39(f) mandates that children be provided with opportunities to grow in a healthy manner and be safeguarded from exploitation and abandonment. These clauses are integral to the Directive Principles of State Policy and embody the constitutional dedication to the welfare and development of children. They reinforce the wider rehabilitative ethos of the JJ Act. Hence, the prospect of trying a child as an adult must be weighed together with the principle that children remain at a developmental stage. The gravity of an alleged offence matters, yet the law must equally assess whether the child possesses the maturity and comprehension required to warrant a departure from the standard juvenile justice process.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">5. Balancing Child Rights and Accountability</h5>
+                        <p>The constitutional question regarding adult trials is fundamentally a matter of balance. Safeguarding children does not imply that grave offences ought to be overlooked. Yet accountability should not inevitably lead to treating every older adolescent the same way as an adult. The JJ Act seeks to establish this balance through the preliminary assessment under Section 15 and the Children’s Court’s role that follows. Nevertheless, how effective this balance proves to be depends largely on how meticulously these provisions are put into practice. For this reason, the constitutional scrutiny of the adult-trial mechanism ought not to be confined to asking whether the law allows such a procedure. It should also examine how the procedure is applied, whether the child’s particular circumstances are truly assessed, and whether the principles of dignity, fairness, protection and rehabilitation remain respected.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. INTERNATIONAL LEGAL FRAMEWORK</h4>
+                        <p>The international framework for juvenile justice has long held that children in conflict with law need to be dealt with differently from adults, focusing on rehabilitation, re-integration, the rights of the child and the like. Of the various international instruments relating to juvenile justice, the most important is the United Nations Convention on the Right of the Child, 1989, to which India became a party in 1992. Article 3 of the UNCRC mandates that in all actions concerning children, the best interests of the child shall be a primary consideration. Article 40 requires that children who are brought to trial shall be treated in a manner consistent with their age and dignity and that their sentence should seek to promote their re-integration into society. Article 37(b) of the UNCRC specifically mentions that the detention of children should be used only as an alternative measure of last resort for the shortest possible period of time.</p>
+                        <p className="mt-4">The Beijing Rules of 1985 also focus on the welfare of juveniles, proportionality and individualized approaches to dealing with juveniles and stress the need to take into account both aspects particular to the offence and the individual characteristics of the child. The Riyadh Guidelines of 1990 take a preventive approach and focus on the role of the family, education and social aspects in the prevention of crime. The Havana Rules of 1990 focus on safeguards for deprived children and stress the need for continuing education, health services, family contact and a rehabilitative environment.</p>
+                        <p className="mt-4">What do you think about India’s Juvenile Justice Act, 2015 which allows for children aged sixteen to eighteen years who are accused of heinous crimes to be assessed for the possibility of trying them as adults? Does international law allow for this or does it stress the need to continue to treat juveniles as children?</p>
+                        <p className="mt-4">International law does acknowledge the need for juveniles to be accountable for their actions. However, children need to be dealt with in a manner that takes their age, level of maturity, dignity and prospects for re-entry into society into account. Thus while India’s approach may make children more accountable, it must ensure that such accountability is tempered by a recognition of their status as children.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. JUDICIAL DEVELOPMENTS IN JUVENILE JUSTICE</h4>
+                        <p>Indian judiciary has contributed significantly towards the interpretation of law relating to juvenile justice and balanced the victim’s justice with the rehabilitative treatment to the child offender.</p>
+                        <p className="mt-4">The Supreme Court while interpreting the preliminary assessment in the case of Barun Chandra Thakur v. Master Bholu took into consideration the concerns of the Juvenile Justice Act, 2015 and highlighted that the assessment is not a finding of guilt, and due care must be taken while examining the child’s mental and physical aspects in relation to the alleged offense and its circumstances. The judgment laid emphasis on the fact that in order to determine whether the child is fit to stand trial as an adult, the child’s comprehension of the crime and the circumstances in which it was committed must be taken into account.</p>
+                        <p className="mt-4">While interpreting the classification of offenses including heinous, serious and petty offenses in Shilpa Mittal v. State of NCT of Delhi, the Supreme Court laid emphasis on the importance of correctly classifying the offenses under the Juvenile Justice Act. This shows the approach of the Indian judiciary towards the rehabilitation and reformation of the child offenders.</p>
+                        <p className="mt-4">The Indian judiciary has consistently held that crimes committed by children require a separate rehabilitative regime that is distinctly different from the traditional adult corrections. It may thus be concluded that in order to ensure that the child is not subjected to the trial as an adult, proper procedures must be followed at the stage of the preliminary assessment. However, the implementation of such safeguards depends on the authorities conducting the preliminary assessment.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. CHALLENGES AND GAPS IN THE EXISTING FRAMEWORK</h4>
+                        <p>Despite the Juvenile Justice Act, 2015 provisions and safeguards, the issue of trying children as adults still raises concerns and questions. First and foremost, there is an issue of subjectivity, as per Section 15, which refers to mental and physical capacity, and the ability to understand the implications of their actions. The determination of these factors can be highly subjective and can depend on the qualifications and level of training of a particular authority that conducts the evaluation.</p>
+                        <p className="mt-4">Furthermore, there is an issue of disparity, as different authorities may have different levels of expertise, resulting in different outcomes of juvenile sentencing. Additionally, by putting a child on trial as an adult, there is a risk of undermining their rehabilitation, as an adult prison focuses on punishment, not on the development and growth of a person, which contradicts the main principles of juvenile justice. Moreover, there is an issue of psychological evaluation since the child’s family setting, education, socio-economic status, and other factors can contribute to their behavior, which may not be taken into account.</p>
+                        <p className="mt-4">The issue of trying children as adults is not about the possibility, as it is provided by the law, but rather about the implementation of safeguards that would ensure that a child is not put on trial as an adult unless all other options are exhausted and their rehabilitation is truly impossible. It should also be noted that the rights of children in the juvenile justice system should be protected and promoted at all levels while taking into account international human rights standards and the best interests of the child.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">10. SURVEY ANALYSIS</h4>
+                        <p>A structured survey was conducted to understand the general perception regarding the treatment of the children aged 16-18 years who are involved in serious offences. The survey received 20 responses. Since the sample size is limited, the findings are indicative of the views of the respondents and cannot be treated as representatives of the wider population.</p>
+                        <ul className="list-disc pl-5 mt-4 space-y-4">
+                            <li><strong>Respondents views on considering the age and maturity of children aged 16-18 years:</strong> 55% of those surveyed thought that the age and maturity of a child have to be taken into consideration before deciding on how to handle a case of a 16-18 year old, while 25% did not agree, and 20% chose “Maybe.”, signifying that there’s a consensus on the need to consider a child’s maturity.</li>
+                            <li><strong>Respondents views on rehabilitation of children involved in serious offenses:</strong> 60% of respondents considered both punishment and rehabilitation important, while 20% preferred punishment, 15% preferred helping the child change and improve, and 5% were unsure.</li>
+                            <li><strong>Respondents views on balancing punishment and rehabilitation:</strong> 70% of respondents supported providing education, counselling and rehabilitation to children involved in serious crimes, while 20% disagreed and 10% selected “Maybe”.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">11. FINDINGS OF THE STUDY</h4>
+                        <p>The study shows that the Juvenile Justice Act, 2015 aims to meet the need for protecting children, while ensuring accountability for serious offenses. The constitution and international framework highlight the need to focus on dignity, rehabilitation, proportionality and the best interests of the child. The judicial practice further emphasizes that the initial assessment under Section 15 involves taking into consideration the situation and abilities of the child.</p>
+                        <p className="mt-4">The survey results also point to the fact that respondents value accountability as well as rehabilitation. Most respondents agreed to considering the age and maturity of children between 16 and 18 years and giving them education, counselling and rehabilitation. In addition, the responses acknowledged the severity of the offence as an important consideration. The findings consequently point to the need to take a balanced approach to ensure accountability, child development and rehabilitation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">12. RECOMMENDATIONS AND REFORMS</h4>
+                        <ol className="list-decimal pl-5 space-y-4">
+                            <li><strong>Uniform preliminary assessment:</strong> Clear and consistent guidelines ought to be created for assessments carried out under Section 15 of the Juvenile Justice Act, so as to minimise subjectivity and guarantee consistency.</li>
+                            <li><strong>Trained specialists:</strong> Juvenile Justice Boards should be able to draw on trained child psychologists, counsellors and social workers to help evaluate the child's developmental and psychological circumstances.</li>
+                            <li><strong>Bolstering rehabilitation:</strong> Even when an adult trial is being considered, the child should continue to have access to education, counselling, vocational training and rehabilitation measures.</li>
+                            <li><strong>Assessment tailored to the individual:</strong> More weight should be placed on the child's family background, education, social circumstances, maturity and prospects of rehabilitation, instead of concentrating only on how serious the offence is.</li>
+                            <li><strong>Meaningful judicial oversight:</strong> Decisions about transferring a case to the adult justice system should state clear reasons and remain open to genuine judicial review, so that the child's constitutional and statutory rights are protected.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">13. CONCLUSION</h4>
+                        <p>The Juvenile Justice (Care and Protection of Children) Act, 2015 aims to strike a balance between safeguarding children and ensuring accountability for serious offences. The clause allowing preliminary assessment of children between sixteen and eighteen years accused of heinous offences shows the law's effort to tackle serious juvenile offending while preserving procedural safeguards. Nevertheless, the analysis suggests that the effectiveness of this framework hinges on consistent, objective and child-sensitive implementation.</p>
+                        <p className="mt-4">The constitutional principles of dignity, equality and fair treatment, along with international standards that emphasize rehabilitation and reintegration, demand that the child's developmental status stay central to the decision-making process. The survey findings also show that respondents acknowledge both the gravity of offences and the value of rehabilitation. A balanced approach, consequently, calls for accountability without overlooking the distinctive needs and rehabilitative potential of children.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Juvenile justice [ care and protection of children ] Act, 2015.</li>
+                            <li>Juvenile Justice Act, 2000.</li>
+                            <li>Juvenile Justice Act, 1986.</li>
+                            <li>Constitution of India, Article 14, 15[3], 21 and 39[e], 39[f].</li>
+                            <li>United Nations Convention on the rights of the child, 1989.</li>
+                            <li>The Beijing Rules, 1985</li>
+                            <li>United Nations Guidelines for the prevention of juvenile delinquency [The Riyadh Guidelines], 1990.</li>
+                            <li>The Havana Rules, 1990</li>
+                            <li>Barun Chandra Thakur v. Master Bholu & Anr., 2022</li>
+                            <li>Shilpa Mitthal v. State of NCT of Delhi, Supreme Court Of India.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Aaliya Bilal Ahmed Nirban.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Shree L.R Tiwari College Of Law</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "BEYOND THE SACRED FIRE: THE LEGAL, SOCIAL, AND CONSTITUTIONAL EVOLUTION OF LIVE-IN RELATIONSHIPS IN INDIA",
+            author: "By Keerti Mishra",
+            abstract: "For a long time, marriage was regarded as the foundation of family life in Indian society. It was traditionally associated with social legitimacy, cohabitation, inheritance, maintenance and the formation of a family. Indian personal laws largely developed around the institution of marriage, leaving little space for domestic relationships outside it. However, social conditions in India have changed significantly. Urbanisation, migration, higher education, economic independence, changing social attitudes and greater awareness of individual liberty have contributed to the emergence of alternative forms of domestic relationships. One of the most significant among these is the live-in relationship, where two consenting adults voluntarily live together without entering into a legally recognised marriage.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Legal Status of Live-in Relationships in India</li>
+                            <li>Judicial Evolution of Live-in Relationships</li>
+                            <li>Protection of Women in Live-in Relationships</li>
+                            <li>Maintenance Rights</li>
+                            <li>Property and Inheritance: The Major Legal Gap</li>
+                            <li>Rights of Children Born from Live-in Relationships</li>
+                            <li>Individual Liberty versus Social Morality</li>
+                            <li>The Uttarakhand Uniform Civil Code Debate</li>
+                            <li>Need for a Balanced Legal Framework</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>For a long time, marriage was regarded as the foundation of family life in Indian society. It was traditionally associated with social legitimacy, cohabitation, inheritance, maintenance and the formation of a family. Indian personal laws largely developed around the institution of marriage, leaving little space for domestic relationships outside it.</p>
+                        <p className="mt-4">However, social conditions in India have changed significantly. Urbanisation, migration, higher education, economic independence, changing social attitudes and greater awareness of individual liberty have contributed to the emergence of alternative forms of domestic relationships. One of the most significant among these is the live-in relationship, where two consenting adults voluntarily live together without entering into a legally recognised marriage.</p>
+                        <p className="mt-4">Live-in relationships have gradually moved from being merely a social controversy to becoming an important legal issue. Indian courts have been required to answer difficult questions concerning the right of adults to choose their partners, protection against domestic violence, maintenance, residence, property, inheritance and the rights of children born from such relationships.</p>
+                        <p className="mt-4">The legal position in India is therefore characterised by an interesting tension. On one hand, the Constitution protects individual autonomy and personal liberty. On the other hand, the State has a legitimate interest in protecting vulnerable persons from exploitation, abandonment and domestic abuse. The challenge is to create a legal framework that protects individuals without unnecessarily interfering with their private choices.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. LEGAL STATUS OF LIVE-IN RELATIONSHIPS IN INDIA</h4>
+                        <p>There is no single central legislation that comprehensively defines and regulates live-in relationships in India as an independent legal status. Unlike marriage, which is governed by personal and secular statutes such as the Hindu Marriage Act, 1955 and the Special Marriage Act, 1954, live-in relationships have largely received legal recognition through judicial interpretation and specific protective statutes.</p>
+                        <p className="mt-4">The constitutional foundation for the recognition of such relationships is primarily found in Article 21 of the Constitution of India, which protects life and personal liberty. The Supreme Court has repeatedly recognised that consenting adults have a degree of autonomy in determining how and with whom they wish to live.</p>
+                        <p className="mt-4">The important point is that recognition of a live-in relationship does not mean that every live-in arrangement is automatically treated as a marriage. Courts have instead attempted to distinguish genuine, long-term domestic relationships from casual relationships. This distinction becomes particularly important when one partner seeks legal protection or financial relief.</p>
+                        <p className="mt-4">Thus, Indian law has adopted a somewhat protective but conditional approach: cohabitation between consenting adults is not itself illegal, but legal consequences depend upon the nature and circumstances of the relationship.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. JUDICIAL EVOLUTION OF LIVE-IN RELATIONSHIPS</h4>
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2.1 Lata Singh v. State of U.P. (2006)</h5>
+                        <p>In Lata Singh v. State of U.P., the Supreme Court strongly affirmed the right of an adult to choose a partner. The Court recognised that two consenting adults have the liberty to live together and that social disapproval cannot by itself convert a lawful relationship into a criminal act.</p>
+                        <p className="mt-4">The decision is important because it reflects the constitutional distinction between social morality and constitutional morality. The personal choices of adults cannot be restricted merely because such choices are unpopular or contrary to traditional social expectations.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2.2 D. Velusamy v. D. Patchaiammal (2010)</h5>
+                        <p>The Supreme Court in D. Velusamy v. D. Patchaiammal addressed the question of when a live-in relationship could be considered a “relationship in the nature of marriage” under the Protection of Women from Domestic Violence Act, 2005.</p>
+                        <ul className="list-disc pl-5 mt-4 space-y-2">
+                            <li>The couple should hold themselves out to society as being akin to spouses.</li>
+                            <li>Both parties should be legally capable of entering into marriage.</li>
+                            <li>Both parties should be otherwise qualified to enter into a legal marriage.</li>
+                            <li>The parties should have voluntarily lived together in a shared household for a significant period.</li>
+                        </ul>
+                        <p className="mt-4">This decision established that merely living together for a short period is insufficient to automatically attract every legal protection available to a marital relationship.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2.3 Chanmuniya v. Virendra Kumar Singh Kushwaha (2011)</h5>
+                        <p>In Chanmuniya v. Virendra Kumar Singh Kushwaha, the Supreme Court adopted a more protective approach towards women in long-term cohabitation. The Court recognised the possibility of a presumption in favour of marriage where a man and woman had lived together for a substantial period and were treated by society as husband and wife.</p>
+                        <p className="mt-4">The underlying principle was significant: a person should not be permitted to avoid financial responsibility simply by denying the existence of a marital relationship after enjoying a long-term domestic arrangement.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">2.4 Indra Sarma v. V.K.V. Sarma (2013)</h5>
+                        <p>In Indra Sarma v. V.K.V. Sarma, the Supreme Court examined different categories of live-in relationships and highlighted the difficulties involved in extending legal protection to every form of cohabitation.</p>
+                        <p className="mt-4">The judgment recognised that live-in relationships may take different forms. For example, a relationship between two unmarried persons may be legally different from a relationship where one person is already married. The Court also pointed towards the need for greater legislative clarity in this area.</p>
+                        <p className="mt-4">These judgments demonstrate a gradual judicial movement from simply recognising the freedom to cohabit towards creating a framework for protecting persons who may become vulnerable within such relationships.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. PROTECTION OF WOMEN IN LIVE-IN RELATIONSHIPS</h4>
+                        <p>One of the most important areas of legal development concerns the protection of women. Women in informal domestic relationships may face economic dependence, abandonment and domestic violence, particularly where there is no formal marital relationship providing an established legal framework.</p>
+                        <p className="mt-4">The Protection of Women from Domestic Violence Act, 2005 (PWDVA) is therefore particularly important. The significance of the Act lies in its recognition that domestic violence is not necessarily dependent upon the existence of a formal marriage. The law focuses on the nature of the domestic relationship and the vulnerability of the affected person.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. MAINTENANCE RIGHTS</h4>
+                        <p>Maintenance is another major issue concerning live-in relationships. Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) contains provisions relating to maintenance and replaces the earlier Section 125 of the Code of Criminal Procedure.</p>
+                        <p className="mt-4">The basic purpose of maintenance law is to prevent destitution and provide financial support to persons who are unable to maintain themselves. Courts have considered whether women in long-term live-in relationships can claim maintenance where the relationship has the characteristics of a relationship in the nature of marriage.</p>
+                        <p className="mt-4">However, maintenance is not automatic merely because two people lived together. The circumstances of the relationship remain important. Factors such as duration of cohabitation, public representation as spouses, shared household and the legal status of the parties may influence the determination.</p>
+                        <p className="mt-4">A particularly difficult situation arises where one partner is already legally married. Courts have generally been reluctant to allow a subsequent relationship to undermine the legal rights of the existing spouse. This illustrates an important principle: the law seeks to protect vulnerable partners without creating a mechanism through which existing legal rights of a lawful spouse can simply be defeated.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. PROPERTY AND INHERITANCE: THE MAJOR LEGAL GAP</h4>
+                        <p>While Indian law has developed considerable protection concerning domestic violence and maintenance, property and inheritance remain comparatively uncertain areas for live-in partners.</p>
+                        <p className="mt-4">A live-in partner does not automatically become a legal heir merely because of long-term cohabitation. Under succession laws, inheritance generally follows legally recognised relationships. Therefore, if a person dies intestate, the surviving live-in partner may not automatically receive the deceased person's property in the same manner as a legally recognised spouse.</p>
+                        <p className="mt-4">This creates a significant practical problem. For example, a couple may live together for twenty or thirty years, jointly contribute towards a household and build their lives together. Yet, if one partner dies without leaving a Will, the surviving partner may face serious difficulties in claiming the deceased partner's assets.</p>
+                        <p className="mt-4">One possible solution is estate planning. Partners can execute Wills, maintain joint ownership where appropriate and use legally recognised nominations and contractual arrangements. However, reliance on private planning does not completely solve the broader problem of legal recognition. This is one area where legislative reform could provide greater certainty.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. RIGHTS OF CHILDREN BORN FROM LIVE-IN RELATIONSHIPS</h4>
+                        <p>The position of children is considerably stronger than that of the adult live-in partner. Indian law and judicial decisions have increasingly sought to ensure that children should not suffer because of the nature of their parents' relationship. Section 16 of the Hindu Marriage Act, 1955 provides legal protection concerning the legitimacy of children born from void and voidable marriages.</p>
+                        <p className="mt-4">Judicial decisions have further developed the principle that children born from long-term live-in relationships should not be deprived of their legal rights merely because their parents did not formally marry.</p>
+                        <p className="mt-4">The Supreme Court's jurisprudence concerning children has therefore moved towards separating the rights of children from the legal status of their parents. This reflects an important principle of social justice: the child should not bear the consequences of a decision made by the adults.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. INDIVIDUAL LIBERTY VERSUS SOCIAL MORALITY</h4>
+                        <p>The most fundamental constitutional question concerning live-in relationships is the conflict between individual autonomy and traditional social morality. Indian society remains diverse. While live-in relationships are increasingly visible in metropolitan and urban areas, they may still face substantial social resistance in smaller towns and conservative communities. Couples may experience family pressure, housing difficulties and social stigma.</p>
+                        <p className="mt-4">From a constitutional perspective, however, social disapproval cannot automatically justify State interference. The Supreme Court's privacy jurisprudence, particularly K.S. Puttaswamy v. Union of India (2017), strengthened the constitutional importance of privacy, autonomy and decisional freedom.</p>
+                        <p className="mt-4">The State can certainly regulate relationships to prevent exploitation, violence and fraud. However, regulation must satisfy constitutional requirements and should not become an excuse for excessive surveillance of private life.</p>
+                        <p className="mt-4">This raises a central question: Should the State protect live-in relationships, or should it regulate them? The answer should be neither complete non-interference nor excessive regulation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. THE UTTARAKHAND UNIFORM CIVIL CODE DEBATE</h4>
+                        <p>The debate became particularly significant with the introduction of a Uniform Civil Code framework in Uttarakhand, which introduced regulatory requirements concerning live-in relationships.</p>
+                        <p className="mt-4">The approach seeks to bring live-in relationships within a formal administrative framework by requiring registration or submission of information regarding such relationships. The justification is that formal records can assist in preventing fraud, abandonment and disputes concerning partners and children.</p>
+                        <p className="mt-4">There are legitimate arguments in favour of such regulation. Registration may create documentary evidence of the relationship and potentially make it easier for a vulnerable partner to assert legal rights.</p>
+                        <p className="mt-4">However, mandatory disclosure also raises serious concerns. If adults choose a live-in relationship partly because they want to avoid the formal structure of marriage, forcing them to disclose their relationship to the State may undermine the very autonomy that constitutional law seeks to protect.</p>
+                        <p className="mt-4">The problem becomes even more serious where non-registration carries penal consequences. A regulatory mechanism intended to protect personal relationships should not become a mechanism for criminalising private choices. Therefore, any registration framework must satisfy the principles of necessity, proportionality and privacy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. NEED FOR A BALANCED LEGAL FRAMEWORK</h4>
+                        <p>India needs greater legal certainty concerning live-in relationships, but such reform should not simply reproduce the structure of marriage. A balanced framework should focus on protection rather than forced legitimisation.</p>
+                        <ul className="list-decimal pl-5 mt-4 space-y-2">
+                            <li>First, the law should provide clearer criteria for determining when a relationship qualifies as being in the nature of marriage.</li>
+                            <li>Second, long-term partners should have clearer mechanisms for protecting property and financial interests.</li>
+                            <li>Third, laws should ensure effective remedies against domestic violence and economic exploitation.</li>
+                            <li>Fourth, children born from such relationships should continue to receive full legal protection irrespective of their parents' marital status.</li>
+                            <li>Finally, any registration mechanism should be carefully designed so that it does not unnecessarily invade privacy or criminalise consensual adult relationships.</li>
+                        </ul>
+                        <p className="mt-4">The objective should be to prevent exploitation rather than impose a particular moral model of family life.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The evolution of live-in relationships in India reflects a broader transformation in the relationship between law, society and individual liberty. What was once largely viewed as a social taboo has become a recognised subject of constitutional and legal discourse.</p>
+                        <p className="mt-4">The judiciary has played a central role in this transformation. Decisions such as Lata Singh, D. Velusamy, Chanmuniya and Indra Sarma demonstrate the gradual development of principles concerning autonomy, domestic protection and maintenance.</p>
+                        <p className="mt-4">At the same time, the present framework remains incomplete. Women may receive protection against domestic violence and, in appropriate circumstances, maintenance, but significant uncertainty remains regarding inheritance and property rights of surviving partners. Children have received stronger protection, reflecting the principle that they should not suffer because of their parents' relationship.</p>
+                        <p className="mt-4">The emerging debate over mandatory registration under state-level Uniform Civil Code frameworks adds another dimension. Regulation can provide certainty and protection, but excessive regulation may threaten privacy and decisional autonomy.</p>
+                        <p className="mt-4">Therefore, India's future legal framework should follow a middle path. The law should neither romanticise live-in relationships nor condemn them on moral grounds. It should protect individuals from violence, abandonment and exploitation while respecting the constitutional freedom of consenting adults to determine the form of their personal lives.</p>
+                        <p className="mt-4">Ultimately, the constitutional question is not whether society approves of live-in relationships. It is whether the State can respect individual autonomy while ensuring justice for those who become vulnerable within such relationships. A mature legal system must be capable of doing both.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Lata Singh v. State of U.P., (2006) 5 SCC 475</li>
+                            <li>D. Velusamy v. D. Patchaiammal, (2010) 10 SCC 469</li>
+                            <li>Chanmuniya v. Virendra Kumar Singh Kushwaha, (2011) 1 SCC 141</li>
+                            <li>Indra Sarma v. V.K.V. Sarma, (2013) 15 SCC 755</li>
+                            <li>K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1</li>
+                            <li>Relevant provisions of the PWDVA, HMA, BNSS and Hindu Succession Act</li>
+                            <li>Uttarakhand UCC Act/Rules and official government materials</li>
+                            <li>Relevant recent authorities concerning children and live-in relationships</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Keerti Mishra.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">School of legal studies, LNCT University</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "BEYOND AUTHORSHIP: RETHINKING COPYRIGHT OWNERSHIP IN THE AGE OF GENERATIVE AI",
+            author: "By Advocate Sabeena",
+            abstract: "Copyright law has never had to ask whether the mind behind a work exists. It simply assumed one did. The statute speaks of an “author,” and an author is presumed, silently but completely, to be a human being. Generative artificial intelligence has forced that silent assumption into the open. Systems can now produce text, images, and music that are, by any ordinary standard, creative — without a human directly composing them. This piece examines how Indian copyright law has responded to that challenge through the 2026 decision of the Copyright Office on Dr. Stephen Thaler's DABUS application, sets that decision against the sharply different route taken in the United States, and argues that India's incremental, causation-based approach is more defensible than it first appears, though it leaves serious gaps that only Parliament can close.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Statutory Anchor: Section 2(d)(vi) and the Causation Test</li>
+                            <li>The DABUS Order: Separating Originality from Authorship</li>
+                            <li>Comparative Postures: The United Kingdom and the United States</li>
+                            <li>The Adjacent Dispute: Who Owns the Training Data</li>
+                            <li>Toward a Tiered Standard</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>Copyright law has never had to ask whether the mind behind a work exists. It simply assumed one did. The statute speaks of an “author,” and an author is presumed, silently but completely, to be a human being. Generative artificial intelligence has forced that silent assumption into the open. Systems can now produce text, images, and music that are, by any ordinary standard, creative — without a human directly composing them. This piece examines how Indian copyright law has responded to that challenge through the 2026 decision of the Copyright Office on Dr. Stephen Thaler's DABUS application, sets that decision against the sharply different route taken in the United States, and argues that India's incremental, causation-based approach is more defensible than it first appears, though it leaves serious gaps that only Parliament can close.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. THE STATUTORY ANCHOR: SECTION 2(d)(vi) AND THE CAUSATION TEST</h4>
+                        <p>Section 2(d)(vi) of the Copyright Act, 1957 defines the author of a “computer-generated” work as the person who causes the work to be created. The provision was drafted decades before generative AI existed, at a time when a “computer-generated” work meant something closer to a spreadsheet macro or a rule-based drawing program — output that was fully predictable from its code. Applying the same test to a diffusion model or a large language model, whose outputs are probabilistic and not fully predictable even by their own designers, stretches the provision well past what its drafters had in view.</p>
+                        <p className="mt-4">The test nonetheless has an internal logic worth taking seriously. It does not ask who typed the final keystroke; it asks who set the causal chain in motion with the intention of producing a particular kind of output. American courts applying a structurally similar inquiry under a joint-authorship framework have held that a contributor must have functioned as the “mastermind” of the work — mere contribution or assistance is not enough. Read together, these tests point toward a workable, if imperfect, line: the person who conceives the project, designs or selects the system, supplies the operative inputs, and curates the result has a claim to authorship; the person who types one unelaborated prompt into a public chatbot does not.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. THE DABUS ORDER: SEPARATING ORIGINALITY FROM AUTHORSHIP</h4>
+                        <p>The most significant recent test of this framework arose from Dr. Thaler's attempt to register an artwork generated entirely by his self-described “Creativity Machine,” DABUS, naming the machine as author while claiming ownership for himself. On 31 August 2026, the Copyright Office rejected the application — but the reasoning is more instructive than the bare outcome. The Office drew a sharp analytical line between two questions that earlier commentary had often run together: whether the work possessed sufficient originality to attract protection at all, and who, as a matter of law, could be credited as its author.</p>
+                        <p className="mt-4">On originality, the Office found the work cleared the threshold the Supreme Court set in Eastern Book Co. v. D.B. Modak — the modest “modicum of creativity” standard that sits well below the American requirement of a genuine “creative spark” and considerably below the older “sweat of the brow” doctrine. That finding matters beyond this one case: if machine output routinely clears so low a bar, originality is no longer where the real contest over AI-generated works will be fought. Authorship is.</p>
+                        <p className="mt-4">On authorship, the Office held that DABUS, having no legal personality, could not be named an author under Section 2(d)(vi). Dr. Thaler, however, was found to have the requisite nexus with the work's creation — he had designed the system, supplied its operative inputs, and initiated the generative process — and could, on that basis, have been recorded as author. The application nonetheless failed because Thaler declined the Registrar's invitation to amend it and insisted on naming DABUS. The refusal, in other words, was not a rejection of AI-assisted authorship as such; it was a rejection of an internally contradictory filing, since a work cannot simultaneously have a non-legal-person as its author and a human as its owner. Properly read, the order is a narrow but real recognition that a sufficiently involved human operator can claim authorship over AI-generated output — provided the filing says so honestly.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. COMPARATIVE POSTURES: THE UNITED KINGDOM AND THE UNITED STATES</h4>
+                        <p>The United Kingdom avoids this entire inquiry by statute. Section 9(3) of the Copyright, Designs and Patents Act 1988 provides that where a work is generated by computer in circumstances such that there is no human author, the author is deemed to be the person who undertook the arrangements necessary for the work's creation. This is a deliberate legal fiction, not a factual finding about who “caused” anything, and it delivers a predictability that Section 2(d)(vi)'s causation inquiry cannot match. Its cost is candour: it protects a category of works everyone agrees have no human author, a position India's causation test tries hard to avoid taking.</p>
+                        <p className="mt-4">The United States goes the other way entirely. In Thaler v. Perlmutter, the D.C. Circuit held that human authorship is a bedrock statutory requirement, not a factor to be balanced away, following the same reasoning that led courts to deny authorship to a non-human claimant in the earlier “monkey selfie” dispute. The Supreme Court's subsequent denial of certiorari is frequently, and wrongly, described as the Court “ruling” on the issue. A denial of certiorari is not a decision on the merits; it simply lets the D.C. Circuit's judgment stand as the final word by default, without any endorsement from the apex court. The distinction matters for anyone assessing how settled the law actually is — in the United States, as in India, no supreme court has spoken.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. THE ADJACENT DISPUTE: WHO OWNS THE TRAINING DATA</h4>
+                        <p>A separate but related battle concerns not the output of AI systems but their inputs. In ANI Media Pvt. Ltd. v. OpenAI Inc., the Delhi High Court declined to grant an interim injunction against a large language model trained on a news agency's copyrighted reports, taking the prima facie view that the training use was arguably fair dealing. The Court was careful to leave the underlying question — whether large-scale, uncompensated ingestion of copyrighted material for model training infringes copyright at all — open for trial. Read alongside the DABUS order, the two proceedings expose the full shape of the “authorless invention” problem: one asks who, if anyone, may claim the output of a generative system; the other asks whether the system's creators owed anything to the millions of authors whose work trained it. India has not resolved either question. It has only begun, cautiously, to ask them.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. TOWARD A TIERED STANDARD</h4>
+                        <p>The causation test in Section 2(d)(vi) is defensible for a case like Thaler's, where one identifiable individual designed the system, supplied its training regime, and directed its output toward a specific creative end. It is far less workable for the more common scenario — a member of the public typing a single prompt into a widely available commercial chatbot. Treating both situations identically, as the current provision effectively does, either extends authorship too generously to trivial prompting or denies it too readily to genuine creative direction.</p>
+                        <p className="mt-4">A tiered approach would serve better: authorship (or at least a rebuttable presumption of it) for a human who exercises substantial, identifiable creative control — through system design, iterative curation, selection among outputs, or significant post-generation editing — and no authorship claim at all for output produced by minimal, one-line prompting with no further human shaping. Something close to this distinction already appears, in embryonic form, in guidance suggesting that the strength of a human's claim should track the substantiality of the human's editing, arranging, and selecting of AI output rather than the mere fact that a human was involved somewhere in the process. Codifying it — ideally through amendment rather than left to case-by-case administrative improvisation — would give India something the UK's blanket deeming rule and the US's blanket exclusion both lack: a framework that actually tracks how much human creativity went into the work.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. CONCLUSION</h4>
+                        <p>No supreme court, in India or the United States, has yet supplied a binding, considered judgment on whether or how AI-generated work should be owned. What exists instead is a patchwork: an administrative order in India that quietly separated originality from authorship and rewarded honest disclosure over overreach; an appellate ruling in the United States that a higher court declined, on procedural grounds, to review; and, sitting beneath both, an unresolved question about whether the human creators whose work trained these systems in the first place are owed anything at all. The DABUS order deserves credit for asking the right question — not whether AI can be an author, but how much human involvement should be enough — even though it, and the law behind it, has not yet worked out where the line should be drawn.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Copyright Act, 1957, uses the term “author” throughout without expressly defining a natural-person requirement, but the requirement has been read into the statute through Section 2(d)(vi).</li>
+                            <li>Copyright Act, 1957, § 2(d)(vi).</li>
+                            <li>Aalmuhammed v. Lee, 202 F.3d 1227, 1232 (9th Cir. 2000) (holding that a contributor to a work must have exercised control over it, functioning as its superintending mind, to qualify as an author).</li>
+                            <li>Eastern Book Co. v. D.B. Modak, (2008) 1 SCC 1 (rejecting the low “sweat of the brow” standard in favour of a “modicum of creativity” test for originality under Section 13 of the Copyright Act, 1957).</li>
+                            <li>Copyright, Designs and Patents Act 1988, c. 48, § 9(3) (UK) (“In the case of a literary, dramatic, musical or artistic work which is computer-generated, the author shall be taken to be the person by whom the arrangements necessary for the creation of the work are undertaken.”).</li>
+                            <li>Thaler v. Perlmutter, No. 23-5233 (D.C. Cir. 2025), cert. denied, No. 25-449 (U.S. Mar. 2, 2026).</li>
+                            <li>ANI Media Pvt. Ltd. v. OpenAI Inc., Delhi High Court, interim order dated 24 July 2026 (holding, on a prima facie view, that training on the plaintiff's news content was arguably protected as fair dealing under Section 52(1)(a) of the Copyright Act, 1957, and declining an interim injunction; the suit continues on other claims).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Advocate Sabeena.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Dr.B.R.Ambedkar National Law University</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "'TIL CONSENT DO US PART: Marriage, Morality, and the Marital Rape Exception in Indian Law",
+            author: "By Swati Kumari",
+            abstract: "The legal definition of rape most commonly used in the United States — ‘sexual intercourse by a male with a female not his wife without her consent’ — gives legal permission for men to rape their wives. This article integrates the legal and psychosocial aspects of marital rape and the marital rape exemption. It is established that rape is an act of aggression against women, and the effects of intimate rape are explored. A brief legal history of the marital rape exemption is included, followed by a look at the arguments both for maintaining and abolishing this rape exemption. The societal influences that make rape and abuse seem ‘okay’ are discussed.\n\nA wife in India is, in law, presumed to have consented to sex with her husband for as long as the marriage lasts — a presumption no other adult in the country is held to. This article traces that presumption to its philosophical root in coverture, reads it against the social and religious meanings of marriage in India, and asks whether it can survive under the Bharatiya Nyaya Sanhita, 2023. Drawing on feminist legal theory — Mill, Brownmiller, and MacKinnon, among others — alongside comparative global law and Indian case law built since Independent Thought v. Union of India (2017), the article argues that Exception 2 to Section 63, BNS, rests on a fiction of marital consent that constitutional morality and India's own courts have already begun to dismantle.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Facts and Historical Background</li>
+                            <li>Understanding Marriage: Sacrament, Contract, and Site of Control</li>
+                            <li>Consent Within Marriage: Legal Fiction Versus Social Reality</li>
+                            <li>Criticism</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>Indian rape law rests on a single, ostensibly simple proposition: sexual intercourse committed without consent is a crime. Yet, this proposition suffers a carve-out that applies to no other class of offender in the penal code. Exception 2 to Section 63 of the Bharatiya Nyaya Sanhita, 2023 ("BNS") provides that sexual intercourse or sexual acts by a man with his own wife, the wife not being under 18 years of age, is not rape. The consequence is stark: identical conduct — forced penetration without consent — is rape when committed by a stranger, an acquaintance, or a live-in partner, but a lawful marital privilege when committed by a husband.</p>
+                        <p className="mt-4">To understand why the law protects this privilege, one must first understand what marriage is asked to mean in India — simultaneously a civil contract, a religious sacrament, and a site of social control over women's sexuality. Senior Advocate N.S. Nappinal, appearing for NGO ‘Red Dot Foundation’, argued the validity of the provision exempting marital rape from the offence of rape. There could be no quarrel that if the husband hurts the wife through sexual acts, he could be liable for prosecution under other provisions of penal law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. FACTS AND HISTORICAL BACKGROUND</h4>
+                        <p>John Stuart Mill, The Subjection of Women (1869) called the wife “the actual bondservant of her husband,” arguing that marriage law bound her more totally than most slavery.</p>
+                        <p className="mt-4">National Family Health Survey-5 (2019-21) data show that a large majority of women reporting sexual violence named their husbands as the perpetrators, not strangers. Roughly 150 countries worldwide have now criminalized marital rape in some form, and India remains among a shrinking group. England abolished its own version of this exception in 1991 (R v R), and India has not followed suit.</p>
+                        <p className="mt-4">Kabeer defines power as the ability to make choices in a context in which alternatives are available and recognized. Power is conceptualized as comprising three distinct dimensions: resources, agency, and achievements. Agency refers to the ability to choose, define, and act on goals. Resources encompass the potential or enabling factors that allow women to exercise agency, and achievements are the outcomes of the exercise of choice, as determined by resources and agency. Embedded in all three dimensions of power are the norms and preferences of individuals and their society, including those that determine gender-appropriate behavior.</p>
+                        <p className="mt-4">Providing sex to a husband on demand is a key component of a woman’s role as a wife and a key value communicated to women before they marry. A ‘good’ wife is expected to be submissive, respectful, and chaste, expression and control. Although some studies have noted that Indian women are not uniformly passive and subservient in sexual matters, on the whole, entrenched norms of male authority in marriage constrain women’s negotiation possibilities, which can be one of the possible reasons for marital rape.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. UNDERSTANDING MARRIAGE: SACRAMENT, CONTRACT, AND SITE OF CONTROL</h4>
+                        <p className="mb-4">Before the legal question of consent can be sensibly asked, marriage itself needs to be discussed, because Indian law and Indian society do not describe the same institution.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">A. The Legal View: Marriage as Civil Contract</h5>
+                        <p>In law, marriage in India is a regulated civil contract entered into by two competent parties, governed by personal law, such as the Hindu Marriage Act, 1955, the Special Marriage Act, 1954, or Muslim personal law, each of which conditions the marriage's validity on the free consent of both parties at its formation. The irony at the center of this article is that the one moment at which the law insists on consent is the wedding itself — after which, under Exception 2, consent to sexual access is treated as permanently and irrevocably given, immune from later withdrawal, no matter how the relationship deteriorates. A contract that requires consent to form but never again to perform is not, in any ordinary legal sense, a contract of mutual obligation; it is closer to a one-time transfer of rights over the wife's body, which is precisely the coverture logic examined in later sections.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">B. The Social View: Marriage as Sacrament and Institution of Control</h5>
+                        <p>Socially and religiously, marriage in India is rarely experienced as a negotiated contract between equals. Across most communities, it remains a sacrament (as under Hindu law, where marriage has historically been treated as a sanskara rather than a dissoluble agreement). Marriage is an anthropological, cultural, and legal institution that establishes socially sanctioned rights and obligations between individuals. In many cultures, marriage forms the basis for the acknowledgement of sexual relationships. Marital rape is frequently invisible within this framework not because the violence is doubted, but because sex within marriage is not conceptually available to be named as an offence — it is simply what a wife owes. This is precisely the condition John Stuart Mill identifies.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">C. Where Legal and Social Views Collide</h5>
+                        <p>The Indian marital rape debate is, at the bottom, a collision between these two views. Legal reform proceeds from the premise that marriage is a contract between equal, autonomous individuals whose consent must be continuous. Social resistance to reform proceeds from the premise that marriage is a status relationship carrying pre-existing, non-negotiable obligations — a premise the Union government has explicitly invoked before the Supreme Court, arguing that criminalization could disturb the "institution of marriage" itself. Simone de Beauvoir's observation that marriage has historically absorbed a woman's independent legal personality into her husband's captures the stakes of this collision: so long as marriage is understood, socially, as the site at which a woman's autonomy is handed over rather than retained, the legal exception will continue to be experienced as common sense rather than injustice.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. CONSENT WITHIN MARRIAGE: LEGAL FICTION VERSUS SOCIAL REALITY</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">A. The Doctrine of Implied and Irrevocable Consent</h5>
+                        <p>The marital exception descends from Sir Matthew Hale's seventeenth-century proposition that a husband cannot be guilty of raping his wife because, by the contract of marriage, the wife gives herself up to her husband in a manner she cannot retract. This idea of standing, irrevocable consent was received into Anglo-Indian law through Macaulay's Draft Penal Code and survives, largely unaltered in substance, in the 2023 recodification of the IPC. The traditional view of “marriage itself implying sexual consent” and in many cases the common allegation is that the “promise of marriage” itself serves as an “unspoken consent” for sexual interactions. The doctrine treats consent not as a contemporaneous, revocable act of will but as a status conferred once at the altar and never withdrawn — a legal fiction wholly at odds with the modern understanding of consent as specific, informed, and freely given on each occasion.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">B. The Social Reality</h5>
+                        <p>Marital rape should not become a blanket immunity protecting husbands from every form of sexual violence committed within marriage.</p>
+                        <p className="mt-4">Empirical data undercuts the premise that marriage forecloses coercion. The National Family Health Survey findings show that the majority of women who report having experienced sexual violence identify a husband — current or former — as the perpetrator. Sociological and criminological literature on intimate-partner sexual violence describes it as frequently more damaging than stranger rape precisely because the victim cannot escape the relationship, continuing to live alongside the person who harmed her long after the assault.</p>
+                        <p className="mt-4">Sexual violence is fundamentally "a conscious process of intimidation" by which male dominance over women is maintained, according to Susan Brownmiller's seminal study on rape. She intended this description to apply particularly forcefully to relationships, such as marriage, in which the victim cannot simply walk away. Catharine MacKinnon has pressed this point further, arguing that the law's model of consent assumes an equality of bargaining power between spouses that patriarchal marriage does not provide. This means that a wife's silence or lack of resistance within a marriage cannot be safely interpreted as consent.</p>
+                        <p className="mt-4">The law's insistence on a fictional, unbroken consent thus operates in inverse relation to the lived experience of the women it purports to describe. It also entrenches what Justice Rajiv Shakdher, in his opinion in RIT Foundation v. Union of India, described as the notion of the husband's ownership of the wife's body — a notion incompatible with the constitutional guarantees of equality, dignity, and non-discrimination on the ground of sex. Indian feminist legal scholar Flavia Agnes has made a cognate point in the domestic context, arguing that family law across personal law systems continues to treat a wife's body and labor as a resource attached to the marital household rather than as her own.</p>
+                        <p className="mt-4">Any form of forcible sexual encounter is considered to be harmful to reputation, identity, and honor. Article 27 of the Fourth Geneva Convention states, “Women shall be especially protected against any attack on their honor; in particular against rape, enforced prostitution, or any form of indecent assault.” The change in the narrative of rape from “family or husband’s right” to “a woman’s dignity” only started in the last half-century.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. CRITICISM</h4>
+                        <p>The other side raises a genuine evidentiary concern: it is difficult to prove the absence of consent within a sexual relationship, risking misuse protecting the principal that no one should be punished without proof of guilt. A related argument holds that a wife above 18 years is presumed mature enough to know that marriage carries an expectation of sexual intimacy. Even if she denies it, would it not be counted as a cruelty against the husband? Proponents of the exception also note that cruelty and domestic violence already carry protection under existing laws.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. CONCLUSION</h4>
+                        <p>The Gujarat High Court has mentioned in this regard, “The total statutory abolition of the marital rape exemption is the first necessary step in teaching societies that dehumanised treatment of women will not be tolerated and that the marital rape is not a husband’s privilege, but rather a violent act and an injustice that must be criminalised.” The marital rape exception cannot be reconciled with the constitutional principles that India’s own courts have developed since Puttaswamy: bodily autonomy is a facet of dignity under Article 21, classifications must bear a rational nexus to a legitimate object under Article 14, and a woman's consent to her own body cannot be presumed away by her marital status. It can not be reconciled with the social understanding of marriage once that understanding is tested against the constitutional promise of equality rather than assumed as an unquestionable good. Indian courts have already begun to dismantle Independent Thought, Joseph Shine, and X v. Principal Secretary. The pending Supreme Court reference offers an opportunity to complete that doctrinal arc. Whatever transitional or evidentiary safeguards Parliament may wish to build around a reformed provision, the constitutional foundation for the exception itself no longer holds. Removing Exception 2 would not create a new right; it would simply extend to married women a protection that every other woman in India already possesses.</p>
+                    </div>
+
+                    <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                        <h4 className="font-bold text-[#D4AF37] text-xl mb-3">KEYWORDS</h4>
+                        <p className="text-zinc-400">Marital rape, consent, Exception 2, Section 63 BNS, Article 14, bodily autonomy, coverture, gender justice</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Bharatiya Nyaya Sanhita, 2023, s. 63, Exception 2.</li>
+                            <li>Indian Penal Code, 1860, s. 375, Exception 2 (repealed).</li>
+                            <li>Independent Thought v. Union of India, (2017) 10 SCC 800.</li>
+                            <li>RIT Foundation v. Union of India, 2022 SCC OnLine Del 1404 (Delhi High Court, split verdict).</li>
+                            <li>Hrishikesh Sahoo v. State of Karnataka, 2022 SCC OnLine Kar 371.</li>
+                            <li>X v. The Principal Secretary, Health and Family Welfare Department, Govt. of NCT of Delhi, (2022) 3 SCR 1044.</li>
+                            <li>K.S. Puttaswamy v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>Joseph Shine v. Union of India, (2018) 2 SCC 189.</li>
+                            <li>Gorakhnath Sharma v. State of Chhattisgarh, 2019 SCC OnLine Chh 141 (India).</li>
+                            <li>R v. R, [1991] UKHL 12; [1992] 1 AC 599.</li>
+                            <li>Criminal Justice and Public Order Act 1994 (UK), s. 142.</li>
+                            <li>Criminal Law (Sexual Offences and Related Matters) Amendment Act 32 of 2007 (South Africa).</li>
+                            <li>Muluki Criminal Code, 2017 (Nepal).</li>
+                            <li>Convention on the Elimination of All Forms of Discrimination Against Women, 1979, art. 16(2), and India's declaration thereto.</li>
+                            <li>National Family Health Survey-5 (2019–21), Ministry of Health and Family Welfare, Government of India — data on spousal perpetration of sexual violence.</li>
+                            <li>Report of the Committee on Amendments to Criminal Law (Justice J.S. Verma Committee Report), 2013, ¶¶ 3.1–3.5 (recommending deletion of the marital rape exception).</li>
+                            <li>J.S. Mill, The Subjection of Women (Longmans, Green, Reader &amp; Dyer, 1869), ch. II.</li>
+                            <li>S. de Beauvoir, The Second Sex (Gallimard, 1949; Eng. trans. 1953).</li>
+                            <li>S. Brownmiller, Against Our Will: Men, Women, and Rape (Simon &amp; Schuster, 1975).</li>
+                            <li>C. MacKinnon, Toward a Feminist Theory of the State (Harvard University Press, 1989).</li>
+                            <li>Nussbaum, Sex and Social Justice (Oxford University Press, 1999).</li>
+                            <li>SSRN</li>
+                            <li>National Library of Medicine, National Center for Biotechnology Information.</li>
+                            <li>F. Agnes, Family Law, Vol. 1: Family Laws and Constitutional Claims (Oxford University Press, 2011).</li>
+                            <li>P. Baxi, Public Secrets of Law: Rape Trials in India (Oxford University Press, 2014).</li>
+                            <li>pmc.ncbi.nlm.nih.gov</li>
+                            <li>www.ncbi.nlm.nih.gov</li>
+                            <li>journals.lww.com</li>
+                            <li>pmc.ncbi.nim.nih.gov</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Swati Kumari.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">BALLB</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Same-Sex Marriage & the Limits of Judicial Power",
+            author: "By Dhanalakshmi R",
+            abstract: "In October 2023, the Supreme Court was asked to answer a question that had been building for years: does the right to marry extend to same-sex couples? The case was Supriyo v. Union of India, and it came five years after the Court had already decriminalised homosexuality in Navtej Singh Johar. A lot of people expected this to be the next logical step. It didn't turn out that way. The five-judge bench gave the petitioners a fairly disappointing answer on the main question, but the judgment still left behind something worth studying, especially for anyone interested in where judicial power actually ends and Parliament's job begins.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Is Marriage a Fundamental Right?</li>
+                            <li>Supriyo v. Union of India: What the Court Actually Said</li>
+                            <li>LGBTQ+ Rights Versus the Existing Family Law Framework</li>
+                            <li>Adoption and the Rights of Same-Sex Couples</li>
+                            <li>Parliament Versus the Judiciary: Who Should Expand Civil Rights?</li>
+                            <li>My View</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>In October 2023, the Supreme Court was asked to answer a question that had been building for years: does the right to marry extend to same-sex couples? The case was Supriyo v. Union of India, and it came five years after the Court had already decriminalised homosexuality in Navtej Singh Johar. A lot of people expected this to be the next logical step. It didn't turn out that way. The five-judge bench gave the petitioners a fairly disappointing answer on the main question, but the judgment still left behind something worth studying, especially for anyone interested in where judicial power actually ends and Parliament's job begins.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. IS MARRIAGE A FUNDAMENTAL RIGHT?</h4>
+                        <p>Before getting into the case, it's worth asking a simpler question first. Is there even a fundamental right to marry under the Indian Constitution? Article 21 protects life and personal liberty, and over the years courts have used it to recognise privacy, dignity, and even the right to die with dignity. So it wasn't a stretch for the petitioners to say that choosing who you marry is just another form of personal liberty.</p>
+                        <p className="mt-4">On this point, though, all five judges agreed: there is no standalone, unconditional right to marry under the Constitution. Marriage in India has always been governed by statute, whether it's the Hindu Marriage Act, the Special Marriage Act, or Muslim personal law. Courts have generally treated it as something created by legislation, not something that exists independently of it. That single finding decided a lot of what came next. The petitioners couldn't just ask the Court to invent a new right. They had to work with a law that already existed.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. SUPRIYO V. UNION OF INDIA: WHAT THE COURT ACTUALLY SAID</h4>
+                        <p>The petitioners, Supriyo Chakraborty and Abhay Dang, along with several other same-sex couples, asked for one of two things. Either read the Special Marriage Act, 1954 in a gender-neutral way so it covers same-sex couples, or direct Parliament to pass a law recognising these unions. They picked the Special Marriage Act on purpose. It's a secular law, meant for inter-faith and inter-caste couples who don't want to marry under their personal religious laws, so on paper it looked like the easiest place to start.</p>
+                        <p className="mt-4">The bench had five judges: Chief Justice D.Y. Chandrachud, and Justices Sanjay Kishan Kaul, S. Ravindra Bhat, Hima Kohli, and P.S. Narasimha. They didn't write one combined judgment, and they didn't fully agree either. On the specific question of whether the Court could read same-sex couples into the Special Marriage Act itself, all five agreed it couldn't. Changing who is eligible to marry under a statute, they said, is a policy call. That belongs to Parliament, not to five judges interpreting a text.</p>
+                        <p className="mt-4">Where they actually disagreed was on civil unions. Chandrachud CJI and Justice Kaul thought the right to enter into a union with a partner of your choice flows from Articles 19 and 21, and that queer couples deserved some form of legal recognition even if it wasn't called marriage. Justices Bhat, Kohli, and Narasimha, who formed the majority, didn't buy this either. Their reasoning was that recognising civil unions was still a legislative function, and that ordering the government to create such a status was just doing the same thing through the back door.</p>
+                        <p className="mt-4">So here's where things actually landed. The Special Marriage Act stays exactly as it was. There's no court-ordered right to marry, and no court-ordered civil union either. But the Union Government was told to set up a committee to look at practical rights, things like joint bank accounts, medical decision-making, insurance nominees, without touching the legal definition of marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. LGBTQ+ RIGHTS VERSUS THE EXISTING FAMILY LAW FRAMEWORK</h4>
+                        <p>Part of what made this case hard is that Indian family law isn't one single code. It's a patchwork: separate statutes for marriage, divorce, succession, and adoption depending on your religion. If the Court had simply read down the Special Marriage Act, you'd have ended up with a class of same-sex couples married under a secular law, but sitting completely outside the personal laws that decide inheritance and adoption for everyone else.</p>
+                        <p className="mt-4">The government used exactly this point in its arguments, saying marriage can't be treated as a purely individual right because it's tied into tax law, succession law, and adoption law across multiple statutes. The petitioners' answer was that this complexity was precisely the reason they were only asking to amend one secular statute, not rewrite every personal law in the country. The majority didn't find this convincing. Even a narrow change, they held, would eventually ripple into other laws, and managing that ripple is Parliament's job, not the Court's.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. ADOPTION AND THE RIGHTS OF SAME-SEX COUPLES</h4>
+                        <p>Adoption came up a lot during the hearings, and for good reason. Under CARA rules, only married couples or single individuals can jointly adopt a child. Unmarried couples can't, and that includes same-sex couples, no matter how long they've been together. Because the Court refused to recognise same-sex marriage or civil unions, this bar stays exactly where it was, even though the majority judgment did say, in fairly clear terms, that being queer doesn't make someone unfit to parent.</p>
+                        <p className="mt-4">This is a good example of how a marriage judgment ends up touching things that have nothing to do with weddings. Two people can share a home, raise a child, and split every bill between them, but if the law doesn't recognise their relationship, one partner can still be a legal stranger to that child. No guardianship rights, no say in a medical emergency, nothing. The Court acknowledged this gap and then handed it to a committee instead of closing it.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. PARLIAMENT VERSUS THE JUDICIARY: WHO SHOULD EXPAND CIVIL RIGHTS?</h4>
+                        <p>This case is really about an older question. When the law has a gap that's causing real harm, should courts step in, or should they wait for Parliament? Indian courts haven't always waited. The right to privacy in Puttaswamy, the decriminalisation of homosexuality in Navtej, and the right to die with dignity in Common Cause all came from judges reading Article 21 broadly, without any legislature asking them to.</p>
+                        <p className="mt-4">So why was Supriyo treated differently? The majority's answer comes down to what kind of remedy was being asked for. Striking down Section 377 in Navtej just removed a restriction. It didn't require the Court to build anything new. Recognising marriage or civil unions is a different kind of task altogether. It means fixing eligibility rules, procedures, and knock-on rights across several statutes at once, which starts to look less like interpreting a right and more like drafting legislation. That's the line the majority drew, and it's not an unreasonable one, even if it isn't the only way to draw it. You could just as easily argue that Puttaswamy and Common Cause also came with detailed guidelines the Court had to work out on its own, so the difference isn't as sharp as the majority makes it sound.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. MY VIEW</h4>
+                        <p>I think the Court's caution makes sense, but I don't think it goes far enough. There's a real argument that rebuilding the institution of marriage across a dozen different religious and secular laws shouldn't be done by five judges interpreting one statute. That kind of change sticks better when an elected legislature actually votes on it. But civil unions are a smaller ask than marriage, and the Court could have gone there without touching personal laws at all. Something narrow, just hospital visitation, joint accounts, and medical decision-making, would have fixed the most urgent problems same-sex couples actually face day to day. Instead it got handed to a committee with no deadline and no guarantee anything comes of it. Saying discrimination must end and then not setting any timeline for fixing it feels like half a judgment.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. CONCLUSION</h4>
+                        <p>People will probably remember Supriyo more for what it didn't do than for what it did. It sticks to a fairly traditional separation of powers: courts protect rights that already exist, Parliament creates new ones. That leaves same-sex couples exactly where they started, still waiting. Whether that government committee actually leads anywhere will decide how this case gets remembered, as a first careful step, or as a chance the Court chose not to take.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Supriyo @ Supriya Chakraborty &amp; Anr. v. Union of India, 2023 INSC 920.</li>
+                            <li>Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>Common Cause v. Union of India, (2018) 5 SCC 1.</li>
+                            <li>The Special Marriage Act, 1954.</li>
+                            <li>Central Adoption Resource Authority (CARA), Adoption Regulations, 2022.</li>
+                        </ul>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Dhanalakshmi R.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">BALLB</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Reservation Policies versus Equitable Debate: Rethinking Affirmative Action in India",
+            author: "By Mayank Lohani",
+            abstract: "Reservation in India is often presented as a contest between two competing constitutional values: equality and merit. Such a formulation, however, overlooks the distinction between formal equality and substantive equality. The constitutional scheme of reservation was not conceived merely as a departure from equality, but as an instrument through which historically disadvantaged communities could obtain meaningful access to education, public employment and political participation. Beginning with State of Madras v. Champakam Dorairajan, and developing through M.R. Balaji v. State of Mysore, State of Kerala v. N.M. Thomas and Indra Sawhney v. Union of India, the Supreme Court has progressively shaped the constitutional boundaries of affirmative action.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional Foundation of Reservation</li>
+                            <li>From Formal Equality to Substantive Equality</li>
+                            <li>Reservation and the Idea of Merit</li>
+                            <li>The Judicial Development of the 50% Ceiling</li>
+                            <li>Economic Disadvantage versus Caste-Based Disadvantage</li>
+                            <li>The Creamy Layer and Internal Inequality</li>
+                            <li>Reservation as an Instrument of Social Justice</li>
+                            <li>The Case for Reform Rather Than Abolition</li>
+                            <li>Critical Analysis</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>Few questions in Indian constitutional law generate as much political and social disagreement as reservation. Supporters regard it as an indispensable instrument of social justice; critics frequently regard it as an exception to merit and equality. Both positions contain an element of truth, but neither adequately captures the constitutional design.</p>
+                        <p className="mt-4">The central difficulty lies in the meaning attributed to “equality”. If equality is understood exclusively as identical treatment of all individuals, reservation appears inherently unequal. If, however, equality is understood as requiring the removal of structural disadvantages that prevent individuals from competing on genuinely equal terms, differential treatment can become a means of achieving equality rather than an exception to it.</p>
+                        <p className="mt-4">The constitutional history of reservation reflects this tension. In State of Madras v. Champakam Dorairajan, the Supreme Court struck down the communal allocation of seats in educational institutions, prompting the First Constitutional Amendment and the introduction of Article 15(4).¹ The constitutional response demonstrated an important feature of Indian equality jurisprudence: formal equality could not, by itself, address entrenched social disadvantage.</p>
+                        <p className="mt-4">The Court subsequently moved away from viewing reservation merely as an exception to equality. In State of Kerala v. N.M. Thomas, the majority recognised that Article 16(4) was not simply an exception to Article 16(1), but reflected the broader constitutional commitment to equality of opportunity.² This conceptual shift became particularly significant in Indra Sawhney v. Union of India, where the Court attempted to reconcile affirmative action with the broader structure of equality under Article 16.³</p>
+                        <p className="mt-4">Three decades later, the constitutional landscape has become more complex. The 103rd Constitutional Amendment introduced Articles 15(6) and 16(6), permitting special provisions, including reservation, for economically weaker sections. The Supreme Court upheld the amendment in Janhit Abhiyan v. Union of India.⁴ More recently, State of Punjab v. Davinder Singh recognised the constitutional permissibility of sub-classification among Scheduled Castes for the purpose of ensuring a more equitable distribution of reservation benefits.⁵</p>
+                        <p className="mt-4">These developments suggest that the reservation debate can no longer be reduced to the binary of “reservation versus merit”. The more difficult question is whether reservation, as presently structured, continues to distribute constitutional benefits in a manner consistent with substantive equality.</p>
+                        <p className="mt-4">This article argues that reservation should neither be treated as a permanent substitute for broader social reform nor dismissed as incompatible with merit. It should instead remain an instrument of affirmative action subject to constitutional scrutiny, empirical evaluation and periodic recalibration.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. CONSTITUTIONAL FOUNDATION OF RESERVATION</h4>
+                        <p>The constitutional foundation of reservation is primarily found in Articles 15 and 16. Article 15(4), inserted by the First Constitutional Amendment, permits the State to make special provisions for the advancement of socially and educationally backward classes and for Scheduled Castes and Scheduled Tribes. Article 15(5) subsequently expanded this framework in relation to admissions to educational institutions.</p>
+                        <p className="mt-4">Article 16(4), meanwhile, permits reservation in appointments or posts in favour of backward classes of citizens which, in the opinion of the State, are not adequately represented in the services under the State.</p>
+                        <p className="mt-4">The placement of these provisions within the equality framework is significant. The Constitution does not treat equality as requiring mechanical uniformity. Instead, it permits differential treatment where social circumstances make identical treatment incapable of producing genuine equality.</p>
+                        <p className="mt-4">The historical development of this understanding can be traced from Champakam Dorairajan to N.M. Thomas. While Champakam exposed the tension between reservation and the then-existing understanding of equality, the constitutional amendment that followed demonstrated that affirmative measures could form part of the constitutional conception of equality itself.¹</p>
+                        <p className="mt-4">In N.M. Thomas, the Court's approach became more explicit. The majority rejected the rigid understanding that Article 16(4) was merely an exception to Article 16(1). Later Supreme Court decisions have relied upon this substantive understanding of equality.⁶</p>
+                        <p className="mt-4">The significance of this jurisprudence is that reservation cannot properly be evaluated solely by asking whether reserved candidates receive preferential treatment. The constitutional question is whether such preferential treatment is rationally connected to the removal of an existing disadvantage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. FROM FORMAL EQUALITY TO SUBSTANTIVE EQUALITY</h4>
+                        <p>The philosophical foundation of reservation lies in the distinction between formal and substantive equality.</p>
+                        <p className="mt-4">Formal equality requires individuals to be treated alike. Substantive equality recognises that individuals who begin from materially unequal positions may require different treatment to achieve genuinely equal opportunities.</p>
+                        <p className="mt-4">Consider two candidates appearing for the same competitive examination. One may have attended a well-resourced private school, received extensive coaching and grown up in an environment where higher education was the expected norm. Another may have attended an under-resourced school and entered higher education as the first member of the family to do so. Treating both candidates identically at the examination stage does not necessarily eliminate the consequences of their unequal starting positions.</p>
+                        <p className="mt-4">This does not mean that every difference in economic or social circumstance should justify reservation. The Constitution requires a legally relevant classification and a rational relationship between the disadvantage identified and the remedial measure adopted.</p>
+                        <p className="mt-4">The Supreme Court's modern reservation jurisprudence increasingly reflects this substantive conception. In State of Punjab v. Davinder Singh, the Constitution Bench expressly discussed reservation as an exposition of substantive equality and examined whether benefits directed towards a constitutionally recognised disadvantaged class necessarily reach all members of that class equally.⁵</p>
+                        <p className="mt-4">The important implication is that equality operates at two levels: equality between reserved and unreserved groups, and equality within the reserved category itself.</p>
+                        <p className="mt-4">The second question has become increasingly important.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. RESERVATION AND THE IDEA OF MERIT</h4>
+                        <p>The most persistent criticism of reservation is that it compromises merit.</p>
+                        <p className="mt-4">The difficulty with this argument is that it often treats merit as a purely individual attribute independent of social circumstances. Competitive examinations measure performance at a particular point in time. They do not necessarily measure the entire set of circumstances that contributed to that performance.</p>
+                        <p className="mt-4">Access to quality schooling, nutrition, healthcare, stable housing, language proficiency, digital resources, private tutoring and social networks can all influence educational outcomes. Consequently, examination performance is relevant to selection, but it cannot automatically be treated as an exhaustive measure of individual merit.</p>
+                        <p className="mt-4">At the same time, dismissing merit altogether would be equally problematic.</p>
+                        <p className="mt-4">Public institutions require competence. A constitutional policy intended to promote representation cannot disregard the functional requirements of the institutions into which candidates are recruited. Article 335 itself reflects the constitutional concern regarding the claims of Scheduled Castes and Scheduled Tribes in public services and the maintenance of administrative efficiency.</p>
+                        <p className="mt-4">The proper constitutional position therefore lies between two extremes.</p>
+                        <p className="mt-4">Reservation should not be defended on the proposition that merit is irrelevant. Nor should merit be defined so narrowly that historical and structural disadvantage becomes invisible.</p>
+                        <p className="mt-4">The better approach is to recognise that merit operates within social conditions. The constitutional objective should be to create fairer opportunities to demonstrate merit while ensuring representation of groups historically excluded from institutions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. THE JUDICIAL DEVELOPMENT OF THE 50% CEILING</h4>
+                        <p>The 50% ceiling has become one of the most recognisable features of Indian reservation jurisprudence.</p>
+                        <p className="mt-4">In Indra Sawhney, the Supreme Court held that reservations contemplated under Article 16(4) ordinarily should not exceed 50 percent, while recognising that extraordinary circumstances could justify departure from the rule.⁷ The Court's reasoning sought to preserve a balance between affirmative action and the broader constitutional commitment to equality.</p>
+                        <p className="mt-4">The ceiling subsequently became a major constitutional controversy.</p>
+                        <p className="mt-4">The question was brought into sharp focus by the 103rd Constitutional Amendment, which introduced a separate 10 percent reservation for EWS categories. In Janhit Abhiyan, the Supreme Court upheld the amendment by a 3:2 majority. The majority held that economic criteria could constitute the basis of special provisions and that excluding SCs, STs and non-creamy-layer OBCs from EWS reservation did not violate the basic structure.⁴</p>
+                        <p className="mt-4">The decision is important because it demonstrates that the constitutional understanding of reservation has evolved beyond the traditional framework of social and educational backwardness.</p>
+                        <p className="mt-4">At the same time, Janhit Abhiyan does not eliminate the significance of the 50 percent principle in the constitutional jurisprudence surrounding Articles 15(4) and 16(4). Rather, the Court treated the EWS framework as constitutionally distinct because it arose from newly inserted Articles 15(6) and 16(6).⁸</p>
+                        <p className="mt-4">The continuing controversy therefore is not merely numerical. It concerns the extent to which reservation can expand while preserving meaningful open competition.</p>
+                        <p className="mt-4">A ceiling should not become an inflexible mathematical formula detached from social realities. But neither should every demand for additional reservation automatically be justified in the name of social justice.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. ECONOMIC DISADVANTAGE VERSUS CASTE-BASED DISADVANTAGE</h4>
+                        <p>The introduction of EWS reservation has added a new dimension to the reservation debate. Historically, reservation has primarily responded to social and educational backwardness and inadequate representation. EWS reservation recognises economic disadvantage as an independent constitutional concern.</p>
+                        <p className="mt-4">The distinction is significant because poverty and caste disadvantage are not identical.</p>
+                        <p className="mt-4">A person may be economically poor without experiencing caste-based exclusion. Conversely, an individual may belong to a constitutionally recognised disadvantaged community while having achieved economic stability.</p>
+                        <p className="mt-4">Therefore, economic disadvantage cannot simply replace caste-based disadvantage. The two forms of disadvantage operate through different mechanisms.</p>
+                        <p className="mt-4">Caste can affect social status, access to institutions, marriage, housing, networks and treatment by others. Economic deprivation, by contrast, primarily concerns material resources and access to opportunities.</p>
+                        <p className="mt-4">The constitutional recognition of EWS therefore should not be understood as establishing that caste has ceased to matter. Instead, it indicates that Indian affirmative action now recognises multiple dimensions of disadvantage.</p>
+                        <p className="mt-4">This development also creates a policy challenge. If reservation is expected to respond to every form of disadvantage, the State must clearly identify the nature of the disadvantage it is attempting to remedy. Otherwise, reservation risks becoming a general poverty-relief mechanism rather than a targeted instrument of affirmative action.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. THE CREAMY LAYER AND INTERNAL INEQUALITY</h4>
+                        <p>One of the most difficult questions facing reservation policy is what happens when the benefits of reservation repeatedly accrue to relatively advanced members of the beneficiary class.</p>
+                        <p className="mt-4">The creamy-layer principle emerged most prominently in the OBC context through Indra Sawhney. Its underlying rationale is straightforward: if members who have already achieved significant social and economic advancement continue to receive the same preferential benefits, the more disadvantaged members within the broader category may remain excluded.</p>
+                        <p className="mt-4">This problem cannot be dismissed as an argument against reservation itself.</p>
+                        <p className="mt-4">It is, in fact, an argument for better targeting.</p>
+                        <p className="mt-4">The same constitutional concern becomes particularly important when examining the internal diversity of Scheduled Castes and Scheduled Tribes. In State of Punjab v. Davinder Singh, the Supreme Court upheld the constitutional permissibility of sub-classification within Scheduled Castes, recognising that constitutionally identified groups may themselves contain significant internal differences in levels of disadvantage and representation.⁵</p>
+                        <p className="mt-4">The decision represents an important development in the idea of substantive equality.</p>
+                        <p className="mt-4">If reservation exists to remedy disadvantage, then an allocation mechanism that systematically benefits relatively better-positioned members within the beneficiary category may itself produce inequality.</p>
+                        <p className="mt-4">The constitutional objective should therefore be not merely to ask who belongs to the reserved category, but also who within that category is actually receiving the benefit.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. RESERVATION AS AN INSTRUMENT OF SOCIAL JUSTICE</h4>
+                        <p>Reservation has produced an institutional presence for historically disadvantaged groups in education and public employment. Its significance therefore extends beyond individual appointments or admissions.</p>
+                        <p className="mt-4">Representation can alter the social composition of institutions that exercise public power. It can provide access to professional networks, economic mobility and social visibility that may otherwise remain inaccessible to disadvantaged communities.</p>
+                        <p className="mt-4">However, reservation cannot by itself eliminate structural inequality.</p>
+                        <p className="mt-4">A child cannot be meaningfully guaranteed equal opportunity at the age of eighteen if the preceding eighteen years were characterised by poor schooling, inadequate nutrition, limited healthcare and educational deprivation.</p>
+                        <p className="mt-4">This exposes an important limitation of reservation policy.</p>
+                        <p className="mt-4">Reservation intervenes primarily at particular gateways—education, employment and political representation. It does not necessarily repair the unequal conditions that precede those gateways.</p>
+                        <p className="mt-4">Consequently, affirmative action must be supplemented by universal improvements in public education, healthcare, nutrition, scholarships, infrastructure and skill development.</p>
+                        <p className="mt-4">Otherwise, reservation risks becoming a mechanism for distributing limited opportunities among unequal populations rather than a broader strategy for creating equal opportunities.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. THE CASE FOR REFORM RATHER THAN ABOLITION</h4>
+                        <p>The strongest argument against the abolition of reservation is not that every existing reservation policy is perfectly designed. It is that the social conditions that originally justified affirmative action have not disappeared merely because some individuals and communities have experienced significant advancement.</p>
+                        <p className="mt-4">At the same time, defending reservation does not require defending every aspect of its existing structure.</p>
+                        <p className="mt-4">Three reforms are particularly important.</p>
+                        <p className="mt-4">First, reservation policy should be based increasingly on reliable and periodically updated data. Claims regarding backwardness, representation and benefit distribution should be capable of empirical assessment rather than being determined primarily by political pressure.</p>
+                        <p className="mt-4">Second, greater attention should be paid to internal inequality within reserved categories. Davinder Singh illustrates why a broad constitutional category may require further differentiation if benefits are not reaching the most disadvantaged members.⁵</p>
+                        <p className="mt-4">Third, reservation should be accompanied by investment in the conditions that create genuine equality of opportunity. Better schools, scholarships, preparatory programmes and accessible higher education may ultimately reduce the extent to which reservation must compensate for educational inequality at later stages.</p>
+                        <p className="mt-4">Reform, however, must not become a disguised route towards dismantling affirmative action.</p>
+                        <p className="mt-4">The fact that reservation has imperfections is not proof that reservation has failed. It demonstrates that the policy must evolve with the conditions it seeks to address.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">10. CRITICAL ANALYSIS</h4>
+                        <p>The reservation debate is frequently weakened by its binary framing.</p>
+                        <p className="mt-4">One side asks: “Does reservation violate merit?”</p>
+                        <p className="mt-4">The other asks: “Can reservation ever be questioned?”</p>
+                        <p className="mt-4">Neither question is sufficiently precise.</p>
+                        <p className="mt-4">The more appropriate constitutional inquiry is whether a particular reservation policy identifies a genuine disadvantage, employs constitutionally permissible criteria, is reasonably connected to the objective of advancement, and remains proportionate to the problem it seeks to address.</p>
+                        <p className="mt-4">This approach also prevents reservation from becoming either an untouchable political entitlement or a policy that can be abolished on the abstract ground of merit.</p>
+                        <p className="mt-4">The evolution from Champakam Dorairajan to N.M. Thomas illustrates how constitutional equality itself has changed. The later decisions in Indra Sawhney, Janhit Abhiyan and Davinder Singh demonstrate that reservation jurisprudence continues to adapt to new understandings of disadvantage.¹ ² ⁴ ⁵</p>
+                        <p className="mt-4">Yet there is a further danger.</p>
+                        <p className="mt-4">When reservation is expanded without simultaneously expanding educational and employment opportunities, competition for a limited number of positions can become increasingly politicised. This may deepen social resentment rather than resolve the underlying inequality.</p>
+                        <p className="mt-4">The answer, therefore, cannot simply be to increase or decrease reservation percentages.</p>
+                        <p className="mt-4">A serious affirmative-action policy must ask:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Who is disadvantaged?</li>
+                            <li>Why are they disadvantaged?</li>
+                            <li>Are the benefits reaching those most disadvantaged?</li>
+                            <li>Does the policy remain proportionate to the identified disadvantage?</li>
+                            <li>What complementary measures can reduce the disadvantage itself?</li>
+                        </ul>
+                        <p className="mt-4">These questions shift the debate from political slogans to constitutional policy.</p>
+                        <p className="mt-4">Reservation should be viewed as a means toward equality, not as equality itself.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">11. CONCLUSION</h4>
+                        <p>The constitutional debate surrounding reservation cannot be resolved by choosing between “reservation” and “merit”. Such a binary ignores the constitutional transformation from formal equality towards substantive equality.</p>
+                        <p className="mt-4">From Champakam Dorairajan to N.M. Thomas, the Supreme Court's jurisprudence demonstrates that differential treatment may be necessary to achieve genuine equality. Indra Sawhney subsequently established important limits on reservation, while Janhit Abhiyan demonstrated that economic disadvantage could independently support constitutionally permissible affirmative action. More recently, Davinder Singh has highlighted the importance of examining inequality within reserved categories themselves.</p>
+                        <p className="mt-4">The future of reservation therefore lies in neither its unconditional expansion nor its abolition. Reservation remains necessary so long as structural disadvantage and inadequate representation persist. But its legitimacy depends upon whether it continues to serve its constitutional purpose. Periodic review, empirical assessment, internal targeting and complementary social policies are therefore essential.</p>
+                        <p className="mt-4">The central question should no longer be whether reservation is compatible with equality. The more important question is whether the particular design of reservation is actually producing greater equality.</p>
+                        <p className="mt-4">A constitutional democracy should be capable of recognising both truths: historical disadvantage cannot be ignored, and affirmative action cannot be immune from scrutiny merely because its objective is social justice.</p>
+                        <p className="mt-4">The most equitable approach is consequently not to choose between social justice and merit, but to construct an affirmative-action framework in which both are understood as components of substantive equality.</p>
+                    </div>
+
+                    <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                        <h4 className="font-bold text-[#D4AF37] text-xl mb-3">KEYWORDS</h4>
+                        <p className="text-zinc-400">Reservation; Affirmative Action; Equality; Merit; Substantive Equality; Social Justice; Articles 14, 15 and 16; EWS; Creamy Layer; 50% Ceiling; Sub-classification.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES / REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>State of Madras v. Champakam Dorairajan, AIR 1951 SC 226.</li>
+                            <li>State of Kerala v. N.M. Thomas, (1976) 2 SCC 310.</li>
+                            <li>Indra Sawhney v. Union of India, 1992 Supp (3) SCC 217.</li>
+                            <li>Janhit Abhiyan v. Union of India, (2022) 10 SCC 1.</li>
+                            <li>State of Punjab v. Davinder Singh, 2024 INSC 562.</li>
+                            <li>The Supreme Court has subsequently relied upon the substantive-equality understanding associated with N.M. Thomas in its reservation jurisprudence.</li>
+                            <li>Indra Sawhney v. Union of India, 1992 Supp (3) SCC 217.</li>
+                            <li>Janhit Abhiyan v. Union of India, supra.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mayank Lohani.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Uslls llb</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "No Marriage, No Rights? Understanding the Law on Live-In Relationships and the Legal Protection Available to Women",
+            author: "By Anand Moksh",
+            abstract: "How far should Law protect Live-in Relationships? Marriage has traditionally been the principal legal framework through which Indian law regulates intimate relationships, creating recognized rights and obligations relating to maintenance, residence, inheritance, legitimacy of children and protection from cruelty. But social relationships do not always fit neatly within that framework. Increasingly, adults choose to live together without undergoing a formal marriage ceremony. This creates an important legal question: does the absence of marriage mean the absence of legal rights? The answer under Indian law is neither a simple yes nor an unrestricted no. The Supreme Court has repeatedly recognized that two consenting adults may choose to live together, while simultaneously making it clear that not every live-in relationship is equivalent to marriage.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction: How far should Law protect Live-in Relationships?</li>
+                            <li>Adults Choice Protected, but Marriage Remains Distinct</li>
+                            <li>The Supreme Court distinguishes Marriage-like Relationships from Casual Cohabitation</li>
+                            <li>The Domestic Violence Act offers Strongest Statutory Protection</li>
+                            <li>Protection available, but no Automatic Matrimonial Rights</li>
+                            <li>Law strengthens Protection, requiring Marriage-like Relationship Proof</li>
+                            <li>Protection against Vulnerability, not Automatic Marital Status</li>
+                            <li>Conclusion: Clearer Statutory Framework without Marital Uncertainty</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION: HOW FAR SHOULD LAW PROTECT LIVE-IN RELATIONSHIPS?</h4>
+                        <p>Marriage has traditionally been the principal legal framework through which Indian law regulates intimate relationships, creating recognized rights and obligations relating to maintenance, residence, inheritance, legitimacy of children and protection from cruelty. But social relationships do not always fit neatly within that framework. Increasingly, adults choose to live together without undergoing a formal marriage ceremony.</p>
+                        <p className="mt-4">This creates an important legal question: does the absence of marriage mean the absence of legal rights? The answer under Indian law is neither a simple yes nor an unrestricted no. The Supreme Court has repeatedly recognized that two consenting adults may choose to live together, while simultaneously making it clear that not every live-in relationship is equivalent to marriage. The most important statutory development has been the Protection of Women from Domestic Violence Act, 2005 (“DV Act”), which expressly includes a “relationship in the nature of marriage” within the concept of a domestic relationship.</p>
+                        <p className="mt-4">The issue therefore lies at the intersection of personal liberty, gender justice and statutory interpretation. A woman who has lived for years with a partner, contributed financially or domestically to the household, and become economically dependent on him cannot simply be told that she has no legal remedy because there was no marriage. At the same time, the law cannot automatically create all the incidents of marriage merely from cohabitation. Indian courts have therefore developed a middle position: live-in relationships are lawful, but the availability of particular legal protections depends upon the nature and circumstances of the relationship. This distinction is central to understanding the present legal position.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. ADULTS CHOICE PROTECTED, BUT MARRIAGE REMAINS DISTINCT</h4>
+                        <p>The constitutional foundation of the law on live-in relationships is principally found in Articles 14 and 21 of the Constitution. Personal liberty includes important choices concerning relationships, companionship and the manner in which an adult chooses to organise his or her private life. In Lata Singh v. State of Uttar Pradesh, the Supreme Court recognised that a major woman is free to choose her partner and live with a person of her choice. Similarly, in S. Khushboo v. Kanniammal, the Court rejected the idea that consensual relationships between adults could, merely because they offended prevailing social morality, be treated as criminal conduct.</p>
+                        <p className="mt-4">More recently, the Delhi High Court has reiterated that consenting adults have a right to reside together according to their choice and that family or societal opposition cannot, by itself, justify interference with their liberty. In Nandakumar v. State of Kerala, the Supreme Court similarly emphasised that adults possess the liberty to choose their relationships and residence even where they have not entered into a formal marriage.</p>
+                        <p className="mt-4">These decisions are significant because they separate social morality from legal validity. A live-in relationship is not illegal simply because it is unconventional. But constitutional recognition of the choice to cohabit does not mean that the parties automatically acquire the same legal status as husband and wife. That distinction matters. A person cannot ordinarily claim every matrimonial benefit merely by saying that he or she lived with another person. Instead, the law examines the particular statutory right being claimed and the character of the relationship. This is why the expression “relationship in the nature of marriage”, rather than simply “live-in relationship”, has become so important in Indian jurisprudence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. THE SUPREME COURT DISTINGUISHES MARRIAGE-LIKE RELATIONSHIPS FROM CASUAL COHABITATION</h4>
+                        <p>The leading authority is D. Velusamy v. D. Patchaiammal, where the Supreme Court examined the expression “relationship in the nature of marriage” under Section 2(f) of the DV Act. The Court explained that such a relationship is broadly comparable to a common-law marriage and identified several important requirements: the parties should hold themselves out to society as being akin to spouses; they should be legally capable of marrying; they should otherwise be qualified to enter into a marriage; they should voluntarily cohabit for a significant period; and they should live together in a shared household. The Court specifically observed that merely spending weekends together or having a one-night relationship would not create a domestic relationship for the purposes of the Act.</p>
+                        <p className="mt-4">Indra Sarma v. V.K.V. Sarma, developed the analysis further. The Supreme Court identified factors such as the duration of the relationship, shared household, domestic arrangements, pooling of financial resources, sexual relationship, children, public representation of the relationship and the parties’ intention and conduct. These factors are not a rigid checklist. They are evidentiary indicators which help a court determine what the relationship actually was.</p>
+                        <p className="mt-4">This is an important point of legal analysis. The Court is not simply asking whether the couple lived under one roof. It is asking whether the substance of the relationship resembles the social and economic reality of marriage. The approach recognises that a long-term domestic partnership may generate dependency and vulnerability even without a marriage certificate. At the same time, it prevents every dating relationship or short-term cohabitation from being transformed into a statutory marriage-like relationship. The result is a fact-sensitive legal test rather than an automatic rule.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. THE DOMESTIC VIOLENCE ACT OFFERS STRONGEST STATUTORY PROTECTION</h4>
+                        <p>The principal legislation protecting women in such relationships is the Protection of Women from Domestic Violence Act, 2005. Section 2(f) defines “domestic relationship” to include persons who live or have lived together in a shared household and are related by marriage, consanguinity, adoption, or “through a relationship in the nature of marriage.” Section 2(a) defines an “aggrieved person” as a woman who is, or has been, in a domestic relationship with the respondent and alleges that she has been subjected to domestic violence.</p>
+                        <p className="mt-4">The significance is practical. Once a relationship satisfies the statutory requirements, the woman may seek several remedies under the Act. Domestic violence under Section 3 is deliberately broad and includes physical, sexual, verbal and emotional abuse as well as economic abuse. Sections 18 to 22 provide mechanisms for protection, residence, monetary relief and compensation. Thus, the law does not merely protect a woman from physical assault. It also recognises the economic and psychological dimensions of domestic abuse.</p>
+                        <p className="mt-4">In Prabha Tyagi v. Kamlesh Devi, the Supreme Court adopted a broad interpretation of the Act and clarified that an aggrieved woman need not necessarily be physically residing with the respondent at the exact time of seeking relief; what matters is the existence of the relevant domestic relationship and the connection of the alleged violence with that relationship. The Court also held that a Domestic Incident Report is not an absolute precondition to the Magistrate exercising jurisdiction under Section 12. For women leaving abusive relationships, this is particularly important. Separation does not necessarily erase remedies for violence that occurred during the relationship. The protective purpose of the legislation would otherwise be seriously weakened.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. PROTECTION AVAILABLE, BUT NO AUTOMATIC MATRIMONIAL RIGHTS</h4>
+                        <p>The question of maintenance illustrates the careful balance adopted by Indian courts. In Chanmuniya v. Virendra Kumar Singh Kushwaha, the Supreme Court considered whether a woman in a long-standing relationship resembling marriage could seek maintenance even where technical requirements of a valid marriage were disputed. The Court favoured a broad and socially beneficial interpretation of maintenance law, observing that a man should not be permitted to enjoy the advantages of a relationship resembling marriage while avoiding corresponding responsibilities simply by relying upon technical defects in marital status.</p>
+                        <p className="mt-4">Later decisions have continued to examine long-term cohabitation, social recognition and the circumstances in which a presumption of marriage may arise. In Kamala v. M.R. Mohan Kumar, the Supreme Court reiterated that where a man and woman have lived together for a long period as husband and wife, strict proof of marriage is not necessarily required at the same level in maintenance proceedings.</p>
+                        <p className="mt-4">Under the DV Act, monetary relief can also include expenses and losses arising from domestic violence and economic abuse. Residence is another important protection. Sections 17 and 19 of the DV Act recognise the right of a woman in a domestic relationship to reside in the shared household, subject to the statutory framework and judicial orders. Prabha Tyagi demonstrates how seriously the Supreme Court has treated this right.</p>
+                        <p className="mt-4">Yet one must avoid an important misconception: protection under the DV Act does not automatically make the woman the legal wife of her partner. Nor does cohabitation automatically give her an ownership share in property belonging solely to the partner. Succession and proprietary rights continue to be governed by applicable statutory and personal laws, wills, title documents and the nature of the property. The law therefore protects vulnerability without simply rewriting the parties’ legal status.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. LAW STRENGTHENS PROTECTION, REQUIRING MARRIAGE-LIKE RELATIONSHIP PROOF</h4>
+                        <p>The legal position is continuing to develop. A particularly significant recent decision is Lokesh B.H. v. State of Karnataka, decided on 3 August 2026. The Supreme Court considered whether the protection against cruelty under Section 498-A of the Indian Penal Code could extend to a live-in relationship. The Court held that Section 498-A can apply where the live-in relationship qualifies as a “relationship in the nature of marriage” and there is an intention to marry as an intrinsic part of that relationship. The Court carefully limited the ruling to Section 498-A IPC and stressed that not every live-in relationship would qualify. It also insisted upon safeguards against unnecessary arrest.</p>
+                        <p className="mt-4">The judgment is particularly interesting because the general criminal-law framework has changed since 1 July 2024: Section 85 of the BNS, 2023 now deals with cruelty by a husband or his relative, while Section 86 defines cruelty. The Supreme Court's decision therefore raises an important continuing question concerning how the principle applies within the new statutory framework.</p>
+                        <p className="mt-4">Another major development is the Uniform Civil Code, Uttarakhand, 2025 framework, under which live-in relationships are expressly regulated and registration mechanisms have been created. The official Uttarakhand UCC portal now provides a specific service for registration of live-in relationships, and its rules contain provisions concerning registration, termination and related rights. This represents a significant shift from purely judge-made recognition towards direct statutory regulation at the State level.</p>
+                        <p className="mt-4">At the same time, recent cases continue to emphasise that a live-in relationship cannot automatically be treated as marriage. For example, courts have continued to apply Indra Sarma where one partner was already married or where the relationship lacked the essential characteristics of marriage. The emerging trend is therefore not “live-in relationships are marriages”; it is closer to “certain marriage-like relationships deserve legal protection against exploitation.”</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. PROTECTION AGAINST VULNERABILITY, NOT AUTOMATIC MARITAL STATUS</h4>
+                        <p>The debate over live-in relationships is sometimes reduced to a misleading question: “Are they legal or illegal?” That is only the starting point. The more difficult question is what consequences follow from the relationship. Indian law increasingly recognises that formal marriage cannot be the sole gateway to protection from domestic violence, economic exploitation or abandonment. The DV Act is particularly important because it focuses on the nature of the domestic relationship and the harm suffered rather than insisting upon a marriage certificate in every case.</p>
+                        <p className="mt-4">Academic commentary on Indian live-in relationships has similarly highlighted the tension between individual autonomy and the vulnerability that may arise when a woman spends years in a relationship without independent financial security or formal matrimonial status. The Supreme Court itself acknowledged this concern in Indra Sarma, noting that women may face social disadvantage and vulnerability when such relationships break down and observing that existing law did not comprehensively regulate every consequence of non-marital cohabitation.</p>
+                        <p className="mt-4">The law nevertheless has limits. A woman in a casual relationship cannot ordinarily invoke every matrimonial remedy. A woman knowingly entering a relationship with a person who is already married may face serious difficulty in establishing a “relationship in the nature of marriage” under the Indra Sarma framework. Property inheritance is also not automatically created merely by cohabitation. These limitations are not necessarily contradictions. They reflect the courts’ attempt to protect genuine domestic dependency without converting every private relationship into a marriage in law. The recent decision in Lokesh B.H. demonstrates the next stage of this development: where the factual and legal requirements are satisfied, even criminal-law protection against cruelty may extend beyond formal marriage. The direction of Indian law is therefore towards substantive protection based on the reality of the relationship, while retaining formal distinctions where the legislature has deliberately maintained them.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. CONCLUSION: CLEARER STATUTORY FRAMEWORK WITHOUT MARITAL UNCERTAINTY</h4>
+                        <p>The answer to the title question is therefore clear: no marriage does not necessarily mean no rights, but neither does living together automatically create all the rights of marriage. Indian constitutional law protects the freedom of consenting adults to live together, while the DV Act provides significant protection to women whose relationships satisfy the statutory concept of a relationship in the nature of marriage. Depending upon the facts, remedies may include protection orders, residence rights, monetary relief, compensation and maintenance.</p>
+                        <p className="mt-4">Judicial decisions from Lata Singh, D. Velusamy, Chanmuniya, Indra Sarma, Nandakumar, Prabha Tyagi and, most recently, Lokesh B.H., show a gradual movement from judicial recognition of cohabitation towards more detailed legal protection. The Uttarakhand UCC framework demonstrates that the next stage may involve more direct statutory regulation of live-in relationships rather than relying primarily on judicial interpretation.</p>
+                        <p className="mt-4">The logical next step for Indian law is therefore not necessarily to equate every live-in relationship with marriage, but to create clearer rules concerning maintenance, property contributions, succession, separation, child welfare, registration and protection from abuse. For women especially, legal awareness is crucial: evidence of shared residence, financial contributions, household responsibilities, communications, public representation of the relationship and other circumstances may become important when establishing the nature of the relationship before a court. Ultimately, the law should neither punish adults for choosing a non-traditional domestic arrangement nor allow the absence of a marriage certificate to become a licence for exploitation. The real question is not whether a woman has a marriage certificate, but whether the law can adequately protect her dignity, security and legitimate interests when a domestic relationship breaks down.</p>
+                    </div>
+
+                    <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                        <h4 className="font-bold text-[#D4AF37] text-xl mb-3">KEYWORDS</h4>
+                        <p className="text-zinc-400">Live-in relationship, relationship in the nature of marriage, women's rights, domestic relationship, shared household, maintenance, residence rights, monetary relief, economic abuse, personal liberty, Article 21, Article 14, constitutional protection, child rights, succession, property rights.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">IMPORTANT AUTHORITIES / CITATIONS</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Lata Singh v. State of Uttar Pradesh, (2006) 5 SCC 475.</li>
+                            <li>S. Khushboo v. Kanniammal, (2010) 5 SCC 600.</li>
+                            <li>Nandakumar v. State of Kerala, (2018) 16 SCC 602.</li>
+                            <li>D. Velusamy v. D. Patchaiammal, (2010) 10 SCC 469; AIR 2011 SC 479.</li>
+                            <li>Indra Sarma v. V.K.V. Sarma, (2013) 15 SCC 755; (2014) 5 SCC (Civ) 440.</li>
+                            <li>Prabha Tyagi v. Kamlesh Devi, (2022) 8 SCC 90.</li>
+                            <li>Chanmuniya v. Virendra Kumar Singh Kushwaha, (2011) 1 SCC 141.</li>
+                            <li>Kamala v. M.R. Mohan Kumar, (2019) 11 SCC 491.</li>
+                            <li>Lokesh B.H. v. State of Karnataka, 2026 SCC OnLine SC 1470, decided 3 August 2026.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, Sections 85–86.</li>
+                            <li>Uniform Civil Code, Uttarakhand Rules, 2025, provisions regulating registration and termination of live-in relationships.</li>
+                            <li>Protection of Women from Domestic Violence Act, 2005, particularly Sections 2(a), 2(f), 2(s), 3, 12, 17–22 and 31.</li>
+                            <li>Lalita Toppo v. State of Jharkhand, (2019) 13 SCC 796.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Anand Moksh.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Sankalp Institute of Law/LL.B.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Should Judges Be Appointing Judges in a Democratic Country Like India – A Constitutional Debate: The Collegium v. NJAC",
+            author: "By Jahnavi Sharma",
+            abstract: "This article explores the ongoing debate over the collegium system for the appointment of judges. The system faces a major problem related to transparency, accountability, and deficits in the largest growing democracy in the world. There are major gaps and loopholes in the working of the system. There is an over-30 % vacancy rate in high courts, marking a flaw in the system. Through a comparative lens, the study examines the UK and US models of appointment. The article concludes that the selection process must change from a closed-door process to a merit-based model that gives representation to the democracy it serves.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Historical Aspect</li>
+                            <li>Current Procedures for Judicial Appointments</li>
+                            <li>NJAC</li>
+                            <li>Comparison With the Other Nations</li>
+                            <li>Issues With the Collegium System</li>
+                            <li>Analysis</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The debate over judicial appointments has continued since the 1990s. As the judiciary is considered the third pillar of democracy, its practice of appointing judges through the collegium system remains a subject of scrutiny.</p>
+                        <p className="mt-4">The key question is whether the judiciary can protect citizens without transparent checks in the judicial appointment process. The current collegium system, which allows judges to appoint judges with limited external oversight, lacks the transparency and accountability essential for upholding public trust in the judiciary. Therefore, judicial appointments should not be left solely in the hands of the judiciary itself, and meaningful checks and balances are necessary to preserve both judicial independence and democratic principles.</p>
+                        <p className="mt-4">The problem commenced when a judge was appointed above three senior-most judges. It had always been a convention from 1950 to 1973 to appoint the senior-most judge of the Supreme Court as the CJI.</p>
+                        <p className="mt-4">It was for the first time that Judge A.N. Ray was appointed as the chief justice, superseding three of the most senior judges of the SC. It is important to note that this appointment took place on April 25, 1973, just a day after the Supreme Court's landmark judgment in the Kesavananda Bharati case where the court upheld the basic structure doctrine of the Indian Constitution. A.N. Ray was amongst the 6 dissenting judges in the case, and the three judges (Justices Shelar, Hegde, and Grover) whom he superseded were on the majority side among the 7 other judges. This appointment was seen as politically motivated, as A. N. Ray was perceived to be favorable to the government during the emergency period.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORICAL ASPECT</h4>
+                        <p>The Collegium system is the system of appointment and transfer of judges that has evolved through judgments of the SC, and not by an Act of Parliament or by a provision of the Constitution.</p>
+                        <ul className="space-y-4 mt-4">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">First Judges Case (1981):</strong>
+                                <p>It reasoned that recommendations made by the CJI can be invalidated on reasonable grounds, giving more weight to the executive over the judiciary in judicial appointments for the next 12 years. Thus held that consultation does not equate to concurrence.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Second Judges Case (1993):</strong>
+                                <p>SC introduced the Collegium system, holding that “consultation” equates with “concurrence”. It added that it was not the CJI’s individual opinion, but an institutional opinion formed in consultation with the two senior-most judges in the SC.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">Third Judges Case (1998):</strong>
+                                <p>SC on the President's reference (Article 143) expanded the Collegium to a five-member body, comprising the CJI and four of his senior-most colleagues.</p>
+                            </li>
+                        </ul>
+                        <p className="mt-4">The SC collegium is headed by the CJI (Chief Justice of India) and comprises four other senior-most judges of the court. A High Court collegium is led by the incumbent Chief Justice and two other senior-most judges of that court.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CURRENT PROCEDURES FOR JUDICIAL APPOINTMENTS</h4>
+                        <ul className="space-y-4">
+                            <li><strong className="text-[#D4AF37]">For CJI:</strong> The President of India appoints the CJI and the other SC judges. As far as the CJI is concerned, the outgoing CJI recommends his successor. In practice, it has been strictly by seniority ever since the supersession controversy of the 1970s.</li>
+                            <li><strong className="text-[#D4AF37]">For SC Judges:</strong> For other judges of the SC, the proposal is initiated by the CJI. The CJI consults the rest of the Collegium members, as well as the senior-most judge of the court hailing from the High Court to which the recommended person belongs. The consultees must record their opinions in writing, and these should form part of the file. The Collegium sends the recommendation to the Law Minister, who forwards it to the Prime Minister to advise the President.</li>
+                            <li><strong className="text-[#D4AF37]">For Chief Justice of High Courts:</strong> The Chief Justice of the High Court is appointed as per the policy of having Chief Justices from outside the respective States. High Court judges are recommended by a Collegium comprising the CJI and two senior-most judges. The proposal, however, is initiated by the outgoing Chief Justice of the High Court concerned in consultation with two senior-most colleagues. The recommendation is sent to the Chief Minister, who advises the Governor to send the proposal to the Union Law Minister.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">NJAC</h4>
+                        <p>Immediately after, the Supreme Court Advocates-on-Record Association (SCAORA) challenged the constitutionality of the NJAC Act. The petition was heard by a five-judge bench in Supreme Court Advocates-on-Record Association v. Union of India from 27 April 2015. This has since come to be known as the Fourth Judges' case.</p>
+                        <p className="mt-4">The petitioners argued that the 99th Amendment violated the Basic Structure of the Constitution and undermined the independence of the judiciary. The Act was tested on whether it retains and preserves primacy in the decision-making process with the judiciary. The Union contended that two of the three sitting judges could exercise the veto on appointments.</p>
+                        <p className="mt-4">However, in October 2015, the Supreme Court struck down the amendment in a 4:1 majority. The majority opinion of Justice J.S. Khehar found this contention to be outright obnoxious because the veto power also extended to other members of the Constitution; it could, in fact, lead to a situation where the eminent persons could defeat the unanimous recommendation made by the Chief Justice of India and the two senior-most Judges of the Supreme Court.</p>
+                        <p className="mt-4">On the aspect of eminent persons, the Court found that their method of selection would advance the role of the executive. Further, there was no mention of the qualifications of such eminent persons. Therefore, their selection would be based on the free will of the nominating authorities. The Court considered this vagueness sufficient to declare Article 124A as unconstitutional. The majority further questioned the requirement of the CJI being considered fit by the executive, as that would conclusively open the door for supersession.</p>
+                        <p className="mt-4">The Court noted another instance where executive control meddled with the primacy of the judiciary. Section 8 of the Act provided that the Secretary of the Government of India would convene the NJAC. This was found to be unsustainable, mainly because the administrative functioning of a body involved in the appointment of judges should not be under executive control.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">COMPARISON WITH THE OTHER NATIONS</h4>
+                        <p>India is currently the only country in the world where a "Collegium" of judges has the final, binding word on judicial appointments.</p>
+                        <p className="mt-4">Most well-known democracies (UK, USA, South Africa, Germany) use a Collaborative Model where the executive and legislature have a significant role.</p>
+                        <p className="mt-4">In the United Kingdom, the appointment of judges follows a system of checks and balances; that is to say, a body that goes by the name of the 'Judicial Appointments Commission' is constituted to deal with the complaints lodged against appointments made by the 'Judicial Appointments Commission'.</p>
+                        <p className="mt-4">In America, the President is bestowed with the power to nominate judges. The names of prospective nominees are put forth by the members of the Senate. The Senate has a 'Judicial Committee' which undertakes confirmation hearings for every prospective nominee. A systematic assessment of qualifications to be possessed by the judicial nominees is provided to the Senate Judicial Committee by a standing committee of the American Bar Association.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ISSUES WITH THE COLLEGIUM SYSTEM</h4>
+                        <p>Statistics show that the Collegium system has struggled with diversity. From 2018–2022, nearly 79% of High Court judges were from the general category, and women remain significantly underrepresented. These figures suggest that the present system may perpetuate traditional biases, making it difficult for candidates from Scheduled Castes, Scheduled Tribes, Other Backward Classes, and minority communities to be appointed as judges in higher courts.</p>
+                        <p className="mt-4">Possible causes may include the lack of uniform criteria for selection, limited outreach to diverse pools of candidates, as well as informal networks or personal recommendations that may privilege certain backgrounds over others. This underrepresentation can lead to important perspectives being left out of judicial decision-making and may erode public confidence in the judiciary's ability to understand and respond to the experiences of all communities. If the judiciary does not reflect the diversity of the society it serves, it risks alienating segments of the population and failing to uphold the true spirit of equality as envisaged by the Constitution.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS</h4>
+                        <p>The judiciary is that body of government that has the power to change millions of lives by passing a verdict.</p>
+                        <p className="mt-4">No one is above the law and the Constitution. As the largest growing democratic country, we all must follow the principles laid down by the Constitution and the philosophy behind it. By the collegium system, we are somehow giving power into a few hands, which is ultimately not beneficial and justiciable to the citizens. While judicial appointments made by judges do not inherently imply bias, the system must be structured in a way that eliminates any loopholes or scope for potential bias.</p>
+                        <p className="mt-4">Why don’t we give the platform and opportunity to those who are meritorious and worthy of the position they deserve, and not to those who shake hands behind closed doors. As the constitution lays down the foundation to put the nation and its people above, why not give them this right in the judicial system and take away their idea of having fairness and trust in the judicial system.</p>
+                        <p className="mt-4">Let’s not seek fame and reputation, but develop a system for the people and their welfare; give them what they want: a trustworthy judiciary.</p>
+                        <p className="mt-4">When we know that the collegium system is not the right option, instead of waiting and hoping for a better tomorrow, why not create a third way that not only ensures unbiased appointments but also transparency, accountability, and impartiality in the system.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Kesavananda Bharati v State of Kerela (1973) 4 SCC 225</li>
+                            <li>SP Gupta v Union of India AIR 1982 SC 149</li>
+                            <li>Supreme Court Advocates on Record Association v Union of India (193) 4 SCC 441</li>
+                            <li>Special Reference No 1 of 1998, Re (1998) 7 SCC 739</li>
+                            <li>Supreme Court Advocates-on-Record Association v. Union of India (2016) 5 SCC 1</li>
+                            <li>Advay Vora, 'Why did the SC strike down the NJAC Act in 2015?' (Supreme Court Observer, 4 April 2025)</li>
+                            <li>S.G. Vombatkere, 'Credibility of India’s Justice System: Appointment, Promotion, Transfer of Judges' (LiveLaw, 13 January 2026)</li>
+                            <li>Sahiba Chopra, 'Judicial Appointments in India and Other Countries' (iPleaders, 19 April 2023)</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Jahnavi Sharma.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Banasthali vidyapith; BALLB</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Live-in Relationships and Changing Family Laws in India: Legal Recognition and Rights of Women",
+            author: "By Nikita Patidar",
+            abstract: "India's legal approach to live-in relationships has gradually shifted from judicial reluctance to recognition and, more recently, legislative intervention. The Supreme Court has recognise the live-in relationships between consenting adults as part of the Right to Life and Personal Liberty under Article 21 of the Constitution. Women in relationships “in the nature of marriage” have also received protection related to domestic violence and the maintenance, with the limited recognition of property right. A significant development in the area come with the Supreme Court’s decision in Lokesh B.H. v. State of Karnataka (2026), which extended the application of Section 85 and 86 of the Bharatiya Nyaya Sanhita, 2023, relating to cruelty by a husband or his relatives, to marriage like live-in relationships. This represents a notable expansion of criminal law protection for women in non-marital domestic relationships. At the legislative level, the Uniform Civil Code 2024, introduced by Uttarakhand and implemented in January 2025, marked the first state level framework in India to expressly regulate live-in relationships by requiring their registration and prescribing consequences for non-compliance. This development has, however, raised the significant concerns rating to privacy, individual autonomy, and constitution rights. Despite these developments, significant gaps remain including the absence of automatic inheritance rights, a clear framework for division of shared property, and comprehensive protection for same-sex couples. Thus, the legal statute of live-in relationships in India continues to evolve, raising important questions of equality, privacy, autonomy, and constitutional protection.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Meaning of Live-in Relationships</li>
+                            <li>Constitutional and statutory basis</li>
+                            <li>Evolution of Judicial Recognition: Landmark Cases</li>
+                            <li>Rights of Women in Live-in Relationships</li>
+                            <li>The Uttarakhand Uniform Civil Code: A Legislative Resolution</li>
+                            <li>Changing Family Laws</li>
+                            <li>Critical Gaps and Challenges</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>India's legal approach to live-in relationships has gradually shifted from judicial reluctance to recognition and, more recently, legislative intervention. The Supreme Court has recognise the live-in relationships between consenting adults as part of the Right to Life and Personal Liberty under Article 21 of the Constitution. Women in relationships “in the nature of marriage” have also received protection related to domestic violence and the maintenance, with the limited recognition of property right.</p>
+                        <p className="mt-4">A significant development in the area come with the Supreme Court’s decision in Lokesh B.H. v. State of Karnataka (2026), which extended the application of Section 85 and 86 of the Bharatiya Nyaya Sanhita, 2023, relating to cruelty by a husband or his relatives, to marriage like live-in relationships. This represents a notable expansion of criminal law protection for women in non-marital domestic relationships.</p>
+                        <p className="mt-4">At the legislative level, the Uniform Civil Code 2024, introduced by Uttarakhand and implemented in January 2025, marked the first state level framework in India to expressly regulate live-in relationships by requiring their registration and prescribing consequences for non-compliance. This development has, however, raised the significant concerns rating to privacy, individual autonomy, and constitution rights. Despite these developments, significant gaps remain including the absence of automatic inheritance rights, a clear framework for division of shared property, and comprehensive protection for same-sex couples. Thus, the legal statute of live-in relationships in India continues to evolve, raising important questions of equality, privacy, autonomy, and constitutional protection.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. MEANING OF LIVE-IN RELATIONSHIPS</h4>
+                        <p>A live-in relationships describe a situation where unmarried couples cohabit under the same roof, sharing domestic life and emotional interdependence, without formal marriage. Indian law doesn't explicitly define “live-in relationship” in any central statute. The term finds its closest statutory anchor in Section 2(f) of the Protection of Women from Domestic Violence Act, 2005 (PWDVA), which includes relationships “in the nature of marriage “ within the definition of “domestic relationship”.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Historical Antecedents</h5>
+                        <p>The concept is not alien to Indian tradition. Vedic scriptures recognise eight forms of marriage including Gandharava Vivaha – a union based on mutual consent without formal ritual, associated with the Gandharvas (celestial musician).While Manu characterised this form as arising from “lust,” it represents an ancient precursor to consensual for cohabitation outside formal marriage.</p>
+                        <p className="mt-4">During British Colonial rule, the Indian penal code, 1860 criminalised adultery (section 497), creating a hostile legal environment for non-marital cohabitation. Post-Independence, social transformation – urbanization, education, economic independence of women, gradually normalised live-in arrangements, particularly in metropolitan India.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. CONSTITUTIONAL AND STATUTORY BASIS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">3.1 Constitutional Foundation</h5>
+                        <p>Article 21 Right to Life and Personal Liberty is the primary constitutional basis. The Supreme Court has interpreted article 21 to encompass:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>The right of adults to cohabit a partner of their choice, irrespective of marital status.</li>
+                            <li>The right to privacy in personal relationships (reinforced by Justice K.S. Puttaswamy v. Union of India 2017)</li>
+                            <li>The right live with dignity, which included protection from abuse even outside formal marriage.</li>
+                        </ul>
+                        <p className="mt-4">Article 14 Equality Before Law support the argument that women in live-in relationships cannot be denied protections available to married women when the substance of the relationship is equivalent.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3.2 Key Statutory Provisions</h5>
+                        <div className="overflow-x-auto mt-4">
+                            <table className="w-full text-left border-collapse border border-white/10">
+                                <thead>
+                                    <tr className="bg-black/50">
+                                        <th className="border border-white/10 p-3 text-white">Statute</th>
+                                        <th className="border border-white/10 p-3 text-white">Provisions</th>
+                                        <th className="border border-white/10 p-3 text-white">Relevance to Live-in Relationships</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td className="border border-white/10 p-3">Protection of Women from Domestic Violence Act, 2005</td>
+                                        <td className="border border-white/10 p-3">Section 2(f)</td>
+                                        <td className="border border-white/10 p-3">Defines “domestic relationships” to include relationships “in the nature of marriage”</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="border border-white/10 p-3">Protection of Women from Domestic Violence Act, 2005</td>
+                                        <td className="border border-white/10 p-3">Section 2(a)</td>
+                                        <td className="border border-white/10 p-3">Defines “aggrieved person” any woman in a domestic relationship</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="border border-white/10 p-3">Protection of Women from Domestic Violence Act, 2005</td>
+                                        <td className="border border-white/10 p-3">Section 20</td>
+                                        <td className="border border-white/10 p-3">Monetary relief/maintenance for aggrieved persons</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="border border-white/10 p-3">BNSS, 2023</td>
+                                        <td className="border border-white/10 p-3">Section 144</td>
+                                        <td className="border border-white/10 p-3">Maintenance for wives, children, parents – Judicially extended to live-in partners</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="border border-white/10 p-3">BNS, 2023</td>
+                                        <td className="border border-white/10 p-3">Section 85</td>
+                                        <td className="border border-white/10 p-3">Cruelty by husband or relatives – extended to live-in relationships by Lokesh B.H. (2026)</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="border border-white/10 p-3">Uniform Civil Code of Uttarakhand, 2024</td>
+                                        <td className="border border-white/10 p-3">Sections 378-388</td>
+                                        <td className="border border-white/10 p-3">First statutory definition, mandatory registration, maintenance and legitimacy of children</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. EVOLUTION OF JUDICIAL RECOGNITION: LANDMARK CASES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">4.1 Early Foundation: The Presumption of Marriage</h5>
+                        <p>In Andrahennedige Dinohamy v. Wijetunge Liyanapatabendige Balahamy, [1927], the Privy Council observed: “Where a man and a women are proved to have lived together as man and wife, the law will presume unless the contrary B clearly proved, that they were living together in consequence of a valid marriage and not in a state of concubinage”. This presumption became the bedrock for subsequent Indian jurisprudence.</p>
+                        <p className="mt-4">In Badri Prasad v. Deputy Director of Consolidation [1978], the Supreme Court for the first time upheld the validity of a live-in relationship by presuming marriage from long cohabitation. The court held that a couple living together as husband and wife for a long time would be presume the married, and this presumption is rebuttable.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4.2 Establishing Legality and Personal Liberty</h5>
+                        <p>In Lata Singh v. State of U.P. [2006], the Supreme Court upheld the right of an adult woman to marry anyone she likes or live with anyone she likes, and directed police to provide protection to inter-cast couples from harassment. This judgement laid the groundwork for extending similar protection to live-in relationships.</p>
+                        <p className="mt-4">In S. Khushboo v. Kanniammal [2010], the Supreme Court categorically held that live-in relationships between consenting adults are not illegal. The court stated, live-in or marriage-like relationship is neither a crime nor a sin though socially unacceptable in this country. The court held that there is no law prohibiting pre-marital sex or cohabitation, and Article 21 protects the right to live together.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. RIGHTS OF WOMEN IN LIVE-IN RELATIONSHIPS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">5.1 Protection against domestic violence</h5>
+                        <p>The PWDVA, 2005 is the primary protective statute. Women in live-in relationships qualify as “aggrieved persons” under section 2(a), and can seek:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Protection orders (Section 18): Restraining the partner from committing acts of violence</li>
+                            <li>Residence orders (Section 19): The right to continue residing in the shared household, this is crucial as women often face eviction after separation</li>
+                            <li>Monetary relief (Section 20): Compensation for medical expenses, loss of earnings, damage of property</li>
+                            <li>Custody order (Section 21): Temporary custody of children</li>
+                            <li>Compensation order (Section 22): Damages for injuries including mental torture and emotional distress</li>
+                        </ul>
+                        <p className="mt-4">The DV Act's protection is gender-specific it applies only to women in heterosexual relationships. Same-sex couples have no statutory protection under Indian law as of 2026.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">5.2 Maintenance Rights</h5>
+                        <p>Women in qualifying live in relationships can claim maintenance through legal Avenue:</p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-2">
+                            <li>Section 125 CrPC (now section 144 BNSS): The Supreme Court in Chanmuniya v. Virendra Kumar Singh Kushwaha [2011], extended maintenance to women in live in relationships akin to marriage. This is a quasi-criminal proceeding with a maximum maintenance of ₹5,000/month (though courts often exceed this in practice).</li>
+                            <li>Section 20, PWDVA: Provides broader monetary relief, includes rents, utilities, medical expenses, and educational costs. Protection Officers and Magistrate enforce these orders.</li>
+                            <li>Uttarakhand UCC, Section 388: If a woman is deserted by her live-in partner, she is entitled to claim maintenance applying matrimonial maintenance principles mutatis mutandis, the first statutory provision explicitly granting maintenance to live-in partners.</li>
+                        </ol>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">5.3 Property and Inheritance Rights</h5>
+                        <p>The most significant legal gap.</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>No automatic inheritance rights under the Hindu Succession Act,1956, or the Indian Succession Act, 1925. If a live-in partner dies intestate, their estate goes to legal heirs, parents, siblings, children not to the surviving partner regardless of relationship duration.</li>
+                            <li>Judicial exceptions: In Dhannulal v. Ganeshram [2015], a live-in partner may acquire rights to property accumulated during the relationship if they can demonstrate contribution to its acquisition.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">5.4 Criminal Law Protection</h5>
+                        <p>Prior to Lokesh B.H. [2026], criminal law protection for women in live-in relationships was limited to:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Section 498A IPC / Section 85 BNS: Now applies to marriage like live-in relationships</li>
+                            <li>BNS offences: Section 67 (physical cruelty), Section 228 (harassment/stalking) Section 357 (psychological distress)</li>
+                            <li>Bigamy: Section 494 BNS (if the partner concealed an existing marriage)</li>
+                            <li>Cheating: Section 419 BNS (if the partner fraudulently promised marriage)</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. THE UTTARAKHAND UNIFORM CIVIL CODE: A LEGISLATIVE RESOLUTION</h4>
+                        <p>The Uniform Civil Code of Uttarakhand Act, 2024 (passed February 2024, implemented 27 January 2025) is the first statute in India to explicitly define, recognise, and regulate live-in relationships. It is represents a paradigm shift from judicial recognition to legislative intervention.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">6.2 Key Provisions</h5>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Section 378: Mandatory filing of a “Statement of a Live-in Relationship” within 30 days of cohabitation.</li>
+                            <li>Section 380: Relationships that cannot be registered (e.g., where parties are within prohibited degrees, or one party is already married)</li>
+                            <li>Section 381: Registrar's powers: Summary inquiry, summoning partners, verification of age, marital status, consent. If either party is under 21, parents/guardians must be informed</li>
+                            <li>Section 379: Child born of a live-in relationship deemed legitimate</li>
+                            <li>Section 388: Deserted women entitle to claim maintenance</li>
+                            <li>Penalties: Failure to register: up to 3 months imprisonment + ₹10,000 fine. False information: up to 3 months + ₹25,000 fine. Non-compliance with Registrar's notice: up to 6 month + ₹25,000 fine.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">6.3 Registration Requirements</h5>
+                        <p>The rules requires:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Photographs, PAN, Adhaar linked to phone number, proof of residence.</li>
+                            <li>If either party partner is 18-21: parent/guardian Aadhaar-linked phone number and address</li>
+                            <li>Disclosure of all prior relationship (married, divorced, separated, widowed, prior live- in) must supporting documentation</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">6.4 Termination</h5>
+                        <p>Under the UCC, couples cannot simply “move out”. They must file a “Statement of Termination” with the Registrar. If the women was dependent, she can file for alimony or interim maintenance during separation, similar to divorce proceedings.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. CHANGING FAMILY LAWS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">7.1 The Malimath Committee (2003)</h5>
+                        <p>The Committee on Reforms of Criminal Justice System recommended in 2003 that the definition of “wife” in Section 125 CrPC be amended to include a woman living with a man as his wife for a reasonable long period, even during the subsistence of a first marriage. This was one of the earliest formal recommendation for legislative recognition of living relationships. The recommendation has not been implemented at the central level.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.2 The 2023 New Criminal Laws</h5>
+                        <p>The Bhartiya Nyaya Sanhita, 2023 (BNS), Bhartiya Nagrik Suraksha Sanhita, 2023 (BNSS) and Bhartiya Sakshya Adhiniyam, 2023 (BSA), which replaced the IPC, CrPC, and Indian Evidence Act from 1 July 2024 broadly retained the same framework:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Section 144 BNSS corresponds to Section 125 CrPC (maintenance)</li>
+                            <li>Section 85 BNS corresponds to Section 498A IPC (cruelty)</li>
+                            <li>Section 114 BSA corresponds to Section 114 Evidence Act (presumption)</li>
+                        </ul>
+                        <p className="mt-4">The new laws do not specifically address live-in relationships, but the judicial interpretations under the old provisions are expected to apply by analogy.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">7.3 The Ongoing Legislative Gap</h5>
+                        <p>Despite judicial progress and the Uttarakhand UCC, there is no central legislation specifically governing live-in relationships. The 2026 ResearchGate publication on Indian family law in transition emphasises the tension between personal law and constitutional mandates, arguing that the judiciary has been forced to fill a legislative vacuum that Parliament should address.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. CRITICAL GAPS AND CHALLENGES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">8.1 The Inheritance Gap</h5>
+                        <p>No automatic inheritance rights for live-in partners remains the most significant legal deficiency. The judicial exception are limited to cases of very long term cohabitation and require overcoming the presumption against inheritance. Most women in live-in relationships who are abandon after their parent's death have no statutory claim to property.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">8.2 The Separation Vacuum</h5>
+                        <p>Unlike divorce, there is no formal legal process for separation of live-in couples:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>No automatic division of assets</li>
+                            <li>No court-mandated maintenance (except under PWDVA in limited circumstances)</li>
+                            <li>No formal process for dividing shared property, disputes go to civil court as partition suits, which can take years</li>
+                            <li>No equivalent of “divorce by mutual consent” for a clean break</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">8.3 Banking and Financial Infrastructure</h5>
+                        <p>Despite the Supreme Court’s recognition of live-in relationships, the financial system is not adopted:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Most banks refuse to open joint saving accounts for unmarried couples</li>
+                            <li>Health insurance policies define “spouse” as a legally married partner</li>
+                            <li>EPF nomination rules define “family member” as spouse, children, or dependent parents, live-in partners do not qualify</li>
+                            <li>A nominee is not the legal owner of money, they received it as trustee for legal heirs</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. CONCLUSION</h4>
+                        <p>The journey of live-in relationships in India shows how our society and laws are trying to catch up with modern realities. For years, our courts did the heavy lifting. By using Article 21 of the Constitution, judges stepped in to protect couples, ensuring that women in long-term relationships weren't left stranded and had access to basic rights like domestic violence protection and maintenance.</p>
+                        <p className="mt-4">But right now, we are stuck in a strange contradiction. On one hand, recent rulings continue to expand safety nets for women. On the other hand, legislative attempts like the Uttarakhand Uniform Civil Code have complicated things. While it tries to formalize these unions, it introduces mandatory registrations, heavy fines, and parental alerts. This unfortunately shifts the focus from protecting people to policing them, directly clashing with the right to privacy and personal freedom that our highest courts have promised.</p>
+                        <p className="mt-4">Beyond the policing, women still face massive practical hurdles. Because there is no central law, a woman in a live-in relationship still has no automatic right to inherit property if her partner passes away, no easy way to split shared assets if they break up, and faces constant rejections from banks and insurance companies that only recognize a traditional marriage certificate.</p>
+                        <p className="mt-4">Moving forward, India needs to stop treating live-in relationships with suspicion or heavy-handed rules. What we truly need is a balanced central law that focuses on financial security and social safety rather than surveillance. Real progress will only happen when our legal system learns to protect a vulnerable partner without destroying the very freedom and privacy that brought the couple together in the first place.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Cases</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                                    <li>Andrahennedige Dinohamy v. Wijetunge Liyanapatabendige Balahamy [1927]</li>
+                                    <li>Badri Prasad v. Deputy Director of Consolidation [1978]</li>
+                                    <li>Lata Singh v State of U.P. [2006]</li>
+                                    <li>Lokesh B.H. v State of Karnataka [2026]</li>
+                                    <li>Puttaswamy v. Union of India [2017]</li>
+                                    <li>S. khushboo v Kanniammal [2010]</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Legislation</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                                    <li>Bharatiya Nagrik Surksha Sanhita 2023</li>
+                                    <li>Bharatiya Nyaya Sanhita 2023</li>
+                                    <li>Bhartiya Sakshya Adhiniyam 2023</li>
+                                    <li>Constitution of India 1949</li>
+                                    <li>Criminal Procedure Code 1973</li>
+                                    <li>Hindu Succession Act 1956</li>
+                                    <li>Indian Evidence Act 1872</li>
+                                    <li>Indian Penal Code 1860</li>
+                                    <li>Indian Succession Act 1925</li>
+                                    <li>Protection of Women from Domestic Violence Act 2005</li>
+                                    <li>Uniform Civil Code of Uttarakhand Act 2024</li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] mb-2">Secondary Sources</h5>
+                                <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                                    <li>The Malimath Committee 2003</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Nikita Patidar.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">IPS ACADEMY BA LLB</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Marital Rape: Do Husbands Have Full Authority Over Their Wives That They Lose the Right to Say 'No'?",
+            author: "By Jetashree Mayengbam",
+            abstract: "Sex without consent is rape; this is common knowledge. According to the law, rape is defined under Section 63 of the BNS, which states, 'A man is said to commit rape if he penetrates or inserts his penis or any object, or applies his mouth to any part of the body of a woman, including the vagina, urethra, anus, and mouth, without her consent, or if consent is obtained through misrepresentation, fraud, or under pressure or threat.' There are also exceptions given under the same section, particularly Exception 2. Sexual intercourse or sexual acts by a man with his own wife, where the wife is not under eighteen years of age, is not considered rape. The term “marital rape” exists because marital rape exists. Under Exception 2 of the BNS, sexual intercourse with a wife below the age of eighteen would constitute rape, which is termed “marital rape.”",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Background</li>
+                            <li>Issues</li>
+                            <li>Analysis</li>
+                            <li>Constitutional Obligation</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic my-4 text-white/80">"Women in most parts of the world are treated as individuals, free to enter into contracts in their own right, but when it comes to sexual communion with their husbands, their consent counts for nothing." <br />— By Justice Rajiv Shakdher.</blockquote>
+                        <p>We live in a society where the rape of an unmarried woman is considered rape, but rape by a husband of his married wife is protected. This reflects the double standard of society, as highlighted by Justice Rajiv Shakdher. India is a land where the mother is worshipped, but the same woman can be raped by her husband.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">BACKGROUND</h4>
+                        <p>From the time of the Britishers, and much before that, India has been a patriarchal society. It is a society dominated by men, where women are treated as property. British law made provisions criminalising marital rape when the wife was under ten years of age. In the case of Empress v. Hari Mohan Maiti (1890), a young bride died while her husband, an adult man, attempted to have sexual intercourse with her. The husband was protected under the IPC exception, as the statutory age of consent at that time was ten years old. The case contributed significantly to the enactment of the Age of Consent Act, 1891, which increased the age of consent from ten to twelve years.</p>
+                        <p className="mt-4">After independence, there was a case named Independent Thought v. Union of India (2017), which again raised the age from fifteen years to eighteen years. The Court held that a girl below eighteen years of age remains a child, irrespective of whether she is married or unmarried. Therefore, marriage cannot deprive her of the protection available under criminal law.</p>
+                        <p className="mt-4">In the case of Hrishikesh Sahoo v. State of Karnataka (2022), the Karnataka High Court held that the exception was regressive and violated the right to equality by treating the wife as subordinate to her husband.</p>
+                        <p className="mt-4">Later, a judgment resulting in a split verdict came in the case of RIT Foundation v. Union of India (2022), where a Bench comprising Justices Rajiv Shakdher and C. Hari Shankar delivered a split verdict in the case. Justice Shakdher stated that the exception was unconstitutional as it was discriminatory and violated a woman’s bodily autonomy and freedom of expression. On the other hand, Justice Shankar held that, within the institution of marriage, sexual relations, whether consensual or non-consensual, were a legitimate expectation, making the exception to rape legally valid. Both judges granted permission to the parties to appeal the decision before the Supreme Court.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ISSUES</h4>
+                        <p>The law has properly defined rape but has an exception for married women. Several issues arise regarding this exception, and they are:</p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-2 mb-4">
+                            <li>Does consent to marriage result in the dissolution of the fundamental rights of women under Articles 14, 15 & 21?</li>
+                            <li>Does marriage give full immunity to a husband to rape his wife?</li>
+                            <li>By providing this exception, are women socially and legally considered subordinate to their husbands?</li>
+                            <li>Is the definition of marriage only about having sex, or is sex something necessary in marriage?</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS</h4>
+                        <p>Married women under eighteen years of age are protected by the law, but what about the others? A woman can seek protection under the Protection of Women from Domestic Violence Act, 2005, and under Section 85 of the BNS. There is no other provision specifically protecting women from marital rape, nor is marital rape criminalized.</p>
+                        <p className="mt-4">The reason for not criminalizing marital rape could be anything, including the possibility of misuse, as there are allegations of false rape cases, such as in Jagmohini v. State of Delhi (2013). Between a husband and wife, there may be difficulties in proving whether the sexual act was performed without consent. However, that does not mean that marital rape does not exist.</p>
+                        <p className="mt-4">Due to this exception, many husbands are immune from prosecution for rape of their wives, such as in the case of Gorakhnath Sharma v. State of Chhattisgarh. The husband of the deceased woman was alleged to have subjected his wife to non-consensual sexual and unnatural acts. The wife subsequently became seriously ill and later died. The Chhattisgarh High Court acquitted a husband convicted under Sections 376, 377 and 304 of the IPC, holding that the marital exception under Section 375 of the IPC protected sexual acts between a husband and his major wife and that the evidence was insufficient to sustain the Section 304 conviction.</p>
+                        <p className="mt-4 italic text-white/80 border-l-4 border-[#D4AF37] pl-4">The question that arises is: how long is a woman bound to suffer from this kind of cruelty?</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL OBLIGATION</h4>
+                        <p>Constitutionally, married women are also deprived of their right to equality under Article 14, where an unmarried woman and a minor married woman are protected, but the remaining married women are not. Not only Article 14 but also Articles 15 and 21 are relevant. Article 15 of the Constitution prohibits discrimination on the basis of sex.</p>
+                        <p className="mt-4">By legalizing marital rape, women are conventionally made subordinate to their husbands. Lastly, Article 21 provides protection of life and personal liberty. The Supreme Court interprets personal liberty as including the liberty of the body, and rape is a violation of Article 21.</p>
+                        <p className="mt-4">The Britishers have gone, but their laws are still present even after being changed into the BNS, 2023. It is also the fault of society and the beliefs that have led women to suffer such cruelty. Since India has been a patriarchal society for a long time, it is difficult for society to differentiate between what is normal and what is patriarchal.</p>
+                        <p className="mt-4">The Indian Hindi-language drama web series ‘Chiraiya’ is also a reflection of society and how people think about and expect certain things from women. The movie was an eye-opener for society about the existence of violence against women.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>It is quite impressive that the Indian judiciary finally delivered a verdict in the case of RIT Foundation v. Union of India (2022), which was something new in the history of Indian jurisprudence. Although the Supreme Court has not yet delivered the final ruling, the law has been improving since then by criminalizing sexual intercourse with married girls below ten years of age, then below twelve years, and now below eighteen years.</p>
+                        <p className="mt-4">Society is progressing, but the process is slow. The fact that the law cannot be ahead of its time, or else it would be vague, means that society also needs time to change. It is society that we have to wait for to change.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>S. 375 of Indian Penal Code, 1860</li>
+                            <li>S. 375, Exception 2 of the Indian Penal Code ('IPC'), 1860</li>
+                            <li>Split Verdict on Criminalisation of Marital Rape | SCC Times</li>
+                            <li>Empress v. Hari Mohan Maiti</li>
+                            <li>Challenge to the Marital Rape Exception - Supreme Court Observer</li>
+                            <li>RIT Foundation v. Union of India, 2022 SCC Online Del 1404 (pending before Supreme Court)</li>
+                            <li>Jagmohini vs State (Gnct of Delhi) & Ors. on 6 August, 2013</li>
+                            <li>Constitutional law, Bare Act</li>
+                            <li>A.K. Gopalan v. The State of Madras</li>
+                            <li>Shri Bodhisattwa Gautam vs Miss Subhra Chakraborty on 15 December, 1995</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Jetashree Mayengbam.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Ims Unison university, Ballb</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "LIVE-IN RELATIONSHIPS AND CHANGING FAMILY LAW IN INDIA: Legal Recognition, Protection and the Evolving Meaning of Family",
+            author: "By Anju",
+            abstract: "The Indian family is no longer understood only through the traditional institution of marriage. Urbanisation, education, economic independence and changing social attitudes have made live-in relationships increasingly visible. In a live-in relationship, two adults choose to live together as partners without formally marrying. Indian law does not generally treat such a relationship as identical to marriage, but courts have gradually recognised that adults have a degree of autonomy in choosing how they organise their private lives. This has created an important legal question: how far should the law protect people who live together without entering into a formal marriage?",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional Foundation: Privacy, Liberty and Choice</li>
+                            <li>Judicial Recognition of Live-in Relationships</li>
+                            <li>Protection of Women under the Domestic Violence Act</li>
+                            <li>Maintenance: A Major Area of Uncertainty</li>
+                            <li>Children, Legitimacy and Family Rights</li>
+                            <li>Recent Judicial Approach and the Need for Legal Clarity</li>
+                            <li>Social Morality versus Constitutional Morality</li>
+                            <li>Conclusion</li>
+                            <li>Key Legal Authorities Referred To</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The Indian family is no longer understood only through the traditional institution of marriage. Urbanisation, education, economic independence and changing social attitudes have made live-in relationships increasingly visible. In a live-in relationship, two adults choose to live together as partners without formally marrying. Indian law does not generally treat such a relationship as identical to marriage, but courts have gradually recognised that adults have a degree of autonomy in choosing how they organise their private lives. This has created an important legal question: how far should the law protect people who live together without entering into a formal marriage?</p>
+                        <p className="mt-4">The issue becomes particularly important when a live-in relationship breaks down. Questions may arise about maintenance, domestic violence, residence, legitimacy and welfare of children, inheritance, property and protection from abuse. The law therefore faces a difficult balance. On one hand, the State should respect personal autonomy and should not impose marriage as the only acceptable form of family life. On the other hand, legal protection cannot automatically be extended to every relationship merely because two people lived together.</p>
+                        <p className="mt-4">This article argues that Indian family law is moving towards a functional approach: legal protection should depend not simply on the label of the relationship, but on its nature, duration, conduct of the parties and the degree of commitment and dependence involved. At the same time, Parliament should provide clearer statutory rules so that vulnerable partners do not have to depend entirely on judicial interpretation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL FOUNDATION: PRIVACY, LIBERTY AND CHOICE</h4>
+                        <p>The constitutional basis for recognising live-in relationships lies mainly in the protection of personal liberty, dignity, privacy and decisional autonomy. Article 21 of the Constitution protects life and personal liberty. Over time, the Supreme Court has interpreted Article 21 broadly to include aspects of individual choice and privacy. In Shafin Jahan v. Asokan K.M. (2018), the Supreme Court strongly affirmed the autonomy of an adult to choose a partner. Although the case concerned marriage and religious conversion, its reasoning is relevant to the broader principle that intimate choices of competent adults receive constitutional protection.</p>
+                        <p className="mt-4">Similarly, in S. Khushboo v. Kanniammal (2010), the Supreme Court dealt with public criticism surrounding premarital sex and live-in relationships. The Court observed that a person's personal choices in matters of relationships cannot, by themselves, become the basis for criminal prosecution merely because sections of society consider them immoral. The judgment is significant because it distinguished social morality from constitutional legality.</p>
+                        <p className="mt-4">However, constitutional protection of a relationship does not mean that every live-in relationship receives every legal consequence of marriage. The Constitution protects individual choice, but legislation determines specific rights such as succession, maintenance and matrimonial status. Therefore, the courts have generally adopted a middle path: protecting adults from violence and exploitation while avoiding the conclusion that cohabitation automatically creates a marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL RECOGNITION OF LIVE-IN RELATIONSHIPS</h4>
+                        <p>Indian courts have developed the law on live-in relationships largely through case-by-case interpretation. In Badri Prasad v. Dy. Director of Consolidation (1978), the Supreme Court recognised a long period of cohabitation as capable of giving rise to a presumption in favour of marriage. The decision did not create a general rule that every live-in relationship is a marriage, but it showed that the law can recognise the social consequences of long-term cohabitation.</p>
+                        <p className="mt-4">In D. Velusamy v. D. Patchaiammal (2010), the Supreme Court considered the expression "relationship in the nature of marriage" under the Protection of Women from Domestic Violence Act, 2005. The Court indicated that not every casual or short-term relationship would qualify. Factors such as the duration of the relationship, shared household, holding themselves out as spouses, pooling of resources and the parties' domestic arrangements were relevant.</p>
+                        <p className="mt-4">The Court developed this reasoning further in Indra Sarma v. V.K.V. Sarma (2013). It explained that a woman in a relationship in the nature of marriage may receive protection under the Domestic Violence Act, but the statutory protection has limits. The Court identified several factors that may help determine whether a relationship resembles marriage, including the duration of the relationship, shared household, financial arrangements, domestic responsibilities, sexual relationship and the intention and conduct of the parties.</p>
+                        <p className="mt-4">This approach is important because it prevents two extremes. The first extreme would be to deny all legal protection simply because the parties did not marry. The second would be to treat every instance of cohabitation as equivalent to marriage. The "relationship in the nature of marriage" test attempts to identify relationships involving a substantial domestic partnership.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PROTECTION OF WOMEN UNDER THE DOMESTIC VIOLENCE ACT</h4>
+                        <p>The Protection of Women from Domestic Violence Act, 2005 is one of the most important statutes for live-in relationships. Its significance lies in the expression "relationship in the nature of marriage". The legislation therefore recognises that domestic abuse can occur outside a formally registered marriage and that legal protection should not disappear merely because a woman is unmarried.</p>
+                        <p className="mt-4">The Act provides remedies including protection orders, residence-related relief and monetary relief. This is particularly important because the end of a live-in relationship can create economic and housing insecurity. A woman who has contributed to a shared household may face serious hardship even though she does not have the formal status of a wife.</p>
+                        <p className="mt-4">At the same time, the law does not make every live-in relationship automatically equivalent to marriage. Courts examine the facts. A relationship that is purely casual, temporary or lacking the characteristics of a domestic partnership may not satisfy the statutory requirement.</p>
+                        <p className="mt-4 italic text-white/80 border-l-4 border-[#D4AF37] pl-4">In my view, this distinction is justified. The purpose of protective legislation is to prevent exploitation, not to create a new form of automatic marriage. However, the factual test can sometimes be uncertain. Two courts may assess similar relationships differently, creating unpredictability for parties. Legislative clarification and clearer judicial guidelines would therefore improve consistency.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MAINTENANCE: A MAJOR AREA OF UNCERTAINTY</h4>
+                        <p>Maintenance is one of the most sensitive issues in live-in relationships. A person may become financially dependent on a partner after years of cohabitation, but the absence of a formal marriage can make the legal position uncertain.</p>
+                        <p className="mt-4">The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), which replaced the Code of Criminal Procedure framework from 1 July 2024, contains Section 144 on maintenance of wives, children and parents. The provision expressly refers to a "wife", so it does not simply place every live-in partner in the same category as a legally married wife. However, claims arising from a relationship in the nature of marriage may still be examined under the Domestic Violence Act where its requirements are satisfied.</p>
+                        <p className="mt-4">This distinction illustrates a broader problem in Indian family law. Different statutes use different concepts: wife, woman in a domestic relationship, child and relationship in the nature of marriage. As a result, a person may receive one form of protection without receiving all the legal consequences of marriage.</p>
+                        <p className="mt-4">Recent Supreme Court proceedings also show that the question remains live. In August 2025, the Supreme Court issued notice in a matter where a maintenance claim involved an asserted live-in relationship and the petitioner argued that such a relationship could not sustain a maintenance claim under the then applicable Section 125 CrPC. The proceedings demonstrate that maintenance rights in live-in relationships continue to raise questions requiring careful judicial determination.</p>
+                        <p className="mt-4">The better approach is to focus on economic vulnerability and the actual nature of the relationship rather than using marriage as the only measure of deservingness. At the same time, Parliament should expressly clarify the circumstances in which long-term cohabiting partners may claim maintenance, so that vulnerable persons are not left dependent on uncertain litigation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CHILDREN, LEGITIMACY AND FAMILY RIGHTS</h4>
+                        <p>The law has generally moved towards protecting children from the consequences of the relationship status of their parents. A child should not be deprived of basic dignity, maintenance or welfare because the parents chose not to marry. This principle is consistent with the constitutional emphasis on equality and the best interests of children.</p>
+                        <p className="mt-4">The Supreme Court has also recognised that long-term cohabitation can generate legal presumptions concerning the status of the parties. In cases involving prolonged cohabitation, courts have sometimes presumed marriage when the evidence supports it. This prevents a person from benefiting from the social appearance of marriage while later denying every consequence of the relationship.</p>
+                        <p className="mt-4">However, succession and inheritance remain more complicated. Formal marriage can determine spousal inheritance under personal laws, whereas a live-in partner does not automatically acquire identical succession rights merely through cohabitation. This can create serious problems when property is accumulated jointly or when one partner dies without adequate planning.</p>
+                        <p className="mt-4">A modern family-law framework should therefore distinguish between three questions: the rights of children, the protection of vulnerable partners, and the creation of automatic matrimonial status. Children should receive strong protection irrespective of the parents' marital status. Vulnerable partners should receive effective remedies where the relationship has the characteristics of a committed domestic partnership. But automatic inheritance or spousal status should be created by clear legislation rather than uncertain judicial extension.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT JUDICIAL APPROACH AND THE NEED FOR LEGAL CLARITY</h4>
+                        <p>The recent direction of the Supreme Court shows both recognition of personal choice and caution against judicially rewriting legislation. In a judgment delivered in April 2025, the Court considered a long relationship involving cohabitation and observed that courts should not adopt a pedantic approach when assessing whether parties consciously chose to live together. The Court treated the length and circumstances of the relationship as relevant to determining consent and the nature of the relationship.</p>
+                        <p className="mt-4">At the same time, the Supreme Court has reiterated that "relationship in the nature of marriage" cannot simply be treated as synonymous with every "live-in relationship". A January 2026 judgment stressed that courts cannot effectively legislate through interpretation by replacing the statutory phrase with a broader category.</p>
+                        <p className="mt-4">This tension is healthy. Courts must protect constitutional rights, but they must also respect the boundary between interpretation and legislation. The judiciary can interpret existing protections in a manner consistent with dignity and equality; Parliament, however, is better placed to establish a comprehensive framework for maintenance, inheritance, property and registration of domestic partnerships.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SOCIAL MORALITY VERSUS CONSTITUTIONAL MORALITY</h4>
+                        <p>Live-in relationships remain socially controversial in many parts of India. Family pressure, community expectations and traditional understandings of marriage can create practical risks for couples. Courts have repeatedly emphasised that constitutional rights cannot depend entirely on popular approval.</p>
+                        <p className="mt-4">The distinction between social morality and constitutional morality is therefore important. A relationship between consenting adults may be socially unpopular without being illegal. The State may regulate conduct to prevent crime, exploitation or public harm, but it should not use criminal law merely to enforce a particular model of private morality.</p>
+                        <p className="mt-4">This does not mean that the law must celebrate or promote live-in relationships. Legal neutrality is different from social endorsement. The appropriate role of law is to protect consent, dignity, bodily integrity, children and vulnerable persons while leaving competent adults free to make lawful choices about their personal lives.</p>
+                        <p className="mt-4">In my opinion, this is the most principled approach. Marriage may remain an important social and legal institution, but its importance does not justify denying basic protection to persons who have chosen a different form of domestic life.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Live-in relationships demonstrate how Indian family law is changing from a marriage-centred model towards a more rights-based and functional understanding of intimate relationships. The law has already recognised that adults have constitutional autonomy to make personal choices and that women in qualifying domestic relationships may need protection from violence and economic exploitation. The Domestic Violence Act, judicial decisions such as D. Velusamy and Indra Sarma, and the continuing litigation concerning maintenance show this gradual development.</p>
+                        <p className="mt-4">Yet the present legal framework remains fragmented. Protection under one statute does not automatically translate into the rights of a spouse under another. Maintenance, inheritance, property and the legal consequences of long-term cohabitation can therefore remain uncertain.</p>
+                        <p className="mt-4">The solution is neither to treat every live-in relationship as a marriage nor to leave cohabiting partners outside the protection of family law. India needs a clearer statutory framework that identifies the rights and responsibilities arising from long-term domestic partnerships while preserving the freedom of adults not to marry.</p>
+                        <p className="mt-4">Ultimately, the law should judge relationships by their legal and social consequences rather than by moral labels. A modern family-law system must protect autonomy, dignity and equality without unnecessarily erasing the distinct legal institution of marriage. The challenge for Indian law is to achieve that balance with clarity, consistency and fairness.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">KEY LEGAL AUTHORITIES REFERRED TO</h4>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-400">
+                            <li>Constitution of India Articles 14 and 21.</li>
+                            <li>Protection of Women from Domestic Violence Act, 2005.</li>
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023 Section 144.</li>
+                            <li>Badri Prasad v. Dy. Director of Consolidation (1978).</li>
+                            <li>S. Khushboo v. Kanniammal (2010).</li>
+                            <li>D. Velusamy v. D. Patchaiammal (2010).</li>
+                            <li>Indra Sarma v. V.K.V. Sarma (2013).</li>
+                            <li>Shafin Jahan v. Asokan K.M. (2018).</li>
+                        </ul>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Anju.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Maharshi Dayanand University, Rohtak</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "FREE SPEECH: BETWEEN EXPRESSION AND HATE",
+            author: "By Tanisha Gaddi",
+            abstract: "Freedom of speech and expression is an essential right guaranteed under Article 19(1)(a) of the Constitution of India. However, this right is subject to reasonable restrictions under Article 19(2), particularly when speech affects national security, liberty or involves incitement and hate speech. This article examines the legal limits of freedom of speech in India with specific focus on the regulation of hate speech and role of judiciary. It also looks at the legal framework governing hate speech and how courts have interpreted the limits of free expression. The legal question arises here is, To what extent can the State regulate hate speech without unreasonably restricting the freedom of speech and expression guaranteed under Article 19(1)(a)? Therefore, this article aims to understand how Indian law maintains the constitutional limits of free speech while addressing harmful and hateful expression.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Overview of Article 19(1)(a)</li>
+                            <li>Reasonable Restrictions of Freedom of Speech and Expression</li>
+                            <li>Hate Speech Regulation in India</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The Right to Freedom is the most precious, natural and basic fundamental right in Part III of the Constitution of India. Article 19 of the Indian Constitution is a vital provision that guarantees fundamental rights to all citizens, specifically the right to freedom of speech and expression, among other liberties. While this right is essential for the functioning of a democratic society, it is not absolute. The framers of the Constitution recognised that unrestricted freedom of speech and expression could harm, lead to public disorder and even undermine national security.</p>
+                        <p className="mt-4">Hence, Article 19(2) lays down the conditions under which the government may restrict the freedom of speech in the interests of the sovereignty and integrity of India, the security of the state, friendly relations with foreign states, public order, decency or morality, contempt of court or incitement to an offence.</p>
+                        <p className="mt-4">The Courts play a crucial role in ensuring that these restrictions are not arbitrary, excessive or disproportionate to the objectives they aim to achieve. Thus, Article 19(2) is fundamental in maintaining this equilibrium, protecting both individual rights and the larger social good.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OVERVIEW OF ARTICLE 19(1)(a)</h4>
+                        <p>The fundamental rights are enshrined in Part III of the Indian Constitution. Among these rights, Article 19 stands out as one of the most important provisions, guarantees several freedoms to be utilised against any individuals and government. Article 19(1), all citizens have the right-</p>
+                        <ul className="list-disc pl-5 space-y-1 mt-2 mb-4 text-white/90">
+                            <li>(a) to freedom of speech and expression;</li>
+                            <li>(b) to assemble peaceably and without arms;</li>
+                            <li>(c) to form associations or unions;</li>
+                            <li>(d) to move freely throughout the territory of India;</li>
+                            <li>(e) to reside and settle in any part of the territory of India;</li>
+                            <li>(f) to practise any profession, or to carry on any occupation, trade or business.</li>
+                        </ul>
+                        <p>The rights guaranteed under Article 19 is available only to citizens by birth and not to an alien or foreigners. "Citizens" under Article 19 mean only natural persons and not legal person such as corporations or companies. But in Bank Nationalisation Case, it was held that though a company cannot claim a right under Article 19, yet its shareholders and claim the right only if by the state, the right of company and shareholder is impaired.</p>
+                        <p className="mt-4">In Maneka Gandhi V. Union of India, the Supreme Court held that right to freedom of speech and expression has no geographical limitations. In another case, while quoting the Supreme Court’s view in Lovell V. Griffin, the court held that the freedom of speech and expression guaranteed under Article 19(1)(a), means the right to speak, and to express one’s own opinion, thoughts, ideas, and convictions freely by the words of mouth, writing, printing, or in any other manner.</p>
+                        <p className="mt-4">On the other hand, this right has international recognition; Article 19 of UDHR provides 'Everyone has the right to freedom of opinion and expression' and Article 19 of ICCPR enshrined the freedom of speech and expression. Freedom of speech is one of the widely protected right across the world.</p>
+                        <p className="mt-4">Conferring to Halsbury’s Laws of England, the expression "freedom to express" incorporates both the right to RECEIVE and to EXPRESS ideas, information and also SECRECY of private communications. These are also considered as the three main ingredients of freedom of speech and expression. In Union of India V. Association for Democratic Reforms, "held that freedom of speech and expression includes right to import and receive information includes freedom to hold opinions.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">The main parts of Article 19(1)(a) are:</h5>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Right to silence:</strong> Article 19(1)(a) also includes the right, not to speak and right to remain silent. In National Anthem case, the students to tap in respect when the national anthem was playing, even though they refused to sing, they were expelled from the school. However, the Supreme Court held that their silent and respectful stance during the anthem did not constitute disrespect and was based on genuine religious belief.</li>
+                            <li><strong className="text-white">2. Right to press:</strong> In India, freedom of press is implied from freedom of speech and expression. The freedom of press is a species of which freedom of expression is a genus. In one of the case, the validity of the Working Journalist Act was challenged which was enacted to regulate conditions of services of persons employed in newspaper industries. The court held that act was valid. In another case, that is Bennett Coleman & Co. V. Union of India, the validity of the newsprint control order, which fixed the maximum number of pages, was struck down by the court as it was violative of provision of Article 19(1)(a).</li>
+                            <li><strong className="text-white">3. Right to commercial advertisement:</strong> Commercial advertisements are considered as an essential aspect of free expression. This also means, advertisement as a form of communication are protected if they convey lawful information. In the case of Tata Press Ltd., V. MTNL, the Supreme Court held that a commercial advertisement or commercial speech was also part of the freedom of speech and expression, which would be restricted only within the limitation of Article 19(2).</li>
+                        </ul>
+                        <p className="mt-4">The freedom of speech and expression has been given a wider interpretation in the Indian constitution. Article 19 confirms rights which are not absolute and subject to the restrictions under Article 19(2).</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">REASONABLE RESTRICTIONS OF FREEDOM OF SPEECH AND EXPRESSION</h4>
+                        <p>Article 19(2) of the Indian Constitution provides for reasonable restrictions on the freedom of speech and expression guaranteed under Article 19(1)(a). But the freedom of speech and expression does not confer:</p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-2 mb-4">
+                            <li>And absolute right to speak or publish, without responsibility, whatever one may choose,</li>
+                            <li>An unrestricted or unriddled licence that gives immunity for every possible use of language and,</li>
+                            <li>Does not prevent punishment for those who abused this freedom.</li>
+                        </ol>
+                        <p>Justice Patanjali Shastri stated that:</p>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic my-4 text-white/80">"Man, as a rational, being desires to do many things, but in a civil society, his desires have to be controlled, regulated and reconciled with the exercise of similar desires by other individuals."</blockquote>
+                        <p>Nowadays, social media is a thriving area of mass media communication, where people can freely express their opinions. Absolute expression of opinions can pave way to cybercrimes, such as online stalking, miss use of private information and also can be a trigger to the false accusations. This is where Article 19(2) comes into the play.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Article 19(2) specifies the grounds on which the freedom of speech and expression may be restricted:</h5>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">1. Sovereignty of India:</strong> this ground was added by the Constitution(16th Amendment) Act, 1963. The restriction of "sovereignty" under Article 19(2) aims to protect India's supreme authority and independence. It prevents individuals from exercising their freedom of speech and expression in a manner that undermines or threatens the country's autonomy.</li>
+                            <li><strong className="text-white">2. Integrity of India:</strong> this ground was added by the Constitution(16th Amendment) Act, 1963. The present amendment is made to guard against the freedom of speech and expression being used to assail the territorial integrity of India. It prohibits speech and expression that could incite secessionist movements, promote the division of the country or challenge the nations territorial boundaries. For instance, advocating for the disintegration of a state from the union or encouraging separatist sentiment can be restricted. This ensures that freedom of speech does not endanger the indivisibility and cohesion of the nation.</li>
+                            <li><strong className="text-white">3. Security of the state:</strong> the term 'security of the state' has to be distinguished from public order. It refers to the aggravated forms of public disorder such as, crimes of violence intended to overthrow the government, waging of war and rebellion against the government, external aggression or war, etc.</li>
+                            <li><strong className="text-white">4. Friendly relations with foreign states:</strong> this ground was added by the Constitution(1st Amendment) Act, 1951. Spreading false or harmful information about a friendly foreign country, without any restrictions can harm India’s good relationship with that country. Such actions might create misunderstandings or tensions, making it harder to maintain peaceful and cooperative ties.</li>
+                            <li><strong className="text-white">5. Public order:</strong> the freedom of speech can be limited if it disrupt peace and safety in the society. This ground did not exist in the Constitution as adopted in 1949 and was added by the Constitution(1st Amendment) Act, 1951. The amendment had became necessary because the Supreme Court in the Romesh Thappar V. State of Madras, held that public order is distinct from the security of the state and law and order, encompassing public safety. It ruled that restrictions on free speech cannot be imposed solely on the ground of public order. Any disturbance of public peace or Tranquility disrupts public order.</li>
+                            <li><strong className="text-white">6. Decency:</strong> decency is the same as lack of obscenity. Section 292 to 296 of the Indian penal code, 1860, provides for restrictions on freedom of speech and expression in the interest of decency and morality. In Rajith D. Udeshi V. State of Maharashtra, a Supreme Court upheld the conviction of a bookseller prosecuted under section 292 of Indian penal code for selling and keeping obscene books.</li>
+                            <li><strong className="text-white">7. Morality:</strong> the term "morality" in Article 19(2) is not fixed and can vary over time and across cultures. For example, using birth control was once seen as a model and people were punished for discussing it. However, views have changed, and now birth control is accepted, promoted and even supported by the government. This shows how moral standards can evolve.</li>
+                            <li><strong className="text-white">8. Contempt of court:</strong> reasonable restrictions can be imposed on right to freedom of speech and expression on this ground. The contempt of court means disrespecting or disobeying the courts. The contempt of court may be civil contempt or criminal contempt.</li>
+                            <li><strong className="text-white">9. Defamation:</strong> defamation is a civil as well as criminal wrong. Defamation is a crime under section 499 and section 500 of the Indian penal code, 1860. Restrictions can be imposed to prevent any person from making any false statements that defames or damages the reputation of another. In Subramanian Swamy V. Union of India, the Constitutional validity of the offence of defamation under section 499 and section 500 of the Indian penal code was challenged against the right to freedom of speech and expression but the Supreme Court upheld the validity of these provisions.</li>
+                            <li><strong className="text-white">10. Incitement to an offence:</strong> this ground was also added by the Constitution (1st Amendment) Act, 1951. The reasonable restrictions can be imposed to prohibit anyone from making any statements that incites or instigates people to commit offences.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HATE SPEECH REGULATION IN INDIA</h4>
+                        <p>Hate speech means speech, words, statements, or expressions that promote hatred, hostility, discrimination or violence against a person or a group. It may be based on religion, caste, race, language, ethnicity or other similar grounds.</p>
+                        <p className="mt-4">The Constitution of India does not expressly mention the term "hate speech". However, Article 19(1)(a) guarantees, freedom of speech and expression to every citizen. This includes the right to express opinions, ideas, beliefs, and criticism. As this right is also not absolute in nature, Hate speech may be restricted mainly on the grounds of public order, decency or morality, security of the state and incitement to an offence. For example, a speech that encourages violence between religious communities may disturb public order. Similarly, a statement that directly encourages people to attack a particular group may amount to incitement.</p>
+                        <p className="mt-4">However, every offensive or unpopular statement cannot automatically be treated as hate speech. The restriction must be connected with one of the grounds mentioned in Article 19(2), and it must be reasonable.</p>
+                        <p className="mt-4">India does not have one single law dealing exclusively with hate speech. Instead, different legal provisions regulate different forms of hateful, communal or divisive expression. Such as, section 153A dealt with promoting enmity between different groups on grounds such as religion, race, place of birth, residence or language. It also covered acts that where prejudicial to the maintenance of harmony between groups and likely to disturb public Tranquility.</p>
+                        <p className="mt-4">Section 153B dealt with statements or assertions that were prejudicial to national integration. It aims to prevent expressions that could create feelings of disloyalty or hostility against a particular community or group. Whereas, section 295A dealt with a deliberate and malicious acts intended to outrage the religious feelings of any class by insulting its religion or religious beliefs.</p>
+                        <p className="mt-4">Section 298 dealt with words or expression spoken with the deliberate intention of wounding the religious feelings of any person. Also, section 505 deals with statements, rumours were reports that were likely to cause fear, alarm or public disorder.</p>
+                        <p className="mt-4">Hate speech is also regulated during elections under the Representation of the People Act, 1951. Political candidates or parties cannot use speeches that promote hatred or enmity between different communities. Such speeches may influence voters through communal feelings and may affect the fairness of elections. The course of examine whether election speeches, promote hatred, hostility or division between groups.</p>
+                        <p className="mt-4">In the case of Shreya Singhal V. Union of India, section 66A of the Information Technology Act was challenged, which criminalised offensive online content, after two women were arrested for posting a Facebook status, criticising political shut down. The petitioners argued the law violated freedom of speech and was excessively vague. The Supreme Court struck down section 66A, ruling it unconstitutional for being over broad and infringing upon freedom of speech and expression under article 19(1)(a). The law was too vague, leading to arbitrary restrictions on legitimate expression.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>In conclusion, reasonable restrictions under Article 19(2) of the Indian constitution, serve as a crucial mechanism to balance the fundamental right to freedom of speech and expression with the need to maintain public order, national security and individual dignity. While the right to free speech is vital for a functioning democracy, it is not absolute and must be regulated to prevent harm to society, public morality and the rights of others. The Supreme Court has played a pivotal role in interpreting and defining these restrictions, ensuring they are not arbitrary but proportionate and justifiable in the context of legitimate state interest.</p>
+                        <p className="mt-4">The test of reasonableness remains central to protecting free speech, while safeguarding the greater public, good, and preserving the harmony and integrity of the nation. Ultimately, these restrictions, must be carefully scrutinised to ensure that they do not infringe upon the essence of democratic expression, and the right to dissent.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Tanisha Gaddi.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Karnataka State Law University’s Law School, Hubballi.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "MY LIFE, MY DEATH, MY CHOICE: LIVING WILLS AND THE ARTICLE 21",
+            author: "By Rohini Verma",
+            abstract: "The Supreme Court, which ensures the right to life, now treats passive euthanasia and advance medical directives as expressions of dignity, bodily integrity, and self-determination protected under Article 21. Yet, living wills continue to be difficult to draft and invoke in practice, especially for persons with disabilities, elderly individuals, those facing communication barriers, and families confronting terminal illness. The main challenge is not the recognition of the right but its accessibility: making it workable and meaningful for every citizen, not just the legally literate.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Concept of Euthanasia</li>
+                            <li>Historical Background / Judicial Jurisprudence</li>
+                            <li>Critical Thinking</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The "right to die with dignity" is at a complex crossroads of law, ethics, and human rights. It raises fundamental questions about individual autonomy, personal choice, and the limits of state intervention in matters that are inherently private to a person's life. At its core, the concept acknowledges an individual's wish to retain control over decisions concerning the end of their life, particularly when facing incurable illness, unbearable suffering, or a severely diminished quality of life. The idea is not really about death as such, but about preserving dignity, autonomy, and quality of life during a person's final stages. In India, the Supreme Court's landmark ruling in Common Cause v. Union of India (2018) marked a turning point by recognizing the right to die with dignity and giving legal sanction to advance medical directives, or "living wills." The judgment embodies a broader conception of human dignity, in which respecting life is understood to also mean respecting a person's autonomy and choices as that life draws to a close. Therefore, it gives individuals a genuine and meaningful say in decisions about their own medical treatment during the final stages of life.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCEPT OF EUTHANASIA</h4>
+                        <ul className="space-y-4">
+                            <li>
+                                <strong className="text-white block mb-1">i. According to New Webster’s Dictionary (Deluxe Encylopedic Edition)</strong>
+                                <p>"Euthanasia" is derived from the Greek words euthanatnos eu means well or good and Thanatos means death which means good death.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">ii. The Oxford English Dictionary defines "euthanasia" as follows:</strong>
+                                <p>"The painless killing of a patient suffering from an incurable and painful disease or in an irreversible coma."</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">iii. The definition of the word 'euthanasia' as given by the World Health Organization:</strong>
+                                <p>The organization defines euthanasia as "a deliberate act undertaken by one person with the intention of either painlessly putting to death or failing to prevent death from natural causes in cases of terminal illness or irreversible coma of another person".</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORICAL BACKGROUND / JUDICIAL JURISPRUDENCE</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Constitutional Basis:</h5>
+                        <p>Article 21 of the "Indian Constitution" is as follows:</p>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic my-4 text-white/80">"No person shall be deprived of his life or personal liberty except according to procedure established by law."</blockquote>
+                        <p>right to die with dignity The Supreme Court has stated that the right to die with dignity is a fundamental right and is part of Article 21.</p>
+
+                        <ul className="space-y-6 mt-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Airedale NHS Trust v. Bland (1993) — United Kingdom</strong>
+                                <p>This is among the earliest and most influential judicial rulings on passive euthanasia. The House of Lords authorized the withdrawal of artificial nutrition and hydration from Anthony Bland, a young man who had remained in a persistent vegetative state following the Hillsborough stadium disaster. The Lords reasoned that continued treatment offered no therapeutic benefit and did not serve the patient's best interests, carefully separating such withdrawal from unlawful active euthanasia. The ruling went on to become a foundational reference point in later Indian jurisprudence, including that of Aruna Shanbaug.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Vacco v. Quill and Washington v. Glucksberg (1997) — United States</strong>
+                                <p>In these two companion decisions, the U.S. Supreme Court found no constitutional right to physician-assisted suicide under either the Due Process or Equal Protection Clauses. At the same time, the Court left the door open for individual states to enact their own legislation on the subject, a gap that later allowed state-level "death with dignity" laws, such as Oregon's, to emerge.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. P. Rathinam v. Union of India (1994) - India</strong>
+                                <p>In this early Indian case, the Supreme Court took the view that the right to life under Article 21 logically extended to a right not to live, and on that basis struck down the criminal penalty for attempted suicide. Although this ruling did not survive long, it represented the court's first serious engagement with the notion that Article 21 might house a right to die.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Gian Kaur v. State of Punjab (1996) - India</strong>
+                                <p>A Constitutional Bench overruled Rathinam case, concluding the right to life including right to live with human "dignity" would means the existence of such right up to the end of natural life which also include the right to a dignified procedure of death. The above right was held to be part of fundamental right enshrined under Article 21 of the Constitution.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Aruna Ramchandra Shanbaug v. Union of India (2011) — India</strong>
+                                <p>The Supreme Court recognized passive euthanasia in India for the first time, distinguishing it from active euthanasia. Although the Court did not permit the withdrawal of treatment in Shanbaug's case, given the objection of the hospital staff caring for her, it established a procedure requiring High Court approval on a case-by-case basis, informed by medical board opinion and the patient's best interests.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">6. Common Cause (A Regd. Society) v. Union of India (2018) - India</strong>
+                                <p>In this case to declared section 306 of "Indian Penal Code" unconstitutional a 5-judge Constitutional Bench decide the right to die with dignity a fundamental right under Article 21 and, for the first time, give legal standing to advance medical directives, or "living wills" allowing individuals to set out in advance which treatments they would decline should they later lose the capacity to communicate. The Court also framed detailed guidelines for executing and giving effect to such directives, to remain in force until Parliament legislated on the matter.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">7. Common Cause v. Union of India, Miscellaneous Application (2023) - India</strong>
+                                <p>Faced with practical difficulties in applying the 2018 framework, the same Constitution Bench eased the procedure considerably by doing away with the requirement of a judicial magistrate's countersignature, lowering the experience threshold for doctors on medical boards, and setting timelines for decisions, all aimed at making the right genuinely usable.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">8. Harish Rana v. Union of India (2026) - India</strong>
+                                <p>This more recent decision took up the specific question of withdrawing clinically assisted nutrition and hydration from a patient in a permanent vegetative state, applying and refining the best-interests standard of patients who cannot express their own wishes, and directing the constitution of medical boards consistent with the Common Cause framework.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL THINKING</h4>
+                        <p>In article 21 gives the right to life with dignity is constitutional right and in IPC 1860 attempt to commit suicide is punishable u/s 309 but in new law "Bhartiya Nyaya Sanhita 2023" not punishable and "The Mental Health Care Act 2017" u/s 115 Presumption of severe stress in case of attempt to commit suicide:-</p>
+                        <p className="mt-4">(1) Notwithstanding anything contained in section 309 of the "Indian Penal Code" any person who attempts to commit suicide shall be presumed, unless proved, unless proved otherwise, to have severe stress and shall not be tried and punished under the said Code.</p>
+                        <p className="mt-4">(2) The appropriate Government shall have a duty to provide care, treatment and rehabilitation to a person, having severe stress and who attempted to commit suicide, to reduce the risk of recurrence of attempt to commit suicide.</p>
+                        <p className="mt-4">After the case of "Common cause v. Union of India 2018" the court focus on care, treatment and rehabilitation not punishment.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Court reason has greater shifted from viewing euthanasia primarily through the eyes of criminal law to engaging with deeper constitutional values such as dignity and autonomy. This shift, however, does not amount to recognizing an independent, free-standing right to die. Rather, it reflects an ongoing effort to balance individual autonomy against the state's responsibility to protect life, particularly where vulnerable persons may be at risk of harm or coercion. Ultimately, the challenge lies both the value of the life and the reality of human suffering recognizing that dignity itself may carry different meanings for different people.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-md mt-4 mb-2">1. Primary Sources</h5>
+                        <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                            <li>P. Rathinam v. Union of India, (1994) 3 SCC 394.</li>
+                            <li>Gian Kaur v. State of Punjab, (1996) 2 SCC 648.</li>
+                            <li>Aruna Ramchandra Shanbaug v. Union of India, (2011) 4 SCC 454.</li>
+                            <li>Common Cause v. Union of India, (2018) 5 SCC 1.</li>
+                            <li>Common Cause v. Union of India, Misc. Application No. 1699 of 2018, decided on 24 January 2023.</li>
+                            <li>Harish Rana v. Union of India, INSC 222 (11 March 2026).</li>
+                            <li>Airedale NHS Trust v. Bland, [1993] AC 789 (HL).</li>
+                            <li>Vacco v. Quill, 521 U.S. 793 (1997).</li>
+                            <li>Washington v. Glucksberg, 521 U.S. 702 (1997).</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-md mt-4 mb-2">2. Statutes</h5>
+                        <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                            <li>Indian Penal Code, 1860, § 309.</li>
+                            <li>Bhartiya Nyaya Sanhita, 2023, § 115.</li>
+                            <li>Mental Health Care Act, 2017, § 115.</li>
+                            <li>Constitution of India, 1950, Art. 21.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-md mt-4 mb-2">3. Secondary Sources</h5>
+                        <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                            <li>Law Commission of India, Report on Passive Euthanasia (2012).</li>
+                            <li>SCC OnLine & Indian Kanoon (case law databases).</li>
+                            <li>International Journal of Legal Science and Innovation, Vol. X (2024).</li>
+                            <li>The New Webster’s Dictionary (Deluxe Encyclopedic Edition).</li>
+                            <li>The Oxford English Dictionary.</li>
+                        </ul>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Rohini Verma.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">LNCT University B.A.LL.B</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "The Sacred Right to Let Go: Harish Rana and the Evolving Jurisprudence of End-of-Life Autonomy in India",
+            author: "By Mudita Joshi",
+            abstract: "In Harish Rana v. Union of India, the Supreme Court of India faced a painful ethical and legal question: should a person in an irreversible vegetative state be kept alive indefinitely by artificial feeding? For over thirteen years, Harish Rana remained completely unconscious following a severe head injury, kept alive solely through Clinically Assisted Nutrition and Hydration (CANH) fed directly into his stomach through a Percutaneous Endoscopic Gastrostomy (PEG) tube. Reversing a Delhi High Court decision that had viewed artificial feeding as basic everyday care, the Supreme Court ruled that CANH is actually a medical intervention that can be lawfully withdrawn under the rules of passive euthanasia when recovery is impossible. Drawing from its landmark ruling in Common Cause, the Court held that the right to live with dignity under Article 21 of the Constitution naturally includes the right to die with dignity, protecting patients from being subjected to hopeless, forced medical prolongations of life. This decision provides crucial clarity on artificial feeding, establishes how courts should determine a patient's \"best interests\" when they cannot speak for themselves, and reinforces patient autonomy against rigid medical paternalism.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Facts and Procedural History</li>
+                            <li>The Judgment: Reasoning and Holding</li>
+                            <li>Constitutional Morality, Article 21, and End-of-Life Autonomy</li>
+                            <li>Patient Autonomy vs. Medical Ethics: Resolving the Clash</li>
+                            <li>Advance Medical Directives ("Living Wills"): The Legal Landscape</li>
+                            <li>Comparative Approaches to Euthanasia</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Few legal questions raise as much emotion and debate as deciding when a person should be allowed to let go at the end of their life. Under Article 21 of the Indian Constitution, every citizen is guaranteed the fundamental right to life and personal liberty. Traditionally, this was seen as an absolute duty of the State to keep people alive at all costs. However, modern medical technology has completely changed how we experience the end of life. Today, artificial ventilators, heart pumps, and surgically fitted feeding tubes can keep a person's biological body functioning for years, even after their brain has permanently lost all consciousness and awareness.</p>
+                        <p className="mt-4">This creates a deeply challenging question for Indian courts: can the state force someone to remain connected to medical machines when there is zero chance of recovery? While Indian law strictly bans active euthanasia—where a doctor directly administers a lethal injection to end a life—it takes a very different view on passive euthanasia. Passive euthanasia simply means withdrawing or withholding artificial medical treatments that are merely delaying a natural death.</p>
+                        <p className="mt-4">The Supreme Court’s recent judgment in Harish Rana v. Union of India marks a huge step forward in this area of law. By tackling the confusing question of whether tube-feeding counts as medical treatment, the Court showed how passive euthanasia works in real life and made it clear that living with dignity also means being allowed to die with dignity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FACTS AND PROCEDURAL HISTORY</h4>
+                        <p>In August 2013, Harish Rana, then a nineteen-year-old student, suffered a fall from a fourth-floor building in Chandigarh. The accident resulted in severe diffuse axonal injury, leaving him in an irreversible Permanent Vegetative State (PVS) with 100% quadriplegia. For nearly thirteen years, he lay immobile, lacking cognitive awareness or sensory responsiveness. His biological survival was maintained solely through Clinically Assisted Nutrition and Hydration (CANH), administered via a Percutaneous Endoscopic Gastrostomy (PEG) tube inserted into his stomach.</p>
+                        <p className="mt-4">Exhausted emotionally and financially by years of intensive home care, and faced with unanimous medical evaluations confirming zero prospect of neurological recovery, Harish's aged parents approached the High Court of Delhi. They sought permission to withdraw the PEG tube and allow their son a peaceful, natural end.</p>
+                        <p className="mt-4">On July 2, 2024, the Delhi High Court dismissed the petition. The High Court reasoned that Harish was not kept alive by mechanical ventilators or "external life support," but was merely receiving basic nutrition. It concluded that withdrawing food and hydration would amount to starving the patient to death—an act akin to impermissible active euthanasia—because he was not "terminally ill" in the conventional sense.</p>
+                        <p className="mt-4">The parents appealed to the Supreme Court. In a subsequent Miscellaneous Application filed under the framework of Common Cause, a Bench comprising Justices J.B. Pardiwala and K.V. Viswanathan constituted a two-tier medical board pursuant to the Supreme Court's guidelines. The primary and secondary medical boards, composed of specialists from the All-India Institute of Medical Sciences (AIIMS), Delhi, unanimously reported that Harish’s neurological condition was completely static, irreversible, and beyond medical remediation. Both boards concluded that continuing CANH served no therapeutic function other than artificially prolonging a vegetative existence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE JUDGMENT: REASONING AND HOLDING</h4>
+                        <p>Delivering the judgment for the Bench, Justice J.B. Pardiwala (with Justice K.V. Viswanathan concurring) reversed the Delhi High Court’s approach and allowed the withdrawal of life-sustaining CANH treatment under controlled palliative supervision.</p>
+                        <p className="mt-4">The Supreme Court’s holding rests on three primary legal pillars:</p>
+                        <ul className="space-y-4 mt-4">
+                            <li>
+                                <strong className="text-white block mb-1">1. CANH as "Medical Treatment," Not Primary Care</strong>
+                                <p>The Court resolved a long-standing ambiguity in Indian medical jurisprudence by explicitly holding that Clinically Assisted Nutrition and Hydration (CANH) via PEG tubes constitutes medical treatment rather than basic, non-medical nursing care. The Bench noted that inserting, maintaining, and monitoring enteral nutrition tubes require specialized clinical expertise, technology, and medical assessment. Consequently, withdrawing CANH is a medical decision to withhold treatment, falling squarely under the legal umbrella of passive euthanasia rather than active killing.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">2. The Operationalization of "Best Interests" and "Substituted Judgment"</strong>
+                                <p>Addressing the dilemma of an incompetent patient who had not executed an Advance Medical Directive ("Living Will"), the Court clarified the "best interests" standard. The Bench emphasized that the relevant legal inquiry is not whether it is in the patient’s best interest to die, but whether it is in their best interest to have their life artificially prolonged when therapeutic recovery is impossible.</p>
+                                <p className="mt-2">To determine this, the Court adopted the substituted judgment standard, examining what the patient would have chosen had they retained capacity. Taking note of evidence that Harish had been an active, energetic youth engaged in sports and physical pursuits prior to the accident, the Court inferred that he would not have chosen to endure decades of non-cognitive, vegetative existence tied to a feeding tube.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">3. Protection for Medical Practitioners</strong>
+                                <p>The Bench addressed the apprehension among physicians regarding criminal liability under Section 100 of the Bharatiya Nyaya Sanhita (BNS), 2023 (culpable homicide). The Court held that when a doctor withdraws life support pursuant to a formal finding of therapeutic futility by established medical boards, the act lacks criminal mens rea and possesses a "lawful excuse," insulating medical professionals from prosecution.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL MORALITY, ARTICLE 21, AND END-OF-LIFE AUTONOMY</h4>
+                        <p>The decision in Harish Rana v. Union of India anchors end-of-life choices directly within the structural architecture of the Indian Constitution. The ruling bridges fundamental individual freedoms with broader judicial principles governing human dignity.</p>
+                        <ul className="space-y-4 mt-4">
+                            <li>
+                                <strong className="text-white block mb-1">1. The Constitutional Evolution of Article 21</strong>
+                                <p>The fundamental right to life and personal liberty under Article 21 has undergone a transformative journey in Indian bio-medical jurisprudence. In P. Rathinam v. Union of India (1994), the Supreme Court initially declared that the right to life included a general "right to die." This broad interpretation was subsequently overruled by the Constitution Bench in Gian Kaur v. State of Punjab (1996), which clarified that Article 21 protects life, not death. However, Gian Kaur recognized a vital distinction: while suicide or active killing is unlawful, an unnatural, forced prolongation of a dying process compromises the right to live with dignity.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">2. Dignity in Dying as an Intrinsic Facet of Right to Life</strong>
+                                <p>The landmark Constitution Bench ruling in Common Cause v. Union of India (2018) formally established that the right to die with dignity is an intrinsic component of Article 21. The Court affirmed that personal liberty encompasses bodily autonomy and self-determination. Harish Rana operationalizes this doctrine by holding that forcing an individual in an irreversible, non-cognitive vegetative state to endure biological survival through invasive medical tubes violates their fundamental dignity, transforming life-saving technology into non-consensual physical intrusion.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">3. Primacy of Constitutional Morality Over Traditional Taboos</strong>
+                                <p>End-of-life autonomy frequently encounters societal resistance driven by traditional taboos or majoritarian moral sentiments. The Supreme Court emphasized that judicial decision-making must be guided by constitutional morality rather than popular morality. Constitutional morality demands that the state respect individual choice, protect personal liberty from paternalistic coercion, and prevent citizens from being subjected to hopeless, forced medical degradation at life's end.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">4. Balancing Bodily Integrity and Therapeutic Futility</strong>
+                                <p>When medical intervention ceases to offer therapeutic benefit or hope of cognitive recovery, its continuation changes the legal nature of the act. The Bench noted that bodily integrity allows individuals—or their legal surrogates acting under substituted judgment—to refuse treatment that serves no purpose other than delaying natural death. Harish Rana reinforces that true compassion and constitutional duty lie in honouring human dignity when cure is no longer medically attainable.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PATIENT AUTONOMY VS. MEDICAL ETHICS: RESOLVING THE CLASH</h4>
+                        <p>The doctrine of end-of-life autonomy often appears to conflict with traditional medical ethics. The historical Hippocratic tradition emphasizes the preservation of life and the obligation to "do no harm" (non-maleficence). For generations, medical practitioners viewed the withdrawal of nutrition or hydration as a breach of their ethical duty.</p>
+                        <p className="mt-4">Harish Rana bridges this divide by reframing the concept of harm in bioethics. When medical science can no longer offer cure, rehabilitation, or cognitive awareness, the primary ethical duty shifts from prolonging biological survival to alleviating suffering through palliative care. The Supreme Court’s judgment clarifies that medical ethics must align with constitutional values. Paternalistic medical intervention—where treatment is continued solely because technical capability exists—violates the patient's autonomy. When medical treatment loses its therapeutic purpose, its continuation becomes an unconstitutional imposition on bodily integrity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ADVANCE MEDICAL DIRECTIVES ("LIVING WILLS"): THE LEGAL LANDSCAPE</h4>
+                        <p>A crucial safeguard recognized in Common Cause and reinforced in Harish Rana is the Advance Medical Directive or "Living Will". An Advance Directive is a written legal instrument in which a competent individual outlines their specific preferences regarding future medical interventions in the event they become incapacitated or terminally ill.</p>
+                        <p className="mt-4">While Living Wills allow individuals to assert their autonomy in advance, their adoption in India remains low due to procedural complexities and a lack of public awareness. In Harish Rana, because no Advance Directive existed, the Court relied on the substituted judgment standard and surrogate consent from the immediate family, supported by medical evaluation. Nevertheless, the ruling highlights the importance of Advance Directives as a mechanism to spare families and courts from painful end-of-life litigation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">COMPARATIVE APPROACHES TO EUTHANASIA</h4>
+                        <p>Global frameworks on end-of-life choices vary widely, reflecting distinct balances between patient autonomy and the state's interest in preserving life. India’s ruling in Harish Rana v. Union of India aligns with this evolving international jurisprudence.</p>
+                        <ul className="space-y-4 mt-4">
+                            <li>
+                                <strong className="text-white block mb-1">1. Active Euthanasia in the Netherlands and Belgium</strong>
+                                <p>The Netherlands and Belgium represent the most permissive models, legalizing both active euthanasia (physicians directly administering lethal doses) and assisted suicide under the Termination of Life on Request Act (2002). These laws cover terminally ill patients as well as individuals facing unbearable physical or mental suffering, subject to voluntary consent and strict oversight.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">2. Passive Euthanasia in the United Kingdom</strong>
+                                <p>The UK strictly prohibits active euthanasia and assisted suicide under the Suicide Act 1961. However, the landmark House of Lords ruling in Airedale NHS Trust v. Bland (1993) legalized passive euthanasia by ruling that withdrawing tube feeding (CANH) from a patient in a permanent vegetative state is a lawful omission of futile treatment rather than an act of killing—directly influencing India's decision in Harish Rana.</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">3. Constitutional Choice in the United States</strong>
+                                <p>In Cruzan v. Director, Missouri Department of Health (1990), the US Supreme Court recognized a constitutional right to refuse unwanted medical treatment under the Due Process Clause. While active euthanasia is illegal nationwide, physician-assisted dying for terminally ill patients is permitted in select states under legislation like Oregon’s Death with Dignity Act (1997).</p>
+                            </li>
+                            <li>
+                                <strong className="text-white block mb-1">4. India’s Article 21 Middle-Path Framework</strong>
+                                <p>India strictly bans active euthanasia while recognizing passive euthanasia as an extension of the right to live with dignity under Article 21 of the Constitution (Gian Kaur, Common Cause). The decision in Harish Rana operationalized this framework by classifying artificial feeding as medical support that can be lawfully withdrawn through a strict two-tier medical board review process.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Harish Rana v. Union of India is a landmark ruling in Indian constitutional and bio-medical jurisprudence. By correcting the Delhi High Court's narrow interpretation and recognizing Clinically Assisted Nutrition and Hydration (CANH) as medical life support, the Supreme Court moved past a purely technology-centric view of life support—one that recognized only ventilators—to focus on clinical futility and quality of life.</p>
+                        <p className="mt-4">The judgment reaffirms that the constitutional guarantee under Article 21 protects not merely bare biological survival, but the right to die with dignity when recovery is impossible. In operationalizing the best interests and substituted judgment standards, the Court has provided a compassionate, legally sound framework for families, medical professionals, and courts facing these complex end-of-life decisions.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-md mt-4 mb-2">1. Statutes & Treatises</h5>
+                        <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                            <li>The Constitution of India, 1950, Art. 21.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023), § 100, § 101.</li>
+                            <li>Law Commission of India, 196th Report on Medical Treatment to Terminally Ill Patients (Protection of Patients and Medical Practitioners) (2006).</li>
+                            <li>Law Commission of India, 241st Report on Passive Euthanasia: A Relook (2012).</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-md mt-4 mb-2">2. Indian Judicial Precedents</h5>
+                        <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                            <li>P. Rathinam v. Union of India, MANU/SC/0433/1994: (1994) 3 SCC 394.</li>
+                            <li>Gian Kaur v. State of Punjab, MANU/SC/0267/1996: (1996) 2 SCC 648.</li>
+                            <li>Aruna Ramchandra Shanbaug v. Union of India, MANU/SC/0176/2011: (2011) 4 SCC 454.</li>
+                            <li>Common Cause (A Civil Rights Society) v. Union of India, MANU/SC/0228/2018: (2018) 5 SCC 1.</li>
+                            <li>Harish Rana v. Union of India & Ors., 2026 INSC 222: Miscellaneous Application No. 2238 of 2025 in SLP (C) No. 18225 of 2024 (Decided on March 11, 2026).</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-md mt-4 mb-2">3. International Authorities</h5>
+                        <ul className="list-disc pl-5 space-y-1 text-zinc-400">
+                            <li>Airedale NHS Trust v. Bland, [1993] AC 789 (House of Lords).</li>
+                            <li>Cruzan v. Director, Missouri Department of Health, 497 U.S. 261 (1990).</li>
+                        </ul>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mudita Joshi.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">JECRC University</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Reservation Policies and the Equality Debate in India: Reconciling Social Justice with Meritocracy",
+            author: "By Himanshu Singh",
+            abstract: "Reservation policy remains one of the most contested and enduring themes in Indian constitutional discourse. Conceived as a tool of substantive equality to remedy centuries of caste-based exclusion, reservation has evolved from a narrow provision for Scheduled Castes and Scheduled Tribes into a complex, multi-layered scheme encompassing Other Backward Classes and, more recently, Economically Weaker Sections. This article examines the constitutional foundations of reservation under Articles 15 and 16, traces the doctrinal journey from Indra Sawhney v Union of India to Janhit Abhiyan v Union of India, and analyses the persistent tension between reservation and meritocracy, the shift from purely caste-based to economic criteria, the judicially imposed fifty per cent ceiling and its erosion, and the continuing relevance of reservation to social justice. The article also puts forward the author's own position, that reservation ought to be restructured around economic criteria rather than caste, and concludes that reservation's long term legitimacy will depend on periodic reform and empirical review.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional and Doctrinal Foundations</li>
+                            <li>Reservation versus Meritocracy</li>
+                            <li>Economic versus Caste-Based Reservation</li>
+                            <li>Judicial Limits on Reservation: The Fifty Per Cent Rule</li>
+                            <li>Role of Reservation in Social Justice</li>
+                            <li>The Future of Affirmative Action in India</li>
+                            <li>Author's Perspective: A Case for Reform</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>The Constitution of India embeds within it two seemingly competing visions of equality. Article 14 guarantees formal equality before the law, while Articles 15(4), 15(5), 15(6), 16(4), and 16(6) permit the State to make special provisions for socially and educationally backward classes, Scheduled Castes, Scheduled Tribes, and, since 2019, Economically Weaker Sections. This apparent paradox gets resolved through the doctrine of substantive equality: treating unequal persons identically perpetuates inequality, whereas compensatory measures for historically disadvantaged groups are necessary to achieve genuine parity of opportunity. Reservation policy in India is the principal legal expression of this philosophy.</p>
+                        <p className="mt-4">Seventy five years after the Constitution's adoption, reservation continues to generate fierce debate and it shows no real sign of settling down. Supporters view it as an indispensable corrective for millennia of caste oppression; critics argue that it has outlived it's utility, entrenches identity politics, and compromises efficiency in public administration. This article surveys the doctrinal architecture of reservation law, the landmark judicial interventions that shaped it, and the five thematic fault lines identified for present purposes: the reservation-versus-meritocracy debate, the shift toward economic criteria, judicial limits on reservation, its role in social justice, and its future trajectory. The final section sets out the author's own view on the subject.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. CONSTITUTIONAL AND DOCTRINAL FOUNDATIONS</h4>
+                        <p>Article 16(4) empowers the State to reserve appointments or posts for any backward class inadequately represented in public services, while Article 15(4), inserted after the First Amendment in response to State of Madras v Champakam Dorairajan, permits special provisions for socially and educationally backward classes. These provisions were designed not as exceptions to equality, but as facets of it, a principle which was affirmed in State of Kerala v N.M. Thomas and later refined further in Indra Sawhney.</p>
+                        <p className="mt-4">The most consequential judicial pronouncement remains Indra Sawhney v Union of India (1992), decided by a nine-judge bench examining the Mandal Commission's recommendation of twenty-seven per cent reservation for Other Backward Classes. The Court upheld caste as a valid indicator of backwardness, introduced the "creamy layer" principle to exclude the relatively advanced members of backward classes from reservation benefits, held that reservation should ordinarily be confined to initial appointments rather than promotions, and, most significantly, fixed a general ceiling of fifty per cent on total reservations, permissible to be exceeded only in extraordinary circumstances. The Court also struck down a proposed ten per cent reservation for economically weaker sections at that time, on the ground that it breached the fifty per cent ceiling and departed from caste-based criteria.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. RESERVATION VERSUS MERITOCRACY</h4>
+                        <p>The most emotionally charged strand of the debate concerns the relationship between reservation and merit. Opponents of reservation contend that caste-based quotas dilute standards in education and public employment by admitting or appointing candidates with lower qualifying scores than unreserved candidates, thereby compromising institutional efficiency. Proponents respond that "merit" as conventionally measured through standardised examinations is itself a product of unequal social starting points, access to quality schooling, nutrition, language exposure, and family capital, and therefore it cannot be treated as a neutral or purely individual attribute. On this view, reservation does not dilute merit, it corrects for a systemic head start enjoyed by historically privileged groups, and the creamy layer exclusion ensure that benefits reach the genuinely disadvantaged rather than the already-advantaged among reserved categories.</p>
+                        <p className="mt-4">The Supreme Court in Indra Sawhney attempted a middle path: it accepted caste as a legitimate proxy for backwardness while insisting on the creamy layer filter precisely to preserve a meaningful nexus between reservation and genuine disadvantage, thereby seeking to harmonise, rather than choose between, equality and efficiency of administration under Article 335.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. ECONOMIC VERSUS CASTE-BASED RESERVATION</h4>
+                        <p>A second major fault line concerns the appropriate basis of reservation, caste or economic status, and this is where much of the current litigation is heading. Traditionally, Indian reservation law has proceeded on the premise that social and educational backwardness, rooted in caste hierarchy, is the primary axis of disadvantage warranting compensatory State action. This position began to shift with the enactment of the Constitution (One Hundred and Third Amendment) Act, 2019, which inserted Articles 15(6) and 16(6) to provide a maximum of ten per cent reservation for Economically Weaker Sections among citizens not otherwise covered by existing reservations, based purely on income and asset criteria.</p>
+                        <p className="mt-4">The amendment was challenged in Janhit Abhiyan v Union of India (2022) before a five-judge Constitution Bench. By a majority of three to two, the Court upheld the constitutionality of the 103rd Amendment, affirming the ten per cent EWS quota in government jobs and educational institutions, and validating the exclusion of Scheduled Castes, Scheduled Tribes, and Other Backward Classes from its ambit on the reasoning that these groups already benefit from separate reservation schemes. The judgment marked the first occasion on which the Court gave a final stamp of approval to reservation based purely on economic status rather than social and educational backwardness, representing a significant conceptual departure in Indian reservation jurisprudence.</p>
+                        <p className="mt-4">The two dissenting judges, however, held that while economic criteria could validly found a reservation, the blanket exclusion of SC/ST/OBC citizens from EWS benefits was itself discriminatory, since poverty afflicts members of these communities also. The case therefore leaves unresolved, at a normative level, whether economic and caste-based criteria can coexist without one undermining the constitutional rationale of the other.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. JUDICIAL LIMITS ON RESERVATION: THE FIFTY PER CENT RULE</h4>
+                        <p>The fifty per cent ceiling laid down in Indra Sawhney has functioned as the principal judicial check on the expansion of reservation. The Court in the Maratha reservation case (2021) reiterated that reservation under Article 16(4) should not exceed fifty per cent except in extraordinary circumstances, observing that departing from this limit would replace a society founded on equality with one based on caste rule. In that case, the Court struck down Maharashtra's law granting an additional sixteen per cent reservation to the Maratha community, holding that the State had failed to demonstrate the extraordinary circumstances necessary to breach the ceiling.</p>
+                        <p className="mt-4">Yet the rule have faced sustained pressure over the years. Various states, including Tamil Nadu with sixty-nine per cent reservation protected by the Ninth Schedule, and more recently Bihar, which sought to raise reservation to sixty-five per cent, have tested the limits of this doctrine, with the Patna High Court's 2024 decision striking down Bihar's enhanced reservation law now pending appeal before the Supreme Court.</p>
+                        <p className="mt-4">Notably, in upholding the EWS quota in Janhit Abhiyan, the majority reasoned that the fifty per cent ceiling, being a rule evolved in the context of caste-based reservation under Articles 15(4)/16(4), was not necessarily an inflexible or universal constitutional mandate applicable to every species of reservation. This reasoning has reopened debate on whether the ceiling is a rigid constitutional command or a rebuttable judicial guideline, and several commentators now anticipate the question may ultimately require reconsideration by a larger bench.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. ROLE OF RESERVATION IN SOCIAL JUSTICE</h4>
+                        <p>Beyond the technical debates over percentages and criteria, reservation performs a broader function within India's constitutional vision of social justice. It operationalises the transformative promise of the Preamble and Part IV's Directive Principles, seeking not merely formal non-discrimination but active State intervention to dismantle entrenched hierarchies. Empirical improvements in representation of Scheduled Castes and Scheduled Tribes in public employment, legislatures, and higher education since independence are frequently cited as evidence of reservation's efficacy, even as disparities in outcomes, retention, and promotion persist.</p>
+                        <p className="mt-4">Reservation also carry symbolic and political significance, functioning as a marker of constitutional commitment to historically stigmatised communities, and as a mechanism of descriptive representation within democratic institutions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. THE FUTURE OF AFFIRMATIVE ACTION IN INDIA</h4>
+                        <p>Several trends will shape reservation policy going forward: mounting political demand for caste-based reservation beyond the fifty per cent ceiling from politically influential but numerically dominant communities; the unresolved tension between economic and caste-based criteria sharpened by Janhit Abhiyan; demands for periodic, data-driven review of backward class lists rather than indefinite continuation; and calls, echoed even within judicial dicta, for a sunset clause or time-bound reassessment of reservation, harking back to the framers' own expectation that reservation would be a transitional measure. The pending Bihar reference may compel the Supreme Court to revisit Indra Sawhney before a larger bench, potentially reshaping the doctrinal foundations of the fifty per cent rule itself.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. AUTHOR'S PERSPECTIVE: A CASE FOR REFORM</h4>
+                        <p>While the doctrinal position surveyed above reflects the current state of Indian reservation law, it is worth stating my own view plainly, as this remains a live policy debate and not merely a settled legal question.</p>
+                        <p className="mt-4">In my opinion, caste-based reservation, whatever its historical justification, has largely run its course as the primary basis for affirmative action. Caste was undeniably the axis of exclusion at the time the Constitution was framed, and reservation for SCs and STs in that era was both necessary and just. But over seven decades on, caste as a proxy for backwardness has become a blunt and, in several respects, an unreliable instrument. It captures neither the urban poor cutting across caste lines nor the economically advanced sections within reserved categories with full precision, and it has increasingly become entangled with vote-bank politics rather than genuine upliftment. I am, therefore, not in favour of reservation being organised primarily around caste identity going forward.</p>
+                        <p className="mt-4">I support, instead, a shift toward reservation based on economic criteria. Poverty and lack of access to opportunity are, in my view, the more accurate and more just markers of disadvantage in contemporary India, and an economic basis has the added merit of being self-correcting: as a family's economic position improves, its eligibility naturally phases out, unlike caste status which is permanent and hereditary regardless of actual socio economic mobility. The EWS quota upheld in Janhit Abhiyan is, to my mind, a step in the right direction, though its design remains imperfect, particularly its blanket exclusion of SC/ST/OBC citizens even where they are equally poor, a point the dissenting judges rightly flagged.</p>
+                        <p className="mt-4">Beyond the caste-versus-economic question, I believe the current reservation framework needs a structural reform rather than being left frozen. Reservation lists ought to be reviewed periodically, say once every ten years, on the basis of updated socio-economic data, rather than continuing indefinitely by inertia. The creamy layer principle presently applied inconsistently across categories, should be uniformly and rigorously enforced so benefits reach those who actually need them. And a time-bound sunset oriented approach, originally envisioned by the framers themselves as a transitional arrangement, deserves serious reconsideration by Parliament, so that reservation remains a corrective tool rather than a permanent feature disconnected from the ground realities it was meant to address.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. CONCLUSION</h4>
+                        <p>Reservation policy in India lies in a difficult constitutional space between the idea of formal equality and the need to achieve substantive justice. The journey from Indra Sawhney to Janhit Abhiyan shows how the Supreme Court has tried to maintain this balance through concepts such as the creamy layer, the fifty per cent ceiling and changing understandings of backwardness. At the same time, newer demands based on economic conditions, sub-caste differences and regional inequalities have raised fresh questions about the existing reservation framework. In the long run, the legitimacy of reservation will depend on whether the policy is able to respond to changing social realities and is reviewed on the basis of proper evidence. Reservation was introduced as a means of addressing historical disadvantage, and its effectiveness will ultimately depend on ensuring that it continues to serve that purpose in present-day India.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Himanshu Singh.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">GD Goenka University, Gurugram / LLM</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Reservation Policies & Equality Debate",
+            author: "By Farah Riyaz",
+            abstract: "Reservation is one of the most debated constitutional policies in India. It was introduced to address historical discrimination, social exclusion and inadequate representation of disadvantaged communities. The Indian constitution guarantees equality of opportunity, but it also recognizes that treating unequals, Therefore, the Constitution permits special provisions and reservations for socially and educationally backward classes, Schedule Castes (SCs), Schedule Tribes (STs) and, after 103 rd Constitutional Amendment economically weaker section. The reservation debate has gradually moved beyond the simple question of whether reservation should exist. Today, it concerns reservation versus merit, caste versus economic criteria, the 50% ceiling creamy layer, sub-classification, social justice and the future design of affirmative action. The Supreme Court has played a major role in balancing these competing constitutional values.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional framework of reservation</li>
+                            <li>Reservation vs Meritocracy Debate</li>
+                            <li>Economic vs Caste-based Reservation</li>
+                            <li>Judicial Limits on Reservation; the 50% Rule</li>
+                            <li>Role of Reservation in Social Justice</li>
+                            <li>Emerging Issue; Sub-Classification Within reserved categories</li>
+                            <li>Future of Affirmative Action in India</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Reservation is one of the most debated constitutional policies in India. It was introduced to address historical discrimination, social exclusion and inadequate representation of disadvantaged communities. The Indian constitution guarantees equality of opportunity, but it also recognizes that treating unequals, Therefore, the Constitution permits special provisions and reservations for socially and educationally backward classes, Schedule Castes (SCs), Schedule Tribes (STs) and, after 103 rd Constitutional Amendment economically weaker section.</p>
+                        <p className="mt-4">The reservation debate has gradually moved beyond the simple question of whether reservation should exist. Today, it concerns reservation versus merit, caste versus economic criteria, the 50% ceiling creamy layer, sub-classification, social justice and the future design of affirmative action. The Supreme Court has played a major role in balancing these competing constitutional values.</p>
+                        <p className="mt-4">The Contemporary debate has acquired greater importance following the Supreme Court's decisions on EWS reservation and sub-classification within SCs and STs. In Jan hit Abhiyan v. Union of India, the court upheld the constitutional validity of the 103 rd Amendment and the 10% EWS reservation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. CONSTITUTIONAL FRAMEWORK OF RESERVATION</h4>
+                        <p>The constitutional foundation of reservation is primarily found in Articles 14, 15, and 16 of the Constitution of India.</p>
+                        <ul className="space-y-4 mt-4">
+                            <li><strong className="text-white">Article 14</strong> guarantees equality before law and equal protection of laws. However, equality does not always mean identical treatment. Reasonable classification is permissible where there are an intelligible differentia and a rational connection with the object of the law.</li>
+                            <li><strong className="text-white">Article 15 (4)</strong> permits the state to make special provisions for the advancement of socially and educationally backward classes and SCs and STs.</li>
+                            <li><strong className="text-white">Article 15(5)</strong> extends this relating to educational institutions, subject to constitutional limitations.</li>
+                            <li><strong className="text-white">Article 16</strong> guarantees equality of opportunity in public employment.</li>
+                            <li><strong className="text-white">Article 16(4)</strong> permits opinion of the state, are not adequately represented in state services.</li>
+                            <li><strong className="text-white">Article 16 (4A) and 16(4B)</strong> further deal with reservation in promotion for SCs and STs and carry forward unfilled reserve vacancies.</li>
+                        </ul>
+                        <p className="mt-4">The 103 rd Amendment inserted Articles 15(6) and 16(6) enabling reservations of up to 10% for EWS candidates outside the categories already covered by the specified reservation provisions. The amendment therefore represented an important movement from predominantly socially based affirmative action towards recognition of economic disadvantage as an independent constitutional consideration.</p>
+                        <p className="mt-4">Thus, reservation is not simply an exception to equality. Modern constitutional interpretation increasingly treats affirmative action as a means of achieving substantive equality.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. RESERVATION VS MERITOCRACY DEBATE</h4>
+                        <p>The strongest criticism of reservation is that it may conflict with the principle of meritocracy. Reservation, it is argued, that selection should depend primarily upon examination scores, qualification, ability and performance rather than caste or social identity.</p>
+                        <p className="mt-4">According to this view, reservation may reduce competition and can create resentment among candidates who do not receive reserved benefits. It is also argued that professional fields such as medicine, engineering, administration and law require high standards of competence.</p>
+                        <p className="mt-4">The Supreme Court's jurisprudence recognizes this distinction. In Indra Sawhney v. Union of India, the court recognized reservation for socially and educationally backward classes while simultaneously imposing constitutional limitations such as the creamy-layer principle and the general 50% ceiling. The court has also recognized that concessions such as age relaxation or fee relaxation for reserved-category candidates do not necessarily destroy equality of opportunity.</p>
+                        <p className="mt-4">In a recent 2026 judgment, the Supreme Court observed that concessions and relaxations can operate as aids to reservation and help place candidates on a comparable footing; after that stage, merit can be assessed.</p>
+                        <p className="mt-4">Thus, the real constitutional question is not whether reservation is compatible with merit, but "how merit should be defined in a society marked by structural inequality."</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. ECONOMIC VS CASTE-BASED RESERVATION</h4>
+                        <p>Another major issue is whether reservation should be based on caste or economic disadvantage. Traditional reservation policy is primarily connected with social and educational backwardness. Caste has historically been an important indicator of social exclusion in India. Consequently, SC, ST, and OBC reservations are not based merely on poverty. They respond to broader forms of historical and social disadvantage.</p>
+                        <p className="mt-4">In Indra Sawhney, the Supreme Court held that backward classes could not be identified exclusively on economic criteria under Article 16(4). The Court recognized the importance of social backwardness and directed the exclusion of the creamy layer among OBCs.</p>
+                        <p className="mt-4">The judgment was significant because the court accepted economic disadvantage as an independent basis for affirmative action under Article 15(6) and 16(6). It also held that EWS reservation could operate in addition to the existing reservations and that the 50% ceiling applicable to article 15 (4), 15(5) and 16(4) was not an absolute barrier to the constitutionally created EWS framework.</p>
+                        <p className="mt-4">Therefore, a balanced reservation policy should recognize that economic disadvantages and social discrimination are different dimensions of inequality.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. JUDICIAL LIMITS ON RESERVATION; THE 50% RULE</h4>
+                        <p>One of the most important judicial limitations on reservation is the 50% rule. The principle originated in M.R. Balaji v. State of Mysore and was authoritatively developed in Indra Sawhney v. Union of India.</p>
+                        <p className="mt-4">In Indra Sawhney, the nine-judge bench held that reservation under Article 16(4) should ordinarily not exceed 50%. However, the court recognized that extraordinary circumstances could justify exceeding the limit, but such situations required extreme caution and special justification.</p>
+                        <p className="mt-4">The purpose of the ceiling is to preserve a reasonable balance between equality of opportunity and affirmative action. If reservations occupy an excessive proportion of available seats or posts, the constitutional guarantee of equal opportunity may become ineffective.</p>
+                        <p className="mt-4">The 50% rule was again considered in the Maratha reservation case, Jaishri Laxman Rao Patil v. chief minister, Maharashtra. The Supreme Court held that there were no extraordinary circumstances sufficient to justify exceeding the 50% principle related to the constitutional objective of equality.</p>
+                        <p className="mt-4">At the same time, Jan hit Abhiyan demonstrated that the constitutional framework has become more complex because the court upheld EWS reservation beyond the conventional 50% framework.</p>
+                        <p className="mt-4">Therefore, the 50% rule remains an important judicial principle, but its application must now be understood alongside subsequent constitutional amendments and judgments.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. ROLE OF RESERVATION IN SOCIAL JUSTICE</h4>
+                        <p>The strongest justification for reservation is its role in achieving social justice and substantive equality.</p>
+                        <p className="mt-4">Indian has historically experienced caste – based exclusion, untouchability, unequal access to education, land, employment, and public institutions. Reservation seeks to increase the representation Of disadvantaged groups in educational institutions, it can provide access to opportunities that were historically unavailable to certain communities.</p>
+                        <p className="mt-4">The constitution itself reflects this social-justice objective. Article 46 directs the state to promote the educational and economic interests of weaker sections, particularly SCs and STs, and protect them from social injustice and exploitation.</p>
+                        <p className="mt-4">However, reservation alone cannot eliminate in equality public education, scholarships, skill development, healthcare, economic opportunities and anti-discrimination measures.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. EMERGING ISSUE; SUB-CLASSIFICATION WITHIN RESERVED CATEGORIES</h4>
+                        <p>A major recent development is in the Supreme Court’s decision in State of Punjab v. Davinder Singh (2024).</p>
+                        <p className="mt-4">A seven-judge constitution bench held by a 6:1 majority that States may Sub-Classify Schedule Castes for reservation purposes, provided the classification is based on constitutional principles and relevant data. The judgment overruled E.V. Chinnaiah v. State of Andhra Pradesh on this issue. The significance of this judgment is that the Court recognised that disadvantaged communities within a constitutionally recognised category may not necessarily experience disadvantage equally.</p>
+                        <p className="mt-4">Sub-classification can therefore be used to ensure that reservation benefits reach groups that remain comparatively under-represented. However, such classification cannot be arbitrary. It must be supported by a rational basis and relevant data.</p>
+                        <p className="mt-4">This development reflects a shift from simply asking “ Who receives reservation?” To asking “Who actually benefits from reservation?”</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. FUTURE OF AFFIRMATIVE ACTION IN INDIA</h4>
+                        <p>The future of reservation policy should focus on evidence based and targeted Affirmative Action.</p>
+                        <ul className="space-y-4 mt-4">
+                            <li><strong className="text-white">First,</strong> governments should regularly collect reliable data regarding representation and socio-economic conditions.</li>
+                            <li><strong className="text-white">Second,</strong> there should be stronger monitoring of the distribution of benefits Within reserved categories. The principle of the creamy layer for OBCs demonstrates that benefits should reach those who remain genuinely disadvantaged.</li>
+                            <li><strong className="text-white">Third,</strong> the State should improve primary and secondary education. Reservation at the University or employment stage cannot fully compensate for unequal.</li>
+                            <li><strong className="text-white">Fourth,</strong> economic disadvantage should be addressed through scholarships, fee assistance, hostels, nutrition programmes and skill-development schemes. EWS reservation has already established economic disadvantage as a constitutionally recognised basis of Affirmative Action.</li>
+                            <li><strong className="text-white">Fifth,</strong> sub-classification may become increasingly important where empirical evidence demonstrates that some groups within reserved categories receive disproportionately fewer benefits.</li>
+                        </ul>
+                        <p className="mt-4">Finally, reservation should not be viewed as a permanent substitute for broader social reform. Its ultimate objective should be to reduce structural inequality so that social background becomes progressively less decisive in determining educational and professional opportunities.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. CONCLUSION</h4>
+                        <p>Reservation in India represents a constitutional attempt to reconcile equality with Reservation should neither be treated as a substitute for merit nor as a permanent political entitlement. Its constitutional purpose is to create conditions in which historically disadvantaged citizens can participate equally in society. The ultimate goal of affirmative action should therefore injustice. The reservation-versus-merit debate is important but merit itself cannot be understood without considering unequal social and educational starting points.</p>
+                        <p className="mt-4">The Supreme Court has developed several safeguards, including the 50% rule, creamy layer principle, requirements of adequate representation and judicial review. At the same time, the constitutional framework has evolved through the 103 rd Amendment and the recognition of EWS reservation.</p>
+                        <p className="mt-4">Recent decisions such as Janhit Abhiyan and Davinder Singh demonstrates that Indian affirmative-action jurisprudence is moving towards a more complex understanding of disadvantage. The future should therefore combine caste-sensitive, economically responsive and evidence-based policies.</p>
+                        <p className="mt-4">Reservation should neither be treated as a substitute for merit nor as a permanent political entitlement. Its constitutional purpose is to create conditions in which historically disadvantaged citizens can participate equally in society. The ultimate goal of affirmative action should therefore be substantive equality adequate representation and social justice while preserving constitutional fairness and administrative efficiency.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Farah Riyaz.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Vivekananda College of law Aligarh</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Live – in Relationships & Changing Family Laws",
+            author: "By Rohini Singh",
+            abstract: "The institution of marriage, once considered the singular cornerstone of family formation, is undergoing a profound transformation in the modern era. Across various jurisdictions, the rise of cohabitation—commonly referred to as \"live-in relationships\"—has challenged traditional legal and social frameworks. This article explores the evolving landscape of family law as it pertains to non-marital cohabitation. It examines the shift from strict matrimonial definitions to more inclusive legal recognition, the critical vulnerabilities faced by women in such setups, the complex challenges surrounding maintenance and inheritance rights, and the persistent tension between evolving social acceptance and the limitations of legal protection. Through an analysis of recent judicial trends, this discussion highlights the necessity for a balanced legislative approach that prioritizes individual autonomy while ensuring the protection of vulnerable parties in domestic partnerships. In India, family laws were historically drafted around formal marriage ceremonies and traditional religious personal laws. The emergence of live-in setups has forced the legal framework to adapt dynamically. Guided by constitutional principles of privacy, liberty, and human dignity under Article 21, the judiciary has stepped forward to bridge the statutory gap, ensuring that individuals in cohabitating relationships are protected from exploitation, violence, and economic destitution.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Legal Recognition of Live – in Relationships in India</li>
+                            <li>Rights of Women in Live-in Setups</li>
+                            <li>Maintenance and Inheritance Issues</li>
+                            <li>Judicial Trends: Key Precedents</li>
+                            <li>Social Acceptance vs Legal Protection</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL RECOGNITION OF LIVE – IN RELATIONSHIPS IN INDIA</h4>
+                        <p>In Indian law, there is no single, explicit statute that defines or regulates live-in relationships. Unlike marriage, which is governed by codified statutes like the Hindu Marriage Act (1955), the Special Marriage Act (1954), or Muslim Personal Law, live-in relationships operate within a judicial jurisprudence constructed over decades.</p>
+                        <p className="mt-4">The judiciary's recognition of live-in relationships rests on two fundamental pillars:</p>
+                        <ul className="space-y-4 mt-4">
+                            <li><strong className="text-white">Presumption of Marriage:</strong> Under Section 114 of the Indian Evidence Act, 1872, courts can presume facts that are likely to have happened. If a man and a woman live together continuously over a long duration as husband and wife, the law raises a presumption in favor of marriage rather than concubinage, unless proven otherwise.</li>
+                            <li><strong className="text-white">Constitutional Right to Choice:</strong> The Supreme Court of India has affirmed that two consenting adults living together is an exercise of their fundamental right to life and personal liberty under Article 21 of the Constitution. Cohabitation between adults is not illegal or criminal in Indian jurisprudence.</li>
+                        </ul>
+                        <p className="mt-4">Recent legislative developments, such as the Uniform Civil Code (UCC) enacted in Uttarakhand, have introduced mandatory registration for live-in relationships. While aimed at preventing crime and establishing legal clarity, such statutory interventions have sparked debate over balancing state oversight with individual privacy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIGHTS OF WOMEN IN LIVE-IN SETUPS</h4>
+                        <p>Historically, women in non-marital cohabitation faced severe social stigma and complete legal vulnerability. Should a live-in partner walk away or turn abusive, the woman was often left without financial remedies, child custody support, or shelter. Recognizing this structural disadvantage, both statutory changes and judicial decisions have worked to safeguard female partners in live-in arrangements.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Protection under the DV Act, 2005</h5>
+                        <p>The turning point came with the enactment of the Protection of Women from Domestic Violence Act, 2005 (DV Act).</p>
+                        <ul className="space-y-4 mt-4">
+                            <li>The Act moved beyond formal marriage by defining a aggrieved person as any woman living in a "relationship in the nature of marriage."</li>
+                            <li>Under Section 2(f), women in live-in setups that qualify as "relationships in the nature of marriage" gain rights to protection orders, residential rights in a shared household, protection against emotional and economic abuse, and monetary compensation.</li>
+                        </ul>
+                        <p className="mt-4">This inclusion ensured that living together without a formal marriage contract no longer deprived a woman of legal defense against domestic abuse.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MAINTENANCE AND INHERITANCE ISSUES</h4>
+                        <p>The primary practical friction in live-in relationships arises when the relationship dissolves, or when a partner passes away, bringing maintenance and inheritance claims to the forefront.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Maintenance Claims</h5>
+                        <ul className="space-y-4">
+                            <li><strong className="text-white">Section 125 of the CrPC / Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS):</strong> Traditionally, maintenance under Section 125 was available only to a legally wedded wife. However, through liberal judicial interpretation, courts expanded the scope of "wife" to include women who have cohabited with a man for a prolonged period, preventing them from falling into vagrancy and destitution upon separation.</li>
+                            <li><strong className="text-white">DV Act Remedies:</strong> Section 20 of the DV Act allows women in a relationship in the nature of marriage to claim monetary relief and maintenance tailored to meet their standard of living.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Inheritance Rights</h5>
+                        <p>Inheritance laws remain strictly tied to religious personal laws and formal marriages.</p>
+                        <ul className="space-y-4 mt-4">
+                            <li><strong className="text-white">Partner's Claim:</strong> A surviving live-in partner generally does not have an automatic statutory right to inherit the self-acquired or ancestral property of a deceased partner intestate (without a will). Property rights for partners must be established via testamentary instruments like wills or gifts.</li>
+                            <li><strong className="text-white">Children's Rights:</strong> While adult partners face inheritance limitations, children born from live-in relationships are fully protected. Under Section 16 of the Hindu Marriage Act (and general judicial principles applying across communities), children born out of long-term cohabitation are treated as legitimate and possess inheritance rights in their parents' self-acquired property.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL TRENDS: KEY PRECEDENTS</h4>
+                        <p className="mb-4">The jurisprudence surrounding live-in setups in India has been driven almost entirely by seminal judgments of the Supreme Court and High Courts.</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Badri Prasad v. Director of Consolidation (1978) 3 SCC 527</strong>
+                                <p>This was one of the earliest decisions where the Supreme Court recognized live-in relationships. The Court held that a long-standing live-in relationship carries a strong presumption of marriage. Justice V.R. Krishna Iyer observed that a continuous cohabitation of 50 years should not be easily brushed aside as concubinage, as the law heavily favors legitimacy over illegitimacy.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. S. Khushboo v. Kanniammal (2010) 5 SCC 600</strong>
+                                <p>Addressing public outrage and criminal complaints filed against actor Khushboo for her comments on pre-marital sex and live-in relationships, the Supreme Court delivered a groundbreaking verdict. The Court stated that two adults living together without marriage does not constitute an offense under any law. Living together is an integral component of the right to life under Article 21.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. D. Velusamy v. D. Patchaiammal (2010) 10 SCC 469</strong>
+                                <p>In this critical ruling, the Supreme Court laid down specific guidelines to distinguish a "relationship in the nature of marriage" from a casual arrangement or a secret affair:</p>
+                                <ul className="list-disc pl-5 mt-2 space-y-1">
+                                    <li>The couple must hold themselves out to society as akin to spouses.</li>
+                                    <li>They must be of legal age to marry.</li>
+                                    <li>They must be otherwise qualified to enter into a legal marriage (e.g., unmarried).</li>
+                                    <li>They must have voluntarily cohabited and held themselves out to the world as living together for a significant period.</li>
+                                </ul>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Indra Sarma v. V.K.V. Sarma (2013) 15 SCC 755</strong>
+                                <p>The Supreme Court addressed the complex situation where a woman enters into a live-in relationship with a married man. The Court held that if a woman knowingly enters into a relationship with a married man, the arrangement does not qualify as a "relationship in the nature of marriage" under the DV Act, as the man lacks the legal capacity to marry. However, the Court called upon Parliament to enact comprehensive legislation specifically addressing live-in arrangements to fill remaining statutory gaps.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Chanmuniya v. Virendra Kumar Singh Kushwaha (2011) 1 SCC 141</strong>
+                                <p>The Supreme Court ruled that where a man and woman have lived together as husband and wife for a prolonged duration, a broad and expansive interpretation must be given to the term "wife" under Section 125 CrPC so as to grant maintenance to the female partner.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SOCIAL ACCEPTANCE VS LEGAL PROTECTION</h4>
+                        <p>Live-in relationships are increasingly becoming a part of modern society, particularly among young adults who prefer companionship without entering into a formal marriage. However, social acceptance has not developed at the same pace as legal recognition. In India, live-in relationships may still face criticism because marriage is traditionally regarded as the foundation of family life. Couples may experience social stigma, pressure from families, discrimination and difficulties in obtaining acceptance from their communities.</p>
+                        <p className="mt-4">At the same time, Indian law has gradually recognised that individuals have the right to choose their personal relationships. The Constitution protects personal liberty and individual autonomy, and the judiciary has repeatedly acknowledged that merely living together without marriage is not, by itself, illegal. However, legal recognition of a live-in relationship does not mean that it is identical to a legally valid marriage.</p>
+                        <p className="mt-4">An important protection is provided by the Protection of Women from Domestic Violence Act, 2005. The Act recognises a "relationship in the nature of marriage" within the broader concept of a domestic relationship. It provides remedies such as protection orders, residence orders and monetary relief in appropriate circumstances.</p>
+                        <p className="mt-4">The Supreme Court has clarified that every live-in relationship will not automatically qualify as a relationship in the nature of marriage. Factors such as the duration of the relationship, shared household, financial arrangements, domestic responsibilities, children, public representation and the intention and conduct of the parties may be relevant. Thus, legal protection depends upon the circumstances of each case rather than simply the existence of cohabitation.</p>
+                        <p className="mt-4">This difference between social acceptance and legal protection creates an important challenge. A couple may have little social recognition but still receive legal protection in appropriate circumstances. Conversely, the absence of a formal marriage can create uncertainty regarding maintenance, succession, property rights and other family-law consequences. Therefore, legal protection should not be misunderstood as granting all the rights automatically available to a legally married couple.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Live-in relationships demonstrate the changing nature of family and personal relationships in India. The law has moved towards recognising individual autonomy and protecting persons from exploitation and domestic violence, while society continues to adjust to these changing relationship patterns. Judicial decisions have played an important role in balancing individual liberty, social morality and the need for legal protection.</p>
+                        <p className="mt-4">The future of family law should focus not merely on whether a relationship is socially accepted, but on whether individuals within that relationship are treated with dignity, equality and fairness. At the same time, clearer legal rules regarding maintenance, inheritance, property and children would reduce uncertainty. Ultimately, social acceptance may take time to evolve, but legal protection should ensure that a person's basic rights and dignity are not dependent solely upon societal approval.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Rohini Singh.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Gopal Narayan Singh University</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "“Marriage Is Not Consent: Rethinking India’s Marital Rape Exception”",
+            author: "By Anmol Sharma",
+            abstract: "Marital rape is one of the most concerned topics in Indian criminal law; due to the complexities of societal and moral values, it becomes more complicated. This law is on the intersecting ground of marriage, bodily autonomy, privacy, consent, gender equality and constitutional rights. The traditional notion of irrevocable consent in marriage for sexual intercourse challenges the constitutional principles. Section 63 of the Bhartiya Nyaya Sanhita criminalises rape, but it makes an exception for married women. The exception provides no sexual offence committed if a husband enters into a sexual act with his wife who is above 18 years of age. This legal distinction poses a serious question of violation of articles 14, 15 and 21 of the constitution. This article critically determines the exception made as to marital rape. It further analyses whether an exception can be made on the ground of marital status. Is there any alternative remedy available to victims, arguing that it is not a sufficient remedy at all? What will be the consequences of continuous non-consensual sexual acts with a woman, and what will be the suggestion to strike down the exception provided under section 63 and also make some appropriate provision for false allegations?",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Current Legal Status</li>
+                            <li>The Constitutional Challenge</li>
+                            <li>Effects of Marital Rape on the Marital Relationship</li>
+                            <li>An Existent Remedy is Not Enough</li>
+                            <li>Suggestions</li>
+                            <li>Conclusion</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Marriage is a sacred institution, but it should not override the bodily autonomy of the individual. Marrying someone does not mean surrendering all bodily autonomy to that person. Marital rape is a concept where a husband is allowed to have sexual intercourse with his wife even without her consent in India. The real question is how marriage remains secret after the commission of such a sin. Marital rape is a hidden form of violence, not because it is rare, but because it occurs within the institution of marriage, which is often regarded as private and untouchable in society. Patriarchy has deep roots in Indian society; it made people believe that it is a moral and societal responsibility of women to safeguard women. It is so normal that most of the women in India, especially in rural society, are never thought of as having the right to say no; there we fail as a society.</p>
+                        <p className="mt-4">In India, if a person commits nonconsensual sexual intercourse with women, he will be subject to criminal prosecution under Section 63 of the Bharatiya Nyaya Sanhita, but in the same provision, there is a separate law for married women, which makes the husband of such women immune from nonconsensual sexual intercourse. Thus, we can say the wife will surrender his right to say no to the husband after marriage. This assertion is strictly violating the principles of articles 12 and 21 of the constitution. As of now, the Supreme Court of India is examining the constitutional validity of the exception to marital rape amid a growing societal and legal debate about harmonizing the institution of marriage and the bodily autonomy of a woman.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CURRENT LEGAL STATUS</h4>
+                        <p>The provision of rape is defined under section 63 of the Bhartiya Nyaya Sanhita; exception 2 of the same provides that:</p>
+                        <p className="mt-2 italic text-white/90">"Sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape."</p>
+                        <p className="mt-4">The provision poses strict questions about the breach of fundamental rights guaranteed under Article 14, discrimination between married and unmarried women; Article 15, which makes provision for prohibiting discrimination against women and children; and Article 21, non-consensual sexual intercourse causing damage to dignity, bodily integrity, and mental well-being.</p>
+                        <p className="mt-4">Marriage is equal to irrevocable consent forever and is legally and socially wrong. Marriage is an institution in which both husband and wife are on equal footing. The constitutional and legal framework in India had revoked all patriarchal barriers from our legislation and accepted that women are equally eligible for all rights provided to men. The right to refuse is one of those rights that is inherent in the values of Article 21. As per the decision of the Supreme Court, it includes the right to privacy and bodily autonomy.</p>
+                        <p className="mt-4">If a woman were made to have intercourse by her own husband, it would constitute a gross violation of her dignity in the same way it would had the offender been a stranger. In making this differentiation, the law breaches Article 14 of equality.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE CONSTITUTIONAL CHALLENGE</h4>
+                        <p>The legal debate revolves around articles 14, 15, and 21. The argument is that by creating an exception for rape in marriage, the right to equality amongst married and unmarried women is dishonored. Which ultimately protects the rapist in the name of the so-called legally married husband. Article 14, equality before the law, prohibits these types of classifications.</p>
+                        <p className="mt-4">Article 15 provides the framework for the prohibition of discrimination against women and children and the provision of marital rape discrimination in light of the marital status of women. Article 21 provides the right to dignified life, personal liberty, privacy and bodily autonomy. These rights are essential fundamental right of human being state must protect this right.</p>
+                        <p className="mt-4">The Division Bench of the Delhi High Court: Justice Rajiv Shakdher held that Exception 2 to Section 375 IPC was unconstitutional as it violated the Constitution—being 14, 15, 19, and 21 of the Constitution—being discriminatory and abridging a woman's bodily autonomy.</p>
+                        <p className="mt-4">Justice C. Hari Shankar, on the other hand, held that the exception was constitutionally valid and that criminalization of marital rape was a matter for Parliament, not the courts. This verdict leads the matter to supreme court.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EFFECTS OF MARITAL RAPE ON THE MARITAL RELATIONSHIP</h4>
+                        <p>Sexual assault experiences can profoundly alter a person's perception of the world, other people, and themselves. Marital rape and other forms of sexual abuse may also influence one's perspective on relationships, sex, and love in general.</p>
+                        <p className="mt-4">The trauma in the case of marital rape in women may in some cases become even more severe than that of stranger rape because of the constant presence of the aggressor. This will lead to the destruction of marriage as well as the mental capability of women, leading to severe psychological disease.</p>
+                        <p className="mt-4">Sufferers often develop PTSD, depression, and anxiety problems. The sensation of being "caged" inside a marriage when one does not have control over one's own body results in a serious loss of self-respect. Marital rape may not only cause physical damage, but it also leads to serious health implications such as physical injuries and problems related to fertility and the development of sexually transmitted diseases.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">AN EXISTENT REMEDY IS NOT ENOUGH</h4>
+                        <p>Sexual intercourse with women in marriage per se does not come under rape, but there is another alternative remedy available to women, which nowhere stands as of the remedies available for rape law. Existing legal remedies are governed by legislation like the "Protection of Women from Domestic Violence Act, 2005," under which section 3 explicitly includes sexual abuse in the definition of domestic violence. The said legislation provides protection orders, residence, and other types of relief. Cruelty can also be a ground for remedy under section 85 of the Bhartiya Nyaya Sanhita, and other remedies can be of a civil nature subject to divorce proceedings.</p>
+                        <p className="mt-4">The real problem is calling it anything other than rape is minimizing the sensitivity of the issue and the overall violation of fundamental rights of equality, life, liberty, privacy, and bodily integrity.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUGGESTIONS</h4>
+                        <ul className="space-y-6 mt-4">
+                            <li>
+                                <strong className="text-[#D4AF37] block mb-2 text-xl">Struck down exception 2:</strong>
+                                <p><strong className="text-white">In Joseph shine v. Union of India (2018):</strong> Supreme court decriminalise adultery, observing the it treated wife as a property of husband, the aforesaid judgment sets strong precedent to struck down the marital rape exception which is also rooted in same principle of patriarchy.</p>
+                                <p className="mt-2"><strong className="text-white">In Independent Thought v. Union of India (2017):</strong> The Supreme Court held exception 3 of section 375 I.P.C was arbitrary provision in so far it permits sex with married girl in betwwn age of 15 to 18. The aforesaid judgment redefined the age of consent for sex with wife in marital status. This landmark judgment protected child right but left issue partially resolved.</p>
+                                <p className="mt-2">In my opinion same cannotation must apply in case of married women.</p>
+                            </li>
+                            <li>
+                                <strong className="text-[#D4AF37] block mb-2 text-xl">Codify a clear definition of consent:</strong>
+                                <p>The definition of consent must be uniform throughout the offenses that should be freely given, informed, and revocable. The marital status of women should not change the nature of consent; if it does, then it will fail the overall objective of free consent.</p>
+                            </li>
+                            <li>
+                                <strong className="text-[#D4AF37] block mb-2 text-xl">Build in procedural safeguards to address "misuse" concerns without diluting the offense:</strong>
+                                <p>One of the most prominent arguments is the evidential deficiency due to the private setup of the sexual act committed in a closed room. The court already adjudicates the matter in which the accused are relatives living under the same house; the court relies on several facts, such as circumstantial evidence and medical evidence. The immunity must not be granted merely on the possibility of difficulty of proof. However, it is evident that there is a rise of false allegations in matrimonial disputes; thus, it is required to make penal provisions and penalties for weaponizing criminal proceedings.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The laws made in India are subject to the fundamental rights of the constitution. The exception recognising the immunity for a husband committing non-consensual sexual intercourse on his wife is unconstitutional and in direct violation of the principles of fundamental rights enshrined in articles 14, 15 and 21. The wife is not a property of the husband; her will and her consent both matter. The aforesaid provision needs to be struck down.</p>
+                        <p className="mt-4">The court should also direct the legislature to define consent unilaterally throughout the criminal laws. It also ensures that the criminal law should not be weaponised; strict penal provisions should be made in case where false allegations are made against a person.</p>
+                        <p className="mt-4">The law has a duty to harmonise the balance between individual rights and society. In the case of marriage, when both husband and wife are on the same pedestal, then the wife has the right to say no. Thus, it is required as a civilised nation and society that we should respect the bodily autonomy of women.</p>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Anmol Sharma.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Iswar Saran Degree college ( University of Allahabad)/ B.A. LL.B(Hons.)</p>
+                    </div>
+                </div>
+            )
+        },
+
+        {
+            title: "Same-Sex Marriage and the Limits of Judicial Power in India",
+            author: "By Vanshika Agrawal",
+            abstract: "The question of same-sex marriage in India represents one of the most significant contemporary debates concerning constitutional rights, equality, dignity and the role of the judiciary. The Indian constitutional framework has witnessed a gradual expansion of LGBTQ+ rights through landmark judicial decisions. However, the recognition of same-sex marriage raises a more complex question: whether the judiciary can extend an existing statutory institution to same-sex couples, or whether such recognition must come through Parliament. The issue came before a Constitution Bench of the Supreme Court in Supriyo Supriya Chakraborty v. Union of India, decided on 17 October 2023. The Court declined to recognise a fundamental right to marry and refused to interpret the Special Marriage Act, 1954 in a manner that would permit same-sex marriages. At the same time, the Court affirmed important constitutional protections relating to dignity, privacy, autonomy and the freedom to choose a partner. The judgment is therefore important not only for LGBTQ+ rights but also for understanding the limits of judicial power and the constitutional principle of separation of powers.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Community</li>
+                            <li>Evolution of LGBTQ+ Rights in India</li>
+                            <li>Is Marriage a Fundamental Right?</li>
+                            <li>Supriyo v. Union of India — The Central Case</li>
+                            <li>Judicial Interpretation versus Judicial Legislation</li>
+                            <li>Separation of Powers and Judicial Restraint</li>
+                            <li>Constitutional Morality versus Social Morality</li>
+                            <li>LGBTQ+ Rights versus Existing Family Laws</li>
+                            <li>The Dissenting Opinion</li>
+                            <li>Parliament versus Judiciary</li>
+                            <li>Present Legal Position</li>
+                            <li>Critical Analysis</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">I. INTRODUCTION</h4>
+                        <p>The question of same-sex marriage in India represents one of the most significant contemporary debates concerning constitutional rights, equality, dignity and the role of the judiciary. The Indian constitutional framework has witnessed a gradual expansion of LGBTQ+ rights through landmark judicial decisions. However, the recognition of same-sex marriage raises a more complex question: whether the judiciary can extend an existing statutory institution to same-sex couples, or whether such recognition must come through Parliament.</p>
+                        <p className="mt-4">The issue came before a Constitution Bench of the Supreme Court in <em className="text-white/90">Supriyo Supriya Chakraborty v. Union of India</em>, decided on 17 October 2023. The Court declined to recognise a fundamental right to marry and refused to interpret the Special Marriage Act, 1954 in a manner that would permit same-sex marriages. At the same time, the Court affirmed important constitutional protections relating to dignity, privacy, autonomy and the freedom to choose a partner.</p>
+                        <p className="mt-4">The judgment is therefore important not only for LGBTQ+ rights but also for understanding the limits of judicial power and the constitutional principle of separation of powers.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">II. THE COMMUNITY</h4>
+                        <p>The LGBTQ+ community comprises people with diverse sexual orientations and gender identities, including Lesbian, Gay, Bisexual and Transgender persons. Historically, the community has faced discrimination and social marginalisation.</p>
+                        <p className="mt-4">Under colonial India, Section 377 of the IPC was used to criminalise certain same-sex sexual acts. However, in <em className="text-white/90">Navtej Singh Johar v. Union of India</em> (2018), the Supreme Court decriminalised consensual same-sex relations between adults and recognised the constitutional rights to equality, dignity, privacy, autonomy and sexual orientation.</p>
+                        <p className="mt-4">Despite this progress, same-sex marriage is not legally recognised in India. In <em className="text-white/90">Supriyo v. Union of India</em> (2023), the Supreme Court held that legal recognition of same-sex marriage requires legislative action, while affirming the constitutional protection of queer persons' freedom to form relationships.</p>
+                        <p className="mt-4">Thus, the struggle for LGBTQ+ rights has moved from decriminalisation of same-sex relationships towards seeking equal legal recognition, dignity and protection in family and marital relationships.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">III. EVOLUTION OF LGBTQ+ RIGHTS IN INDIA</h4>
+                        <p>The legal recognition of LGBTQ+ rights in India has developed through several landmark judgments.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">NALSA v. Union of India (2014)</h5>
+                        <p>In <em className="text-white/90">National Legal Services Authority v. Union of India</em>, the Supreme Court recognised the constitutional right of transgender persons to self-identification and emphasised dignity, equality and personal autonomy.</p>
+                        <p className="mt-2">The judgment established that constitutional protection extends to gender identity and that individuals cannot be denied their basic rights merely because they do not conform to traditional gender identities.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Justice K.S. Puttaswamy v. Union of India (2017)</h5>
+                        <p>In <em className="text-white/90">Justice K.S. Puttaswamy (Retd.) v. Union of India</em>, a nine-judge Constitution Bench recognised privacy as a fundamental right under Article 21.</p>
+                        <p className="mt-2">The judgment recognised that privacy includes aspects of personal autonomy, intimate choices and decisional freedom. This constitutional understanding later became important in LGBTQ+ rights jurisprudence.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Navtej Singh Johar v. Union of India (2018)</h5>
+                        <p>A major breakthrough came in <em className="text-white/90">Navtej Singh Johar v. Union of India</em>, where the Supreme Court read down Section 377 of the Indian Penal Code insofar as it criminalised consensual sexual relations between adults.</p>
+                        <p className="mt-2">The Court emphasised dignity, equality, privacy, autonomy and constitutional morality. The decision established that sexual orientation is an essential part of individual identity and cannot be used as a basis for unconstitutional discrimination.</p>
+                        <p className="mt-2 font-bold text-white">These judgments laid the constitutional foundation for the later debate concerning same-sex marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IV. IS MARRIAGE A FUNDAMENTAL RIGHT?</h4>
+                        <p>One of the central questions in Supriyo was whether the Constitution guarantees a fundamental right to marry.</p>
+                        <p className="mt-4">The Supreme Court's majority held that there is no fundamental right to marry under the Constitution. The Court distinguished between the right of an individual to choose a partner and the right to obtain legal recognition of that relationship as a marriage.</p>
+                        <p className="mt-4">The Court recognised that the choice of a partner is protected by constitutional values of privacy, autonomy and personal liberty. However, this does not automatically create an entitlement to a particular legal status.</p>
+                        <p className="mt-4">Therefore, the existence of a constitutional right to personal autonomy does not necessarily mean that every couple has a constitutional right to have their relationship recognised as a marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">V. SUPRIYO V. UNION OF INDIA — THE CENTRAL CASE</h4>
+                        <p>In Supriyo, same-sex couples challenged the exclusion of their relationships from the legal framework governing marriage. The petitioners primarily relied upon constitutional guarantees under Articles 14, 15, 19 and 21.</p>
+                        <p className="mt-4">They argued that denying same-sex couples access to marriage violated equality, dignity, autonomy and the right to choose one's partner.</p>
+                        <p className="mt-4">The petitioners also sought a gender-neutral interpretation of the Special Marriage Act, 1954, so that its provisions could apply to same-sex couples.</p>
+                        <p className="mt-4">The Supreme Court, however, refused to rewrite the legislation.</p>
+                        <p className="mt-4">The Court held that the petitioners' request would require substantial changes to the statutory scheme and would have consequences extending beyond the Special Marriage Act.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VI. JUDICIAL INTERPRETATION VERSUS JUDICIAL LEGISLATION</h4>
+                        <p>The most important aspect of Supriyo is the distinction between judicial interpretation and judicial legislation.</p>
+                        <p className="mt-4">The judiciary has the constitutional authority to interpret legislation. It can also invalidate laws that violate fundamental rights. However, there is a constitutional limit to this power.</p>
+                        <p className="mt-4">If interpreting a statute requires the Court to introduce an entirely new legal framework, the Court risks moving from interpretation into legislation.</p>
+                        <p className="mt-4">Recognition of same-sex marriage would have consequences under numerous areas of law, including:</p>
+                        <ul className="grid grid-cols-2 gap-4 mt-4 list-disc pl-5">
+                            <li>adoption</li>
+                            <li>succession and inheritance</li>
+                            <li>maintenance</li>
+                            <li>guardianship</li>
+                            <li>taxation</li>
+                            <li>pension</li>
+                            <li>insurance</li>
+                            <li>employment benefits</li>
+                            <li>social-security schemes</li>
+                        </ul>
+                        <p className="mt-4">Therefore, recognising same-sex marriage through judicial interpretation would not merely involve changing a few words in the Special Marriage Act. It would potentially require a comprehensive restructuring of several legal provisions.</p>
+                        <p className="mt-4">The majority in Supriyo therefore concluded that such a task was primarily for the legislature rather than the judiciary.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VII. SEPARATION OF POWERS AND JUDICIAL RESTRAINT</h4>
+                        <p>The Indian Constitution distributes governmental functions among the legislature, executive and judiciary.</p>
+                        <p className="mt-4">Parliament is primarily responsible for making laws. Courts interpret laws and determine their constitutional validity. Although the judiciary possesses wide powers of judicial review, those powers do not make the Court a substitute for Parliament.</p>
+                        <p className="mt-4">The same principle becomes particularly important when dealing with socially significant questions.</p>
+                        <p className="mt-4">The Supreme Court recognised that queer couples may suffer disadvantages because several benefits are connected to marital status. However, it held that the Court could not itself undertake the complex task of restructuring all such laws and policies. Instead, the Court directed attention towards the need for the State to examine discriminatory consequences faced by queer couples.</p>
+                        <p className="mt-4">The Court also recorded the establishment of a high-powered committee headed by the Union Cabinet Secretary to examine the rights and entitlements of queer couples.</p>
+                        <p className="mt-4 font-bold text-white">This reflects the principle of judicial restraint: courts can identify constitutional concerns but may leave complex policy choices to the appropriate constitutional institution.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">VIII. CONSTITUTIONAL MORALITY VERSUS SOCIAL MORALITY</h4>
+                        <p>The debate over same-sex marriage also involves the concept of constitutional morality.</p>
+                        <p className="mt-4">Social morality is often influenced by tradition, religion, custom and prevailing social attitudes. Constitutional morality, on the other hand, requires the State and its institutions to uphold constitutional values such as:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-4">
+                            <li>equality;</li>
+                            <li>liberty;</li>
+                            <li>dignity;</li>
+                            <li>fraternity; and</li>
+                            <li>individual autonomy.</li>
+                        </ul>
+                        <p className="mt-4">The Supreme Court's earlier LGBTQ+ judgments, particularly Navtej Singh Johar, demonstrated the importance of constitutional morality in protecting minorities from majoritarian prejudice.</p>
+                        <p className="mt-4">However, Supriyo demonstrates that constitutional morality does not necessarily mean that courts can create every legal institution that might advance equality. Constitutional values must operate within the institutional boundaries of the Constitution.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IX. LGBTQ+ RIGHTS VERSUS EXISTING FAMILY LAWS</h4>
+                        <p>Another important issue is the relationship between LGBTQ+ rights and India's existing family-law structure.</p>
+                        <p className="mt-4">Marriage in India is connected with numerous legal consequences. Recognition of same-sex marriage would therefore raise questions concerning:</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Adoption</h5>
+                        <p>Whether same-sex couples should be treated equally under adoption laws and regulations.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Succession</h5>
+                        <p>Whether spouses in same-sex marriages should receive the same inheritance rights as spouses in heterosexual marriages.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Maintenance</h5>
+                        <p>Whether same-sex spouses should have reciprocal maintenance obligations.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Guardianship and Parenthood</h5>
+                        <p>Whether both partners should receive equal legal recognition as parents or guardians.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Social and Employment Benefits</h5>
+                        <p>Whether benefits such as family pension, insurance, provident fund and other employment-related benefits should extend equally to same-sex partners.</p>
+
+                        <p className="mt-6">The Supreme Court specifically acknowledged that queer couples can face discriminatory impacts where legal benefits depend upon marital status.</p>
+                        <p className="mt-2 font-bold text-white">Thus, the debate is not confined to the ceremony of marriage; it concerns the entire legal structure of family and personal law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">X. THE DISSENTING OPINION</h4>
+                        <p>The dissenting opinions in Supriyo provide an important alternative constitutional perspective.</p>
+                        <p className="mt-4">Chief Justice D.Y. Chandrachud placed greater emphasis on the lived experiences of queer persons and the principle of transformative constitutionalism.</p>
+                        <p className="mt-4">Transformative constitutionalism requires constitutional interpretation to address historical discrimination and promote substantive equality.</p>
+                        <p className="mt-4">The dissent recognised the importance of protecting queer relationships and unions and emphasised that constitutional rights should have practical meaning in the lives of LGBTQ+ persons.</p>
+                        <p className="mt-4">However, the minority position did not become the binding law of the Court.</p>
+                        <p className="mt-4">The difference between the majority and minority approaches illustrates the central debate:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li><strong className="text-white">Transformative constitutionalism</strong> asks the judiciary to interpret constitutional rights dynamically in order to protect marginalised communities.</li>
+                            <li><strong className="text-white">Judicial restraint</strong> requires the judiciary to respect institutional boundaries when a remedy would involve creating a new legislative framework.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">XI. PARLIAMENT VERSUS JUDICIARY</h4>
+                        <p>The question ultimately becomes one of institutional responsibility.</p>
+                        <p className="mt-4">If Parliament enacts legislation recognising same-sex marriage, such legislation would still have to satisfy constitutional requirements. The judiciary would retain the power of judicial review.</p>
+                        <p className="mt-4">However, where Parliament has not enacted such a legal framework, the question is whether the judiciary should create one.</p>
+                        <p className="mt-4">The Supreme Court answered this question in the negative in Supriyo.</p>
+                        <p className="mt-4">The Court's approach can therefore be summarised as:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li><strong className="text-[#D4AF37]">Parliament:</strong> creates or modifies the legal framework.</li>
+                            <li><strong className="text-[#D4AF37]">Executive:</strong> implements the legislation and policies.</li>
+                            <li><strong className="text-[#D4AF37]">Judiciary:</strong> interprets legislation and protects constitutional rights.</li>
+                        </ul>
+                        <p className="mt-4">This does not mean that Parliament has unlimited authority. Any future legislation concerning same-sex marriage would remain subject to constitutional scrutiny.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">XII. PRESENT LEGAL POSITION</h4>
+                        <p>The Supriyo judgment remains the principal Supreme Court authority on same-sex marriage in India. The Supreme Court's official judgment records the Court's conclusion that the constitutional right to choose a partner and form an intimate relationship does not itself confer a right to claim a particular legal status for that relationship.</p>
+                        <p className="mt-4">The present position can therefore be understood as follows:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-4">
+                            <li>Consensual same-sex relationships between adults are constitutionally protected.</li>
+                            <li>Sexual orientation is protected by constitutional principles of dignity, equality and privacy.</li>
+                            <li>Individuals have the right to choose their partners.</li>
+                            <li>There is no judicially recognised fundamental right to same-sex marriage.</li>
+                            <li>The Supreme Court has declined to rewrite the Special Marriage Act to permit same-sex marriage.</li>
+                            <li>Comprehensive legal recognition of same-sex marriage remains primarily a matter for Parliament.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">XIII. CRITICAL ANALYSIS</h4>
+                        <p>The judgment presents a difficult balance between individual rights and institutional limitations.</p>
+                        <p className="mt-4">From one perspective, judicial restraint is essential to maintaining the separation of powers. Marriage affects numerous areas of law, and creating a new legal framework through judicial directions could result in the judiciary effectively performing a legislative function.</p>
+                        <p className="mt-4">From another perspective, the decision can be criticised because the absence of marriage recognition may continue to place same-sex couples at a disadvantage. If marriage provides important economic, social and legal benefits, exclusion from the institution can have significant consequences for equality.</p>
+                        <p className="mt-4">Therefore, the constitutional challenge is to ensure that judicial restraint does not become an excuse for discrimination, while ensuring that judicial power does not become a substitute for democratic law-making.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">XIV. CONCLUSION</h4>
+                        <p>Same-sex marriage represents one of the most important contemporary questions concerning the relationship between individual liberty, equality and institutional power.</p>
+                        <p className="mt-4">The constitutional journey from NALSA to Puttaswamy and Navtej Singh Johar has established strong protection for LGBTQ+ identity, dignity, privacy and personal autonomy.</p>
+                        <p className="mt-4">However, <em className="text-white/90">Supriyo Supriya Chakraborty v. Union of India</em> demonstrates that recognition of these constitutional rights does not automatically require the judiciary to create a new institution of marriage.</p>
+                        <p className="mt-4">The judgment draws an important boundary between protecting constitutional rights and exercising legislative power. While the judiciary must remain vigilant against discrimination, Parliament remains the institution primarily responsible for deciding whether and how Indian marriage law should be extended to same-sex couples.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li><strong className="text-white">The Constitution of India, 1950.</strong></li>
+                            <li><strong className="text-white">The Special Marriage Act, 1954.</strong></li>
+                            <li><strong className="text-white">The Hindu Marriage Act, 1955.</strong></li>
+                            <li><strong className="text-white">The Transgender Persons (Protection of Rights) Act, 2019.</strong></li>
+                            <li><strong className="text-white">Supreme Court of India Judgement in Supriyo Supriya Chakraborty v. Union of India,</strong> 2023 INSC 920.</li>
+                            <li><strong className="text-white">Navtej Singh Johar v. Union of India,</strong> (2018) 10 SCC 1.</li>
+                            <li><strong className="text-white">Justice K.S. Puttaswamy (Retd.) v. Union of India,</strong> (2017) 10 SCC 1.</li>
+                            <li><strong className="text-white">National Legal Services Authority v. Union of India,</strong> (2014) 5 SCC 438.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Vanshika Agrawal.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">L.B.S Law College, Lucknow</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "MARITAL RAPE, CONSTITUTIONAL REVIEW AND JUDICIAL POWER: CAN EXCEPTION 2 TO SECTION 63 BNS BE STRUCK DOWN WITHOUT JUDICIALLY CREATING AN OFFENCE?",
+            author: "By Adityasinh Ghatge",
+            abstract: "Exception 2 to Section 63 of the Bharatiya Nyaya Sanhita, 2023 excludes sexual intercourse or sexual acts by a man with his own adult wife from the offence of rape. The exception survives despite the BNS defining consent as an unequivocal voluntary agreement and separately criminalising non-consensual intercourse by a husband with a wife living separately. The challenge therefore raises two distinct questions, whether the exception is compatible with Articles 14 and 21 and whether a court may remove it without crossing the line between constitutional review and judicial creation of criminal liability. This article examines the statutory structure, the competing opinions in RIT Foundation, the limited reasoning in Independent Thought and the Article 20(1) problem now before the Supreme Court.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Statutory Architecture under the BNS</li>
+                            <li>Constitutional Review under Articles 14 and 21</li>
+                            <li>The Judicial Line: Independent Thought, RIT Foundation and Hrishikesh Sahoo</li>
+                            <li>Severance, Article 20(1) and the Limits of Judicial Power</li>
+                            <li>The Pending Supreme Court Controversy</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Section 63 of the Bharatiya Nyaya Sanhita, 2023 ("BNS") defines rape around absence of consent and Explanation 2 defines consent as an unequivocal voluntary agreement. Yet Exception 2 removes sexual intercourse or sexual acts by a husband with his own wife, if she is not under eighteen, from the offence of rape. The constitutional difficulty is therefore not that the statute ignores consent, it is that the rape classification is withheld where accused and victim are married.</p>
+                        <p className="mt-4">A second question concerns remedy. If Exception 2 violates fundamental rights, may a constitutional court sever it or would that expose husbands to an offence Parliament has expressly chosen not to apply within a subsisting marriage? The answer requires the statutory design, equality and autonomy jurisprudence and the principle of legality to be kept analytically distinct.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. THE STATUTORY ARCHITECTURE UNDER THE BNS</h4>
+                        <p>Section 63 retains the marital exception for an adult wife. Section 67, however, criminalises non-consensual sexual intercourse by a husband with his wife when she is living separately, whether under a decree of separation or otherwise. Section 221 of the Bharatiya Nagarik Suraksha Sanhita, 2023 adds a special cognizance requirement for that offence.</p>
+                        <p className="mt-4">The structure is significant. The statute accepts that a separated wife can withhold consent from her husband and that disregard of that consent attracts criminal liability. The distinction therefore operates between a cohabiting wife, a separated wife and an unmarried woman. The constitutional question is whether marital cohabitation supplies a sufficient basis for excluding conduct that would otherwise fall within a consent based rape provision.</p>
+                        <p className="mt-4">The legislative history is divided. The 172nd Law Commission Report did not recommend deletion of the marital exception, while the Justice J.S. Verma Committee recommended its removal and rejected irrevocable marital consent. Parliament nevertheless retained the exception when replacing the IPC with the BNS. That reenactment strengthens the institutional argument for restraint but does not place the provision beyond judicial review.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. CONSTITUTIONAL REVIEW UNDER ARTICLES 14 AND 21</h4>
+                        <p>The Article 14 challenge concerns whether the classification bears a rational relationship with the object of rape law. Marriage is a legal status capable of supporting distinctions, the harder question is whether it justifies withholding the rape classification where consent is absent. The contrast between Sections 63 and 67 sharpens that inquiry because the BNS itself criminalises non-consensual intercourse by a husband once the spouses live separately.</p>
+                        <p className="mt-4">Article 21 supplies a separate line of authority. <em className="text-white/90">K.S. Puttaswamy v. Union of India</em> located privacy within dignity, liberty and individual autonomy. <em className="text-white/90">Navtej Singh Johar v. Union of India</em> linked constitutional protection with sexual autonomy and choice. <em className="text-white/90">Joseph Shine v. Union of India</em>, in the context of marriage, rejected a legal structure that subordinated the independent constitutional personality of a spouse. These cases do not hold that adult marital rape must be prosecuted as rape but they weaken any proposition that marriage itself extinguishes sexual autonomy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. THE JUDICIAL LINE: INDEPENDENT THOUGHT, RIT FOUNDATION AND HRISHIKESH SAHOO</h4>
+                        <p><em className="text-white/90">Independent Thought v. Union of India</em> concerned the exception only in relation to wives below eighteen. The Supreme Court read it down so that it would not protect intercourse with a wife between fifteen and eighteen, while expressly leaving the adult marital-rape issue open. Its present relevance lies in the Court's willingness, in that setting to alter an exception without treating the result as impermissible creation of a new offence.</p>
+                        <p className="mt-4">The adult challenge produced a split decision in <em className="text-white/90">RIT Foundation v. Union of India</em>. Justice Rajiv Shakdher would have struck down the exception, distinguishing between changing the ingredients of rape and removing an immunity that prevents the existing offence from applying to husbands. Justice C. Hari Shankar disagreed, treating marriage as a legally relevant relationship and giving greater weight to legislative competence and restraint in penal law. Because the Bench was split, the decision supplies no single binding ratio on constitutionality, it instead states the two principal positions now before the Supreme Court.</p>
+                        <p className="mt-4"><em className="text-white/90">Hrishikesh Sahoo v. State of Karnataka</em> raised a related but distinct issue. The Karnataka High Court declined to quash a rape charge against a husband, while stating that it was not finally deciding the general constitutional validity of the exception. The Supreme Court later stayed the judgment. Prosecution while the exception remains valid is therefore a statutory question, invalidation of the exception is a constitutional one.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. SEVERANCE, ARTICLE 20(1) AND THE LIMITS OF JUDICIAL POWER</h4>
+                        <p>The strongest argument for intervention is that striking down Exception 2 would not rewrite the ingredients of rape. Section 63 already defines the prohibited sexual conduct and absence of consent. On this view, the exception is an immunity based on the relationship between the accused and the victim. If that immunity violates Articles 14 or 21, severance may constitute an ordinary exercise of judicial review. The counterargument is stronger in criminal law.</p>
+                        <p className="mt-4">Exception 2 does not merely omit husbands, it affirmatively provides that the specified conduct is not rape. Its deletion would therefore alter criminal exposure. That consequence engages Article 20(1) which prohibits conviction for an act that was not an offence when committed and bars a greater penalty than the one then applicable.</p>
+                        <p className="mt-4">Accordingly, questions about rights and remedies should not be collapsed. Even if the exception is held unconstitutional, retrospective prosecution as rape would raise an independent constitutional problem. Parliament would remain competent to design procedural or evidentiary safeguards, as it has already done for separated spouses but legislative choice does not by itself exclude judicial review of the classification.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. THE PENDING SUPREME COURT CONTROVERSY</h4>
+                        <p>The issue remains unsettled. The Supreme Court batch includes appeals arising from RIT Foundation, the challenge connected with Hrishikesh Sahoo and other petitions concerning the marital exception. Substantive arguments began in October 2024 but were not completed. On 9 September 2026, a reconstituted Bench directed the matters to be listed for final hearing after about three weeks.</p>
+                        <p className="mt-4">The dispute therefore cannot be reduced to a binary choice between "criminalisation" and "non-criminalisation." The Court must first determine whether the statutory immunity survives Articles 14 and 21. If it does not, it must separately determine what remedy is permissible consistently with Article 20(1), separation of powers and the structure of the BNS.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The BNS recognises consent as central to rape, criminalises non-consensual intercourse by a husband with a separated wife, yet excludes the rape classification where an adult wife cohabits with her husband. That design presents a substantial constitutional question under Articles 14 and 21. Existing Supreme Court jurisprudence on privacy, dignity and autonomy weakens any proposition that marriage extinguishes a spouse's sexual autonomy but it does not itself determine the penal consequence.</p>
+                        <p className="mt-4">The harder question is remedial. RIT Foundation shows that severance may be understood as the removal of an unconstitutional immunity rather than the creation of new ingredients of rape. The opposing view is that Parliament has expressly kept the conduct outside the offence and that judicial deletion would expand criminal liability. The Supreme Court must therefore keep two questions distinct, whether Exception 2 is constitutional and if not, how invalidity can operate without offending Article 20(1) or the institutional limits of judicial power.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li><strong className="text-white">Constitution of India,</strong> arts. 14, 20(1) and 21.</li>
+                            <li><strong className="text-white">Bharatiya Nyaya Sanhita, 2023,</strong> ss. 63 and 67.</li>
+                            <li><strong className="text-white">Bharatiya Nagarik Suraksha Sanhita, 2023,</strong> s. 221.</li>
+                            <li><strong className="text-white">Law Commission of India, 172nd Report,</strong> Review of Rape Laws (2000).</li>
+                            <li><strong className="text-white">Committee on Amendments to Criminal Law,</strong> Report of the Committee headed by Justice J.S. Verma (2013).</li>
+                            <li><strong className="text-white">Independent Thought v. Union of India,</strong> (2017) 10 SCC 800.</li>
+                            <li><strong className="text-white">Justice K.S. Puttaswamy (Retd.) v. Union of India,</strong> (2017) 10 SCC 1.</li>
+                            <li><strong className="text-white">Navtej Singh Johar v. Union of India,</strong> (2018) 10 SCC 1.</li>
+                            <li><strong className="text-white">Joseph Shine v. Union of India,</strong> (2019) 3 SCC 39.</li>
+                            <li><strong className="text-white">RIT Foundation v. Union of India,</strong> 2022 SCC OnLine Del 1404.</li>
+                            <li><strong className="text-white">Hrishikesh Sahoo v. State of Karnataka,</strong> 2022 SCC OnLine Kar 371.</li>
+                            <li><strong className="text-white">Supreme Court of India,</strong> Order dated 23 October 2024, Hrishikesh Sahoo v. State of Karnataka, SLP (Crl.) Nos. 4063–4064 of 2022 and connected matters.</li>
+                            <li><strong className="text-white">Bar & Bench,</strong> 'Marriage Doesn't Mean Extinction of Individual Autonomy but Can Marital Rape Be Prosecuted? Supreme Court', 9 September 2026.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Adityasinh Ghatge.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">New Law College, BVDU, Pune / BBA LL .B</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Same – Sex Marriage & the Limits of Judicial Power",
+            author: "By Surbhi kumari",
+            abstract: "The legal recognition of same-sex marriage in India raises a fundamental constitutional question concerning the relationship between individual liberty, equality, dignity and institutional limits on judicial power. Indian constitutional jurisprudence has progressively protected LGBTQ+ persons through decisions such as National Legal Services Authority v. Union of India, K.S. Puttaswamy v. Union of India and Navtej Singh Johar v. Union of India. However, the recognition of same-sex marriage presents a distinct legal issue because marriage is a statutory institution carrying consequences relating to adoption, succession, maintenance, guardianship and family status. In Supriyo @ Supriya Chakraborty v. Union of India (2023), a Constitution Bench of the Supreme Court considered whether same-sex couples possess a fundamental right to marry and whether existing marriage legislation could be interpreted to recognise such marriages. The Court declined to judicially recognise same-sex marriage and held that creating a comprehensive legal framework for marriage was principally within the legislative domain. At the same time, the judgment reaffirmed the constitutional protection of queer persons against discrimination, violence and coercion. This article examines the constitutional framework surrounding marriage, the evolution of LGBTQ+ jurisprudence, the reasoning in Supriyo, the relationship between judicial activism and judicial restraint, and the implications of the decision for family and adoption rights. It argues that Supriyo demonstrates the continuing tension between transformative constitutionalism and separation of powers.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional Framework</li>
+                            <li>Evolution of LGBTQ+ Constitutional Rights</li>
+                            <li>Supriyo @ Supriya Chakraborty v. Union of India (2023)</li>
+                            <li>Marriage as a Constitutional and Statutory Institution</li>
+                            <li>Adoption and Family Rights</li>
+                            <li>Limits of Judicial Power and Separation of Powers</li>
+                            <li>Critical Analysis: Judicial Activism versus Judicial Restraint</li>
+                            <li>Constitutional Morality and Transformative Constitutionalism</li>
+                            <li>Legal Propositions Emerging from the Jurisprudence</li>
+                            <li>Conclusion</li>
+                            <li>Footnotes / References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Marriage occupies an important position in india social and legal life.Traditionally understood as a relationship between a man and a woman, marriage has historically been associated with family formation, inheritance, succession, maintenance and social status. Constitutional democracy, however, requires that social institutions operate consistently with the guarantees of equality, dignity, liberty and individual autonomy.</p>
+                        <p className="mt-4">The constitutional position of LGBTQ+ persons has undergone significant transformation in India. The Supreme Court's decisions in NALSA v. Union of India, K.S. Puttaswamy v. Union of India, and Navtej Singh Johar v. Union of India established important principles relating to identity, privacy, dignity, autonomy and sexual orientation. Navtej, in particular, decriminalised consensual same-sex relations between adults by reading down Section 377 of the Indian Penal Code.</p>
+                        <p className="mt-4">Yet decriminalisation does not automatically result in recognition of same-sex marriage. The latter requires the State to attach a range of legal consequences to a relationship. This distinction came before the Supreme Court in Supriyo @ Supriya Chakraborty v. Union of India. The central constitutional question was therefore not merely whether queer persons possess dignity and autonomy, but whether those constitutional guarantees require the State to recognise their relationships as marriage and whether the judiciary itself could provide such recognition in the absence of legislation.</p>
+                        <p className="mt-4">The Supriyo judgment consequently represents a significant debate between substantive constitutionalism, which emphasises effective protection of fundamental rights, and institutional constitutionalism, which emphasises the constitutional boundaries between the judiciary and legislature.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL FRAMEWORK</h4>
+                        <p>The Constitution does not expressly provide a fundamental right to marry. Nevertheless, marriage and intimate relationships may have constitutional dimensions through Articles 14, 15, 19 and 21.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Article 14: Equality</h5>
+                        <p>Article 14 guarantees equality before law and equal protection of laws. The constitutional challenge to the exclusion of same-sex couples from marriage is based partly on the argument that differential treatment based upon sexual orientation is arbitrary and discriminatory. Equality under the Constitution is not limited to identical treatment. It also requires the State to justify classifications and prevent arbitrary exclusion from legal protection.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Article 15: Non-discrimination</h5>
+                        <p>Article 15 prohibits discrimination on specified grounds. In Navtej Singh Johar, the Supreme Court recognised that sexual orientation is an essential attribute of identity and that discrimination based upon sexual orientation is inconsistent with constitutional equality. Consequently, sexual orientation cannot legitimately be treated as a basis for degrading the dignity of an individual.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Article 21: Dignity, Privacy and Autonomy</h5>
+                        <p>Article 21 has developed into a broad guarantee of life and personal liberty. In Puttaswamy, the Supreme Court recognised privacy as a fundamental right and connected privacy with autonomy, dignity and personal choice.</p>
+                        <p className="mt-4">Similarly, the right to choose a partner has been recognised as an aspect of individual liberty. However, a distinction must be maintained between the right to choose a partner and the right to obtain a particular legal status for that relationship. This distinction became central to Supriyo.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EVOLUTION OF LGBTQ+ CONSTITUTIONAL RIGHTS</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">NALSA v. Union of India (2014)</h5>
+                        <p>In National Legal Services Authority v. Union of India, the Supreme Court recognised the constitutional rights of transgender persons and affirmed their right to dignity, identity and equality. The decision was significant because it rejected the idea that constitutional protection depends upon conformity with traditional understandings of gender. It established that the Constitution protects individual identity rather than merely socially accepted identities.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">K.S. Puttaswamy v. Union of India (2017)</h5>
+                        <p>The nine-judge Bench in Puttaswamy recognised privacy as a fundamental right. Privacy was understood as encompassing decisional autonomy and aspects of personal life involving family, relationships and sexuality. The judgment provided an important constitutional foundation for later LGBTQ+ jurisprudence because it located intimate personal choices within the protection of liberty and dignity.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Navtej Singh Johar v. Union of India (2018)</h5>
+                        <p>In Navtej Singh Johar, the Supreme Court held that Section 377 could not constitutionally criminalise consensual sexual relations between adults of the same sex. The Court's reasoning was based upon dignity, equality, privacy, autonomy and constitutional morality. The decision marked a shift from a morality-based approach towards a rights-based constitutional approach. However, the judgment did not decide the separate question of whether same-sex relationships must receive the legal status of marriage.</p>
+                        <p className="mt-4 font-bold text-white">Thus, decriminalisation and marriage recognition are constitutionally related but legally distinct questions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUPRIYO @ SUPRIYA CHAKRABORTY V. UNION OF INDIA (2023)</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Facts and Background</h5>
+                        <p>Several same-sex couples approached the Supreme Court seeking legal recognition of their relationships under existing marriage legislation, particularly the Special Marriage Act, 1954. They argued that exclusion of same-sex couples from marriage violated constitutional guarantees of equality, dignity, privacy, autonomy and freedom of choice. The Constitution Bench delivered its judgment on 17 October 2023.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Principal Issues</h5>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>Whether the Constitution guarantees a fundamental right to marry.</li>
+                            <li>Whether same-sex couples have a right to legal recognition of their relationship as marriage.</li>
+                            <li>Whether existing marriage legislation could be interpreted to include same-sex couples.</li>
+                            <li>Whether exclusion of same-sex couples violates Articles 14, 15, 19 and 21.</li>
+                            <li>Whether the judiciary could create a legal framework for same-sex marriage.</li>
+                            <li>What protections should be available to queer persons outside the institution of marriage.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Decision of the Court</h5>
+                        <p>The Court declined to recognise a fundamental right to marry that would compel the State to recognise same-sex marriages. It also declined to interpret the existing statutory framework so as to create same-sex marriage.</p>
+                        <p className="mt-4">The reasoning rested significantly upon separation of powers. Marriage is not merely a declaration of personal status. It generates a network of legal consequences concerning adoption, succession, inheritance, maintenance, guardianship and divorce. Altering this framework would therefore involve numerous policy choices.</p>
+                        <p className="mt-4">The Court concluded that such comprehensive law-making was more appropriately undertaken by Parliament rather than through judicial interpretation. The official Supreme Court judgment records the Court's consideration of the legislative structure and the legal consequences associated with marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MARRIAGE AS A CONSTITUTIONAL AND STATUTORY INSTITUTION</h4>
+                        <p>The distinction between a constitutional right to relationship autonomy and a statutory right to marriage is central to understanding Supriyo.</p>
+                        <p className="mt-4">An individual may possess a constitutional right to choose a partner and live according to personal autonomy. This does not necessarily mean that every relationship must be granted the statutory status of marriage.</p>
+                        <p className="mt-4">Marriage is a legal institution because legislation attaches consequences to it. These consequences extend beyond the two individuals involved and affect children, property, succession, maintenance, taxation and other areas.</p>
+                        <p className="mt-4">Accordingly, recognition of same-sex marriage would potentially require amendments or reinterpretation across several areas of law, including:</p>
+                        <ul className="grid grid-cols-2 gap-4 mt-4 list-disc pl-5">
+                            <li>marriage registration</li>
+                            <li>divorce</li>
+                            <li>adoption</li>
+                            <li>inheritance</li>
+                            <li>succession</li>
+                            <li>maintenance</li>
+                            <li>guardianship</li>
+                            <li>taxation</li>
+                            <li>pension and employment benefits</li>
+                            <li>family-related legislation</li>
+                        </ul>
+                        <p className="mt-4">The theoretical difficulty is therefore whether a court can constitutionally transform an existing institution without legislative intervention.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ADOPTION AND FAMILY RIGHTS</h4>
+                        <p>Adoption was an important component of the same-sex marriage litigation. The petitioners challenged the exclusionary consequences of the existing adoption framework and argued that queer couples should not be denied family-related rights merely because of sexual orientation.</p>
+                        <p className="mt-4">The Court did not create a general judicial right of joint adoption for same-sex couples. This was consistent with its broader institutional approach: significant changes to the statutory framework should be made through legislation rather than judicial creation.</p>
+                        <p className="mt-4">Nevertheless, the absence of marriage recognition cannot mean that queer individuals lose all constitutional protection. Their rights to dignity, privacy, liberty and protection against arbitrary discrimination remain relevant. This distinction is important because non-recognition of marriage is not equivalent to constitutional permission to discriminate against queer persons.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LIMITS OF JUDICIAL POWER AND SEPARATION OF POWERS</h4>
+                        <p>The doctrine of separation of powers requires different organs of government to perform their constitutionally assigned functions.</p>
+                        <p className="mt-4">The judiciary has the authority to:</p>
+                        <ul className="list-disc pl-5 space-y-2 mt-2">
+                            <li>interpret the Constitution;</li>
+                            <li>review legislation;</li>
+                            <li>protect fundamental rights;</li>
+                            <li>strike down unconstitutional State action; and</li>
+                            <li>provide remedies for constitutional violations.</li>
+                        </ul>
+                        <p className="mt-4">Parliament, on the other hand, possesses the principal law-making function. Where a legal question requires the creation of a detailed regulatory structure, legislative competence becomes particularly important.</p>
+                        <p className="mt-4">The Supriyo decision therefore reflects judicial restraint. The Court did not deny the constitutional dignity of queer persons; rather, it concluded that the judicial function had institutional limits. This approach can be theoretically described as institutional competence: courts may interpret law, but they are not always the appropriate institution to design an entire legislative regime.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL ANALYSIS: JUDICIAL ACTIVISM VERSUS JUDICIAL RESTRAINT</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">In Support of Judicial Restraint</h5>
+                        <p>The strongest argument supporting Supriyo is separation of powers. Creating same-sex marriage through judicial interpretation could require the Court to redesign several interconnected statutory provisions. Secondly, marriage involves policy choices extending beyond constitutional interpretation. Questions relating to adoption, succession, divorce and family law require detailed legislative consideration. Thirdly, democratic legitimacy is relevant when major social institutions are being legally restructured.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Criticism of Judicial Restraint</h5>
+                        <p>The contrary argument is that fundamental rights should not become dependent entirely upon legislative willingness. If a minority group is excluded from a significant legal institution, judicial review may be necessary to prevent discrimination. Waiting for legislative action may also prolong practical disadvantages faced by queer couples.</p>
+                        <p className="mt-4">This creates the central theoretical tension: Should constitutional rights depend upon legislative recognition, or should courts intervene where exclusion affects dignity and equality? The answer requires balancing rights protection with institutional competence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL MORALITY AND TRANSFORMATIVE CONSTITUTIONALISM</h4>
+                        <p>The Indian Supreme Court has repeatedly employed the concept of constitutional morality to protect individual liberty against majoritarian social morality.</p>
+                        <p className="mt-4">In Navtej Singh Johar, constitutional morality was central to protecting LGBTQ+ persons from criminalisation. Similarly, NALSA and Puttaswamy demonstrate the transformative potential of constitutional interpretation.</p>
+                        <p className="mt-4">However, transformative constitutionalism does not necessarily mean that courts must create every social reform through judgments. The constitutional role of the judiciary can be transformative while remaining institutionally restrained. Courts can invalidate discriminatory State action and protect individual autonomy while leaving comprehensive policy design to the legislature.</p>
+                        <p className="mt-4">Thus, Supriyo may be understood as establishing an institutional boundary around judicial transformation rather than abandoning constitutional protection.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL PROPOSITIONS EMERGING FROM THE JURISPRUDENCE</h4>
+                        <p>The combined constitutional jurisprudence permits several propositions:</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li><strong className="text-white">First,</strong> sexual orientation is constitutionally protected and cannot be treated as a basis for degrading individual dignity.</li>
+                            <li><strong className="text-white">Second,</strong> privacy includes aspects of personal autonomy, intimate choice and identity.</li>
+                            <li><strong className="text-white">Third,</strong> adults possess constitutionally protected autonomy in choosing their partners, subject to valid legal restrictions.</li>
+                            <li><strong className="text-white">Fourth,</strong> the constitutional protection of a relationship does not automatically establish a fundamental right to have that relationship legally recognised as marriage.</li>
+                            <li><strong className="text-white">Fifth,</strong> creation of a comprehensive statutory framework for same-sex marriage involves policy choices that may properly fall within Parliament's domain.</li>
+                            <li><strong className="text-white">Sixth,</strong> judicial restraint in relation to marriage legislation does not remove the State's constitutional obligation to protect queer persons against violence, coercion and discrimination.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The controversy surrounding same-sex marriage in India represents a complex intersection of equality, dignity, autonomy, constitutional morality and separation of powers. The constitutional development from NALSA to Puttaswamy and Navtej Singh Johar demonstrates a significant expansion of rights protection for LGBTQ+ persons. However, Supriyo @ Supriya Chakraborty v. Union of India establishes that recognition of those rights does not necessarily require the judiciary to create a new legal institution of marriage.</p>
+                        <p className="mt-4">The Supreme Court's refusal to recognise same-sex marriage judicially can be understood through the principle of institutional competence. Marriage carries extensive statutory consequences, and altering those consequences may require coordinated legislative reform. The Court therefore distinguished between protecting the constitutional autonomy of queer persons and creating a comprehensive statutory framework for their marriages.</p>
+                        <p className="mt-4">Nevertheless, judicial restraint must not become constitutional indifference. Queer persons remain entitled to dignity, privacy, personal liberty, equality and protection against discrimination and coercion. The constitutional commitment to equality requires the State to ensure that absence of marriage recognition does not become a justification for denying basic legal protection.</p>
+                        <p className="mt-4">Ultimately, the future of same-sex marriage in India involves both constitutional principle and democratic law-making. The judiciary must continue to protect fundamental rights and scrutinise discriminatory State action, while Parliament possesses the institutional capacity to undertake comprehensive reform of marriage and family law.</p>
+                        <p className="mt-4">The significance of Supriyo therefore extends beyond the immediate question of marriage. It illustrates a fundamental principle of constitutional democracy: courts are guardians of constitutional rights, but constitutional governance also requires respect for institutional boundaries. The continuing challenge is to ensure that the balance between judicial restraint and transformative constitutionalism remains faithful to the Constitution's commitment to equality, dignity and individual liberty.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES / REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li><strong className="text-white">National Legal Services Authority v. Union of India, (2014) 5 SCC 438.</strong> The Supreme Court recognised constitutional protection for transgender persons and affirmed dignity, equality and gender identity.</li>
+                            <li><strong className="text-white">Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</strong> The nine-judge Constitution Bench recognised privacy as a fundamental right. The judgment subsequently became an important constitutional foundation for autonomy and decisional privacy.</li>
+                            <li><strong className="text-white">Navtej Singh Johar v. Union of India, (2018) 10 SCC 1.</strong> The Supreme Court's judgment concerned the constitutional validity of Section 377 IPC insofar as it criminalised consensual sexual acts between adults.</li>
+                            <li><strong className="text-white">Supriyo @ Supriya Chakraborty v. Union of India, 2023 INSC 920,</strong> W.P. (C) No. 1011 of 2022 and connected matters, decided 17 October 2023.</li>
+                            <li><strong className="text-white">Shafin Jahan v. Asokan K.M., (2018) 16 SCC 368.</strong> The Supreme Court emphasised individual choice and liberty in relation to choice of partner.</li>
+                            <li>Supreme Court of India, Supriyo @ Supriya Chakraborty v. Union of India, Judgment dated 17 October 2023.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Surbhi kumari.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Gopal Narayan Singh University/ Ba.llb</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Behind Closed Doors and Statutory Shields: Deconstructing Consent, Coverture, and the Constitutional Validity of the Marital Rape Exception in India",
+            author: "By KETAN PANDITA",
+            abstract: "The transition from the colonial Indian Penal Code, 1860 (IPC) to the Bharatiya Nyaya Sanhita, 2023 (BNS) was heralded as a decolonial overhaul of India's criminal justice system. However, a critical examination of the new penal code reveals a stark statutory continuity: the institutional preservation of marital rape immunity. By retaining the marital rape exception, the legislature has shielded an archaic, patriarchal legal fiction under the guise of statutory recodification. This immunity creates a profound constitutional friction between state-sanctioned matrimonial privilege and the fundamental rights guaranteed under Articles 14, 15, and 21 of the Constitution of India. Analyzing the BNS provisions, the dichotomy between legal and social constructs of consent, and the evolving judicial landscape demonstrates that the marital rape exception represents a grave constitutional anomaly that demands immediate invalidation.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Exception to marital rape under BNS</li>
+                            <li>Consent within marriage: legal vs social view</li>
+                            <li>Constitutional validity of marital rape exception</li>
+                            <li>Judicial Split and High Court Precedents</li>
+                            <li>International Human Rights Framework</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The transition from the colonial Indian Penal Code, 1860 (IPC) to the Bharatiya Nyaya Sanhita, 2023 (BNS) was heralded as a decolonial overhaul of India's criminal justice system. However, a critical examination of the new penal code reveals a stark statutory continuity: the institutional preservation of marital rape immunity. By retaining the marital rape exception, the legislature has shielded an archaic, patriarchal legal fiction under the guise of statutory recodification.</p>
+                        <p className="mt-4">This immunity creates a profound constitutional friction between state-sanctioned matrimonial privilege and the fundamental rights guaranteed under Articles 14, 15, and 21 of the Constitution of India. Analyzing the BNS provisions, the dichotomy between legal and social constructs of consent, and the evolving judicial landscape demonstrates that the marital rape exception represents a grave constitutional anomaly that demands immediate invalidation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. EXCEPTION TO MARITAL RAPE UNDER BNS</h4>
+                        <p>The Bharatiya Nyaya Sanhita, 2023 was enacted with the stated objective of removing colonial vestiges and modernizing Indian criminal jurisprudence. Yet, Section 63 of the BNS, which defines the offense of rape, reproduces the statutory exception virtually pari materia with Exception 2 to Section 375 of the outgoing IPC. Exception 2 to Section 63 of the BNS reads:</p>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic my-4 text-white/80">"Sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape."</blockquote>
+                        <p>While the legislature updated the minimum age floor from fifteen to eighteen years—incorporating the mandate of the Supreme Court’s ruling in Independent Thought v. Union of India (2017)—it left the overarching immunity granted to adult marriages entirely untouched.</p>
+                        <p className="mt-4">An internal statutory contradiction arises when Section 63 is read alongside Section 67 of the BNS (corresponding to the former Section 376A IPC). Section 67 penalizes sexual intercourse by a husband upon his wife without her consent during a period of judicial separation or under any decree or agreement. The penalty prescribed under Section 67 is imprisonment ranging from two to seven years.</p>
+                        <p className="mt-4">This scheme creates a bizarre statutory paradox:</p>
+                        <ul className="space-y-2 mt-4 list-disc pl-5">
+                            <li>If a husband assaults his wife while living separately under a formal decree or agreement, the law recognizes the absence of consent and penalizes the act (albeit under a diluted sentencing structure compared to general rape charges).</li>
+                            <li>If the exact same non-consensual sexual assault occurs while the couple resides under the same roof in an active cohabitation, the husband enjoys absolute criminal immunity under Section 63.</li>
+                        </ul>
+                        <p className="mt-4">The legal justification frequently advanced by state authorities is that alternative remedies exist within the Indian legal matrix. Proponents of the status quo point to Sections 85 and 86 of the BNS (penalizing cruelty by a husband or his relatives, previously Section 498A IPC) and Section 3(a) of the Protection of Women from Domestic Violence Act, 2005 (PWDVA), which includes "sexual abuse" within the civil definition of domestic violence. However, this argument conflates civil redress and generic provisions of cruelty with the specific criminality of rape. Cruelty and domestic violence laws do not recognize or name the distinct gravamen of rape—the bodily violation and forced non-consensual sexual penetration. Punishing forced sexual intercourse as mere "cruelty" or treating it as a civil wrong under the PWDVA trivialize the violation and deny the victim the protection of criminal rape statutes.</p>
+                        <p className="mt-4 font-bold text-white">This statutory stance directly ignores decades of official reform recommendations:</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li><strong className="text-white">Justice J.S. Verma Committee Report (2013):</strong> Formed in the wake of the 2012 Nirbhaya collective violence, the Committee issued a comprehensive critique of Indian sexual assault laws. Recommendation 2.15 explicitly stated: "The exception to marital rape should be removed... marriage should not be considered as an irrevocable consent to sexual acts."</li>
+                            <li><strong className="text-white">172nd Law Commission of India Report (2000):</strong> Addressed the review of rape laws and acknowledged the severity of sexual violence within marriage, though it stopped short of recommending full repeal due to prevailing social apprehensions.</li>
+                            <li><strong className="text-white">42nd (1971) and 84th (1980) Law Commission Reports:</strong> Evidenced early legislative hesitations, where proposals to criminalize marital rape were consistently discarded to safeguard the traditional "sanctity of marriage."</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. CONSENT WITHIN MARRIAGE: LEGAL VS SOCIAL VIEW</h4>
+                        <p>To understand the statutory persistence of the marital rape exception, one must trace its jurisprudential roots to 18th-century English common law. The doctrine of marital rape immunity was codified by Chief Justice Sir Matthew Hale in his treatise Historia Placitorum Coronae (1736):</p>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic my-4 text-white/80">"The husband cannot be guilty of a rape committed by himself upon his lawful wife, for by their mutual matrimonial consent and contract the wife hath given up herself in this kind unto her husband, which she cannot retract."</blockquote>
+                        <p>Hale’s doctrine established two legal fictions that influenced common law jurisdictions for centuries:</p>
+                        <ul className="space-y-2 mt-4 list-decimal pl-5">
+                            <li><strong className="text-white">Irrevocable Consent:</strong> Marriage constitutes a blanket, perpetual waiver of sexual autonomy by the wife.</li>
+                            <li><strong className="text-white">Doctrine of Coverture:</strong> As articulated in Blackstone’s Commentaries, upon marriage, the legal personality of the woman is suspended and merged into that of her husband (covert). A husband could not be guilty of raping his wife because she was legally considered his chattel or property.</li>
+                        </ul>
+                        <p className="mt-4">While English law formally abolished the marital rape exception in the landmark House of Lords decision R v R [1991] 1 AC 598—declaring that Hale's doctrine was an unconscionable anachronism—Indian statutory law preserved it.</p>
+                        <p className="mt-4">In the Indian social context, marriage is widely viewed not merely as a civil contract, but as an indissoluble sacrament (samskara). Societal norms often demand that a woman compromise her individual agency to maintain familial harmony and preserve the marital unit. Within this social view, marital sex is frequently treated as an obligatory marital duty rather than an ongoing exercise of mutual, revocable consent.</p>
+                        <p className="mt-4">Conversely, modern Indian constitutional jurisprudence has evolved toward individual autonomy, rendering the traditional social view legally untenable. The Supreme Court of India has progressively dismantled legal fictions that compromise individual dignity:</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li><strong className="text-white">Suchita Srivastava v. Chandigarh Administration (2009) 9 SCC 1:</strong> The Supreme Court held that a woman’s right to make reproductive choices and control her body is an integral part of her personal liberty under Article 21. The Court established that consent must be voluntary, affirmative, and capable of being withheld or withdrawn at any moment.</li>
+                            <li><strong className="text-white">Justice K.S. Puttaswamy (Retd.) v. Union of India (2017) 10 SCC 1:</strong> The Nine-Judge Bench unanimously affirmed the Right to Privacy as a fundamental right under Article 21. The Court held that privacy encompasses spatial privacy, decisional autonomy, and bodily integrity. Crucially, Justice Chandrachud observed that privacy protects the individual, not the location or the institution. Therefore, the home cannot serve as a sanctuary for constitutional violations, nor can the institution of marriage extinguish an individual's fundamental rights.</li>
+                            <li><strong className="text-white">Independent Thought v. Union of India (2017) 10 SCC 800:</strong> The Apex Court struck down Exception 2 to Section 375 IPC to the extent that it exempted non-consensual sex with married girl children aged fifteen to eighteen. Justice Deepak Gupta famously observed: <em className="text-white/90">"Human rights do not cease to exist when a woman enters the matrimonial home... Marriage is not a house or an institution where bodily autonomy is surrendered."</em></li>
+                            <li><strong className="text-white">Joseph Shine v. Union of India (2019) 3 SCC 39:</strong> In striking down Section 497 IPC (Adultery), the Supreme Court struck a blow against coverture-based jurisprudence. The Court held that laws premised on the notion that a married woman loses her sexual agency or becomes the property of her husband violate Article 14 and Article 15(1). Justice Chandrachud noted that criminal law must treat a woman as a fully autonomous individual rather than a subordinate member of a matrimonial unit.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. CONSTITUTIONAL VALIDITY OF MARITAL RAPE EXCEPTION</h4>
+                        <p>The constitutional challenge to Exception 2 of Section 63 BNS rests upon the trinity of Articles 14, 15, and 21 of the Constitution of India.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Article 14: The Tests of Intelligible Differentia and Manifest Arbitrariness</h5>
+                        <p>Article 14 prohibits the State from denying any person equality before the law. For a statutory classification to pass Article 14 scrutiny, it must satisfy the twin tests of intelligible differentia and rational nexus to the legislative objective.</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li><strong className="text-white">Intelligible Differentia:</strong> Exception 2 classifies women into two distinct groups—unmarried women and married women—and denies the latter protection against non-consensual sexual violence. The status of marriage serves as the sole distinguishing criterion.</li>
+                            <li><strong className="text-white">Rational Nexus:</strong> The objective of criminalizing rape is to protect women from non-consensual sexual violation and safeguard bodily integrity. Classifying victims based on their marital status bears no rational nexus to this objective. Non-consensual sexual penetration inflicts identical physical and psychological trauma regardless of whether the victim holds a marriage certificate.</li>
+                        </ul>
+                        <p className="mt-4">Furthermore, under the doctrine of manifest arbitrariness articulated in <em className="text-white/90">Shayara Bano v. Union of India</em> (2017) 9 SCC 1, a statutory provision is liable to be struck down if it is enacted capriciously, irrationally, or without an adequate determining principle. Granting blanket criminal immunity to a husband solely on account of his marital status is manifestly arbitrary.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Article 15(1): Prohibition of Gender-Based Discrimination</h5>
+                        <p>Article 15(1) prohibits discrimination against any citizen on grounds only of religion, race, caste, sex, place of birth, or any of them. The marital rape exception operates disproportionately to the detriment of women. By institutionalizing an imbalance of power within marriage, the exception perpetuates gender-based subordination, violating Article 15(1).</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Article 21: Right to Life, Personal Liberty, and Dignity</h5>
+                        <p>Article 21 guarantees that no person shall be deprived of life or personal liberty except according to procedure established by law. The Supreme Court has repeatedly held that "life" under Article 21 means a life with human dignity, bodily autonomy, and sexual self-determination. The marital rape exception strips a married woman of her right to refuse sexual intimacy, forcing her to endure forced sexual acts under statutory sanction.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. JUDICIAL SPLIT AND HIGH COURT PRECEDENTS</h4>
+                        <p>The constitutional validity of the marital rape exception has produced divergent judicial opinions across Indian High Courts, leading directly to pending Supreme Court proceedings.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">RIT Foundation & Ors. v. Union of India, 2022 SCC OnLine Del 1404</h5>
+                        <p>The Delhi High Court delivered a landmark split verdict (1:1) on the constitutional validity of Exception 2 to Section 375 IPC:</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li><strong className="text-white">Justice Rajiv Shakdher (Striking Down):</strong> Held that Exception 2 is unconstitutional as it violates Articles 14, 15, and 21. Justice Shakdher observed that the legal fiction of implied consent is an unacceptable colonial construct, famously declaring that "Lord Hale's ghost needs to be exorcised." He reasoned that marriage does not diminish a woman's right to say 'no' and that protecting the institution of marriage cannot come at the cost of a woman's bodily integrity.</li>
+                            <li><strong className="text-white">Justice C. Hari Shankar (Upholding):</strong> Upheld the provision, holding that the marital relationship constitutes a valid "intelligible differentia." He reasoned that sexual intimacy is an integral facet of marriage and that creating a new criminal offense of marital rape falls strictly within the domain of legislative policy, not judicial review.</li>
+                        </ul>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Hrishikesh Sahoo v. State of Karnataka, 2022 SCC OnLine Kar 813</h5>
+                        <p>In a parallel development, Justice M. Nagaprasanna of the Karnataka High Court refused to quash rape charges framed under Section 376 against a husband accused of physical and sexual violence against his wife. Rejection of absolute immunity was articulated in a powerful observation:</p>
+                        <blockquote className="border-l-4 border-[#D4AF37] pl-4 italic my-4 text-white/80">"A man is a man; an act is an act; rape is rape, be it performed by a man the husband upon the woman the wife."</blockquote>
+                        <p>The Karnataka High Court affirmed that marriage cannot grant a license to commit brutal sexual violence with impunity.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">Pending Supreme Court Proceedings: Khushboo Saifi v. Union of India</h5>
+                        <p>Appeals arising from the Delhi High Court's split verdict, alongside the Karnataka High Court judgment and independent writ petitions, are currently pending before the Supreme Court of India in <em className="text-white/90">Khushboo Saifi v. Union of India & Ors.</em> The Apex Court is tasked with determining whether statutory immunity can survive under transformative constitutionalism.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. INTERNATIONAL HUMAN RIGHTS FRAMEWORK</h4>
+                        <p>India's retention of the marital rape exception places it out of step with international human rights treaties to which it is a state party:</p>
+
+                        <div className="overflow-x-auto mt-6">
+                            <table className="w-full text-left border-collapse border border-white/20">
+                                <thead>
+                                    <tr className="bg-black/40 border-b border-white/20">
+                                        <th className="p-4 font-bold text-[#D4AF37]">International Instrument</th>
+                                        <th className="p-4 font-bold text-[#D4AF37]">Provision / Mandate</th>
+                                        <th className="p-4 font-bold text-[#D4AF37]">Implication for Marital Rape Laws</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr className="border-b border-white/10">
+                                        <td className="p-4 font-medium text-white">CEDAW (Convention on the Elimination of All Forms of Discrimination Against Women)</td>
+                                        <td className="p-4">General Recommendations No. 19 & 35</td>
+                                        <td className="p-4">Explicitly defines marital rape as a form of gender-based violence and mandates state parties to criminalize it unconditionally.</td>
+                                    </tr>
+                                    <tr className="border-b border-white/10">
+                                        <td className="p-4 font-medium text-white">ICCPR (International Covenant on Civil and Political Rights)</td>
+                                        <td className="p-4">Article 7</td>
+                                        <td className="p-4">Guarantees protection against torture, cruel, inhuman, or degrading treatment—standards violated by non-consensual marital sex.</td>
+                                    </tr>
+                                    <tr>
+                                        <td className="p-4 font-medium text-white">UDHR (Universal Declaration of Human Rights)</td>
+                                        <td className="p-4">Articles 3 & 5</td>
+                                        <td className="p-4">Affirms the right to life, liberty, security of person, and freedom from degrading treatment.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. CONCLUSION</h4>
+                        <p>The enactment of the Bharatiya Nyaya Sanhita, 2023 presented an opportunity to purge Indian criminal jurisprudence of colonial-era doctrines of female subservience. By retaining the marital rape exception under Section 63 Exception 2, the legislature chose to preserve a legal anomaly that elevates institutional preservation over fundamental rights.</p>
+                        <p className="mt-4">The assertion that criminalizing marital rape will destroy the institution of marriage relies on a flawed premise: it presumes that marriage can only survive if built upon forced sexual intimacy and statutory immunity. A marriage where one partner retains the legal right to violate the bodily autonomy of the other is incompatible with constitutional morality.</p>
+                        <p className="mt-4">As the Supreme Court deliberates on the constitutional validity of this exception in <em className="text-white/90">Khushboo Saifi</em>, the constitutional imperative remains clear. The judiciary must affirm that fundamental rights do not stop at the doorstep of the matrimonial home, purge Lord Hale's doctrine from Indian law, and declare the marital rape exception unconstitutional. True decolonization of law requires nothing less than the total, unequivocal protection of every individual's bodily integrity, inside and outside of marriage.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">7. REFERENCES</h4>
+                        <h5 className="font-bold text-white/90 text-lg mt-4 mb-2">Constitution & Statutes</h5>
+                        <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                            <li>INDIA CONST. art. 14, art. 15, cl. 1, art. 21.</li>
+                            <li>Indian Penal Code, 1860, §§ 375, 376A, 497, 498A, No. 45, IMP. ACTS, 1860 (India).</li>
+                            <li>The Bharatiya Nyaya Sanhita, 2023, §§ 63, 67, 85, 86, No. 45, Acts of Parliament, 2023 (India).</li>
+                            <li>The Protection of Women from Domestic Violence Act, 2005, § 3(a), No. 43, Acts of Parliament, 2005 (India).</li>
+                        </ol>
+
+                        <h5 className="font-bold text-white/90 text-lg mt-6 mb-2">Judicial Precedents (Supreme Court of India & High Courts)</h5>
+                        <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                            <li>Hrishikesh Sahoo v. State of Karnataka, 2022 SCC OnLine Kar 813 (India).</li>
+                            <li>Independent Thought v. Union of India, (2017) 10 S.C.C. 800 (India).</li>
+                            <li>Joseph Shine v. Union of India, (2019) 3 S.C.C. 39 (India).</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 S.C.C. 1 (India).</li>
+                            <li>Khushboo Saifi v. Union of India, Special Leave Petition (Civil) No. 12892/2022 (SC) (pending).</li>
+                            <li>RIT Found. v. Union of India, 2022 SCC OnLine Del 1404 (India).</li>
+                            <li>Shayara Bano v. Union of India, (2017) 9 S.C.C. 1 (India).</li>
+                            <li>Suchita Srivastava v. Chandigarh Admin., (2009) 9 S.C.C. 1 (India).</li>
+                            <li>R v. R, [1991] 1 A.C. 598 (HL) (UK).</li>
+                        </ol>
+
+                        <h5 className="font-bold text-white/90 text-lg mt-6 mb-2">Law Commission & Committee Reports</h5>
+                        <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                            <li>JUSTICE J.S. VERMA, JUSTICE LEILA SETH & GOPAL SUBRAMANIUM, REPORT OF THE COMMITTEE ON AMENDMENTS TO CRIMINAL LAW (2013).</li>
+                            <li>LAW COMMISSION OF INDIA, REPORT NO. 42, INDIAN PENAL CODE (1971).</li>
+                            <li>LAW COMMISSION OF INDIA, REPORT NO. 84, RAPE AND ALLIED OFFENCES: SOME QUESTIONS OF SUBSTANTIVE LAW, PROCEDURE AND EVIDENCE (1980).</li>
+                            <li>LAW COMMISSION OF INDIA, REPORT NO. 172, REVIEW OF RAPE LAWS (2000).</li>
+                        </ol>
+
+                        <h5 className="font-bold text-white/90 text-lg mt-6 mb-2">Books, Treatises & International Treaties</h5>
+                        <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                            <li>1 MATTHEW HALE, HISTORIA PLACITORUM CORONAE: THE HISTORY OF THE PLEAS OF THE CROWN 629 (1736).</li>
+                            <li>1 WILLIAM BLACKSTONE, COMMENTARIES *442.</li>
+                            <li>G.A. Res. 217 (III) A, Universal Declaration of Human Rights (Dec. 10, 1948).</li>
+                            <li>International Covenant on Civil and Political Rights, Dec. 16, 1966, 999 U.N.T.S. 171.</li>
+                            <li>UN Committee on the Elimination of Discrimination Against Women (CEDAW), CEDAW General Recommendation No. 19: Violence against women, U.N. Doc. CEDAW/C/1992/L.1/Add.15 (1992).</li>
+                            <li>UN Committee on the Elimination of Discrimination Against Women (CEDAW), General Recommendation No. 35 on gender-based violence against women, updating general recommendation No. 19, U.N. Doc. CEDAW/C/GC/35 (2017).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by KETAN PANDITA.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">HIDAYATULLAH NATIONAL LAW UNIVERSITY</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Beyond the Wedlock: Live-In Relationships and the Metamorphosis of Indian Family Jurisprudence",
+            author: "By Jay Belwadkar",
+            abstract: "The institution of marriage in India has long operated as the exclusive gatekeeper to legal legitimacy, property rights, maintenance, and societal dignity. However, the burgeoning incidence of non-marital cohabitation—commonly termed live-in relationships—has unsettled this traditional matrix, compelling the Indian legal order to confront intimate unions operating outside statutory formalities. In the absence of a comprehensive national legislative code governing non-marital cohabitation, the burden of calibrating domestic rights has fallen upon the judiciary. Through purposive readings of the Protection of Women from Domestic Violence Act, 2005, criminal maintenance statutes, and constitutional guarantees under Article 21, the Supreme Court of India has extended critical social security nets to cohabiting partners, particularly vulnerable women. Yet, this judicial patchwork reveals profound structural fractures when confronted with personal status laws governing succession, ancestral inheritance, and recent legislative incursions such as mandatory registration under the Uniform Civil Code of Uttarakhand. This article examines the jurisprudential trajectory of live-in relationships in India, interrogating the evolving contours of maintenance and succession, contrasting societal resistance with constitutional morality, and evaluating whether creeping criminalization under the guise of statutory protection threatens to undermine personal autonomy.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction: The Doctrinal Crisis of Non-Marital Cohabitation</li>
+                            <li>From Social Immorality to Fundamental Autonomy: Tracing Judicial Recognition</li>
+                            <li>Statutory Accommodative Engineering: The Domestic Violence Act, 2005</li>
+                            <li>Economic Remediation: Maintenance Rights under Criminal and Civil Codes</li>
+                            <li>Succession, Coparcenary, and the Status of Children</li>
+                            <li>Constitutional Morality versus Social Conservatism in High Court Jurisprudence</li>
+                            <li>The Siren Song of Statutory Formalism: Mandatory Registration and the Uttarakhand UCC</li>
+                            <li>Reconciling Protection with Liberty: The Road Ahead</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION: THE DOCTRINAL CRISIS OF NON-MARITAL COHABITATION</h4>
+                        <p>The legal foundation of Indian family law is fundamentally anchored in the sacrament and contractual solemnization of marriage, treating wedlock as the sole incubator of enforceable civil obligations. When cohabiting couples choose to live together outside the parameters of formalized marriage, they inhabit a distinct normative vacuum where private autonomy directly clashes with traditional public morality. For decades, the statutory apparatus remained largely indifferent or punitive toward these unions, leaving cohabiting women and children vulnerable to sudden abandonment, dispossession, and total economic destitution upon the termination of the domestic unit. The core constitutional question is whether the state’s duty to ensure social justice, gender parity, and human dignity under Articles 14, 15, and 21 of the Constitution can permit domestic partners to be stripped of all socioeconomic safeguards merely because they waived a ceremonial ritual. Over the last two decades, Indian courts have progressively pierced the corporate veil of marital formality, extending functional protections while stopping short of declaring cohabitation fully equivalent to formal marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FROM SOCIAL IMMORALITY TO FUNDAMENTAL AUTONOMY: TRACING JUDICIAL RECOGNITION</h4>
+                        <p>The judicial treatment of cohabitation in post-colonial India began not as a revolutionary defense of adult self-determination, but through an evidentiary evidentiary presumption favoring marriage. In <em className="text-white/90">Badri Prasad v. Director of Consolidation</em> (1978) 2 SCC 524, the Supreme Court held that where a man and a woman live together as husband and wife for a prolonged duration, the law draws a strong presumption under Section 114 of the Indian Evidence Act, 1872 (now Section 119 of the Bharatiya Sakshya Adhiniyam, 2023) in favor of wedlock. The burden of rebutting this presumption falls heavily upon the party seeking to dispute its existence. While this presumption offered evidentiary shelter to long-standing partners, it simultaneously revealed the legal system’s deep-seated unease with validating cohabitation on its own merits: the union was protected only by pretending it was a marriage.</p>
+                        <p className="mt-4">A decisive jurisprudential paradigm shift occurred in <em className="text-white/90">S. Khushboo v. Kanniammal</em> (2010) 5 SCC 600, where the Supreme Court explicitly dissociated consensual adult cohabitation from criminality and public immorality. Quashing criminal complaints initiated against an actress who spoke publicly about premarital sex and live-in arrangements, the Apex Court observed that an adult living together with a consenting partner does not commit any criminal offense. The Court anchored consensual cohabitation firmly within the fundamental right to life, personal liberty, and privacy guaranteed by Article 21 of the Constitution. Subsequent rulings, such as <em className="text-white/90">Lata Singh v. State of U.P.</em> (2006) 5 SCC 475, underscored that two consenting adults of marriageable age are entitled to live together without state interference or vigilante harassment from families. Thus, consensual cohabitation transitioned within constitutional discourse from an unsanctioned, taboo arrangement into a protected exercise of individual agency.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATUTORY ACCOMMODATIVE ENGINEERING: THE DOMESTIC VIOLENCE ACT, 2005</h4>
+                        <p>The formal statutory recognition of non-marital cohabitation arrived through the backdoor of welfare legislation via the Protection of Women from Domestic Violence Act, 2005 (PWDVA). Departing from the restrictive nomenclature of "husband" and "wife," Parliament introduced the broader concept of a "domestic relationship" under Section 2(f), encompassing two persons who live or have lived together through a "relationship in the nature of marriage." By creating this category alongside formal marriage, Parliament acknowledged that women subjected to physical, emotional, economic, or sexual violence within non-ceremonial domestic arrangements required identical remedial interventions.</p>
+                        <p className="mt-4">Nevertheless, the statutory ambiguity surrounding what constitutes a "relationship in the nature of marriage" provoked conflicting judicial interpretations, requiring definitive guidelines from the Supreme Court. In the landmark decision <em className="text-white/90">D. Velusamy v. D. Patchaiammal</em> (2010) 10 SCC 469, Markandey Katju, J., formulated four mandatory ingredients that must be satisfied for a live-in arrangement to qualify for protection under the PWDVA:</p>
+                        <ul className="space-y-4 mt-4 mb-4 list-decimal pl-5">
+                            <li><strong className="text-white"></strong> The couple must hold themselves out to society as being akin to spouses;</li>
+                            <li><strong className="text-white"></strong> They must be of legal age to marry or qualified to enter into a legal marriage;</li>
+                            <li><strong className="text-white"></strong> They must be otherwise qualified to enter into a legal marriage, including being unmarried at the time of cohabitation; and</li>
+                            <li><strong className="text-white"></strong> They must have voluntarily cohabited and held themselves out to the world as being akin to spouses for a significant period.</li>
+                        </ul>
+                        <p>The Court explicitly excluded transient sexual encounters, casual weekend relationships, and "keep" arrangements from the purview of welfare protections under the Act.</p>
+                        <p className="mt-4">While <em className="text-white/90">Velusamy</em> provided analytical clarity, its rigid disqualification of unions where one partner had a subsisting marriage created severe hardships for women entering relationships without knowledge of the other partner's prior legal status.</p>
+                        <p className="mt-4">The Supreme Court reinforced this doctrinal boundary in <em className="text-white/90">Indra Sarma v. V.K.V. Sarma</em> (2013) 15 SCC 755. Here, a woman entered into a domestic arrangement with a married man, fully aware of his subsisting legal marriage and children. When the relationship deteriorated, she initiated proceedings claiming maintenance under Section 12 of the PWDVA. The Court held that an extramarital relationship entered into knowingly cannot be deemed a "relationship in the nature of marriage," because it violates the foundational monogamous tenets of Indian family law. While dismissing her claim, the Bench expressed profound empathy for women left without a remedy, acknowledging that statutory gaps force courts into an uncomfortable dilemma between condoning de facto bigamy and leaving abandoned partners entirely destitute. The Court concluded with an urgent plea to Parliament to craft bespoke legislation governing non-marital unions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ECONOMIC REMEDIATION: MAINTENANCE RIGHTS UNDER CRIMINAL AND CIVIL CODES</h4>
+                        <p>The issue of whether an unmarried female partner can claim maintenance under Section 125 of the Code of Criminal Procedure, 1973 (now mirrored under Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023 [BNSS]) has generated fierce doctrinal debate. The text of Section 125 CrPC explicitly restricts maintenance entitlements to a legally wedded "wife," minors, and infirm parents. In <em className="text-white/90">Yamunabai Anantrao Adhav v. Anantrao Shivram Adhav</em> (1988) 1 SCC 530, the Supreme Court took a strictly textualist approach, holding that the term "wife" means only a woman whose marriage is recognized as fully valid under statutory law, thereby shutting the door on second wives and unmarried partners.</p>
+                        <p className="mt-4">However, the harsh reality of social abandonment compelled the judiciary to embrace equitable interpretation. In <em className="text-white/90">Chanmuniya v. Virendra Kumar Singh Kushwaha</em> (2011) 1 SCC 141, a Division Bench of the Supreme Court challenged this formalistic framework. The Court held that where a man and woman live together as husband and wife for an extended period, a strict standard of proof of marriage should not be insisted upon when adjudicating summary maintenance claims under Section 125 CrPC. Drawing inspiration from the definition of "domestic relationship" under the PWDVA, the Bench concluded that a broad, purposive interpretation of the term "wife" must encompass women who were lived-in partners, ensuring that unscrupulous men cannot capitalize on statutory technicalities to evade financial liabilities.</p>
+                        <p className="mt-4">Although <em className="text-white/90">Chanmuniya</em> referred the formal interpretation of "wife" under Section 125 to a larger bench, subsequent rulings have routinely awarded financial sustenance to abandoned cohabiting women. In <em className="text-white/90">Kamlesh Devi v. Jaipal</em> (2019) 19 SCC 445 and <em className="text-white/90">Ajay Bhardwaj v. Jyotsna</em> (2016), courts reaffirmed that a woman who has shared a stable, prolonged household with a man is entitled to monetary compensation, residence orders, and recurring maintenance, treating the denial of basic sustenance as an ongoing act of economic abuse.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SUCCESSION, COPARCENARY, AND THE STATUS OF CHILDREN</h4>
+                        <p>While Indian courts have progressively engineered rights to maintenance, they maintain a rigid, conservative stance regarding intestate succession and ancestral coparcenary property. Inheritance in India remains overwhelmingly segmented across faith-based personal status enactments, such as the Hindu Succession Act, 1956 (HSA), the Indian Succession Act, 1925, and uncodified Muslim personal law. Under these frameworks, an intestate decedent’s estate devolves exclusively upon recognized heirs—such as legal spouses, lineal descendants, and statutory ascendants.</p>
+                        <p className="mt-4">A surviving live-in partner enjoys zero statutory recognition as an heir under Class I or Class II of the Hindu Succession Act. Regardless of whether cohabitation lasted three decades, an unmarried partner cannot claim an intestate share in the deceased partner's separate property or coparcenary estate in the absence of a testamentary bequest (a Will). If a deceased partner dies intestate, the surviving partner can be summarily dispossessed by the deceased’s biological family, with no recourse other than filing a tenuous civil suit for a quantum meruit claim or demonstrating that property was jointly acquired via financial contribution.</p>
+                        <p className="mt-4">In striking contrast, the legal system has extended decisive protections to children born out of these relationships. Under Section 16 of the Hindu Succession Act (as amended in 2005), children born of void or voidable marriages are endowed with statutory legitimacy.</p>
+                        <p className="mt-4">In <em className="text-white/90">Revanasiddappa v. Mallikarjun</em> (2023) 10 SCC 1, a three-judge Bench of the Supreme Court held that children born out of unions that are not formally solemnized, or are otherwise void, cannot be branded with the stain of bastardy. The Bench ruled that such children are entitled to share in the separate and self-acquired property of their parents, as well as the parent's share in ancestral coparcenary property.</p>
+                        <p className="mt-4">Earlier, in <em className="text-white/90">Kattukandi Edathil Krishnan v. Kattukandi Edathil Valsan</em> (2022) SCC OnLine SC 714, the Court held that long-term cohabitation between a man and woman establishes a legal presumption that their offspring are legitimate children, eligible to inherit under the laws of intestate succession. The Indian legal order thus decouples the status of the child from the formality of the parents’ sexual union, preserving the child's right to property while refusing that same status to the cohabiting partner.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL MORALITY VERSUS SOCIAL CONSERVATISM IN HIGH COURT JURISPRUDENCE</h4>
+                        <p>The progression toward recognizing live-in relationships has exposed a deep ideological divide between high constitutional theory and the daily output of the State High Courts. The Supreme Court has repeatedly affirmed that moral disapproval cannot form the basis for denying legal remedies or constitutional protection. In <em className="text-white/90">Navtej Singh Johar v. Union of India</em> (2018) 1 SCC 1 and <em className="text-white/90">K.S. Puttaswamy v. Union of India</em> (2017) 10 SCC 1, the Court elevated individual autonomy, personal intimacy, and privacy into foundational constitutional rights immune to majoritarian disapproval.</p>
+                        <p className="mt-4">Yet, several High Court decisions across the country continue to reflect visceral moral skepticism:</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li>The Punjab and Haryana High Court, in orders such as <em className="text-white/90">Ujjawal v. State of Haryana</em> (2021) and <em className="text-white/90">Pooja v. State of Punjab</em> (2021), dismissed protection petitions filed by cohabiting couples facing honor killing threats from their families, observing that live-in unions are "morally and socially unacceptable" and threaten the "social fabric of society."</li>
+                            <li>The Allahabad High Court, in <em className="text-white/90">Kiran Rawat v. State of U.P.</em> (2023), observed that live-in relationships are often fraught with instability and social stigma, declining to exercise its extraordinary writ jurisdiction under Article 226 to protect couples outside marriage.</li>
+                            <li>Conversely, the Delhi High Court and Kerala High Court have consistently held that the state bears an absolute, non-negotiable duty to protect citizens from private violence, regardless of whether their domestic arrangement aligns with traditional moral norms.</li>
+                        </ul>
+                        <p className="mt-4">This sharp divergence highlights the ongoing conflict between judicial discretion infused with traditional morality and the mandate of constitutional morality. When High Courts deny police protection to runaway cohabitants facing physical elimination, they prioritize societal custom over the basic right to life under Article 21.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE SIREN SONG OF STATUTORY FORMALISM: MANDATORY REGISTRATION AND THE UTTARAKHAND UCC</h4>
+                        <p>The most consequential structural disruption to non-marital cohabitation in independent India is the Uniform Civil Code (UCC) enacted by the Uttarakhand Legislative Assembly in 2024. Part 3 of the Uttarakhand UCC introduces a mandatory regulatory framework governing live-in relationships, requiring cohabiting residents of Uttarakhand (or residents living outside the state) to submit a formal "statement of live-in relationship" to a designated Registrar within one month of entering the arrangement.</p>
+                        <p className="mt-4">The Act establishes severe penal sanctions for non-compliance. Under Section 387, failing to submit a registration statement within the prescribed timeframe is punishable by imprisonment for up to three months, a fine of up to ₹10,000, or both. Furthermore, the Registrar is empowered to conduct a summary local inquiry, which includes summoning the parties and notifying the parents of applicants under the age of 21.</p>
+                        <p className="mt-4">While the stated legislative objective is to protect women from deceptive desertion, identity misrepresentation, and domestic violence, the statute creates dangerous constitutional vulnerabilities:</p>
+                        <ul className="space-y-4 mt-4 list-decimal pl-5">
+                            <li><strong className="text-white">Infringement of Spatial and Informational Privacy:</strong> Forcing adult citizens to notify the state apparatus before sharing an intimate domestic life violates the core privacy tenets articulated in <em className="text-white/90">Puttaswamy</em>.</li>
+                            <li><strong className="text-white">The Peril of Retaliatory Violence:</strong> By mandating bureaucratic notifications and local inquiries, the statute arms hostile family members with actionable state records, exposing inter-caste, inter-faith, and non-conforming couples to parental kidnapping and honor-related violence.</li>
+                            <li><strong className="text-white">The Criminalization of Consensual Choice:</strong> Penalizing unregistered consensual intimacy turns a fundamental personal freedom upside down, converting private adulthood into an offense against the state.</li>
+                            <li><strong className="text-white">Bureaucratic Coercion of Intimacy:</strong> Requiring official state filings to enter and exit a non-marital relationship imposes an intrusive administrative burden that strips cohabitation of its informal character, making it subject to more bureaucratic oversight than marriage itself.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECONCILING PROTECTION WITH LIBERTY: THE ROAD AHEAD</h4>
+                        <p>The ongoing evolution of live-in relationships in India highlights the challenge of balancing individual liberty with social security. The current legal architecture relies too heavily on subjective judicial discretion, leaving couples exposed to regional variations in judicial morality and regulatory overreach.</p>
+                        <p className="mt-4">To resolve these contradictions, the following legislative and judicial reforms are required:</p>
+                        <ul className="space-y-4 mt-4 list-disc pl-5">
+                            <li><strong className="text-white">Statutory Decoupling of Registration from Criminality:</strong> States must discard penal sanctions for unregistered cohabitation. Registration should serve exclusively as an optional, self-declaratory tool allowing partners to voluntarily access civil protections, rather than acting as a mandatory condition enforced by criminal penalties.</li>
+                            <li><strong className="text-white">Codification of Civil Cohabitation Agreements:</strong> Parliament should enact an optional "Civil Partnership and Cohabitation Act." Similar to frameworks in common-law jurisdictions such as the United Kingdom and South Africa, this law should permit adult couples to enter into enforceable domestic partnership deeds. These deeds would outline maintenance formulas, division of jointly acquired assets, and medical proxy rights, while preserving personal autonomy.</li>
+                            <li><strong className="text-white">Targeted Amendment of Succession Statutes:</strong> The Hindu Succession Act, 1956, and the Indian Succession Act, 1925, should be amended to include equitable relief mechanisms. These provisions would empower family courts to grant discretionary estate shares or maintenance out of an intestate partner’s estate to a surviving cohabitant who demonstrates financial dependence and continuous, long-term domesticity.</li>
+                            <li><strong className="text-white">Strict Constitutional Restraint on Police Surveillance:</strong> The judiciary must issue binding nationwide guidelines prohibiting law enforcement agencies from demanding registration certificates, family notifications, or moral validation when adult cohabiting couples seek state protection from domestic harassment and honour threats.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The evolution of Indian family law is approaching a critical juncture. For nearly five decades, the judiciary has deployed equitable interpretation to shelter vulnerable women and secure the property rights of children born out of non-marital unions. However, this judicial progress is threatened by new legislative initiatives that trade personal liberty for moral policing and administrative surveillance.</p>
+                        <p className="mt-4">Non-marital cohabitation is not an assault on the social fabric, but a natural reflection of adult self-determination within an increasingly pluralistic constitutional democracy. Meaningful protection cannot be achieved by criminalizing unregistered cohabitants, conducting intrusive bureaucratic inquiries, or exposing private partnerships to familial violence. Indian family law must move beyond moral policing. The path forward requires establishing clear civil remedies, expanding equitable property protections, and honouring the fundamental principle that adult citizens possess the constitutional right to build their intimate lives free from arbitrary state coercion.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Constitution of India, 1950, arts. 14, 15, 21, 226.</li>
+                            <li>The Protection of Women from Domestic Violence Act, No. 43 of 2005, India Code (2005), 2(f), 12, 18, 19, 20, 22.</li>
+                            <li>The Code of Criminal Procedure, No. 2 of 1974, India Code (1974), 125.</li>
+                            <li>The Bharatiya Nagarik Suraksha Sanhita, No. 46 of 2023, India Code (2023), 144.</li>
+                            <li>The Indian Evidence Act, No. 1 of 1872, India Code (1872), 114.</li>
+                            <li>The Bharatiya Sakshya Adhiniyam, No. 47 of 2023, India Code (2023), § 119.</li>
+                            <li>The Hindu Succession Act, No. 30 of 1956, India Code (1956), 6, 8, 16.</li>
+                            <li>The Indian Succession Act, No. 39 of 1925, India Code (1925).</li>
+                            <li>The Uniform Civil Code of Uttarakhand, Act No. 3 of 2024, Uttarakhand Acts & Ordinances (2024), pt. 3, 378–389.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Jay Belwadkar.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Kes Shri Jayantilal H.Patel Law College/ 3 Year LLB</p>
+                    </div>
+                </div>
+            )
+        },
+        {
             title: "Pre-Litigation Mediation: Will It Reduce Court Burden or Delay Justice?",
             author: "By Sudhanshu K. Baranwal",
             abstract: "India’s judicial backlog continues to pose a structural challenge to effective justice delivery. In response to this systemic concern, Parliament enacted the Mediation Act, 2023, providing statutory recognition to mediation and formalising pre-litigation mediation as a structured mechanism of dispute resolution.",
@@ -16727,7 +21054,8 @@ export function Header04() {
                     </div>
                 </div>
             )
-        }
+        },
+
     ];
     const demoPublications = rawPublications.map(p => ({ ...p, id: p.title.toLowerCase().replace(/[^a-z0-9]+/g, '-') }));
 
