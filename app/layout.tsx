@@ -7,6 +7,11 @@ import StructuredData from "@/components/StructuredData";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 export const metadata: Metadata = {
   title: "Lex Saarthi",
+  applicationName: "Lex Saarthi",
+  appleWebApp: {
+    title: "Lex Saarthi",
+    statusBarStyle: "default",
+  },
   description: "Lex Saarthi is an AI-powered legal assistant that helps students, citizens, and professionals with legal research, legal awareness, document guidance, and law-related information.",
   verification: {
     google: "FLvs_8zKJDfqNLiNsQtKjte7c-2wWW_YwKxU_97rqGs",
