@@ -21133,95 +21133,116 @@ export function Header04() {
 
 
 
-    const PublicationsPage = () => (
-        <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -20 }}
-            transition={{ duration: 0.6, ease: "easeOut" }}
-            className="pt-32 pb-24 px-4 md:px-8 lg:px-24 min-h-[80vh] bg-black/50 backdrop-blur-md border-x border-white/5 mx-auto max-w-[1600px]"
-        >
-            <div className="max-w-[1400px] mx-auto">
-                <div className="text-center mb-24">
-                    <span className="text-[#D4AF37] font-bold tracking-[0.6em] uppercase text-sm mb-4 block">
-                        Academic Excellence
-                    </span>
-                    <h1 className="text-6xl md:text-8xl font-bold text-white leading-tight">
-                        The <span className="text-[#D4AF37]">Lex Saarthi</span> Journal
-                    </h1>
+    const PublicationsPage = () => {
+        const [searchQuery, setSearchQuery] = useState("");
+
+        const filteredPublications = demoPublications.filter(pub => 
+            pub.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+            pub.author.toLowerCase().includes(searchQuery.toLowerCase())
+        );
+
+        return (
+            <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                exit={{ opacity: 0, y: -20 }}
+                transition={{ duration: 0.6, ease: "easeOut" }}
+                className="pt-32 pb-24 px-4 md:px-8 lg:px-24 min-h-[80vh] bg-black/50 backdrop-blur-md border-x border-white/5 mx-auto max-w-[1600px]"
+            >
+                <div className="max-w-[1400px] mx-auto">
+                    <div className="text-center mb-24">
+                        <span className="text-[#D4AF37] font-bold tracking-[0.6em] uppercase text-sm mb-4 block">
+                            Academic Excellence
+                        </span>
+                        <h1 className="text-6xl md:text-8xl font-bold text-white leading-tight">
+                            The <span className="text-[#D4AF37]">Lex Saarthi</span> Journal
+                        </h1>
+                    </div>
+
+                    {/* Why Publish Section */}
+                    <section className="mb-40">
+                        <div className="text-center mb-16">
+                            <h2 className="text-3xl md:text-5xl font-bold text-white">Why Publish With Us?</h2>
+                            <div className="w-24 h-1 bg-[#D4AF37] mx-auto mt-6 rounded-full" />
+                        </div>
+                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                            {[
+                                { title: "Rigorous Peer Review", desc: "Every submission undergoes a double-blind peer review process to ensure academic excellence and unbiased evaluation." },
+                                { title: "Global Reach", desc: "Your research will be indexed and accessible to legal practitioners, academics, and students across worldwide platforms." },
+                                { title: "Mentorship", desc: "Receive detailed, constructive feedback from our editorial board to refine your research and elevate its academic impact." }
+                            ].map((item, i) => (
+                                <PixelCard key={i} variant="blue" className="p-8 rounded-[40px] border border-white/5 bg-black/40 h-full hover:border-blue-500/30 transition-all duration-500">
+                                    <h3 className="text-2xl font-bold text-[#D4AF37] mb-6">{item.title}</h3>
+                                    <p className="text-zinc-400 leading-relaxed text-lg">{item.desc}</p>
+                                </PixelCard>
+                            ))}
+                        </div>
+                    </section>
+
+                    {/* Guidelines Accordion */}
+                    <section className="max-w-4xl mx-auto mb-32">
+                        <div className="text-center mb-16">
+                            <h2 className="text-3xl md:text-5xl font-bold text-white">Submission Guidelines</h2>
+                            <p className="text-zinc-400 mt-4">Everything you need to know before submitting your manuscript.</p>
+                        </div>
+                        <div className="space-y-4">
+                            {[
+                                { q: "Word Count Requirements", a: "We accept three types of submissions: Research Articles (4,000–6,000 words), Case Comments (2,000–3,000 words), and Book Reviews (1,500–2,000 words). Word counts exclude footnotes." },
+                                { q: "Formatting Standards", a: "Manuscripts should be in Times New Roman, 12pt, with 1.5 line spacing. All citations must strictly follow the Bluebook (21st ed.) style. Submissions should be in .doc or .docx format." },
+                                { q: "Eligibility & Scope", a: "Lex Saarthi invites contributions from law students, legal scholars, and practitioners. We cover diverse legal fields including Constitutional Law, Corporate Jurisprudence, and International Human Rights." },
+                                { q: "Publication Process", a: "Submissions are checked for plagiarism first. Then, they undergo a two-stage review process. Authors are informed within 3-4 weeks about the acceptance or required revisions." }
+                            ].map((item, i) => (
+                                <details key={i} className="group border border-white/10 rounded-3xl bg-black/30 overflow-hidden transition-all duration-300 hover:border-[#D4AF37]/40">
+                                    <summary className="flex justify-between items-center p-8 cursor-pointer list-none">
+                                        <span className="text-xl font-bold text-white group-hover:text-[#D4AF37] transition-colors">{item.q}</span>
+                                        <span className="text-[#D4AF37] text-2xl group-open:rotate-180 transition-transform duration-300">↓</span>
+                                    </summary>
+                                    <div className="px-8 pb-8 text-zinc-400 leading-relaxed text-lg border-t border-white/5 pt-6">
+                                        {item.a}
+                                    </div>
+                                </details>
+                            ))}
+                        </div>
+                    </section>
+
+                    {/* Latest Insights Section */}
+                    <section className="mb-40">
+                        <div className="text-center mb-16">
+                            <h2 className="text-3xl md:text-5xl font-bold text-white">Latest Insights</h2>
+                            <div className="w-24 h-1 bg-[#D4AF37] mx-auto mt-6 rounded-full" />
+                        </div>
+                        
+                        <div className="max-w-xl mx-auto mb-12 relative">
+                            <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-zinc-400" size={20} />
+                            <input
+                                type="text"
+                                placeholder="Search articles by title or author name..."
+                                value={searchQuery}
+                                onChange={(e) => setSearchQuery(e.target.value)}
+                                className="w-full bg-black/40 border border-white/10 rounded-full py-4 pl-12 pr-6 text-white placeholder-zinc-500 focus:outline-none focus:border-[#D4AF37]/50 transition-colors"
+                            />
+                        </div>
+
+                        <div className="max-w-5xl mx-auto">
+                            <AnimatedList
+                                items={filteredPublications}
+                                showGradients={true}
+                                enableArrowNavigation={true}
+                                displayScrollbar={true}
+                                className="bg-transparent"
+                            />
+                        </div>
+                    </section>
+
+                    <div className="flex justify-center">
+                        <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-bold h-16 px-12 rounded-full text-xl shadow-[0_0_30px_rgba(212,175,55,0.2)]">
+                            Submit Your Manuscript Now
+                        </Button>
+                    </div>
                 </div>
-
-                {/* Why Publish Section */}
-                <section className="mb-40">
-                    <div className="text-center mb-16">
-                        <h2 className="text-3xl md:text-5xl font-bold text-white">Why Publish With Us?</h2>
-                        <div className="w-24 h-1 bg-[#D4AF37] mx-auto mt-6 rounded-full" />
-                    </div>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                        {[
-                            { title: "Rigorous Peer Review", desc: "Every submission undergoes a double-blind peer review process to ensure academic excellence and unbiased evaluation." },
-                            { title: "Global Reach", desc: "Your research will be indexed and accessible to legal practitioners, academics, and students across worldwide platforms." },
-                            { title: "Mentorship", desc: "Receive detailed, constructive feedback from our editorial board to refine your research and elevate its academic impact." }
-                        ].map((item, i) => (
-                            <PixelCard key={i} variant="blue" className="p-8 rounded-[40px] border border-white/5 bg-black/40 h-full hover:border-blue-500/30 transition-all duration-500">
-                                <h3 className="text-2xl font-bold text-[#D4AF37] mb-6">{item.title}</h3>
-                                <p className="text-zinc-400 leading-relaxed text-lg">{item.desc}</p>
-                            </PixelCard>
-                        ))}
-                    </div>
-                </section>
-
-                {/* Guidelines Accordion */}
-                <section className="max-w-4xl mx-auto mb-32">
-                    <div className="text-center mb-16">
-                        <h2 className="text-3xl md:text-5xl font-bold text-white">Submission Guidelines</h2>
-                        <p className="text-zinc-400 mt-4">Everything you need to know before submitting your manuscript.</p>
-                    </div>
-                    <div className="space-y-4">
-                        {[
-                            { q: "Word Count Requirements", a: "We accept three types of submissions: Research Articles (4,000–6,000 words), Case Comments (2,000–3,000 words), and Book Reviews (1,500–2,000 words). Word counts exclude footnotes." },
-                            { q: "Formatting Standards", a: "Manuscripts should be in Times New Roman, 12pt, with 1.5 line spacing. All citations must strictly follow the Bluebook (21st ed.) style. Submissions should be in .doc or .docx format." },
-                            { q: "Eligibility & Scope", a: "Lex Saarthi invites contributions from law students, legal scholars, and practitioners. We cover diverse legal fields including Constitutional Law, Corporate Jurisprudence, and International Human Rights." },
-                            { q: "Publication Process", a: "Submissions are checked for plagiarism first. Then, they undergo a two-stage review process. Authors are informed within 3-4 weeks about the acceptance or required revisions." }
-                        ].map((item, i) => (
-                            <details key={i} className="group border border-white/10 rounded-3xl bg-black/30 overflow-hidden transition-all duration-300 hover:border-[#D4AF37]/40">
-                                <summary className="flex justify-between items-center p-8 cursor-pointer list-none">
-                                    <span className="text-xl font-bold text-white group-hover:text-[#D4AF37] transition-colors">{item.q}</span>
-                                    <span className="text-[#D4AF37] text-2xl group-open:rotate-180 transition-transform duration-300">↓</span>
-                                </summary>
-                                <div className="px-8 pb-8 text-zinc-400 leading-relaxed text-lg border-t border-white/5 pt-6">
-                                    {item.a}
-                                </div>
-                            </details>
-                        ))}
-                    </div>
-                </section>
-
-                {/* Latest Insights Section */}
-                <section className="mb-40">
-                    <div className="text-center mb-16">
-                        <h2 className="text-3xl md:text-5xl font-bold text-white">Latest Insights</h2>
-                        <div className="w-24 h-1 bg-[#D4AF37] mx-auto mt-6 rounded-full" />
-                    </div>
-                    <div className="max-w-5xl mx-auto">
-                        <AnimatedList
-                            items={demoPublications}
-                            showGradients={true}
-                            enableArrowNavigation={true}
-                            displayScrollbar={true}
-                            className="bg-transparent"
-                        />
-                    </div>
-                </section>
-
-                <div className="flex justify-center">
-                    <Button className="bg-[#D4AF37] hover:bg-[#B8962E] text-black font-bold h-16 px-12 rounded-full text-xl shadow-[0_0_30px_rgba(212,175,55,0.2)]">
-                        Submit Your Manuscript Now
-                    </Button>
-                </div>
-            </div>
-        </motion.div>
-    );
+            </motion.div>
+        );
+    };
 
     const InternshipsPage = () => (
         <motion.div
