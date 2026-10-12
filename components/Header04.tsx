@@ -156,6 +156,320 @@ export function Header04() {
             )
         },
         {
+            title: "Data Leaks and Defamation: Evaluating Police Disclosure Rules during Criminal Investigations and the Statutory Silence of the BNSS",
+            author: "By Mansi Pathak",
+            abstract: "“Disclosure does not simply lie in the fact of divulging something, but also in the manner of collection, distribution, combination and use against the individual of the information disclosed.” In digital communication, information pertaining to the arrest, the allegation, the seizure, the victim and the witness becomes public knowledge before any testing of the evidence in court. While legitimate police communication could benefit public safety and institutional accountability, premature, too much or wrongful communication may damage the reputation, invade privacy, put at risk witnesses and prejudice the investigation process. The BNSS (2023) is an Act which comes into effect from 1 July 2024 with respect to investigations, police reports and the production of documents. But there is no scheme in regard to how the police would be dealing with the press and general public during investigations. This essay looks into the deficiencies of the Act with Article 19 & 21 of the Constitution, defamation under Section 356 of BNS (2023), R. Rajagopal, Puttaswamy, Sahara and People’s Union for Civil Liberties v. State of Maharashtra (2023). Comparative lessons are derived from the US Department of Justice and the UK police service, proposing an approach on controlled transparency based on legality, necessity, proportionality, accuracy and accountability.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Literature Review</li>
+                            <li>Research Methodology</li>
+                            <li>Objectives of the Study</li>
+                            <li>Institutional Roles</li>
+                            <li>The BNSS and the Problem of Statutory Silence</li>
+                            <li>Data Leaks and Informational Privacy</li>
+                            <li>Defamation, Harm to the Right to Innocence and Media Trial</li>
+                            <li>Cases Related (Judicial Precedents)</li>
+                            <li>Comparative Position: United Kingdom and United States</li>
+                            <li>Principal Legal Risks of Data Leakages from Police</li>
+                            <li>Recommendations: A Controlled Transparency Model</li>
+                            <li>Discussion</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <div className="bg-black/40 p-5 rounded-xl border border-white/5 mb-4 text-[#D4AF37] italic font-serif">
+                            &ldquo;Disclosure does not simply lie in the fact of divulging something, but also in the manner of collection, distribution, combination and use against the individual of the information disclosed.&rdquo;
+                        </div>
+                        <p>The criminal investigation procedure consists in establishing by the State whether there has been an offence committed, identifying the persons involved, collecting legally admissible evidence, and presenting the result before a court of competent jurisdiction. Traditionally such procedure was carried out by the State institutions (the police station, the forensic laboratory, the case file and the court proceedings), and information was communicated to the public through the court proceeding, press releases and subsequent coverage. However, digital communication has changed this order of things. A photograph of the accused, a photocopy of the First Information Report, or even a sentence from the police report could find its way to the television channels, news websites, chatting forums, and social networking sites within no time and would get reproduced several thousand times even before the accused is produced before the magistrate and the effect is that the distinction between an allegation and a proven fact is very easily blurred. But this distinction is crucial. The investigation procedure does not include trial, and the police arrest does not mean conviction. The police collect and analyze the evidence, but criminal liability must be determined by the court.</p>
+                        <p className="mt-4">This is a crucial distinction. Investigation is not the same as trial, and arrest is not the same as conviction. The police carry out the investigation and assess evidence whereas the question of guilt falls on the shoulders of the judge. When the police communicate the results of an investigation as evidence of guilt to the public, the public makes up its mind before any decision has been made according to the law.</p>
+                        <p className="mt-4">Secrecy is not a solution by itself. It is legitimate for the police to inform the public about a certain danger, to look for information about a missing person, to announce an arrest, to reveal a certain identity of an unknown suspect where applicable or to reassure the public that a grave crime is under investigation. This conflict arises in connection with the nature, extent and manner of communication when several different interests collide, namely the peoples&apos; right to know, the reputation and privacy of the accused, the right to be presumed innocent, the dignity of the victim and the safety of the witnesses.</p>
+                        <p className="mt-4">The 2023 Bharatiya Nagarik Suraksha Sanhita (BNSS), is the main federal law relating to criminal procedure and has replaced the Code of Criminal Procedure, 1973. It addresses the manner in which investigations will be made and police reports will be made, but does not make any provision for a procedure of police press conferences, investigative disclosures or release of personal information. The Supreme Court has made direct reference to this issue in <em>People&apos;s Union for Civil Liberties v. State of Maharashtra</em>, and acknowledged that police briefings implicate issues of right to freedom of expression, public interest and rights of people under criminal process. This paper analyses the existing regime, highlights the areas where the disclosure by police poses legal challenges, analyses the important case laws, practice in other jurisdictions, and suggests a regime of managed transparency.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LITERATURE REVIEW</h4>
+                        <p>Research on the issue of crime reporting has highlighted an inherent conflict within the democratic structure of society. Press reporting helps society question how the police investigate and how prosecutors charge and courts rule; however, excessive and biased press reporting leaves the defendant branded by society based on the evidence that is not even verified yet. This particular problem has been labeled as &ldquo;trial by media&rdquo; where continuous press reports on an ongoing case shape the opinion on the case itself.</p>
+                        <p className="mt-4">The Supreme Court decision in <em>K.S. Puttaswamy (Retd.) v. Union of India</em> created a new platform for constitutional privacy jurisprudence by recognizing the right to privacy as a fundamental right on the basis of dignity, liberty, and autonomy.</p>
+                        <p className="mt-4">Further research extended the argument to the area of informational privacy which involves the right to control one&apos;s own personal information. Earlier Supreme Court case of <em>R. Rajagopal v. The State of Tamil Nadu</em> raised the issue of privacy with regard to publication and freedom of press, perceiving privacy as an element of Article 21 as well as taking into consideration the information that had been already published. Modern scientific approach to the issue is founded upon the opposition between the normative aspect of the Constitution and practices of police investigation. Consequently, it can be seen from the judgment of the Supreme Court in the case of <em>People&apos;s Union for Civil Liberties (2023)</em> that a new approach to the briefings needs to be developed, since the publication of information conducted by the police implies the application of the new means of communication, which were not taken into account when the old manuals for the police were compiled. It can be seen from the literature that there is the significant contradiction between the existence of regulation for protecting against the violation of privacy and defamation, and the absence of the regulations regarding the information that can be revealed by the investigator during the course of his or her briefing.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RESEARCH METHODOLOGY</h4>
+                        <p>This research is doctrinal and analytical in nature. The doctrinal approach covers the study of sources of law, including Constitution of India, BNSS, BNS, and Supreme Court Judgments and governmental documents. The comparative approach is based on governmental data about regulation of communication between law enforcement agencies and prosecution bodies and the population in the UK and USA.</p>
+                        <p className="mt-4">Qualitative research is used in this paper. The study does not include any statistical estimates regarding the frequency of police leaks or the influence of media. The questions of this research are normative and legal: what kind of information could be lawfully communicated, what information should usually be classified as confidential, which constitutional rights are affected and what actions can be taken to mitigate unnecessary harm. The primary data is used as well as possible, and the 2023 Supreme Court decision concerning the police press briefings is regarded as the key authority in this field, while BNSS and BNS are used as the legislative bases.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">OBJECTIVES OF THE STUDY</h4>
+                        <ul className="space-y-3">
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(i)</span>
+                                <span>To look into the law concerning the disclosure of information by police during the course of their investigation, differentiating the disclosure of information for criminal justice administration and disclosure of information to the public through media.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(ii)</span>
+                                <span>To explore the extent to which BNSS deals with the issue of disclosure of information and the limitations thereof, especially in relation to press release, disclosure of personal information and sensitive information.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(iii)</span>
+                                <span>To examine the police statements in context with the law of defamation as per Section 356 of the BNS and Arts. 19(1)(a) and 21.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(iv)</span>
+                                <span>To analyze the issue of informational privacy under Art. 21 of the constitution and the doctrine of necessity and proportionality in collecting and disclosing of personal information.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(v)</span>
+                                <span>To identify the consequences of premature release of information and media trial on the presumption of innocence doctrine in criminal cases.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(vi)</span>
+                                <span>To review the significant Supreme Court decisions in relation to the right to privacy, expression, reputation, publicity and the administration of justice.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(vii)</span>
+                                <span>To consider the approach adopted in the United Kingdom and the United States to the subject, giving special emphasis to spokespersons, requirement of prior authorization, ban on prejudicial comments and fair trial.</span>
+                            </li>
+                            <li className="flex items-start gap-2">
+                                <span className="text-[#D4AF37] font-bold">(viii)</span>
+                                <span>To propose laws and institutions which protect the public interest without compromising privacy, reputation, dignity of suspects and fair trial.</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INSTITUTIONAL ROLES</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 space-y-2">
+                                <h5 className="font-bold text-[#D4AF37] text-lg">1. The Police</h5>
+                                <p className="text-sm">The police have the power over the first and usually the most significant statement regarding any criminal accusation. They are supposed to conduct investigations but not to announce their conclusions about the culpability of the accused publicly. Therefore, the investigating police officer is supposed to separate facts from assumptions as well as the conclusions reached by the court. It is legitimate for the police to communicate information when it serves to warn the public about ongoing danger, find the missing person or correct the spread misinformation. However, it is wrong if it goes beyond necessary personal details or unproven accusations. Therefore, responsible communication should always be factual, verified, proportionate and traceable.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 space-y-2">
+                                <h5 className="font-bold text-[#D4AF37] text-lg">2. The Media</h5>
+                                <p className="text-sm">The media keep the citizens informed about crime, police work, and judicial proceedings, and the freedom of speech and expression entails the freedom of communicating public information. This shows that a police report is a public affair regardless of whether the investigation is ongoing or not. Nonetheless, responsible journalism demands careful handling of allegations, arrest, charges, and conviction: while it may be factually accurate to say that a suspect was &ldquo;arrested in connection with the alleged offense,&rdquo; it would be an opinion to say that the suspect &ldquo;committed the offense.&rdquo;</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 space-y-2">
+                                <h5 className="font-bold text-[#D4AF37] text-lg">3. The Judiciary</h5>
+                                <p className="text-sm">The courts are protectors of the constitutional safeguards from publicity that threatens the equity of the criminal process. They must assess whether the disclosure breaches the constitutionally guaranteed rights, whether there is a genuine risk of prejudice from the publication, and whether there are sufficient safeguards in place. But they must not be turned into regulators of journalism; their concern is only the fairness of adjudication and privacy where these are threatened.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5 space-y-2">
+                                <h5 className="font-bold text-[#D4AF37] text-lg">4. The Legislature</h5>
+                                <p className="text-sm">Legislation may lessen uncertainty regarding the identity of the speakers, the nature of the disclosure, the materials protected, the approval process, and what may follow a failure to obtain approval to disclose. This legislation will be supportive, but not in replacement of, the Constitutional determination. The bill has to be written in a manner that ensures it is not used as a means of attacking investigative journalism.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE BNSS AND THE PROBLEM OF STATUTORY SILENCE</h4>
+                        <p>BNSS is the primary procedural law in criminal proceedings since the abolition of the Code of Criminal Procedure. The act was assented to by the President on 25 December 2023 and it became effective on 1 July 2024. It modifies many processes as well as the use of electronic communication in the investigation process. The relevant section in this case is Section 193, which regulates the police report following the conclusion of the investigation, states the information to be provided to the Magistrate as well as the documents to be delivered to the accused, but without copying certain parts thereof. The other problem related to the issue of public disclosure is a different one. If the police spokesman addresses the media, it cannot be guaranteed that a certain statutory procedure, similar to the police report, takes place; he or she might be disclosing information about investigation which is still pending at the court level.</p>
+                        <p className="mt-4">The BNSS does not answer the following questions: Who permits such a briefing? What information can be disclosed? Is there any restriction on the publication of information about victims and witnesses? Can photographs be distributed? How should unverified claims be treated? How can inaccurate information be countered?</p>
+                        <p className="mt-4">But statutory silence cannot mean unlimited discretion. The police have obligations under the Constitution, criminal law, civil law, orders of the court, and internal discipline. The gap is limited to the lack of a uniform system within the legal framework which meets the needs of modern mass communications. Section 356 of the BNS Act constitutes an additional level because it states, &ldquo;Defamation is the making or publishing of any imputation in such a manner as to lower the reputation of any person in the estimation of reasonable members of society.&rdquo; This act gives redress after the occurrence of the incident but does not regulate the matter before the trial period. An effective policy must differentiate between a disclosure to the court, statutory disclosure, public safety communication and voluntary media communication.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DATA LEAKS AND INFORMATIONAL PRIVACY</h4>
+                        <p>Criminal investigation creates an enormous quantity of personal information that is rather rare in routine administrative procedures. Names, addresses, photos, contact details, statements, medical records, financial records, location information, surveillance video footage, digital devices, family relations are all covered. Much of this data will be highly sensitive despite being connected to offenses of general concern.</p>
+                        <p className="mt-4">A breach can have more ramifications than the mere breach of confidentiality: it can implicate one&apos;s dignity, safety, job, family, and reputation. The victim of an identified breach can become a target of retaliation or stigmatization, a witness can get intimidated and a suspect can experience damage to his/her reputation without having enough evidence against him/her or being ultimately acquitted.</p>
+                        <p className="mt-4">Here comes into play Article 21 and its provisions to support a constitutional analysis of such a violation. In the judgment of <em>Puttaswamy</em>, privacy was acknowledged as constitutionally protected right related to personal dignity, liberty and autonomy, which is understood broader than just the right to seclusion. It is especially relevant when it comes to the digital sphere as there the data can be duplicated and combined with the other information. Even if a telephone number or an e-mail address gets disclosed, it can bring harassment or profiling, while police reports will remain accessible online for the rest of the time.</p>
+                        <p className="mt-4">It is not an unconditional fundamental freedom. For law enforcement, when the need arises to disclose private information to ensure public safety, find out who the suspect is, to prevent an emergency situation, or to provide an explanation of some important actions taken by individuals, privacy will have to give way to these needs. Data Minimization must be applied to decide about the extent of such a disclosure: if a public notification can be issued without revealing the full home address of the individual, then his home address should not be revealed; even if an arrest had been made without revealing the photographs of the family members of the accused, then it was not necessary to reveal them.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DEFAMATION, HARM TO THE RIGHT TO INNOCENCE AND MEDIA TRIAL</h4>
+                        <p>Reputation is safeguarded by the law of defamation, and defamation is one of the grounds on which reasonable restrictions can be imposed on freedom of speech and expression under Art. 19(2). Section 356 of the BNS also provides the offense of defamation and includes the imputation through words, signs, or visible representation. Defamation in the police statement will depend upon whether the allegations or assertions were included in that statement.</p>
+                        <p className="mt-4">It is clear to see the difference between &ldquo;the person was arrested in connection with an alleged fraud&rdquo; and &ldquo;the person is a fraudster who cheated investors.&rdquo; It is particularly true in cases where evidence is not sufficient. The witness could be proved wrong, the document could be a forgery, the forensic result could be inconclusive, and somebody else could turn out to be guilty; however, by then, the story would have already spread wider than the correction.</p>
+                        <p className="mt-4">Innocence until proven guilty is at the heart of the criminal justice system. A person can be arrested, investigated, and even prosecuted for no crime at all, and he or she must be found liable only as a result of judicial proceedings and following a required level of proof. The police communication is damaging for this principle, as it could consist of conclusions regarding guilt, opinions regarding character, opinions on evidence, or other details that allow the audience to see the investigation as the verdict.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASES RELATED (JUDICIAL PRECEDENTS)</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. People&apos;s Union for Civil Liberties v. State of Maharashtra, 2023 INSC 833</strong>
+                                <p><span className="text-[#D4AF37]">Significance:</span> The key authority on the issue. The court considered the process for organizing media briefings in connection with criminal investigations, recognized the importance of public interest in the reporting of crimes, protection of the investigation and persons involved in it, and directed the Ministry of Home Affairs to issue comprehensive guidelines after consultations with States and Union Territories.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. R. Rajagopal v. State of Tamil Nadu, (1994) 6 SCC 632</strong>
+                                <p><span className="text-[#D4AF37]">Held:</span> The Supreme Court held that there is a right to privacy implicit in Article 21 along with the conditions under which the publication of personal information can be prohibited, while balancing freedom of the press and the right to privacy and reputation. Investigation data contains personal information that lies strictly outside the public record domain.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1</strong>
+                                <p><span className="text-[#D4AF37]">Held:</span> A unanimous 9-judge Bench affirmed privacy as a fundamental right rooted in dignity, liberty, and autonomy. Crucial to this discussion is that personal information collected during an investigation cannot be disclosed simply because it is in possession of the State.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Sahara India Real Estate Corp. Ltd. v. Securities and Exchange Board of India, (2012) 10 SCC 603</strong>
+                                <p><span className="text-[#D4AF37]">Held:</span> Recognized that where there is a real and substantial risk of prejudice to the administration of justice, courts can order postponement of reporting under extraordinary circumstances as a neutral balancing mechanism.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Manu Sharma v. State (NCT of Delhi), (2010) 6 SCC 1</strong>
+                                <p><span className="text-[#D4AF37]">Held:</span> Observed that &ldquo;public discussion can never be a substitute for the legal process and proof of guilt has to be by proof of guilt led in court.&rdquo;</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">6. State of Maharashtra v. Rajendra J. Gandhi, (1997) 8 SCC 386</strong>
+                                <p><span className="text-[#D4AF37]">Held:</span> Explicitly held that it was not the function of the media to decide whether an accused person is guilty or not guilty; such an adjudication belongs exclusively to courts of law. Police releases forming media foundations must thus exercise extreme caution.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">COMPARATIVE POSITION: UNITED KINGDOM AND UNITED STATES</h4>
+                        <div className="space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">1. United Kingdom</h5>
+                                <p>In the UK, the exercise of controls over police powers is governed by acts of parliament that are supplemented by detailed codes of practice. The Police and Criminal Evidence Act 1984 (PACE) and the Codes of Practice developed by the Home Office cover matters such as stop and search, arrest and detention. Although PACE doesn’t regulate media communications directly, its significance lies in the institutional context of its provisions. PACE shows that broad discretionary powers may go together with operational guidelines for their implementation and for protection of rights of the accused persons. Indian legislation regulating media communications should provide authorized channels of such communications and the protection of vulnerable people.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">2. United States of America</h5>
+                                <p>The Policy of Confidentiality and Media Contacts is outlined in the Justice Manual of the USA Department of Justice. It is evident that the Policy successfully achieves the balance between public interest in information access, individuals’ rights to have a fair trial, privacy and the government’s interest in administering justice. Prior approval is necessary for giving statements to media concerning ongoing investigations except for very special cases. Furthermore, the Department of Justice will not make any comments on an ongoing investigation, unless there have been charges laid, except where it is warranted by the interests of public safety and/or community confidence.</p>
+                                <p className="mt-3">Nonetheless, once charges are laid, there are some matters which may be released, such as the nature of the charges and the basic circumstances of the arrest, but any comment before conviction must make clear the presumption of innocence of the accused, and that charges are only allegations. The policy also identifies some types of information which generally need not be released as they may prejudice the case, including any opinions regarding guilt or innocence of the accused, character evidence, admissions by the accused, potential witness information, and expected evidentiary proceedings.</p>
+                                <p className="mt-3">There is no need for India to adopt the above policy in its entirety. What makes this policy important is the way it demonstrates how an institution can operationalize constitutional concerns and fairness into procedural rules on who gets to talk, who must authorize the information to be disclosed, what may be disclosed, and what will automatically be considered off limits.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PRINCIPAL LEGAL RISKS OF DATA LEAKAGES FROM POLICE</h4>
+                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">1. Irreparable Reputation Damage</strong>
+                                <p className="text-sm">The allegation becomes a permanent digital search engine record, which outlasts and shadows any subsequent acquittal or clean chit.</p>
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">2. Violation of Informational Privacy</strong>
+                                <p className="text-sm">Data gathered during investigation often touches personal spheres, violating dignity and privacy guarantees under Article 21.</p>
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">3. Obstruction of Investigations</strong>
+                                <p className="text-sm">Premature leaks tip off suspects, reveal evidentiary trail strategies, or compromise subsequent seizures.</p>
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">4. Witness Intimidation & Reprisal</strong>
+                                <p className="text-sm">Releasing witness identities, contact details or statements puts witnesses in acute peril of coercion or physical violence.</p>
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">5. Secondary Victimization</strong>
+                                <p className="text-sm">Disclosing identifying markers of victims, particularly of sexual offences and children, causes severe trauma and social stigma.</p>
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-white block mb-1">6. Prejudicial Media Trial</strong>
+                                <p className="text-sm">Because police communications carry an official imprimatur, public opinion solidifies guilt prior to judicial adjudication.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECOMMENDATIONS: A CONTROLLED TRANSPARENCY MODEL</h4>
+                        <p className="mb-4">The following recommendations provide a blueprint for either a statutory code or, in its absence, a departmental code as mandated by the Supreme Court in <em>PUCL v. State of Maharashtra</em>:</p>
+
+                        <div className="overflow-x-auto my-6">
+                            <h5 className="font-bold text-[#D4AF37] text-lg mb-3">Table 1: Scheme for Three Categories of Disclosures</h5>
+                            <table className="w-full text-left text-sm border-collapse border border-white/10 rounded-xl overflow-hidden bg-black/40">
+                                <thead>
+                                    <tr className="bg-black/60 border-b border-white/10 text-[#D4AF37]">
+                                        <th className="p-3 font-semibold border-r border-white/10">Category</th>
+                                        <th className="p-3 font-semibold border-r border-white/10">Description</th>
+                                        <th className="p-3 font-semibold">Content Examples</th>
+                                    </tr>
+                                </thead>
+                                <tbody className="divide-y divide-white/5">
+                                    <tr className="hover:bg-white/5 transition-colors">
+                                        <td className="p-3 font-semibold text-white border-r border-white/10 whitespace-nowrap">Tier A: Ordinarily Discloseable</td>
+                                        <td className="p-3 border-r border-white/10">Information released through the designated media officer in the normal course of duty.</td>
+                                        <td className="p-3">Public safety warnings, confirmation of procedural steps, alerts necessary to safeguard the public.</td>
+                                    </tr>
+                                    <tr className="hover:bg-white/5 transition-colors">
+                                        <td className="p-3 font-semibold text-white border-r border-white/10 whitespace-nowrap">Tier B: Prior Senior Approval Needed</td>
+                                        <td className="p-3 border-r border-white/10">Discloseable only after formal written authorization is obtained from senior leadership.</td>
+                                        <td className="p-3">Sensitive investigative developments, suspect photographs, information on vulnerable persons, disclosures with significant case impact.</td>
+                                    </tr>
+                                    <tr className="hover:bg-white/5 transition-colors">
+                                        <td className="p-3 font-semibold text-white border-r border-white/10 whitespace-nowrap">Tier C: Ordinarily Non-discloseable</td>
+                                        <td className="p-3 border-r border-white/10">Strictly prohibited from release unless exceptional legitimate grounds exist.</td>
+                                        <td className="p-3">Victim identity, witness details, medical/health records, undercover methods, unverified assertions, character opinions, findings of guilt.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <div className="space-y-3 mt-6">
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(a) Statutory Code of Disclosure:</strong> BNSS or standalone statutory rules should formally define designated spokespersons, permissible categories of disclosure, emergency exemptions, and victim-witness protection.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(b) Dedicated Media Officers:</strong> Appoint trained Public Information Officers in each commissionerate or district trained in criminal procedure, privacy, defamation, and media ethics.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(c) Mandatory Verification:</strong> Every factual statement must be verified from the formal case diary before communication; assumptions and unverified rumors must never be stated as fact.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(d) Neutrality of Language:</strong> Press releases must scrupulously use neutral phraseology (e.g., &ldquo;suspected of committing&rdquo; vs. &ldquo;is a fraudster&rdquo;) upholding the presumption of innocence.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(e) Protection of Victims and Witnesses:</strong> Stringent zero-tolerance provisions preventing any disclosure of legally protected identities, especially minors and survivors of sexual assault.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(f) Obligation to Correct Inaccuracies:</strong> Inaccurate or misleading disclosures must be publicly corrected promptly through identical media channels without repeating defamatory insinuations.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(g) Disclosure Information Registry:</strong> Maintain an official register logging the date, releasing officer, authorizing authority, and scope of disclosed information.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(h) Departmental & Disciplinary Action:</strong> Unauthorized disclosures and clandestine leaks must be treated as serious misconduct punishable by disciplinary action.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(i) Periodic Review & Training:</strong> Continuous curriculum updates in police academies on Articles 19 and 21, data privacy, social media virality, and digital forensics.
+                            </div>
+                            <div className="bg-black/30 p-4 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37]">(j) Independent Complaints Mechanism:</strong> Accessible grievance redressal channels for aggrieved individuals subjected to unlawful police disclosures or anonymous leaks.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">DISCUSSION</h4>
+                        <p>The absence of any dedicated chapter on the disclosure of information by the police force in BNSS does not mean that the police have unrestricted freedom in using their authority. However, constitutional guarantees, BNS, court decisions and other mechanisms create restrictions on police disclosure. It is hard to say that these restrictions are consolidated and are well-known for an investigating officer. An investigating officer might know some notions regarding protection of privacy and defamation, but there is no particular checklist which will show him when he can disclose certain photograph, criminal history, statement of witness, medical information or theory of investigation. Similarly, a journalist will never know whether the police official who gave him information was authorised for that.</p>
+                        <p className="mt-4">The appropriate approach here is controlled transparency. Transparency refers to the obligation of the State to inform the community about law enforcement operations, while control refers to the truthfulness, proportionality and compliance of such information with the rights of those involved. The stakeholders have different interests: the defendant needs privacy and the assumption of innocence; the victim needs confidentiality and protection from secondary victimization; witnesses need anonymity and safety; the public needs the information on danger; the police need the protection of their methods and the evidence. There is no one way that can satisfy everyone, so the decision-making process must be organized systematically. Before releasing any information, the authorized officer must consider whether there is an absolute need for it, whether less intrusive alternatives exist, whether the information is fully verified, whether any protected identity is endangered, and who formally sanctioned the release.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Digital communications have brought about the issue of disclosure by police in constitutional terms. Information gained from the investigation could move from official channels to national level within seconds with implications going far beyond the investigation. While the BNSS introduces a new era of criminal procedures and has elaborate provisions on investigation, reporting and procedural disclosure, it fails to lay down the framework for communications between police and media, a lacuna which is more severe due to the permanence of digital publication.</p>
+                        <p className="mt-4">The principles of responsible disclosure are available under Indian constitutional law. Privacy is defined by <em>Rajagopal</em> in relation to press freedom and publication; <em>Puttaswamy</em> defines privacy as a function of dignity, liberty and autonomy; <em>Sahara</em> brings out the importance of avoiding publicity in administering justice; while <em>People&apos;s Union for Civil Liberties</em> demands the adoption of a uniform policy regarding police-media interaction. Comparative practices from the US Department of Justice and the UK PACE framework show that operational codes effectively operationalize constitutional safeguards alongside policing responsibilities.</p>
+                        <p className="mt-4">India needs guidelines that fit its unique democratic and socio-legal context. Censorship of the media and denial of safety warnings cannot be justified; neither can a system so relaxed that it allows disclosures to become arbitrary or damaging. The guiding principles ought to be legality, necessity, proportionality, accuracy, and accountability: the police must disclose information only when it serves a legitimate public or policing interest, safeguarding confidential information, preserving the presumption of innocence, and promptly rectifying errors. An investigation remains an investigation until such time that the courts determine culpability; the guidelines on controlled transparency will increase public confidence in the State while upholding individual dignity and privacy.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023 (Act No. 46 of 2023), India Code, Ministry of Law and Justice; in force from 1 July 2024.</li>
+                            <li>People&apos;s Union for Civil Liberties v. State of Maharashtra, 2023 INSC 833 (Supreme Court of India, 13 September 2023).</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1.</li>
+                            <li>R. Rajagopal v. State of Tamil Nadu, (1994) 6 SCC 632.</li>
+                            <li>Sahara India Real Estate Corp. Ltd. v. Securities and Exchange Board of India, (2012) 10 SCC 603.</li>
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023, s. 193.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023 (Act No. 45 of 2023), s. 356.</li>
+                            <li>Police and Criminal Evidence Act 1984 (UK) and PACE Codes of Practice, Home Office, UK Government.</li>
+                            <li>United States Department of Justice, Justice Manual, Confidentiality and Media Contacts Policy.</li>
+                            <li>Manu Sharma v. State (NCT of Delhi), (2010) 6 SCC 1.</li>
+                            <li>State of Maharashtra v. Rajendra J. Gandhi, (1997) 8 SCC 386.</li>
+                            <li>Constitution of India, 1950, Articles 19 and 21.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Mansi Pathak, Fourth year B.A. LLB, Shree L R Tiwari College of Law, Mira Road (East), Thane- 401107.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
             title: "Live-in Relationships and the Changing Face of Family Law",
             author: "By Sonam Rajak",
             abstract: "This article examines the changing legal position of live-in relationships in India through the constitutional values of dignity, privacy, personal liberty and individual autonomy. Although Indian law does not treat every live-in relationship as equivalent to marriage, the Supreme Court has recognised that consenting adults have a protected sphere of personal choice.",
@@ -21136,8 +21450,8 @@ export function Header04() {
     const PublicationsPage = () => {
         const [searchQuery, setSearchQuery] = useState("");
 
-        const filteredPublications = demoPublications.filter(pub => 
-            pub.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+        const filteredPublications = demoPublications.filter(pub =>
+            pub.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
             pub.author.toLowerCase().includes(searchQuery.toLowerCase())
         );
 
@@ -21211,7 +21525,7 @@ export function Header04() {
                             <h2 className="text-3xl md:text-5xl font-bold text-white">Latest Insights</h2>
                             <div className="w-24 h-1 bg-[#D4AF37] mx-auto mt-6 rounded-full" />
                         </div>
-                        
+
                         <div className="max-w-xl mx-auto mb-12 relative">
                             <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-zinc-400" size={20} />
                             <input
