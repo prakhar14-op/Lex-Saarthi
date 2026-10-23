@@ -11,6 +11,7 @@ import ShapeBlur from "@/components/ShapeBlur";
 import CircularGallery from "@/components/CircularGallery";
 import AnimatedList from "@/components/AnimatedList";
 import MagicBento from "@/components/MagicBento";
+import ContactSection from "@/components/ContactSection";
 import { FileText, Search, Scale, ShieldCheck, Zap, Users, X, Linkedin, Instagram, Youtube } from "lucide-react";
 
 export function Header04() {
@@ -24725,6 +24726,18 @@ export function Header04() {
         </motion.div>
     );
 
+    const ContactPage = () => (
+        <motion.div
+            initial={{ opacity: 0, scale: 0.98 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 1.02 }}
+            transition={{ duration: 0.8, ease: "easeOut" }}
+            className="relative min-h-screen"
+        >
+            <ContactSection isStandalonePage={true} />
+        </motion.div>
+    );
+
     return (
         <BrowserRouter>
             <div className="min-h-screen bg-black text-white font-sans selection:bg-[#D4AF37]/30">
@@ -24966,7 +24979,10 @@ export function Header04() {
                         <Route path="/internships" element={<InternshipsPage />} />
                         <Route path="/admin" element={<AdminDashboard />} />
                         <Route path="/publications/:articleId" element={<SingleArticle />} />
-                        {['webinars', 'blog', 'aboutus', 'contact'].map(page => (
+                        <Route path="/contact" element={<ContactPage />} />
+                        <Route path="/contact-us" element={<ContactPage />} />
+                        <Route path="/contactus" element={<ContactPage />} />
+                        {['webinars', 'blog', 'aboutus'].map(page => (
                             <Route key={page} path={`/${page}`} element={
                                 <motion.div
                                     initial={{ opacity: 0 }}
