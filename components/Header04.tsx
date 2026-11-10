@@ -157,6 +157,1732 @@ export function Header04() {
             )
         },
         {
+            title: "Contract of Cohabitation or Licence for Immunity? Evaluating the Constitutional Validity of the Marital Rape Exception Under the Bharatiya Nyaya Sanhita",
+            author: "By Akhil Bhaker",
+            abstract: "When Parliament enacted the Bharatiya Nyaya Sanhita, 2023 (“BNS”) to replace the colonial-era Indian Penal Code, 1860, the overhaul was heralded as a decolonising modernisation of Indian criminal law. Yet, within Section 63 of the new code sits Exception 2—a verbatim retention of Exception 2 to Section 375 of the Indian Penal Code—providing that sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape. Simultaneously, the abolition of an equivalent to Section 377 of the Indian Penal Code has paradoxically narrowed the penal remedies available to married women subjected to non-consensual sexual acts. Tracing the doctrine of implied consent to seventeenth-century English common law, this article tests Exception 2 against Articles 14, 15, and 21 of the Constitution, evaluates R.I.T. Foundation v. Union of India alongside Hrishikesh Sahoo v. State of Karnataka, and critiques the Union Government's defences regarding marital preservation and statutory misuse.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Colonial Genealogy and the Paradox of the BNS Overhaul</li>
+                            <li>The Constitutional Fault Lines: Articles 14, 15, and 21</li>
+                            <li>Judicial Divergence: From the Delhi High Court Split to the Supreme Court</li>
+                            <li>Evaluating Institutional Preservation, Alternative Remedies, and Misuse</li>
+                            <li>Conclusion</li>
+                            <li>References &amp; Footnotes</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Keywords:</strong> Bharatiya Nyaya Sanhita 2023, Marital Rape Exception, Section 63 BNS, Bodily Autonomy, Article 21, R.I.T. Foundation v. Union of India.
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The transition from the Indian Penal Code, 1860 (&ldquo;IPC&rdquo;)<sup className="text-[#D4AF37] text-xs ml-0.5">[4]</sup> to the Bharatiya Nyaya Sanhita, 2023 (&ldquo;BNS&rdquo;), which came into force on 1 July 2024, was presented by Parliament as a historic effort to purge Indian criminal jurisprudence of colonial remnants. Yet, this statutory renewal leaves one glaring colonial anomaly intact: the marital rape exception. Under Exception 2 to Section 63 of the BNS,<sup className="text-[#D4AF37] text-xs ml-0.5">[1]</sup> &ldquo;Sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape.&rdquo; By preserving this clause, the BNS maintains an artificial statutory barrier between married and unmarried women, denying wives the criminal law&apos;s primary protection against non-consensual sexual violation.</p>
+                        <p className="mt-4">The resulting legal paradox is acute. If an unmarried woman is subjected to forced sexual acts by an acquaintance, a stranger, or a live-in partner, the law prosecutes the violation as rape under Section 64 of the BNS, carrying rigorous imprisonment of at least ten years. However, if that identical violation is perpetrated by her lawful husband, the legal system strips the act of its felonious character, relegating it to domestic cruelty under Section 85 of the BNS (punishable by up to three years). Even where a wife lives separately, Section 67 of the BNS treats non-consensual intercourse by her husband as a lesser offence carrying a reduced sentence of two to seven years.<sup className="text-[#D4AF37] text-xs ml-0.5">[5]</sup></p>
+                        <p className="mt-4">This statutory design conflicts sharply with contemporary Indian constitutionalism. Over the past decade, the Supreme Court has articulated an expansive jurisprudence grounded in bodily integrity in <em>Justice K.S. Puttaswamy (Retd.) v. Union of India</em><sup className="text-[#D4AF37] text-xs ml-0.5">[6]</sup> and dismantled patriarchal matrimonial hierarchies in <em>Joseph Shine v. Union of India</em> and <em>Independent Thought v. Union of India</em>.<sup className="text-[#D4AF37] text-xs ml-0.5">[7]</sup> This article examines whether Exception 2 to Section 63 of the BNS can survive constitutional scrutiny and argues that its removal is an inescapable constitutional command.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE COLONIAL GENEALOGY AND THE PARADOX OF THE BNS OVERHAUL</h4>
+                        <p>The marital rape exception did not originate in indigenous Indian traditions; it was codified in 1860 by Thomas Babington Macaulay from seventeenth-century English common law. The immunity is traced to Sir Matthew Hale, Chief Justice of the King&apos;s Bench, who wrote in <em>Historia Placitorum Coronae</em> (1736): &ldquo;But the husband cannot be guilty of a rape committed by himself upon his lawful wife, for by their mutual matrimonial consent and contract the wife hath given up herself in this kind unto her husband, which she cannot retract.&rdquo;<sup className="text-[#D4AF37] text-xs ml-0.5">[8]</sup></p>
+                        <p className="mt-4">Hale&apos;s proposition rested upon two archaic fictions: coverture—under which a woman&apos;s legal personality merged into her husband&apos;s upon marriage—and irrevocable implied consent. Remarkably, English law discarded Hale&apos;s formulation over three decades ago. In <em>Regina v. R.</em> (1991), the House of Lords unanimously abolished the marital exemption, observing that &ldquo;a modern woman is not the subservient chattel of her husband&rdquo; and that marriage is a partnership of equals.<sup className="text-[#D4AF37] text-xs ml-0.5">[9]</sup> Today, over 150 nations criminalise marital rape.</p>
+                        <p className="mt-4">Far from rectifying this colonial hangover, the BNS has inadvertently worsened the legal position of married women. Under the IPC, High Courts had held that a husband who subjected his wife to non-consensual non-penile-vaginal sexual acts could be prosecuted under Section 377 IPC, as Section 377 contained no marital exception.<sup className="text-[#D4AF37] text-xs ml-0.5">[10]</sup> The BNS, however, omitted an equivalent to Section 377 altogether while retaining the expanded definition of rape under Section 63(a) to (d)—and subjecting the entirety of Section 63 to Exception 2. Consequently, forms of forced marital sexual abuse previously prosecutable under Section 377 IPC are now completely insulated by Exception 2, leaving married women with narrower penal protection under the BNS than they possessed under colonial law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE CONSTITUTIONAL FAULT LINES: ARTICLES 14, 15, AND 21</h4>
+                        <p>When tested against Part III of the Constitution, Exception 2 falters across Articles 14, 15(1), and 21. Under Article 14, any legislative classification must rest on an intelligible differentia bearing a rational nexus to the object of the statute. Exception 2 distinguishes between married and unmarried women who suffer sexual violence, and between husbands and non-husbands who commit it. While marital status is the purported differentia, it bears no rational nexus to the object of Section 63, which is to punish non-consensual sexual violation and protect bodily integrity. The physical and psychological trauma of forced sex is no less severe when inflicted by a spouse. Moreover, under the doctrine of manifest arbitrariness affirmed in <em>Shayara Bano v. Union of India</em>,<sup className="text-[#D4AF37] text-xs ml-0.5">[11]</sup> granting blanket penal immunity to a violent offender solely because of a marriage ceremony is capricious and devoid of any constitutional determining principle.</p>
+                        <p className="mt-4">Equally, Exception 2 offends Article 15(1), which prohibits sex-based discrimination. By presuming that a woman&apos;s consent becomes legally irrelevant upon marriage, the statute codifies patriarchal stereotypes of female sexual subservience. As the Supreme Court held in <em>Joseph Shine v. Union of India</em> while striking down Section 497 IPC, provisions that subordinate a wife&apos;s agency within matrimony are unconstitutional under Articles 14 and 15.<sup className="text-[#D4AF37] text-xs ml-0.5">[12]</sup></p>
+                        <p className="mt-4">Most fundamentally, Exception 2 violates Article 21. In <em>Suchita Srivastava v. Chandigarh Administration</em> and <em>Puttaswamy</em>, the Supreme Court established that sexual autonomy is integral to personal liberty and dignity.<sup className="text-[#D4AF37] text-xs ml-0.5">[13]</sup> A woman&apos;s bodily integrity encompasses both the positive freedom to engage in intimacy and the negative freedom to say &ldquo;no.&rdquo; In <em>Independent Thought v. Union of India</em> (2017), the Court struck down Exception 2 to Section 375 IPC regarding married girls aged fifteen to eighteen, holding that marriage cannot extinguish a minor&apos;s right to bodily integrity.<sup className="text-[#D4AF37] text-xs ml-0.5">[14]</sup> The constitutional logic of <em>Independent Thought</em> is universal: if marriage does not abrogate bodily autonomy at seventeen, no constitutional principle justifies its extinction on her eighteenth birthday. This reality was recognised in <em>X v. Principal Secretary, Health and Family Welfare Department, GNCTD</em> (2022), where the Supreme Court held that non-consensual marital intercourse constitutes &ldquo;rape&rdquo; under the Medical Termination of Pregnancy Act, 1971.<sup className="text-[#D4AF37] text-xs ml-0.5">[15]</sup> Recognising marital rape in healthcare legislation while denying its existence in the penal code creates an unsustainable contradiction.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL DIVERGENCE: FROM THE DELHI HIGH COURT SPLIT TO THE SUPREME COURT</h4>
+                        <p>The constitutional challenge to the marital rape exception produced a landmark split verdict before the Delhi High Court in <em>R.I.T. Foundation v. Union of India</em> (2022).<sup className="text-[#D4AF37] text-xs ml-0.5">[2]</sup> Justice Rajiv Shakdher struck down Exception 2 as violative of Articles 14, 15, 19(1)(a), and 21, holding that the right to withdraw consent is an inalienable attribute of personhood that survives marriage. Crucially, Justice Shakdher rejected the objection that invalidating the exception would create a new offence by judicial fiat, reasoning that excising an unconstitutional exception merely allows the pre-existing substantive offence of rape to apply uniformly to all perpetrators.</p>
+                        <p className="mt-4">Justice C. Hari Shankar, dissenting, upheld the exception on the grounds of institutional difference and judicial restraint. He reasoned that marriage carries a legitimate expectation of sexual cohabitation, rendering non-consensual marital sex qualitatively distinct from stranger rape, and concluded that any change must come from Parliament. By contrast, in <em>Hrishikesh Sahoo v. State of Karnataka</em> (2022),<sup className="text-[#D4AF37] text-xs ml-0.5">[3]</sup> Justice M. Nagaprasanna of the Karnataka High Court refused to quash rape charges against a husband, holding that marriage is not a licence to unleash a &ldquo;brutal beast&rdquo; upon a wife. Although the Supreme Court stayed the Karnataka ruling in July 2022 while consolidating the pending appeals,<sup className="text-[#D4AF37] text-xs ml-0.5">[16]</sup> the conflict between the High Courts underscores the urgency of a definitive ruling.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">EVALUATING INSTITUTIONAL PRESERVATION, ALTERNATIVE REMEDIES, AND MISUSE</h4>
+                        <p>In its October 2024 counter-affidavit before the Supreme Court, the Union Government opposed striking down Exception 2, contending that branding non-consensual marital sex as &ldquo;rape&rdquo; would destabilise the institution of marriage, and that adequate remedies exist under Section 85 of the BNS (cruelty), Section 67 of the BNS, and the Protection of Women from Domestic Violence Act, 2005. Opponents also invoke the risk of false allegations and evidentiary difficulties.</p>
+                        <p className="mt-4">Each of these defences collapses under scrutiny. First, when a husband inflicts sexual violence upon his wife, the sanctity of the marriage has already been shattered by the assault itself, not by the victim&apos;s recourse to law. Second, existing remedies are normatively and penally inadequate: subsuming rape under &ldquo;cruelty&rdquo; in Section 85 BNS (carrying a three-year maximum sentence) fails to capture the gravity of sexual violation and signals that a wife&apos;s bodily integrity is worth less than an unmarried woman&apos;s. Third, as settled in <em>Sushil Kumar Sharma v. Union of India</em> and emphasised by the Justice J.S. Verma Committee (2013),<sup className="text-[#D4AF37] text-xs ml-0.5">[17]</sup> the potential misuse of a law is an evidentiary matter guarded by the burden of proof beyond reasonable doubt, and cannot justify denying fundamental rights to an entire class of citizens.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The retention of Exception 2 to Section 63 in the Bharatiya Nyaya Sanhita, 2023—compounded by the omission of Section 377 IPC—represents a profound failure to align Indian penal law with constitutional morality. By preserving a seventeenth-century fiction that English courts discarded over thirty years ago, the statute treats the marriage contract as an instrument of legalised subordination. Neither appeals to family harmony nor fears of false complaints can justify carving out a zone of constitutional immunity inside the matrimonial home. As the consolidated appeals await judgment before the Supreme Court, Exception 2 must be struck down so that consent, equality, and bodily dignity remain inviolable for every woman, regardless of her marital status.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES &amp; FOOTNOTES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Bharatiya Nyaya Sanhita, No. 45 of 2023, INDIA CODE (2023), § 63, Exception 2.</li>
+                            <li><em>R.I.T. Foundation v. Union of India</em>, 2022 SCC OnLine Del 1404.</li>
+                            <li><em>Hrishikesh Sahoo v. State of Karnataka</em>, 2022 SCC OnLine Kar 371.</li>
+                            <li>The Indian Penal Code, No. 45 of 1860, INDIA CODE (1860), § 375, Exception 2.</li>
+                            <li>The Bharatiya Nyaya Sanhita, No. 45 of 2023, § 67 (imposing two to seven years&apos; imprisonment for non-consensual intercourse with a separated wife, compared to a ten-year minimum under § 64).</li>
+                            <li><em>Justice K.S. Puttaswamy (Retd.) v. Union of India</em>, (2017) 10 SCC 1.</li>
+                            <li><em>Joseph Shine v. Union of India</em>, (2019) 3 SCC 39; <em>Independent Thought v. Union of India</em>, (2017) 10 SCC 800.</li>
+                            <li>Sir Matthew Hale, <em>The History of the Pleas of the Crown</em> (Vol. 1, 1736), p. 629.</li>
+                            <li><em>Regina v. R.</em>, [1991] UKHL 12 : [1992] 1 A.C. 599.</li>
+                            <li>See <em>Nimeshbhai Bharatbhai Desai v. State of Gujarat</em>, 2018 SCC OnLine Guj 732 (holding a husband liable under § 377 IPC for non-consensual unnatural sex with his wife).</li>
+                            <li><em>Shayara Bano v. Union of India</em>, (2017) 9 SCC 1.</li>
+                            <li><em>Joseph Shine v. Union of India</em>, (2019) 3 SCC 39, ¶ 46.</li>
+                            <li><em>Suchita Srivastava v. Chandigarh Administration</em>, (2009) 9 SCC 1; <em>Justice K.S. Puttaswamy (Retd.) v. Union of India</em>, (2017) 10 SCC 1, ¶ 298.</li>
+                            <li><em>Independent Thought v. Union of India</em>, (2017) 10 SCC 800, ¶ 84.</li>
+                            <li><em>X v. Principal Secretary, Health and Family Welfare Department, GNCTD</em>, 2022 SCC OnLine SC 1321, ¶ 65.</li>
+                            <li><em>Hrishikesh Sahoo v. State of Karnataka</em>, SLP (Crl.) Nos. 4063–4064 of 2022, order dated 19.07.2022 (SC).</li>
+                            <li><em>Sushil Kumar Sharma v. Union of India</em>, (2005) 6 SCC 281; Justice J.S. Verma Committee, <em>Report of the Committee on Amendments to Criminal Law</em> (23.01.2013), ¶ 117.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Akhil Bhaker.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Campus law centre, Delhi University</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "The Freedom to Speak, the Responsibility to Think: Free Speech, Hate Speech and National Security in Digital India",
+            author: "By Shubhanshi Verma",
+            abstract: "The digital age has transformed the exercise of freedom of speech and expression, making public participation more accessible than ever before. However, the misuse of digital platforms to circulate hate speech, misleading narratives, and manipulated information has raised concerns regarding social harmony and national security. While technology has strengthened democratic communication, existing prejudices, deliberate manipulation, and a lack of critical thinking can contribute to hostility and public disorder. This article examines the constitutional boundaries between free speech and hate speech in India under Articles 19(1)(a) and 19(2) of the Constitution, arguing that protecting national security and preserving constitutional freedom must remain complementary objectives in a democratic society.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT &amp; KEYWORDS</li>
+                            <li>INTRODUCTION</li>
+                            <li>1. FREEDOM OF SPEECH: CONSTITUTIONAL RIGHTS AND RESTRICTIONS</li>
+                            <li>2. HATE SPEECH: WHERE DOES EXPRESSION CROSS THE LINE?</li>
+                            <li>3. DIGITAL PLATFORMS, MISINFORMATION AND THE RESPONSIBILITY TO THINK</li>
+                            <li>4. FROM ONLINE HATRED TO PUBLIC DISORDER: THE NATIONAL SECURITY DIMENSION</li>
+                            <li>5. REGULATING ONLINE HATE SPEECH WITHOUT ENCOURAGING CENSORSHIP</li>
+                            <li>6. BEYOND LEGAL RESTRICTIONS: THE IMPORTANCE OF DIGITAL RESPONSIBILITY</li>
+                            <li>CONCLUSION</li>
+                            <li>REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>The digital age has transformed the exercise of freedom of speech and expression, making public participation more accessible than ever before. However, the misuse of digital platforms to circulate hate speech, misleading narratives, and manipulated information has raised concerns regarding social harmony and national security. While technology has strengthened democratic communication, existing prejudices, deliberate manipulation, and a lack of critical thinking can contribute to hostility and public disorder.</p>
+                        <p className="mt-4">This article examines the constitutional boundaries between free speech and hate speech in India under Articles 19(1)(a) and 19(2) of the Constitution. It analyses relevant judicial interpretations, statutory provisions, and the growing influence of social media and artificial intelligence on public discourse. It also considers how harmful digital expression may contribute to wider conflicts without treating peaceful dissent as a threat to national security. The article argues that addressing unlawful hate speech requires proportionate regulation, transparent content moderation, and responsible digital participation. Ultimately, it emphasises that protecting national security and preserving constitutional freedom must remain complementary objectives in a democratic society.</p>
+                        <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10">
+                            <span className="text-[#D4AF37] font-semibold block mb-1">Keywords:</span>
+                            <p className="text-zinc-400 text-sm">Freedom of Speech, Hate Speech, Article 19, Digital Platforms, National Security, Misinformation, Digital Responsibility.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The digital age has made it possible for almost everyone to have a voice, but has it made every voice an informed one? Today, a single social media post can influence public opinion, provoke political debates, and sometimes contribute to tensions between communities. While technology has expanded opportunities for free expression, its misuse has also enabled misleading narratives and hateful statements to circulate widely.</p>
+                        <p className="mt-4">According to the Internet in India Report 2025, prepared by IAMAI and Kantar, India had approximately 958 million active internet users in 2025. This demonstrates the growing influence of digital platforms on public discussions. However, greater access to information does not necessarily guarantee better understanding. People may accept information supporting their existing beliefs without questioning its accuracy, while others deliberately manipulate narratives.</p>
+                        <p className="mt-4">The digital age has democratised the opportunity to speak, but the responsibility to think still rests with the individual.</p>
+                        <p className="mt-4">When hateful narratives target particular communities, their consequences may extend beyond online disagreements to public disorder and security concerns. Yet restricting such expression also raises constitutional questions. Therefore, the challenge is not choosing between freedom and security, but determining how Indian law can protect both.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. FREEDOM OF SPEECH: CONSTITUTIONAL RIGHTS AND RESTRICTIONS</h4>
+                        <p>Article 19(1)(a) of the Indian Constitution guarantees citizens freedom of speech and expression, including the right to criticise government policies, express opinions, and participate in public discussions.</p>
+                        <p className="mt-4">However, Article 19(2) permits reasonable restrictions on specified grounds, including public order, security of the State, sovereignty and integrity of India, and incitement to an offence.</p>
+                        <p className="mt-4">In <em>Shreya Singhal v. Union of India (2015)</em>, the Supreme Court struck down Section 66A of the Information Technology Act, 2000, for violating freedom of speech through vague and excessively broad restrictions. The Court distinguished between discussion, advocacy, and incitement, recognising that unpopular opinions cannot automatically justify criminal punishment.</p>
+                        <p className="mt-4">Similarly, in <em>S. Rangarajan v. P. Jagjivan Ram (1989)</em>, the Supreme Court emphasised that expression cannot be suppressed merely because certain individuals threaten protests or violence in response.</p>
+                        <p className="mt-4">These judgments remain relevant because online disagreements frequently involve strong criticism and controversial opinions. The State must protect public order, but the possibility of hostile reactions cannot become an automatic justification for restricting constitutional freedom.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. HATE SPEECH: WHERE DOES EXPRESSION CROSS THE LINE?</h4>
+                        <p>Indian law does not provide a single comprehensive statutory definition of hate speech. Instead, different provisions address particular forms of harmful expression.</p>
+                        <p className="mt-4">Section 196 of the Bharatiya Nyaya Sanhita, 2023, addresses promoting enmity between groups on specified grounds, including religion, race, residence, and language. Section 299 concerns deliberate and malicious acts intended to outrage religious feelings, while Section 353 addresses certain statements and reports that may cause public mischief.</p>
+                        <p className="mt-4">However, criticism of religious practices or political ideologies does not automatically constitute hate speech. The applicable legal requirements must be satisfied.</p>
+                        <p className="mt-4">In <em>Amish Devgan v. Union of India (2020)</em>, the Supreme Court examined controversial remarks made by a television journalist concerning Sufi saint Khwaja Moinuddin Chishti. The Court discussed the importance of context, intention, and the likely impact of expression while considering hate speech. Its refusal to quash the principal FIR did not constitute a final determination of criminal guilt.</p>
+                        <p className="mt-4">This becomes particularly significant when influential individuals address large digital audiences. Their statements may have wider consequences, but popularity or influence alone cannot establish criminal liability.</p>
+                        <p className="mt-4">The law must distinguish between speech that challenges beliefs and speech that unlawfully promotes hostility against people. Otherwise, protecting public sentiment may come at the cost of constitutional freedom.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. DIGITAL PLATFORMS, MISINFORMATION AND THE RESPONSIBILITY TO THINK</h4>
+                        <p>Technology has strengthened democratic participation by allowing ordinary citizens, students, journalists, and activists to express themselves without depending entirely on traditional media.</p>
+                        <p className="mt-4">However, information can now circulate faster than people verify it. Misleading videos, edited photographs, and statements presented without context may influence public perceptions before their authenticity is questioned. Artificial intelligence has introduced additional concerns through deepfake videos, manipulated audio, and fabricated images that can make false events appear genuine. For example, a fabricated video portraying violence between communities could provoke hostility if viewers accept and circulate it without verification.</p>
+                        <p className="mt-4">Yet technology itself is not responsible for hatred. Its misuse, combined with existing prejudices and deliberate manipulation, creates the greater concern.</p>
+                        <p className="mt-4">The psychological concept of confirmation bias partly explains why individuals may accept information supporting their existing beliefs while rejecting contradictory evidence. Consequently, misleading narratives can reinforce prejudices already present in society. Another concern is the confidence with which individuals sometimes express opinions despite possessing limited information.</p>
+                        <p className="mt-4">However, an uninformed opinion does not automatically constitute hate speech. Similarly, hate speech does not always depend on misinformation; even accurate information can be presented in a manner intended to promote unlawful hostility.</p>
+                        <p className="mt-4">Perhaps the greatest contradiction of the digital age is that information has become easier to access, while the willingness to question it cannot be taken for granted. Thus, technology provides the means of communication, but human choices significantly influence its consequences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. FROM ONLINE HATRED TO PUBLIC DISORDER: THE NATIONAL SECURITY DIMENSION</h4>
+                        <p>Harmful digital expression may sometimes have consequences beyond social media. During periods of communal tension, misleading narratives and hateful statements can deepen mistrust and increase the risk of confrontation. However, public disorder and threats to national security are not legally identical.</p>
+                        <p className="mt-4">In <em>Ram Manohar Lohia v. State of Bihar (1966)</em>, the Supreme Court emphasised the need for a sufficiently close connection between the restricted activity and the threatened disturbance of public order.</p>
+                        <p className="mt-4">Consider a manipulated video falsely portraying an attack against a religious community. If it circulates widely and encourages retaliation, authorities may have legitimate grounds to intervene under applicable law. However, the situation differs when citizens organise peaceful demonstrations based on information that subsequently proves inaccurate. Article 19(1)(b) protects the right to assemble peaceably and without arms, subject to reasonable restrictions under Article 19(3). Therefore, a protest based on disputed information does not automatically become unlawful.</p>
+                        <p className="mt-4">In <em>Kedar Nath Singh v. State of Bihar (1962)</em>, the Supreme Court, while interpreting the former sedition provision, distinguished criticism of government from speech involving incitement to violence or public disorder. Although the statutory framework has changed, the constitutional importance of protecting political criticism remains.</p>
+                        <p className="mt-4">A democracy must be strong enough to tolerate disagreement, but equally capable of responding when expression crosses the legal boundary into incitement or unlawful hostility. Therefore, national security must be protected without treating peaceful dissent as a threat merely because it challenges government decisions.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. REGULATING ONLINE HATE SPEECH WITHOUT ENCOURAGING CENSORSHIP</h4>
+                        <p>India regulates digital communication through the Information Technology Act, 2000, and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, as amended. These rules establish certain intermediary obligations and grievance mechanisms. Section 69A of the IT Act also permits government-directed blocking of online information on specified statutory grounds, subject to prescribed safeguards.</p>
+                        <p className="mt-4">In the <em>Shreya Singhal</em> case, the Supreme Court upheld Section 69A, recognising the procedural safeguards within the blocking framework. However, excessive regulation may create a chilling effect, where individuals hesitate to express legitimate opinions because they fear legal consequences. If citizens begin avoiding criticism of government policies or discussions concerning sensitive issues, democratic participation may suffer.</p>
+                        <p className="mt-4">Therefore, regulation should follow three principles:</p>
+                        <div className="mt-4 space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">1. Precise Legal Boundaries</strong>
+                                <p>Restrictions must be clearly defined, distinguishing offensive expression from legally punishable hate speech.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">2. Contextual Content Moderation</strong>
+                                <p>Digital platforms should consider context when moderating content rather than relying entirely on automated systems.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">3. Transparency &amp; Review Mechanisms</strong>
+                                <p>Greater transparency and meaningful review mechanisms are necessary to reduce arbitrary content removal.</p>
+                            </div>
+                        </div>
+                        <p className="mt-4">The purpose of regulation should be to prevent unlawful harm, not to create an environment where citizens become afraid to express legitimate opinions. Effective regulation must therefore protect communities from unlawful hostility while preserving space for criticism and disagreement.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. BEYOND LEGAL RESTRICTIONS: THE IMPORTANCE OF DIGITAL RESPONSIBILITY</h4>
+                        <p>Although legal regulation is necessary, legislation alone cannot eliminate hate speech. Existing prejudices, social attitudes, and irresponsible information-sharing also contribute to harmful online behaviour. Therefore, digital literacy deserves greater attention.</p>
+                        <p className="mt-4">Individuals should be encouraged to verify information, recognise manipulated content, and distinguish personal opinions from established facts. Educational institutions can promote responsible digital participation, while social media platforms can improve systems for identifying coordinated manipulation and providing contextual information.</p>
+                        <p className="mt-4">However, digital responsibility must not become a legal requirement to hold only informed or socially acceptable opinions. Citizens retain the constitutional freedom to express mistaken, unpopular, and controversial views, subject to lawful restrictions.</p>
+                        <p className="mt-4">Freedom of speech gives citizens the right to express their thoughts; responsible participation requires them to consider the consequences of those expressions. Both principles should strengthen each other rather than compete.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The digital age has expanded freedom of expression while increasing the reach of potentially harmful speech. Misinformation, manipulated content, existing prejudices, and irresponsible communication can contribute to hostility and, in serious circumstances, threaten public order and security.</p>
+                        <p className="mt-4">However, technology itself should not be blamed for hatred. Its consequences depend largely on how individuals and institutions use it. India&apos;s constitutional framework recognises both freedom of expression and reasonable restrictions. The challenge lies in ensuring that regulation addresses genuine legal harms without suppressing criticism or peaceful dissent.</p>
+                        <p className="mt-4">The freedom to speak is essential to democracy, but the responsibility to think gives that freedom greater value.</p>
+                        <p className="mt-4">Ultimately, democracy is strengthened neither by silencing controversial voices nor by allowing unlawful hatred to spread without accountability, but by protecting freedom, encouraging responsibility, and maintaining clear constitutional boundaries.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <div className="space-y-4 text-zinc-400 text-sm">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">A. Constitutional and Statutory Provisions</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>The Constitution of India, 1950, arts. 19(1)(a), 19(1)(b), 19(2) and 19(3).</li>
+                                    <li>The Bharatiya Nyaya Sanhita, 2023 (Act 45 of 2023), ss. 196, 299 and 353.</li>
+                                    <li>The Information Technology Act, 2000 (Act 21 of 2000), ss. 66A (declared unconstitutional) and 69A.</li>
+                                    <li>The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, as amended.</li>
+                                </ul>
+                            </div>
+
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">B. Judicial Decisions</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li><em>Shreya Singhal v. Union of India</em>, (2015) 5 SCC 1.</li>
+                                    <li><em>S. Rangarajan v. P. Jagjivan Ram</em>, (1989) 2 SCC 574.</li>
+                                    <li><em>Amish Devgan v. Union of India</em>, (2021) 1 SCC 1.</li>
+                                    <li><em>Dr. Ram Manohar Lohia v. State of Bihar</em>, AIR 1966 SC 740.</li>
+                                    <li><em>Kedar Nath Singh v. State of Bihar</em>, AIR 1962 SC 955.</li>
+                                </ul>
+                            </div>
+
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">C. Research Reports</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>Internet and Mobile Association of India (IAMAI) and Kantar, <em>Internet in India Report 2025</em> (released 29 January 2026).</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Shubhanshi Verma.</p>
+                        <p className="text-zinc-400 text-sm mt-1">BALLB (Hons.) Atal Bihari Vajpayee School of Legal Studies, CSJM University, Kanpur Nagar, Uttar Pradesh</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Dignity at the End of Life: Does India's Legal Framework Adequately Protect Patient Autonomy Under Article 21?",
+            author: "By Divya Patel",
+            abstract: "The relationship between the constitutional right to life, individual autonomy and end-of-life medical decisions remains one of the most contested questions in Indian constitutional jurisprudence. Article 21 of the Constitution has been interpreted to include the right to live with dignity, including dignity at the final stage of life. In Common Cause v. Union of India (2018), the Supreme Court recognised passive euthanasia and advance medical directives within a framework of safeguards, subsequently modified in 2023. More recently, Harish Rana v. Union of India (2026) reaffirmed the legal permissibility of withdrawing life-sustaining treatment in specified circumstances. However, the recognition of this framework raises an important question: can decisions concerning the withdrawal of life-sustaining treatment adequately protect the dignity of patients who are incapable of communicating their wishes? This article critically examines the constitutional and ethical foundations of India's end-of-life jurisprudence, arguing that an irreversible medical condition should not, by itself, justify withdrawing life-sustaining treatment from an incapacitated person without robust safeguards against coercion, accessible palliative care, and family support.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT &amp; KEYWORDS</li>
+                            <li>INTRODUCTION</li>
+                            <li>CONSTITUTIONAL EVOLUTION OF THE RIGHT TO DIE WITH DIGNITY</li>
+                            <li>PASSIVE EUTHANASIA AND THE LIMITS OF PATIENT AUTONOMY</li>
+                            <li>THE PROBLEM OF VULNERABILITY: CAN DIGNITY JUSTIFY WITHDRAWAL OF TREATMENT?</li>
+                            <li>CONSTITUTIONAL MORALITY, MEDICAL ETHICS AND THE DUTY OF CARE</li>
+                            <li>COMPARATIVE PERSPECTIVES: LESSONS FROM THE UNITED KINGDOM AND CANADA</li>
+                            <li>REFORMING INDIA&apos;S END-OF-LIFE FRAMEWORK</li>
+                            <li>CONCLUSION</li>
+                            <li>REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>The relationship between the constitutional right to life, individual autonomy and end-of-life medical decisions remains one of the most contested questions in Indian constitutional jurisprudence. Article 21 of the Constitution has been interpreted to include the right to live with dignity, including dignity at the final stage of life. In <em>Common Cause v. Union of India (2018)</em>, the Supreme Court recognised passive euthanasia and advance medical directives within a framework of safeguards, subsequently modified in 2023. More recently, <em>Harish Rana v. Union of India (2026)</em> reaffirmed the legal permissibility of withdrawing life-sustaining treatment in specified circumstances. However, the recognition of this framework raises an important question: can decisions concerning the withdrawal of life-sustaining treatment adequately protect the dignity of patients who are incapable of communicating their wishes? This article critically examines the constitutional and ethical foundations of India&apos;s end-of-life jurisprudence. It argues that although patient autonomy and freedom from futile medical intervention deserve protection, an irreversible medical condition should not, by itself, justify withdrawing life-sustaining treatment from an incapacitated person. The law must prioritise safeguards against coercion, accessible palliative care, family support and the preservation of vulnerable patients&apos; dignity.</p>
+                        <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10">
+                            <span className="text-[#D4AF37] font-semibold block mb-1">Keywords:</span>
+                            <p className="text-zinc-400 text-sm">Article 21, right to die with dignity, passive euthanasia, patient autonomy, advance medical directives, palliative care, constitutional morality.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>The advancement of modern medicine has made it possible to sustain human life through interventions that were once unimaginable. Ventilators, feeding tubes and other life-sustaining treatments can prolong biological existence even when recovery appears unlikely. These developments have created difficult questions concerning the limits of medical intervention, the meaning of dignity and the authority to make decisions for patients who can no longer communicate.</p>
+                        <p className="mt-4">In India, the debate has acquired constitutional significance through judicial interpretation of Article 21, which guarantees that no person shall be deprived of life or personal liberty except according to procedure established by law. The Supreme Court has interpreted this provision to protect not merely the physical existence of an individual but also the dignity associated with human life. However, the right to live with dignity and the permissibility of withdrawing life-sustaining treatment are not necessarily interchangeable propositions. Recognising that a person should not be subjected to unwanted medical intervention does not automatically resolve whether treatment should be withdrawn from someone who lacks decision-making capacity and cannot communicate their present wishes.</p>
+                        <p className="mt-4">This distinction forms the central concern of this article. While respecting a competent patient&apos;s informed refusal of treatment is essential to bodily autonomy, decisions made on behalf of incapacitated patients require particular caution. Neither prolonged illness nor the emotional and financial difficulties experienced by families should diminish the legal protection afforded to the patient.</p>
+                        <p className="mt-4">The central argument is that Article 21 should protect end-of-life dignity without allowing vulnerability, dependency or an irreversible medical condition to become sufficient reasons for withdrawing life-sustaining treatment. India&apos;s legal framework must therefore place stronger emphasis on protecting incapacitated patients, providing meaningful palliative care and supporting families through prolonged caregiving.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL EVOLUTION OF THE RIGHT TO DIE WITH DIGNITY</h4>
+                        <p>The constitutional position concerning the right to die developed through a series of significant judicial decisions.</p>
+                        <p className="mt-4">In <em>State of Maharashtra v. Maruti Shripati Dubal</em>, the Bombay High Court examined the constitutional validity of criminalising attempted suicide and adopted a broad interpretation of personal liberty. Subsequently, in <em>P. Rathinam v. Union of India</em>, the Supreme Court held that the right to life under Article 21 included a right not to live, striking down the penal provision criminalising attempted suicide. This interpretation, however, was overruled by the Constitution Bench in <em>Gian Kaur v. State of Punjab</em>.</p>
+                        <p className="mt-4">In <em>Gian Kaur</em>, the Supreme Court clarified that the right to life does not ordinarily include a general right to terminate one&apos;s life. Nevertheless, the Court distinguished the right to die from the right to die with dignity in the context of the natural process of death. This distinction subsequently became significant in the development of end-of-life jurisprudence.</p>
+                        <p className="mt-4">The position was further developed in <em>Aruna Ramachandra Shanbaug v. Union of India (2011)</em>, in which the Supreme Court considered passive euthanasia in the context of a patient who had remained in a persistent vegetative state for several decades. The Court permitted passive euthanasia under specified safeguards and laid down a judicial procedure for such cases.</p>
+                        <p className="mt-4">A decisive development occurred in <em>Common Cause v. Union of India (2018)</em>. The Constitution Bench recognised the right to die with dignity as part of Article 21 and accepted advance medical directives, commonly described as living wills. These directives allow an individual to record treatment preferences for circumstances in which they may subsequently lose decision-making capacity. The Court also recognised a framework for withholding or withdrawing life-sustaining treatment in specified circumstances.</p>
+                        <p className="mt-4">In January 2023, the Supreme Court modified the procedural requirements governing advance medical directives and decisions concerning the withdrawal of life-sustaining treatment.</p>
+                        <p className="mt-4">These decisions establish that Indian constitutional law does not recognise an unrestricted right to die or a general right to active euthanasia. Rather, it recognises a limited framework governing treatment refusal and the withholding or withdrawal of life-sustaining interventions. Nevertheless, constitutional recognition does not eliminate the need for critical scrutiny. The question is not simply whether dignity extends to the end of life, but how dignity should be protected when the patient cannot personally participate in the decision.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">PASSIVE EUTHANASIA AND THE LIMITS OF PATIENT AUTONOMY</h4>
+                        <p>Patient autonomy is a fundamental ethical principle in modern healthcare. It recognises that individuals should ordinarily have the authority to make informed decisions concerning medical treatment affecting their bodies. For a competent adult, this includes the ability to refuse treatment, even where refusal may have serious consequences.</p>
+                        <p className="mt-4">Respect for autonomy, however, becomes more complicated when a patient loses decision-making capacity.</p>
+                        <p className="mt-4">Passive euthanasia is commonly used to describe the withholding or withdrawal of life-sustaining treatment in circumstances where the law permits such a decision. It differs from active euthanasia, which involves an intervention intended to cause death, such as administering a lethal substance. Active euthanasia remains impermissible under the current Indian legal framework.</p>
+                        <p className="mt-4">The distinction between these categories is important, but terminology alone cannot resolve the ethical question. Withdrawing a treatment may allow an underlying condition to take its natural course; nevertheless, the decision can have the foreseeable consequence of ending the patient&apos;s life. Consequently, the legal process must examine the patient&apos;s circumstances, the medical evidence, the applicable wishes and the adequacy of safeguards.</p>
+                        <p className="mt-4">The strongest justification for respecting an advance medical directive is that it preserves the patient&apos;s own previously expressed choices. A competent individual should not automatically lose all authority over future medical decisions merely because they subsequently become incapacitated.</p>
+                        <p className="mt-4">Yet, an advance directive and a decision made in the absence of the patient&apos;s recorded wishes are not equivalent. Where a patient has neither communicated a relevant decision nor executed an advance directive, the authority to determine their best interests becomes particularly consequential.</p>
+                        <p className="mt-4">The difficulty is that autonomy cannot simply be presumed where it cannot be established. Family members may provide valuable evidence of a patient&apos;s values and preferences, but their interpretation cannot always be treated as conclusive. Similarly, a medical opinion concerning prognosis does not, by itself, establish what the patient would have wanted. The law must therefore distinguish between respecting a patient&apos;s actual wishes and substituting another person&apos;s judgment for them. This is particularly important when the decision concerns the withdrawal of treatment from someone who cannot communicate, object or clarify their preferences.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE PROBLEM OF VULNERABILITY: CAN DIGNITY JUSTIFY WITHDRAWAL OF TREATMENT?</h4>
+                        <p>The Supreme Court&apos;s decision in <em>Harish Rana v. Union of India (2026 INSC 222)</em> has brought these concerns into sharper focus.</p>
+                        <p className="mt-4">The case concerned a person who had suffered a severe brain injury and remained in a persistent vegetative state for years. Following medical assessments that found his condition irreversible and concluded that continued clinically assisted nutrition and hydration offered no therapeutic benefit, the Supreme Court permitted withdrawal of the treatment under its end-of-life framework. It also directed that withdrawal be accompanied by appropriate palliative and end-of-life care.</p>
+                        <p className="mt-4">The judgment is significant because it clarifies that clinically assisted nutrition and hydration may constitute medical treatment and that decisions concerning incapacitated patients must be guided by their best interests. It also emphasises that withdrawing treatment must not amount to abandoning the patient.</p>
+                        <p className="mt-4">Nevertheless, the case raises a broader constitutional question: how should the law protect a person whose life depends on continued medical intervention but who cannot express a present preference?</p>
+                        <p className="mt-4">An irreversible condition is a serious medical consideration. However, irreversibility does not necessarily establish that a person&apos;s life has lost its value or that continued care is incompatible with dignity. Medical prognosis and the worth of a human life are distinct questions. A person may be profoundly dependent on others without losing their entitlement to equal concern and protection under Article 21.</p>
+                        <p className="mt-4">The concern is not that every life-sustaining intervention must continue indefinitely, regardless of its effects or medical justification. Medical treatment can be burdensome, ineffective or inconsistent with a competent patient&apos;s wishes. Nor should doctors be compelled to provide interventions that are medically inappropriate merely because they can prolong biological functioning.</p>
+                        <p className="mt-4">The concern is that decisions concerning incapacitated patients must not allow dependence, disability or prolonged unconsciousness to become indirect measures of whether continued life is worthwhile.</p>
+                        <p className="mt-4">A framework based on the patient&apos;s best interests must therefore be applied with particular care. Medical assessments can establish whether a treatment offers a therapeutic benefit, whether recovery is medically possible and what burdens the intervention entails. They cannot independently determine the inherent worth of the patient.</p>
+                        <p className="mt-4">Similarly, family members may experience profound emotional exhaustion, financial hardship and uncertainty. Their difficulties deserve serious recognition and practical assistance. However, the suffering of caregivers should not become a substitute for determining the interests and rights of the patient.</p>
+                        <p className="mt-4">The constitutional danger arises when a person&apos;s dependence on care is mistaken for a reason to withdraw the protection that dignity requires. A legal framework should guard against this possibility rather than assume that procedural compliance will invariably resolve the underlying ethical difficulty.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL MORALITY, MEDICAL ETHICS AND THE DUTY OF CARE</h4>
+                        <p>Constitutional morality requires the State to respect the dignity and equal worth of individuals, particularly those whose circumstances make them vulnerable to the decisions of others. In end-of-life cases, this principle must operate alongside personal autonomy, medical ethics and the obligation to prevent avoidable suffering.</p>
+                        <p className="mt-4">Three considerations are especially important:</p>
+                        <div className="mt-4 space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">1. Competent Refusal vs. Substitute Decision-Making</strong>
+                                <p>First, the law must preserve the distinction between allowing a competent patient to refuse treatment and authorising the withdrawal of treatment from a patient who cannot communicate. The former gives effect to an identifiable exercise of autonomy. The latter requires a carefully reasoned substitute decision, supported by evidence and effective safeguards.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">2. Palliative Care as an Enduring Professional Duty</strong>
+                                <p>Second, medical ethics must not be reduced to the question of whether treatment can prolong life. Healthcare also involves relieving suffering, providing comfort and maintaining an appropriate relationship of care. Where curative treatment is no longer beneficial, palliative care may remain essential. A change in the medical objective should not mean a withdrawal of professional responsibility.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">3. Caregiver Hardship as a Systemic Social Challenge</strong>
+                                <p>Third, the legal system must recognise that family hardship is a social and healthcare concern, not simply a factor to be resolved through an end-of-life decision. Caregiving can impose substantial emotional, physical and financial pressures. These pressures require institutional responses, including counselling, respite services, financial assistance and accessible long-term care.</p>
+                            </div>
+                        </div>
+                        <p className="mt-4">A patient&apos;s life should not be evaluated through the lens of whether their care is convenient or affordable for others. Nor should families be left unsupported until the continuation of care becomes unbearable.</p>
+                        <p className="mt-4">These concerns do not establish that every decision to withdraw treatment is motivated by financial considerations or that existing safeguards are ineffective in every case. Rather, they demonstrate why the law must guard against the possibility that external pressures may influence decisions presented as being exclusively in the patient&apos;s best interests.</p>
+                        <p className="mt-4">The constitutional objective should be to ensure that autonomy is respected where it can be established, uncertainty is approached cautiously where it cannot, and care continues even when cure is no longer possible.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">COMPARATIVE PERSPECTIVES: LESSONS FROM THE UNITED KINGDOM AND CANADA</h4>
+                        <p>Comparative law provides useful insights into the distinction between treatment refusal, withdrawal of life-sustaining treatment and medically assisted death.</p>
+                        <div className="mt-4 space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">United Kingdom: Mental Capacity Act 2005</h5>
+                                <p>In the United Kingdom, the Mental Capacity Act 2005 provides a statutory framework for decisions concerning individuals who lack decision-making capacity. Section 4 requires decision-makers to consider the person&apos;s relevant circumstances, past and present wishes, beliefs and values. Importantly, subsection 4(5) provides that decisions concerning life-sustaining treatment must not be motivated by a desire to bring about the person&apos;s death.</p>
+                                <p className="mt-2 text-zinc-400 text-sm">This approach offers a useful safeguard for India: the decision-making process must be directed towards the patient&apos;s interests and wishes rather than an independent desire to end life. Although the United Kingdom&apos;s legal framework differs from India&apos;s, its explicit statutory formulation illustrates how a legal system can articulate a clear constraint on decisions concerning incapacitated patients.</p>
+                            </div>
+
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <h5 className="font-bold text-[#D4AF37] text-lg mb-2">Canada: Medical Assistance in Dying (MAID)</h5>
+                                <p>Canada provides a different perspective. Its Criminal Code permits medical assistance in dying subject to statutory eligibility requirements and safeguards. The framework requires, among other things, a voluntary request free from external pressure and informed consent following information about available means of relieving suffering, including palliative care. Canadian law also excludes mental illness as the sole underlying medical condition for eligibility under the current statutory provision.</p>
+                                <p className="mt-2 text-zinc-400 text-sm">Canada&apos;s framework concerns medical assistance in dying and must not be treated as equivalent to India&apos;s rules governing the withdrawal of life-sustaining treatment. Nevertheless, the express attention to voluntariness, external pressure and information about palliative care highlights a central lesson: legal recognition of autonomy must be accompanied by safeguards addressing the circumstances in which choices are made.</p>
+                            </div>
+                        </div>
+                        <p className="mt-4">For India, the comparative lesson is not that one foreign model should be adopted wholesale. It is that decisions involving life, incapacity and medical vulnerability require clear legal standards, independent scrutiny and meaningful access to alternatives. A patient&apos;s decision cannot be considered fully informed in a practical sense if essential supportive care is unavailable or family pressures remain unaddressed.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">REFORMING INDIA&apos;S END-OF-LIFE FRAMEWORK</h4>
+                        <p>India&apos;s judicial framework represents an important attempt to reconcile dignity, autonomy and medical realities. However, judicial guidelines alone cannot resolve every ethical, institutional and social problem arising in end-of-life care.</p>
+                        <ol className="list-decimal pl-5 space-y-3 mt-4 text-zinc-300">
+                            <li><strong>Comprehensive Parliamentary Legislation:</strong> Parliament should enact a comprehensive statutory framework governing advance medical directives, treatment refusal and the withholding or withdrawal of life-sustaining treatment. Such legislation should clearly distinguish competent refusal from substitute decision-making for incapacitated patients. It should also specify the responsibilities of medical boards, the role of family members and the circumstances requiring independent review.</li>
+                            <li><strong>Strengthened Safeguards for Incapacitated Patients:</strong> Safeguards for incapacitated patients should be strengthened. Where the patient&apos;s wishes are unknown or disputed, decisions should be supported by independent medical opinions, documented reasons and a transparent assessment of the patient&apos;s interests. Disability, dependency, age or the duration of a medical condition should not be treated as independent evidence that continued life is undignified.</li>
+                            <li><strong>Universal Access to Palliative &amp; End-of-Life Care:</strong> India must strengthen access to palliative and end-of-life care. The World Health Organization recognises palliative care as an approach intended to improve the quality of life of patients and their families facing serious illness. It includes the prevention and relief of suffering, alongside psychosocial and other supportive measures. Such care must not be understood as relevant only after a decision to withdraw treatment; it is an essential component of humane healthcare.</li>
+                            <li><strong>Institutional Support for Caregiving Families:</strong> Families require practical support. Financial assistance, counselling, respite care and accessible long-term care services can reduce the burden of prolonged caregiving. These measures would help ensure that decisions are not shaped by desperation arising from an absence of viable support.</li>
+                            <li><strong>Rejecting Economic &amp; Burden-Based Valuations:</strong> The legal framework must clearly reject any suggestion that a patient&apos;s life becomes less deserving of protection because care is expensive, demanding or prolonged. The State&apos;s responsibility is not exhausted by creating a procedure for end-of-life decisions. It also includes developing healthcare institutions capable of providing care, relief from suffering and meaningful support to patients and caregivers.</li>
+                        </ol>
+                        <p className="mt-4">These reforms would not eliminate every difficult end-of-life decision. They would, however, help ensure that such decisions are made within a framework that gives appropriate weight to autonomy without neglecting the constitutional protection owed to vulnerable persons.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The right to die with dignity presents a profound constitutional challenge because it concerns both individual freedom and the State&apos;s responsibility to protect life. Indian jurisprudence, particularly <em>Common Cause v. Union of India</em> and <em>Harish Rana v. Union of India</em>, recognises that life-sustaining treatment may be withheld or withdrawn in legally specified circumstances. It also establishes the importance of advance medical directives, medical assessment and palliative care.</p>
+                        <p className="mt-4">Yet, the recognition of a legal procedure does not end the debate over its ethical and constitutional foundations. The distinction between respecting a patient&apos;s wishes and making a decision on behalf of an incapacitated person must remain central. Where those wishes cannot be established, the law should approach the withdrawal of life-sustaining treatment with exceptional caution.</p>
+                        <p className="mt-4">Dignity cannot depend upon a person&apos;s independence, productivity or ability to communicate. Nor should prolonged illness or the hardship experienced by caregivers diminish the patient&apos;s entitlement to protection. Families deserve support, doctors require clear legal guidance, and patients must not be abandoned when recovery becomes unlikely.</p>
+                        <p className="mt-4">Ultimately, the measure of a constitutional framework is not merely whether it permits end-of-life decisions, but whether it protects those most vulnerable to decisions made by others. India must ensure that dignity at the end of life means compassionate care, protection from coercion and respect for the person&mdash;not the assumption that death is the answer to dependency or suffering.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <div className="space-y-4 text-zinc-400 text-sm">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">Cases</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li><em>State of Maharashtra v. Maruti Shripati Dubal</em>, 1987 Cri LJ 743 (Bom).</li>
+                                    <li><em>P. Rathinam v. Union of India</em>, (1994) 3 SCC 394.</li>
+                                    <li><em>Gian Kaur v. State of Punjab</em>, (1996) 2 SCC 648.</li>
+                                    <li><em>Aruna Ramachandra Shanbaug v. Union of India</em>, (2011) 4 SCC 454.</li>
+                                    <li><em>Common Cause v. Union of India</em>, (2018) 5 SCC 1.</li>
+                                    <li><em>Common Cause v. Union of India</em>, 2023 INSC 77 (24 January 2023).</li>
+                                    <li><em>Harish Rana v. Union of India</em>, 2026 INSC 222 (11 March 2026).</li>
+                                </ul>
+                            </div>
+
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">Legislation and Other Materials</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li>Constitution of India, Article 21.</li>
+                                    <li>Mental Capacity Act 2005 (United Kingdom), section 4.</li>
+                                    <li>Criminal Code, RSC 1985, c C-46 (Canada), section 241.2.</li>
+                                    <li>World Health Organization, &ldquo;Palliative Care,&rdquo; Fact Sheet.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Divya Patel.</p>
+                        <p className="text-zinc-400 text-sm mt-1">Dr. Ambedkar college of law, Wadala, Mumbai - 3 years L.L.B.</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Digital Arrest Scams in India: Legal Challenges, Regulatory Gaps and the Need for Stronger Cybercrime Prevention",
+            author: "By Nikhat Jahan",
+            abstract: "\"Digital arrest\" scams, in which fraudsters impersonate law enforcement officers and coerce victims into transferring money, have emerged as a serious cyber-enabled fraud in India, even though no such arrest exists in law. This article examines how the scam operates and how it is addressed under the Bharatiya Nyaya Sanhita, 2023, the Information Technology Act 2000 and the Prevention of Money Laundering Act 2002. It identifies challenges in cross-border jurisdiction, electronic evidence, mule accounts and agency coordination, and regulatory gaps in banking, telecom and platform accountability, proposing stronger prevention through public awareness, real-time financial safeguards, institutional capacity and victim-centred reform.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT &amp; KEY WORDS</li>
+                            <li>INTRODUCTION</li>
+                            <li>ANATOMY OF A DIGITAL ARREST SCAM</li>
+                            <li>SCALE AND OFFICIAL RESPONSE</li>
+                            <li>THE APPLICABLE LEGAL FRAMEWORK
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>Bharatiya Nyaya Sanhita, 2023 (BNS)</li>
+                                    <li>Information Technology Act, 2000</li>
+                                    <li>Prevention of Money Laundering Act, 2002</li>
+                                </ul>
+                            </li>
+                            <li>LEGAL CHALLENGES IN INVESTIGATION AND PROSECUTION
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>1. Jurisdiction and Cross-Border Offenders</li>
+                                    <li>2. Evidence and Electronic Records</li>
+                                    <li>3. Anonymity and the Mule-Account Ecosystem</li>
+                                    <li>4. Coordination Between Agencies</li>
+                                    <li>5. Under-Reporting</li>
+                                </ul>
+                            </li>
+                            <li>REGULATORY GAPS</li>
+                            <li>THE CASE FOR STRONGER PREVENTION</li>
+                            <li>CONCLUSION</li>
+                            <li>REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>&ldquo;Digital arrest&rdquo; scams, in which fraudsters impersonate law enforcement officers and coerce victims into transferring money, have emerged as a serious cyber-enabled fraud in India, even though no such arrest exists in law. This article examines how the scam operates and how it is addressed under the Bharatiya Nyaya Sanhita, 2023, the Information Technology Act 2000 and the Prevention of Money Laundering Act 2002. It identifies challenges in cross-border jurisdiction, electronic evidence, mule accounts and agency coordination, and regulatory gaps in banking, telecom and platform accountability. It argues that punishment alone is insufficient and proposes stronger prevention through public awareness, real-time financial safeguards, institutional capacity and victim-centred reform.</p>
+                        <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10">
+                            <span className="text-[#D4AF37] font-semibold block mb-1">Key words:</span>
+                            <p className="text-zinc-400 text-sm">Digital arrest scams, cybercrime in India, online impersonation fraud, mule accounts, cyber fraud prevention, regulatory gaps.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>In the Indian criminal law framework, no statute, rule or police manual recognizes an offence called &ldquo;digital arrest.&rdquo; Arrest is a power vested in the police and certain statutory authorities, exercised under procedure established by law. It cannot be conducted over a video call, and no agency can compel a person to remain on camera while transferring money for &ldquo;verification.&rdquo; Yet over the past few years, &ldquo;digital arrest&rdquo; has become one of the most damaging cyber-enabled frauds in the country, targeting the educated and the elderly alike.</p>
+                        <p className="mt-4">The phenomenon exposes a deeper tension, a criminal justice system built around territorial jurisdiction, physical evidence and slow procedure is being outpaced by offenders who operate across borders, platforms and payment rails in minutes. In <em>D.K. Basu v. State of West Bengal (1997)</em> and <em>Arnesh Kumar v. State of Bihar (2014)</em> show that arrest must follow legal safeguards, which a digital arrest ignores.</p>
+                        <p className="mt-4">This article examines how the scam works, which provisions of Indian law apply, where the regulatory gaps lie, and what a stronger preventive framework should look like.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANATOMY OF A DIGITAL ARREST SCAM</h4>
+                        <p>The scam follows a remarkably consistent script:</p>
+                        <div className="mt-4 space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">Stage 1: Initial Contact &amp; Fear Induction</strong>
+                                <p>The victim receives a call, often by an automated voice or a person posing as a courier executive, a telecom official or a customs officer. The caller alleges that a parcel in the victim&apos;s name contains narcotics, counterfeit passports or other contraband, or that the victim&apos;s Aadhaar or SIM card has been linked to money laundering. The call is then &ldquo;transferred&rdquo; to a supposed police officer or an officer of agencies such as the CBI, the Narcotics Control Bureau, the Enforcement Directorate or the Telecom Regulatory Authority of India.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">Stage 2: The Staged &ldquo;Digital Arrest&rdquo; &amp; Psychological Isolation</strong>
+                                <p>Over a video call on platforms such as Skype or WhatsApp, the victim is shown a staged police station or office, complete with uniforms, logos and forged documents bearing official-looking seals. The victim is told they are under &ldquo;digital arrest&rdquo; and must stay on camera, remain isolated and not tell family members, because the matter is confidential and national in nature. Some victims are kept under such surveillance for days.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">Stage 3: Financial Extraction &amp; Rapid Layering</strong>
+                                <p>To &ldquo;prove innocence,&rdquo; the victim is instructed to transfer funds into a &ldquo;secure&rdquo; or &ldquo;RBI-verified&rdquo; account, with the promise of a refund after verification. The money is then layered rapidly through chains of mule accounts, converted into cryptocurrency or withdrawn through multiple channels.</p>
+                            </div>
+                        </div>
+                        <p className="mt-4">The scam works because it exploits three things at once: the ordinary citizen&apos;s fear of state power, the authority that uniforms and legal jargon confer, and the isolation imposed by the fraudster. It is a crime of psychological coercion more than technical hacking.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">SCALE AND OFFICIAL RESPONSE</h4>
+                        <p>Official figures and parliamentary replies indicate that losses from this category of fraud run into hundreds of crores of rupees, with individual victims losing sums ranging from a few lakhs to several crores. The Indian Cyber Crime Coordination Centre (I4C) under the Ministry of Home Affairs has reported blocking large numbers of SIM cards, IMEI numbers and messaging accounts linked to such operations, and investigators have repeatedly pointed to networks operating from Southeast Asia, particularly the scam compounds of Myanmar, Cambodia and Laos.</p>
+                        <p className="mt-4">The Prime Minister himself publicly cautioned citizens in 2024 that no agency conducts &ldquo;digital arrests,&rdquo; and the Supreme Court of India has since taken notice of the menace, signaling that the problem is now viewed as a matter of systemic concern and not isolated fraud.</p>
+                    </div>
+
+                    <div className="space-y-6">
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE APPLICABLE LEGAL FRAMEWORK</h4>
+                        <p>Although &ldquo;digital arrest&rdquo; has no statutory definition, the conduct involved is covered by several existing provisions.</p>
+
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                            <h5 className="font-bold text-[#D4AF37] text-lg mb-2">Bharatiya Nyaya Sanhita, 2023 (BNS)</h5>
+                            <p>The core offences are cheating (Section 318), cheating by personation (Section 319), and criminal intimidation (Section 351). Where victims are induced to hand over property under threat of false accusation, extortion under Section 308 may apply. Impersonating a public servant attracts Section 204, while the fabrication of seals, summons and warrants engages the forgery provisions, including Sections 336 and 340. Where multiple offenders coordinate, criminal conspiracy under Section 61 and the newly codified provisions on organized crime under Section 111 may be invoked, the latter being particularly relevant to syndicates operating at scale.</p>
+                        </div>
+
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                            <h5 className="font-bold text-[#D4AF37] text-lg mb-2">Information Technology Act, 2000</h5>
+                            <p>Section 66C (identity theft) and Section 66D (cheating by personation using a computer resource) are the primary cyber provisions. Section 66 read with Section 43 covers dishonest unauthorized access or data misuse, and Section 66F may arise in extreme cases involving threats to security. Intermediary obligations under Section 79 and the 2021 Intermediary Guidelines shape what platforms must do on notice.</p>
+                        </div>
+
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                            <h5 className="font-bold text-[#D4AF37] text-lg mb-2">Prevention of Money Laundering Act, 2002</h5>
+                            <p>Because proceeds of fraud are layered through mule accounts and converted into virtual assets, PMLA is an important tool for attachment and recovery, with cheating being a scheduled offence.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL CHALLENGES IN INVESTIGATION AND PROSECUTION</h4>
+                        <div className="space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">1. Jurisdiction and Cross-Border Offenders</strong>
+                                <p>The caller may be in Cambodia, the victim in Haryana, the mule account in Maharashtra and the cryptocurrency exchange in another country. Although Section 75 of the IT Act and Section 1(4) of the BNS extend extraterritorial reach, enforcing it requires cooperation that formal channels deliver slowly. Mutual Legal Assistance Treaty requests and letters rogatory can take months, while stolen funds move in hours.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">2. Evidence and Electronic Records</strong>
+                                <p>Digital evidence is fragile. Call detail records, IP logs, platform data and bank trails must be preserved quickly and authenticated in compliance with Section 63 of the Bharatiya Sakshya Adhiniyam, 2023 (the successor to Section 65B of the Evidence Act), which requires a certificate for electronic records. Delay, poor chain of custody or incomplete certification can weaken a prosecution, and foreign platforms do not always respond promptly to Indian requests.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">3. Anonymity and the Mule-Account Ecosystem</strong>
+                                <p>Prosecutions often capture only the lowest layer of the network: the account holder who rented out a bank account for a commission. Proving knowledge and intent, and tracing the controllers behind them, is difficult, and the real masterminds remain beyond reach.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">4. Coordination Between Agencies</strong>
+                                <p>A single scam may involve the local police, state cyber cells, I4C, the Department of Telecommunications, banks, platforms and, eventually, central agencies. Without clear protocols, FIR registration, freezing of funds and information sharing proceed at different speeds. Victims frequently report being sent from one police station to another on grounds of territorial jurisdiction, despite the zero FIR concept.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">5. Under-Reporting</strong>
+                                <p>Shame, fear of the supposed &ldquo;case&rdquo; and the sheer secrecy imposed by the fraudsters mean many victims never report, or report late, after funds have already been dispersed.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">REGULATORY GAPS</h4>
+                        <p>The weakest point in the current framework is how fast money can be stopped. The &ldquo;golden hour&rdquo; freeze through the National Cybercrime Reporting Portal or the 1930 helpline works only if banks act immediately, yet no binding timeline governs their response. Liability is also unclear in authorized push payments, where the victim moves the money under coercion. RBI&apos;s limited-liability framework covers only unauthorized transactions, so these victims have weak recourse. Lax KYC in opening mule accounts and the absence of real-time alerts on large transfers by senior citizens add to the problem, as does the conversion of proceeds into cryptocurrency, including stable coins. Crypto service providers are now reporting entities under the PMLA, but offshore and peer-to-peer channels remain hard to police.</p>
+                        <p className="mt-4">The fraud itself depends on telecom and platform gaps. Bulk SIM issuance, SIM-box fraud and spoofed calls that display Indian numbers remain open vulnerabilities. The Telecommunications Act, 2023 and the tools for blocking fraudulent connections help but spoofed international calls and app-based calling are still largely uncontrolled. Messaging and video platforms, where the &ldquo;arrest&rdquo; is staged, enjoy conditional safe harbor, yet there is no enforceable duty to detect coordinated impersonation of law enforcement, to act on verified government notices within fixed timelines, or to share data quickly in cross-border cases.</p>
+                        <p className="mt-4">Leaked phone numbers, Aadhaar details and travel records make the scammer&apos;s story believable. The DPDP Act, 2023 and its rules place duties on data fiduciaries, so enforcement against careless data custodians will matter. Finally, the law has no dedicated offence for impersonating law enforcement by electronic means, no enhanced penalty for targeting vulnerable persons, and no statutory compensation route for cyber-fraud victims. Recovery therefore depends on what can be frozen in time.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE CASE FOR STRONGER PREVENTION</h4>
+                        <p>Punishment alone cannot solve a problem in which most offenders sit outside India and the money vanishes within hours, so prevention must carry much more of the weight. The most effective measure is a simple, repeated message: no genuine agency arrests anyone over a call, demands money to &ldquo;verify&rdquo; innocence, or asks a person to stay on video. Banks, telecom operators, schools and senior citizen groups should carry this message in regional languages, including through SMS and call-tune warnings.</p>
+                        <p className="mt-4">Awareness must be backed by friction at the point of payment. Banks and payment providers should use risk-based controls, such as confirmation prompts or delays on unusual large transfers to new beneficiaries, particularly from senior citizens. They should also flag accounts that receive many rapid inbound transfers and review newly opened or dormant accounts more closely. A statutory timeline for acting on freeze requests would turn the &ldquo;golden hour&rdquo; from an aspiration into an obligation. Telecom operators and platforms share this duty: operators should block spoofed international calls that display domestic numbers, and platforms should act on verified law-enforcement notices within defined periods, restrict accounts engaged in coordinated impersonation, and show in-app warnings on video calls from unknown numbers.</p>
+                        <p className="mt-4">Enforcement capacity and cooperation must improve alongside these controls. State cyber units need trained personnel, forensic tools, and standard procedures for preserving evidence and registering FIRs promptly. Linking the I4C platform, banks and state police in one real-time system would shorten the response chain, while specialized cyber courts or designated benches would build expertise and speed up trials. Because the networks operate abroad, India should also deepen bilateral arrangements and expedite data-sharing with countries hosting scam compounds, and take an active part in the United Nations cybercrime convention process.</p>
+                        <p className="mt-4">Reform should finally centre on the victim. A restitution fund, clear bank liability standards for socially engineered authorized payments, and psychological and legal support would help recovery. Treating victims as complainants who deserve protection, not as careless customers, will also encourage them to report early, which is when funds can still be frozen.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Digital arrest scams are not a novel crime so much as an old one, fraud by intimidation, reborn in a digital environment where trust in authority becomes the weapon. India&apos;s penal law, through the BNS, the IT Act and PMLA, already criminalizes the underlying conduct. The shortfall is in speed, coordination, accountability of intermediaries, and protection of victims.</p>
+                        <p className="mt-4">A credible response requires moving from reactive prosecution to preventive architecture: faster financial freezes, tighter telecom and platform controls, stronger cross-border cooperation, specialized capacity within the justice system, and above all a public that knows one simple truth: there is no such thing as a digital arrest. Until law, technology and awareness converge, fraudsters will continue to exploit the gap between how crimes are committed and how they are investigated.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023 &ndash; <a href="https://www.indiacode.nic.in/handle/123456789/20099" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.indiacode.nic.in/handle/123456789/20099</a></li>
+                            <li>Information Technology Act, 2000 &ndash; <a href="https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf</a></li>
+                            <li>Prevention of Money Laundering Act, 2002 &ndash; <a href="https://www.enforcementdirectorate.gov.in/acts-and-rules/pmla/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.enforcementdirectorate.gov.in/acts-and-rules/pmla/</a></li>
+                            <li>National Cyber Crime Reporting Portal &ndash; <a href="https://cybercrime.gov.in" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://cybercrime.gov.in</a></li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Nikhat Jahan.</p>
+                        <p className="text-zinc-400 text-sm mt-1">LL.B.(Hons)</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Live-in Relationships and Changing Family Laws in India: Personal Autonomy and Emerging Legal Challenges",
+            author: "By Souptik Das",
+            abstract: "Adults can live together freely, but the law does not protect everyone as it protects married couples only. Modern laws defend personal choice, yet the statutes provide selected remedies for abuse, maintenance and children. This article examines constitutional rights, liberty, domestic violence, property, children’s rights and consent-related offences. It argues for prominent remedies without treating every live-in relationship as a marriage or weakening fair criminal proceedings.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT &amp; KEYWORDS</li>
+                            <li>1. INTRODUCTION</li>
+                            <li>2. HISTORICAL EVOLUTION AND SOCIAL PERSPECTIVES</li>
+                            <li>3. CONSTITUTIONAL FRAMEWORK</li>
+                            <li>4. STATUTORY RECOGNITION AND DOMESTIC VIOLENCE</li>
+                            <li>5. WOMEN&apos;S RIGHTS AND PRACTICAL PROTECTION</li>
+                            <li>6. MAINTENANCE, PROPERTY AND CHILDREN
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>6.1 Maintenance</li>
+                                    <li>6.2 Property and Inheritance</li>
+                                    <li>6.3 Children&apos;s Rights</li>
+                                </ul>
+                            </li>
+                            <li>7. CONSENT, PROMISES TO MARRY AND CRIMINAL LIABILITY
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>7.1 Distinguishing a False Promise from a Broken Promise</li>
+                                    <li>7.2 False Allegations and Due Process</li>
+                                </ul>
+                            </li>
+                            <li>8. JUDICIAL TRENDS AND EMERGING CHALLENGES</li>
+                            <li>9. REFORMS</li>
+                            <li>10. CONCLUSION</li>
+                            <li>FOOTNOTES &amp; REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>Adults can live together freely, but the law does not protect everyone as it protects married couples only. Modern laws defend personal choice, yet the statutes provide selected remedies for abuse, maintenance and children. This article examines constitutional rights, liberty, domestic violence, property, children&apos;s rights and consent-related offences. It argues for prominent remedies without treating every live-in relationship as a marriage or weakening fair criminal proceedings.</p>
+                        <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10">
+                            <span className="text-[#D4AF37] font-semibold block mb-1">Keywords:</span>
+                            <p className="text-zinc-400 text-sm">Live-in relationships; personal autonomy; domestic violence; maintenance; consent; inheritance; children&apos;s rights; Indian family law.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. INTRODUCTION</h4>
+                        <p>Imagine living with a partner for five years, paying household expenses and sharing every moment, but when the relationship ends, there may be no automatic right to maintenance, ownership or inheritance. The legal problem is what protection remains when cohabitation breaks down. Indian laws increasingly protect cohabitation but do not make every such relationship equivalent to marriage. This article asks how law protects partners, especially women, and argues that autonomy, protection from exploitation and fair criminal proceedings must advance together.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. HISTORICAL EVOLUTION AND SOCIAL PERSPECTIVES</h4>
+                        <p>Marriage has a long shaped socio-cultural value and succession in India. In fact, it is considered as the most divine relationship. Sudha Murty said, &ldquo;Who is the best friend to a man and a woman? A wife to her husband and a husband to his wife&rdquo; <sup className="text-[#D4AF37] font-bold">[1]</sup>. But it was never meant to disapprove and see unmarried relationships as criminal.</p>
+                        <p className="mt-4">Early judicial recognition of long-term cohabitation developed through the presumption of marriage rather than a separate category of non-marital rights. In Badri Prasad v. Director of Consolidation (1978), the Supreme Court held that nearly fifty years of living together as husband and wife raised a strong, rebuttable presumption of a valid marriage. The Court observed that the law favours legitimacy and places a heavy burden on anyone challenging such a union. <sup className="text-[#D4AF37] font-bold">[2]</sup> This principle, associated with Section 114 of the Indian Evidence Act, 1872, now finds its general statutory counterpart in Section 119 of the Bharatiya Sakshya Adhiniyam, 2023. <sup className="text-[#D4AF37] font-bold">[3]</sup></p>
+                        <p className="mt-4">Over time, changing social attitudes and patterns of adult independence brought greater attention to relationships formed without formal marriage. In S. Khushboo v. Kanniammal, the Supreme Court clarified that social disapproval of premarital relationships does not, by itself, justify criminal prosecution. <sup className="text-[#D4AF37] font-bold">[4]</sup> The legal focus gradually expanded from presuming an unrecorded marriage to considering the autonomy and protection of adults who deliberately cohabit without marrying. However, recognition of their freedom does not automatically confer the rights of spouses.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. CONSTITUTIONAL FRAMEWORK</h4>
+                        <p>Articles 14, 15 and 21 of the Constitution provide the framework for examining personal choice, equality and liberty. Article 14 guarantees equality before the law, Article 15 addresses specified forms of discrimination and Article 21 protects life and personal liberty. Together with the constitutional principles of dignity and autonomy, these provisions support the freedom of competent adults to make intimate personal choices. <sup className="text-[#D4AF37] font-bold">[5]</sup></p>
+                        <p className="mt-4">In Lata Singh v. State of Uttar Pradesh, the Supreme Court affirmed an adult&apos;s freedom to choose a partner and condemned violence arising from disapproval of that choice. <sup className="text-[#D4AF37] font-bold">[6]</sup> In Justice K.S. Puttaswamy (Retd.) v. Union of India, the Court recognised privacy as an essential aspect of dignity and personal liberty. <sup className="text-[#D4AF37] font-bold">[7]</sup> Shafin Jahan v. Asokan K.M. likewise emphasised an adult&apos;s autonomy in choosing a life partner. <sup className="text-[#D4AF37] font-bold">[8]</sup> These decisions protect personal choice; they do not automatically create rights to spousal maintenance, inheritance or every other legal incident of marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. STATUTORY RECOGNITION AND DOMESTIC VIOLENCE</h4>
+                        <p>The Protection of Women from Domestic Violence Act, 2005, provides an important statutory route for protecting women in qualifying live-in relationships. Section 2(f) includes within &ldquo;domestic relationship&rdquo; a relationship in the nature of marriage where the parties live, or have lived, together in a shared household. The Act permits remedies including protection orders, residence orders, monetary relief and compensation. <sup className="text-[#D4AF37] font-bold">[9]</sup></p>
+                        <p className="mt-4">In D. Velusamy v. D. Patchaiammal, the Supreme Court explained that not every live-in relationship qualifies as a relationship in the nature of marriage. Relevant factors include whether the parties were legally capable of marrying, cohabited for a significant period, shared a household and presented themselves as spouses. <sup className="text-[#D4AF37] font-bold">[10]</sup> These factors require evidence and must not be treated as an inflexible checklist.</p>
+                        <p className="mt-4">In Indra Sarma v. V.K.V. Sarma, the Court examined a long relationship between an unmarried woman and a man who was already married. It considered the relationship&apos;s circumstances and concluded that the particular arrangement did not qualify as a relationship in the nature of marriage under the Act. <sup className="text-[#D4AF37] font-bold">[11]</sup> The case exposes a limitation in the existing framework: women may need to establish the legal character of a relationship before obtaining remedies intended to protect them from domestic abuse.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. WOMEN&apos;S RIGHTS AND PRACTICAL PROTECTION</h4>
+                        <p>The Domestic Violence Act addresses physical, sexual, verbal, emotional and economic abuse. Depending on the circumstances, a qualifying applicant may seek protection, residence-related relief, monetary compensation or other statutory remedies. These safeguards matter where a partner controls household finances, restricts the other&apos;s employment or leaves a financially dependent partner without support.</p>
+                        <p className="mt-4">However, cohabitation alone does not guarantee relief. A court may examine the relationship&apos;s duration, domestic arrangements and other relevant evidence. Women who have contributed through unpaid caregiving or informal financial arrangements may struggle to document their contributions. Better access to legal aid and clearer public guidance would help people understand their rights without presuming that every relationship is abusive or that every partner is economically dependent.</p>
+                    </div>
+
+                    <div className="space-y-6">
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">6. MAINTENANCE, PROPERTY AND CHILDREN</h4>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">6.1 Maintenance</h5>
+                            <p>Section 144 of the Bharatiya Nagarik Suraksha Sanhita, 2023, provides a summary maintenance remedy for a wife, children and parents who meet its conditions. It does not automatically classify every live-in partner as a wife. <sup className="text-[#D4AF37] font-bold">[12]</sup> Separately, Section 20 of the Domestic Violence Act permits monetary relief, including maintenance, where the applicant qualifies under that Act.</p>
+                            <p className="mt-4">In Chanmuniya v. Virendra Kumar Singh Kushwaha, the Supreme Court considered a beneficial interpretation of maintenance law in the context of relationships resembling marriage. <sup className="text-[#D4AF37] font-bold">[13]</sup> The decision should not be understood as giving every cohabiting partner an automatic right to maintenance as a wife. The statutory route and the facts remain material. This uncertainty can be particularly serious where one partner has sacrificed employment opportunities for the household.</p>
+                        </div>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">6.2 Property and Inheritance</h5>
+                            <p>Living together does not automatically confer on a partner the same inheritance rights as a legally recognised spouse. Property claims depend on factors such as title documents, financial contributions, enforceable agreements, valid wills and the applicable succession law. A partner who contributed towards a home but was not included in its ownership documents may face difficulty establishing a claim.</p>
+                            <p className="mt-4">Adults should be encouraged to document joint ownership and financial contributions and to make valid wills where appropriate. Reform should address genuine economic dependency and unfair outcomes without assuming that all property acquired during cohabitation belongs equally to both partners.</p>
+                        </div>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">6.3 Children&apos;s Rights</h5>
+                            <p>Children should not bear the consequences of their parents&apos; relationship choices. Section 16 of the Hindu Marriage Act, 1955, concerns children of void or voidable marriages; it does not automatically apply to every child born outside marriage. In Tulsa v. Durghatiya, the Supreme Court considered the presumption of marriage arising from long cohabitation. <sup className="text-[#D4AF37] font-bold">[14]</sup> In Revanasiddappa v. Mallikarjun, the Court clarified the property rights of children covered by Section 16, subject to the provision&apos;s statutory limits. <sup className="text-[#D4AF37] font-bold">[15]</sup> These decisions must not be extended beyond their legal scope. Parentage, maintenance and inheritance require analysis under the law applicable to the particular circumstances.</p>
+                        </div>
+                    </div>
+
+                    <div className="space-y-6">
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">7. CONSENT, PROMISES TO MARRY AND CRIMINAL LIABILITY</h4>
+                        <p>Relationship breakdown can also lead to allegations involving sexual consent. The law must distinguish consensual intimacy followed by separation from sexual activity allegedly obtained through deception. The central question is whether the elements of the alleged offence are established by evidence.</p>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">7.1 Distinguishing a False Promise from a Broken Promise</h5>
+                            <p>In Deepak Gulati v. State of Haryana, the Supreme Court distinguished a promise to marry that was dishonest from the outset from a genuine promise that was subsequently not fulfilled. <sup className="text-[#D4AF37] font-bold">[16]</sup> In Pramod Suryabhan Pawar v. State of Maharashtra, the Court emphasised examining whether the promise was false when made and whether it directly induced the relevant misconception of fact. <sup className="text-[#D4AF37] font-bold">[17]</sup> An unsuccessful relationship, by itself, does not establish a sexual offence.</p>
+                            <p className="mt-4">For conduct governed by current criminal law, Section 69 of the Bharatiya Nyaya Sanhita, 2023, addresses sexual intercourse by deceitful means or by a promise to marry made without an intention to fulfil it, where the conduct does not amount to rape. <sup className="text-[#D4AF37] font-bold">[18]</sup> Its elements and the law applicable at the time of the alleged conduct must be examined before drawing conclusions.</p>
+                        </div>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">7.2 False Allegations and Due Process</h5>
+                            <p>A fair legal system must take sexual violence seriously while protecting the rights of an accused person. Allegations can cause substantial personal and reputational harm, but acquittal or failure to prove a charge does not, by itself, establish that a complaint was knowingly false. Section 248 of the Bharatiya Nyaya Sanhita addresses false criminal charges made with the requisite knowledge and intention; its legal ingredients must be proved. <sup className="text-[#D4AF37] font-bold">[19]</sup> Neither gender nor the fact that a relationship ended should determine the outcome.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">8. JUDICIAL TRENDS AND EMERGING CHALLENGES</h4>
+                        <p>Judicial decisions increasingly distinguish the freedom to cohabit from the statutory conditions governing particular remedies. Courts may protect adults from unlawful threats or interference without thereby declaring their relationship equivalent to marriage. This distinction is essential: protection of life and liberty does not automatically resolve claims for maintenance, property or inheritance.</p>
+                        <p className="mt-4">The continuing challenge is to make legal remedies accessible while retaining the safeguards built into the relevant statutes. A person may have the freedom to choose a relationship but still face uncertainty about financial security and legal remedies when it ends.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">9. REFORMS</h4>
+                        <p>The present framework would benefit from clearer and more consistent guidance on determining when a relationship qualifies as being in the nature of marriage. Courts should consider the full circumstances of a domestic partnership, including shared responsibilities, economic contributions and caregiving, without turning any single indicator into an inflexible rule.</p>
+                        <p className="mt-4">Access to legal aid and protection should improve, particularly for people who have limited documentation or resources. Public legal-awareness programmes should explain the difference between rights arising from marriage and remedies available under domestic-violence legislation. Adults should also be encouraged to use written agreements, maintain records of joint expenditure, clarify property ownership and make valid wills where appropriate. Any optional registration mechanism should protect privacy and must not make registration a precondition for emergency protection.</p>
+                        <p className="mt-4">Finally, police and prosecutors need sound training on consent, evidence and the current criminal-law provisions, including Section 69 of the Bharatiya Nyaya Sanhita. Children&apos;s maintenance and welfare should remain central in relationship disputes. These reforms would improve certainty and reduce avoidable hardship without forcing adults into marriage or removing safeguards for genuine victims.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">10. CONCLUSION</h4>
+                        <p>Indian law increasingly protects adults&apos; freedom to cohabit, but constitutional liberty does not confer spousal status. Domestic-violence relief, maintenance, property, inheritance, children&apos;s rights and criminal liability follow different rules.</p>
+                        <p className="mt-4">The law must make these rules clearer and more accessible. People facing abuse need remedies, children need independent protection, and sexual-offence allegations require fair investigation. The law should neither punish cohabitation nor assume it creates marital rights. It should protect autonomy, address proven exploitation and preserve due process.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES &amp; REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>10 Wise Quotes by Sudha Murty on Love, Life and Marriage, Times of India (Sep. 13, 2023), indiatimes.com (quoting Sudha Murty).</li>
+                            <li>Badri Prasad v. Dy. Director of Consolidation (1978).</li>
+                            <li>Indian Evidence Act, 1872 &amp; Bharatiya Sakshya Adhiniyam, 2023.</li>
+                            <li>S. Khushboo v. Kanniammal (2010).</li>
+                            <li>India Const. art. 14, art. 15, art. 21.</li>
+                            <li>Lata Singh v. State of U.P. (2006).</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India (2017).</li>
+                            <li>Shafin Jahan v. Asokan K.M. (2018).</li>
+                            <li>Protection of Women from Domestic Violence Act, 2005, &sect;&sect; 2(f), 3, 18&ndash;23, No. 43, Acts of Parliament, 2005.</li>
+                            <li>D. Velusamy v. D. Patchaiammal (2010).</li>
+                            <li>Indra Sarma v. V.K.V. Sarma (2013).</li>
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023, &sect; 144, No. 46, Acts of Parliament, 2023; Protection of Women from Domestic Violence Act, 2005, &sect; 20, No. 43, Acts of Parliament, 2005.</li>
+                            <li>Chanmuniya v. Virendra Kumar Singh Kushwaha (2010).</li>
+                            <li>Hindu Marriage Act, 1955, &sect; 16, No. 25, Acts of Parliament, 1955.</li>
+                            <li>Revanasiddappa v. Mallikarjun (2023).</li>
+                            <li>Deepak Gulati v. State of Haryana (2013).</li>
+                            <li>Pramod Suryabhan Pawar v. State of Maharashtra (2019).</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, &sect; 69, No. 45, Acts of Parliament, 2023.</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, &sect; 248, No. 45, Acts of Parliament, 2023.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Souptik Das.</p>
+                        <p className="text-zinc-400 text-sm mt-1">Vivekanand Education Society&apos;s College of Law</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "The Right to Die with Dignity: Does Harish Rana v. Union of India Finally Make the Law on Passive Euthanasia Work in Practice?",
+            author: "By Afridi Khan",
+            abstract: "In March 2026, the Supreme Court decided Harish Rana v. Union of India and, for the first time, allowed the withdrawal of life-sustaining treatment for a patient in a permanent vegetative state under the guidelines laid down in Common Cause. The case matters because the law on passive euthanasia had existed on paper since 2018 but was hardly ever used. This article explains how the law reached this stage, discusses the facts and the decision, and gives an evaluation on what the judgment solves and what it leaves open, arguing that while the judgment is a humane and welcome step, real change will only come when Parliament enacts comprehensive legislation and hospitals are equipped to implement it.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT &amp; KEYWORDS</li>
+                            <li>INTRODUCTION</li>
+                            <li>HOW THE LAW DEVELOPED</li>
+                            <li>FACTS OF THE CASE</li>
+                            <li>WHAT THE SUPREME COURT DECIDED</li>
+                            <li>ANALYSIS: WHAT THE JUDGMENT GETS RIGHT</li>
+                            <li>ANALYSIS: CONCERNS AND GAPS</li>
+                            <li>WAY FORWARD</li>
+                            <li>CONCLUSION</li>
+                            <li>FOOTNOTES &amp; REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>In March 2026, the Supreme Court decided Harish Rana v. Union of India and, for the first time, allowed the withdrawal of life-sustaining treatment for a patient in a permanent vegetative state under the guidelines laid down in Common Cause. The case matters because the law on passive euthanasia had existed on paper since 2018 but was hardly ever used. This article explains how the law reached this stage, discusses the facts and the decision, and gives my opinion on what the judgment solves and what it leaves open. I argue that the judgment is a humane and welcome step, but that real change will only come when Parliament makes a proper law and hospitals are ready to follow it.</p>
+                        <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10">
+                            <span className="text-[#D4AF37] font-semibold block mb-1">Keywords:</span>
+                            <p className="text-zinc-400 text-sm">Passive Euthanasia, Article 21, Right to Die with Dignity, Living Will, Harish Rana, Common Cause, Persistent Vegetative State.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Most of us think of the right to life as the right to live. But does it also include the right to die peacefully when life has become only a machine-supported existence? This question has troubled Indian courts for almost thirty years. On 11 March 2026, a bench of Justice J.B. Pardiwala and Justice K.V. Viswanathan gave one of the clearest answers so far in Harish Rana v. Union of India. <sup className="text-[#D4AF37] font-bold">[2]</sup> The Court allowed doctors to withdraw life-sustaining treatment, including artificial food and water, from a young man who had been in a permanent vegetative state for more than thirteen years.</p>
+                        <p className="mt-4">The case is called a landmark for a simple reason. India already had a law on passive euthanasia, made by the Supreme Court itself in 2018. But in practice, almost nobody could use it. Hospitals were afraid, families were confused and the process was slow. Harish Rana&apos;s case was the first time the Court applied its own guidelines to a real person and a real family. In this article, I first explain how the law developed, then discuss the facts and the decision, and after that give my own analysis. As a first-year law student <sup className="text-[#D4AF37] font-bold">[1]</sup>, I do not claim to settle the debate. I only want to explain the issue in simple words and point out what I think the judgment gets right and what still needs work.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HOW THE LAW DEVELOPED</h4>
+                        <p>The starting point is Article 21 of the Constitution, which protects the right to life and personal liberty. For many years the question was whether this right also includes a right to end one&apos;s life.</p>
+                        <p className="mt-4">In Gian Kaur v. State of Punjab (1996), a Constitution Bench said no. The Court held that the right to life does not include the right to die, and it upheld the law punishing abetment of suicide. <sup className="text-[#D4AF37] font-bold">[3]</sup> But the Court also made an important remark. It said that a dying person, or someone in a persistent vegetative state, may have a right to die with dignity because the process of dying is also a part of life. This one observation became the seed for everything that followed.</p>
+                        <p className="mt-4">The next big step came in Aruna Ramchandra Shanbaug v. Union of India (2011). <sup className="text-[#D4AF37] font-bold">[4]</sup> Aruna was a nurse at KEM Hospital in Mumbai who was brutally attacked in 1973 and stayed in a vegetative state for more than thirty years. A writer and activist, Pinki Virani, asked the Supreme Court to allow her to die. The Court refused, because the hospital staff who cared for Aruna wanted to keep looking after her. Even so, the Court made passive euthanasia legal in India for the first time, subject to approval by the High Court. It also separated passive euthanasia, which means withdrawing or withholding treatment, from active euthanasia, which means doing something like giving a lethal injection. Active euthanasia remains illegal.</p>
+                        <p className="mt-4">In Common Cause v. Union of India (2018), a five-judge Constitution Bench went further. <sup className="text-[#D4AF37] font-bold">[5]</sup> It held that the right to die with dignity is part of Article 21. It also recognised the living will, or advance medical directive, in which a person can say in advance that they do not want to be kept alive by machines if they reach a hopeless condition. The Court gave detailed steps for hospitals, including medical boards and the involvement of a magistrate. The idea was to prevent misuse. The problem was that the steps were too heavy for ordinary families. In January 2023, the Court modified them to make the process simpler and to put time limits on the decisions of medical boards. <sup className="text-[#D4AF37] font-bold">[6]</sup></p>
+                        <p className="mt-4">Even after this, the law mostly stayed on paper. During the hearing of the Rana case, the Union government itself told the Court that its own research showed very little effective implementation of the 2018 guidelines on the ground. <sup className="text-[#D4AF37] font-bold">[7]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FACTS OF THE CASE</h4>
+                        <p>Harish Rana was a B.Tech student in Chandigarh. In August 2013, he fell from the fourth floor of his paying-guest accommodation and suffered a severe brain injury. He never recovered. For more than thirteen years he remained in a permanent vegetative state. He showed no meaningful interaction with the world, depended on others for every basic need, breathed through a tracheostomy tube and was fed through a tube in his stomach. <sup className="text-[#D4AF37] font-bold">[8]</sup></p>
+                        <p className="mt-4">His parents, especially his father Ashok Rana, looked after him for years. In the end, they approached the courts and asked for permission to withdraw his treatment. The Delhi High Court rejected the request. Its reasoning was that Harish was not on mechanical life support and could survive without outside machines, and that since he was not terminally ill, the question of passive euthanasia did not even arise.</p>
+                        <p className="mt-4">The family then came to the Supreme Court. The Court asked for expert opinion and had medical boards examine him, including a secondary board set up at AIIMS, New Delhi. The reports described his chances of recovery as negligible. The Court reserved its judgment on 15 January 2026 and pronounced it on 11 March 2026.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHAT THE SUPREME COURT DECIDED</h4>
+                        <p className="mb-4">The bench allowed the family&apos;s plea. In simple terms, the Court decided four main things:</p>
+                        <div className="space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">1. Clinically Assisted Nutrition &amp; Hydration is Medical Treatment:</strong>
+                                <p>First, it held that clinically assisted nutrition and hydration, which means feeding through a tube, is a form of medical treatment. It is not just basic nursing care like giving a glass of water. This matters because treatment can be withdrawn when it no longer helps the patient, but basic care cannot be taken away. This corrects the very point on which the Delhi High Court had gone wrong.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">2. Application of the Best Interest Test:</strong>
+                                <p>Second, the Court applied the best interest test. For a patient who cannot speak for himself, the question is not what the family wants or what the doctors prefer. The question is what is best for the patient. Here, the medical boards agreed that there was no real hope of recovery, and the Court found that continuing treatment was not in his best interest.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">3. Humane Withdrawal &amp; Palliative Care:</strong>
+                                <p>Third, the Court directed that the withdrawal must happen in a humane manner, and AIIMS was told to shift him to a palliative care centre where he could be kept comfortable.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">4. Re-evaluating Outdated Terminology:</strong>
+                                <p>Fourth, according to reports, the judges observed that the term passive euthanasia is itself outdated and confusing, because what really happens is the withdrawal of treatment that has no benefit, not the ending of a life by a doctor&apos;s act. <sup className="text-[#D4AF37] font-bold">[9]</sup></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="space-y-6">
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ANALYSIS</h4>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">What the Judgment Gets Right</h5>
+                            <p>The first thing I like about the judgment is its human approach. Article 21 has been read for decades to mean more than mere survival. Harish was alive only in a biological sense. Keeping him alive for thirteen years with tubes did not give him dignity, and it kept his family in constant pain. The Court rightly recognised that dignity matters at the end of life just as much as at the beginning.</p>
+                            <p className="mt-4">Second, the judgment clears up a technical confusion. The Delhi High Court&apos;s approach shows how easily the law can be misunderstood. It treated the absence of a ventilator as the end of the matter. If that logic were accepted, only patients on machines could ever get relief, and patients like Harish, who survive for years on a feeding tube, would be left out. By treating artificial feeding as medical treatment, the Supreme Court has widened the law in a sensible way.</p>
+                            <p className="mt-4">Third, the judgment moves the law from theory to practice. Before this case, the principle in Common Cause was like a door that existed but was always locked. Now there is at least one decided example that doctors, hospitals and High Courts can look at.</p>
+                            <p className="mt-4">Fourth, the safeguards were not ignored. The Court did not decide on the family&apos;s wish alone. Medical boards examined the patient, and an independent board at AIIMS was involved. This is important because the biggest fear against euthanasia is misuse, for example by greedy relatives. A layered check by doctors answers this fear to a good extent.</p>
+                        </div>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">Concerns and Gaps</h5>
+                            <p>At the same time, I feel the judgment leaves some questions open.</p>
+                            <p className="mt-4">The first problem is that the process still depends heavily on courts. Harish&apos;s family waited for years and had to go to the High Court and then the Supreme Court. Most Indian families cannot do that. If every such case has to reach the top court, the right will exist only for those who can afford long litigation. The 2023 changes were meant to avoid this, but hospitals still hesitate because no statute protects doctors. A doctor who follows the guidelines should not fear criminal proceedings, but without a law, that fear is real.</p>
+                            <p className="mt-4">The second problem is that the line between active and passive is still thin. Withdrawing feeding from a patient leads to death over days or weeks. Some critics say this is a slow way to die, and that a quicker and painless method might be more humane. Active euthanasia continues to be illegal in India. This is a question of policy, and I think Parliament, not the courts, should debate it openly. It also shows why the Court&apos;s remark about the word passive euthanasia being confusing is useful. The labels do not matter as much as the real question, which is whether treatment that only prolongs dying should continue.</p>
+                            <p className="mt-4">The third problem is the risk of misuse against the weak. Some people, including disability rights groups, worry that when the law accepts that some lives are not worth continuing, pressure may fall on poor and elderly patients and on families who cannot afford long treatment. I think this concern is genuine and should not be brushed aside. The best interest test must be applied strictly and never on the basis of cost.</p>
+                            <p className="mt-4">The fourth problem is the low use of living wills. Common Cause recognised advance directives in 2018, yet very few people in India have made one, and awareness is low. If more people recorded their wishes in advance, cases like Harish&apos;s, where the patient&apos;s own view is unknown, would be fewer and easier.</p>
+                            <p className="mt-4">The last and biggest problem is that this entire area is judge-made law. The Law Commission examined the issue in its 196th Report in 2006 and its 241st Report in 2012, and a draft Bill on the medical treatment of terminally ill patients was released in 2016, but Parliament has not passed any law on the subject. <sup className="text-[#D4AF37] font-bold">[10]</sup> Courts can fill the gap for some time, but a sensitive subject like this needs a proper law made after public debate.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WAY FORWARD</h4>
+                        <p className="mb-4">Based on the above, I would suggest four things:</p>
+                        <ol className="list-decimal pl-5 space-y-3 text-zinc-300">
+                            <li><strong>Legislative Protection &amp; Clear Definitions:</strong> Parliament should pass a clear law that protects doctors who follow the proper procedure, defines terms like persistent vegetative state and terminally ill, and fixes time limits for each step.</li>
+                            <li><strong>Hospital Readiness:</strong> Hospitals should have trained medical boards ready, so that families do not have to go to court in every routine case.</li>
+                            <li><strong>Public Awareness of Living Wills:</strong> The government should spread awareness about living wills and make it easy to register them.</li>
+                            <li><strong>Expansion of Palliative Care:</strong> Palliative care must improve. Many families think of withdrawing treatment because of pain and cost, not because they want to end a life. Better palliative care and financial help would reduce this pressure.</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Harish Rana v. Union of India does not create a new right. The right to die with dignity was already recognised in 2018. What this judgment does is to show that the right can actually be used, and it does so in a careful and caring way. By treating artificial nutrition as medical treatment and by insisting on the best interest of the patient, the Court has removed a major obstacle that had kept the earlier guidelines locked away.</p>
+                        <p className="mt-4">But a judgment cannot replace a law. Until Parliament acts, every family in a similar position will depend on the courage of doctors and the patience of courts. In my view, a society is judged by how it treats people at the beginning and at the end of life. The Supreme Court has taken a compassionate step, and it is now for the legislature and the medical community to make sure that this case does not remain a single exception.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES &amp; REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Afridi Khan is a first-year BBA LLB student and a legal intern at Lex Saarthi. The views expressed are personal.</li>
+                            <li>Harish Rana v. Union of India, 2026 SCC OnLine SC 358 (decided on 11 March 2026).</li>
+                            <li>Gian Kaur v. State of Punjab, (1996) 2 SCC 648.</li>
+                            <li>Aruna Ramchandra Shanbaug v. Union of India, (2011) 4 SCC 454.</li>
+                            <li>Common Cause v. Union of India, (2018) 5 SCC 1.</li>
+                            <li>Common Cause v. Union of India, order dated 24 January 2023 (modifying the 2018 guidelines).</li>
+                            <li>Passive Euthanasia Case: Supreme Court Reserves Judgment After Hearing Govt, Family, Moneylife (15 January 2026).</li>
+                            <li>Ritwik Choudhury and Ritu Yadav, In a First, Supreme Court Allows Passive Euthanasia of Man in Vegetative State since 2013, Bar &amp; Bench (11 March 2026).</li>
+                            <li>Ibid.; see also the reports on the judgment published on 11 March 2026.</li>
+                            <li>Law Commission of India, 196th Report on Medical Treatment to Terminally Ill Patients (2006); 241st Report, Passive Euthanasia: A Relook (2012).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Afridi Khan.</p>
+                        <p className="text-zinc-400 text-sm mt-1">National Forensic Sciences University, Delhi</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "A LEGAL CLASH: THE AUTHORITY OF THE EXECUTIVE AGAINST THE GUARANTEE OF THE CONSTITUTION",
+            author: "By Amogh Uniyal",
+            abstract: "This is an opinion by a five-judge Constitution Bench of the Supreme Court of India on the case of \u201cRai Sahib Ram Jawaya Kapur and others v. The State of Punjab (1955)\u201d, delivered by Chief Justice Mukherjea, together with Bose J., Jagannadhadas J., Venkatarama Ayyar J. and Imam J. The dispute arose because private textbook publishers in Punjab challenged executive orders that increasingly regulated school textbook printing until a 1952 order entirely removed the right of private publishers in the industry. The main issue is whether the executive branch can implement a large-scale commercial policy that practically amounts to eliminating an entire private sector without specific legislative authority from the legislature.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT</li>
+                            <li>FACTS AND PROCEDURAL HISTORY
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>Parties Involved</li>
+                                    <li>Relevant Facts</li>
+                                    <li>Procedural History</li>
+                                </ul>
+                            </li>
+                            <li>ISSUES</li>
+                            <li>HOLDING</li>
+                            <li>CRITICAL ANALYSIS
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>A. The Court&apos;s Reasoning</li>
+                                    <li>B. Evaluation: Separation of Powers and the Need for Legislation</li>
+                                    <li>C. Broader Implications</li>
+                                </ul>
+                            </li>
+                            <li>CONCLUSION</li>
+                            <li>FOOTNOTES &amp; REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>This is an opinion by a five-judge Constitution Bench of the Supreme Court of India on the case of &ldquo;Rai Sahib Ram Jawaya Kapur and others v. The State of Punjab (1955)&rdquo; <sup className="text-[#D4AF37] font-bold">[1]</sup>, which was delivered by the Chief Justice Mukherjea, together with Bose J., Jagannadhadas J., Venkatarama Ayyar J. and Imam J. The dispute came before the court because certain publishers of Punjab textbooks who were state textbook publishers, had challenged various executive orders through which the state was increasingly regulating the printing and publication of school textbooks until finally, a state order in 1952 entirely removed the right of private publishers in the industry. The main issue in this case is whether the executive branch can implement a large-scale commercial policy that practically amounts to getting rid of an entire private sector without any particular legislative authority from the legislature.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FACTS AND PROCEDURAL HISTORY</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-4">Parties Involved</h5>
+                        <p>The petitioners were Rai Sahib Ram Jawaya Kapur together with five other persons engaged jointly as printers, publishers and sellers of school textbooks under the firm name &ldquo;Uttar Chand Kapur &amp; Sons.&rdquo; Eight other factually identical petitions (Nos. 71 to 77 &amp; 85 of 1955) <sup className="text-[#D4AF37] font-bold">[2]</sup> were filed by other Punjab textbook publishers and printers and were decided along with the lead case. The respondent was the State of Punjab, through its Education Department.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Relevant Facts</h5>
+                        <p>Recognised schools in Punjab were only allowed to use official school books prepared by or approved of the Education Department. Before 1950, when operating by the &ldquo;alternative method&rdquo;, the private printing houses made the textbooks at their own expense and submitted for the approval; the Department, usually, approved several books for the same subject and left it up to the headmasters, while the Government took the charge of the price, size and content.</p>
+                        <p className="mt-4">May 1950 onwards, the Government divided the territory into three zones. From that moment, the Government took over certain subjects (like agriculture and history) and not only prepared and published them, but also limited the approving of one textbook per subject per zone. Moreover, a new regulation introduced a 5% royalty from a sale price of the approved books was applied as well. <sup className="text-[#D4AF37] font-bold">[3]</sup> The decree of 9 August 1952 even took the matter a step further; it accepted submissions only from &ldquo;authors&rdquo; and &ldquo;others&rdquo; (removing entirely &ldquo;publishers&rdquo;). <sup className="text-[#D4AF37] font-bold">[4]</sup> Moreover, it mandated that authors whose work had been selected by the Government should transfer the copyright to the Government in exchange for the 5% royalty which authors received.</p>
+                        <p className="mt-4">In such conditions, the Government became the only author, printer, publisher and seller of school textbooks and the market was entirely closed to the private printing houses. The complainants demanded in a writ of mandamus under Article 32 of the Indian Constitution <sup className="text-[#D4AF37] font-bold">[5]</sup> the revocation of these official notifications as a violation of their fundamental rights in Arts. 19(1)(g) and 31(2) <sup className="text-[#D4AF37] font-bold">[6]</sup>.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Procedural History</h5>
+                        <p>Under Article 32 the Supreme Court has the power to take cognisance of the matter in cases dealing with enforcement of the fundamental rights included in Part III, which is original jurisdiction, so it does not depend upon the prior judgment of High Court or Trial Court. Hence, no High Court or Trial Court decision was for review. As far as this provision is concerned, Article 32 opens the way directly to the Supreme Court. Therefore, you may not appeal a case from a lower forum. There were nine linked petitions on the same set of issues, Petition No. 652 of 1954 being the lead one <sup className="text-[#D4AF37] font-bold">[7]</sup>, followed by Petitions No. 71 to 77 and 85 of 1955, that together were heard and the Supreme Court reasoned in the leader case, and based upon it, adjudged all nine of them to be disposed of together on 12 April 1955.</p>
+                    </div>
+
+                    <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                        <h4 className="font-bold text-white text-2xl border-b border-[#D4AF37]/30 pb-2">ISSUES</h4>
+                        <ul className="list-disc pl-5 space-y-2 text-zinc-300">
+                            <li>Whether the executive branch of the State can undertake and conduct a large-scale commercial trade or business (such as publishing, printing, and selling school textbooks) without specific legislative enactment authorising such executive action under Articles 73 and 162 of the Constitution.</li>
+                            <li>Whether executive orders establishing a governmental monopoly over school textbooks, which effectively exclude private publishers from business, violate the fundamental right to practice any profession or carry on any occupation, trade, or business guaranteed under Article 19(1)(g) of the Constitution.</li>
+                            <li>Whether the deprivation of the publishers&apos; prospective textbook business constitutes an acquisition or taking of private property without compensation, thereby infringing Article 31(2) of the Constitution.</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HOLDING</h4>
+                        <p>The Supreme Court essentially decided that Article 73 <sup className="text-[#D4AF37] font-bold">[8]</sup> of the Constitution does not limit the executive power, which is also covered in Article 162 <sup className="text-[#D4AF37] font-bold">[9]</sup>, to the mere execution of laws that have already been passed; the executive power can take any matter where the appropriate legislature is competent to make laws and that matter has not been lawfully made the subject matter of legislation. If the public expenditure is incurred by the executive in relation to the trade of a subject matter, then the Demands for Grants and Appropriation procedure under Articles 202&ndash;204 <sup className="text-[#D4AF37] font-bold">[10]</sup> and 266(3) <sup className="text-[#D4AF37] font-bold">[11]</sup> will be a sufficient legislative source; only if the executive action trespasses upon legal rights of private individuals which ordinary laws do not already authorise the executive to do will there be a need for a separate law or statute. The publishers&apos; claim was that they only had a &ldquo;mere chance or prospect&rdquo; that their books could be approved as the prescribed text, not a property right, so the infringement of neither Article 19(1)(g) nor Article 31(2) could be made out and hence the pleas were declined.</p>
+                    </div>
+
+                    <div className="space-y-6">
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CRITICAL ANALYSIS</h4>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">A. The Court&apos;s Reasoning</h5>
+                            <p>CJ Mukherjea&apos;s logical development takes him in the following directions: firstly, based on plain language of the provisions, Articles 73 and 162 are being understood as separating the executive powers between the Centre and the states, similar to the way in which three lists of legislature have it, rather than that of legislature having to be done before that of executions a view corroborated by contrasting with Section 24 of the Australian Constitution <sup className="text-[#D4AF37] font-bold">[12]</sup>, the narrower wording of which (&ldquo;execution and maintenance of the Constitution and of the laws&rdquo;) caused the Australian High Court, in The Commonwealth and The Central Wool Committee v the Colonial Combing, Spinning and Weaving Company Limited <sup className="text-[#D4AF37] font-bold">[13]</sup> and (in dissent) in the Attorney-General for Victoria v. The Commonwealth <sup className="text-[#D4AF37] font-bold">[14]</sup>, to restrict the Commonwealth&apos;s executive action even more to cases where express statutory authorisation existed.</p>
+                            <p className="mt-4">Closing this circle, secondly from a structural aspect, the court defines executive power as it was put forth through a quote &ldquo;the residue of governmental functions that are left after having been subtracted from the legislative and judicial departments&rdquo;. It basically means that executive power consists of policy formulation and its implementation as also &ldquo;disclaims&rdquo; absolutely any sort of &ldquo;rigidity&rdquo; in the question of separation of powers. However, the Court still demands that one part of an institution, such as the judiciary, should carry the burdens, tasks, and responsibilities that rightly and rightly are the exclusive domain of that particular part.</p>
+                            <p className="mt-4">In its third role, from the procedural standpoint, the Court explains that the main way the legislature keeps watch over the Government&apos;s trade activity is actually via the budgetary procedure: expenditures that get approval through a grant of revenue and an adoption of a bill for appropriation would meet the stipulations of Art. 266(3) <sup className="text-[#D4AF37] font-bold">[15]</sup> and besides the Government&apos;s ability, as a legal subject, to conclude agreements with authors comes independently from Art. 298. <sup className="text-[#D4AF37] font-bold">[16]</sup></p>
+                            <p className="mt-4">In those cases where only a specific and exceptional law can give legitimacy to the executive action which is beyond the regular legal framework, such as to revoke a private legal right, then is when a particular piece of legislation is required to the case. As this very court ruled the case of the publishers, it turned out the publishers were not actually holding that kind of private right. Hence, the point (a statute) was never reached.</p>
+                        </div>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">B. Evaluation: Separation of Powers and the Need for Legislation</h5>
+                            <p>The petitioners&apos; strongest argument that the unlegislated executive trade action violates the division of powers should be critically assessed. Nevertheless, its legal grounding must be rightly identified. The text of the Constitution divides the law-making organs (Parliament under Arts. 79-122; State Legislatures under Arts. 168-212) <sup className="text-[#D4AF37] font-bold">[17]</sup> apart from the executive bodies (President under Arts. 52-78; Governor under Arts. 153-167) <sup className="text-[#D4AF37] font-bold">[18]</sup>, and by Article 246 <sup className="text-[#D4AF37] font-bold">[19]</sup> in conjunction with the Seventh Schedule <sup className="text-[#D4AF37] font-bold">[20]</sup>, subjects are given legislative authority by List. The separation of powers being a part of the basic structure, however, was later recognized by judgments especially Kesavananda Bharati v. State of Kerala (1973) <sup className="text-[#D4AF37] font-bold">[21]</sup>.</p>
+                            <p className="mt-4">Examined in this manner, the conclusion is more valid than the petitioners&apos; sweeping interpretation would indicate, though not beyond doubt. Justice Mukherjea candidly accepts that the Indian Constitution &ldquo;has not in fact, recognised the doctrine of separation of powers in its absolute form&rdquo;, which is self-aware in that the structure of India&apos;s democratic system is different than the American presidential model which has been the reason for the concept of strict separation to be introduced; whereas the former, by means of a Council of Ministers composed from the legislature and subject to it, has deliberately joined together the functions of government and parliament. Thus the overlap which the petitioners are complaining of is not only constitutional but rather an inevitable feature of the system; in such situation, the real protection offered is not by division of institutions but by their mutual accountability, the support of the House, the shared responsibility and the control of the Treasury.</p>
+                            <p className="mt-4">This gap is particularly relevant to the question of need-for-legislation. The Court&apos;s starting point that it needs a specific law only when the executive has to violate private legal rights allows it to sidestep the issue at hand entirely by firstly holding that the case at the Article 19(1)(g) stage involved only a &ldquo;mere chance or prospect&rdquo; of possession of newspapers. Such a decision would prevent the matter of encroachment from coming to light. Besides, this line of reasoning also entails that Article 19(6) <sup className="text-[#D4AF37] font-bold">[22]</sup> was never really an issue to Ram Jawaya. In fact, Article 19(6), after a constitutional amendment that took effect from November, 1951, while these notices were issued by police, specifically allows the State to create a trading monopoly but only &ldquo;by law.&rdquo;</p>
+                            <p className="mt-4">A bill that would have made it a nationalized affair to publish textbooks would have directly dealt with that provision; a mere announcement, as the Court itself concluded, does not need to. Thus, by classifying property rights as &ldquo;mere expectancy of right&rdquo;, such a classification is used less as a straightforward implementation of property law, but it becomes an instrument enabling the government through administrative rules to do by executive power exactly what Article 19(6) is supposed to be carried out only by means of enacted laws. This is more a reason of law than any kind of simple overlapping of the functions of courts and government that will justify to what extent Ram Jawaya can be justly interpreted as a weakening, or in the worst case an abrogation, of the separation between the executive initiation and legislative approval that is clearly a constitutional requirement.</p>
+                        </div>
+
+                        <div>
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">C. Broader Implications</h5>
+                            <p>Ram Jawaya&apos;s most enduring legacy is doctrinal: a formula of &ldquo;no rigid separation of powers, but sufficient differentiation of functions&rdquo; is articulated Indian courts cite it almost wherever they refer to it starting from the case of Indira Gandhi v. Raj Narain (1975) <sup className="text-[#D4AF37] font-bold">[23]</sup> through the discussions on Basic Structure that began after Kesavananda Bharati. It is equally important for the executive&apos;s ability to negotiate and conclude agreements by trade under Article 298 as one of its inherent powers without prior legislation. This power of the executive was even later taken up in disputes relating to the nationalisation by the State of monopolies or, of course, in disputes relating to public sector enterprises and various schemes of the executive which are run on grants from the budget rather than on statutes.</p>
+                            <p className="mt-4">In effect, this decision has not narrowed but rather expanded the field within which governments can carry out major policy measures including ones that displace the private sector extensively merely by giving notice and appropriating the subject matter, and without inviting a legislative or judicial examination of the substance of the policy unless it can be demonstrated to infringe on a legally recognised right. Based on that, administrative law scholarship viewed the case as an early example of governance by way of government notifications and the procedural guarantees such as consultation, statutory standards, and structured judicial review that are typically associated with a separate statute have essentially been sidestepped. This criticism gets much stronger whenever nowadays governments choose to implement similarly exclusive or nationalization policies via executive orders instead of going through a parliament for their enactments.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Ram Jawaya ought to be seen not as an oddity in Indian separation-of-powers doctrine but as its inaugural authoritative version which deliberately gives up strict separation of institutions in favor of a parliamentary model of the fused, accountable government. Less reassuring are the Court&apos;s presumption that the appropriation of funds through the budget offers an adequate legislative check on such a big executive policy and its recourse to the &ldquo;mere expectancy&rdquo; doctrine to get away with not putting the de-facto trading monopoly to the test against the express requirement of legislative authorization in Article 19(6). Thus one has the strange situation where a Court upholds a separation in which the legislature and the executive shall not be separated, and yet denies by so doing any legislative function, at least that part of it by which the legislature could have exercised its judgment on a subject which, after all, is a legislative prerogative, viz. that of law-making. This is a point where Article 19(6) may be interpreted to have the effect of requiring by law the establishment of some authority which shall exercise a monopoly of trading of the article in question on behalf of the public and then carry out its operations. That this should have been left to the executive to decide was not what the provision envisaged and the Court has to be credited here with the fact that it, in its capacity as the protector of the fundamental rights, has not accepted that this is one of those exceptional cases, if they ever exist.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES &amp; REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Rai Sahib Ram Jawaya Kapur v. State of Punjab, AIR 1955 SC 549.</li>
+                            <li>Id. &para; 24.</li>
+                            <li>Ram Jawaya Kapur, AIR 1955 SC &para; 3.</li>
+                            <li>Id. &para; 4.</li>
+                            <li>INDIA CONST. art. 32.</li>
+                            <li>INDIA CONST. art. 19, cl. (1), sub-cl. (g); INDIA CONST. art. 31, cl. (2).</li>
+                            <li>Ram Jawaya Kapur, AIR 1955 SC &para; 24.</li>
+                            <li>INDIA CONST. art. 73.</li>
+                            <li>INDIA CONST. art. 162.</li>
+                            <li>INDIA CONST. arts. 202&ndash;204.</li>
+                            <li>INDIA CONST. art. 266, cl. (3).</li>
+                            <li>AUSTL. CONST. &sect; 24.</li>
+                            <li>Commonwealth v. Colonial Combing, Spinning &amp; Weaving Co., [1922] HCA 62 (Austl.).</li>
+                            <li>Attorney-General for Victoria ex rel. Black v. Commonwealth, [1945] HCA 30 (Austl.).</li>
+                            <li>INDIA CONST. art. 266, cl. (3).</li>
+                            <li>INDIA CONST. art. 298.</li>
+                            <li>INDIA CONST. arts. 79&ndash;122, 168&ndash;212.</li>
+                            <li>INDIA CONST. arts. 52&ndash;78, 153&ndash;167.</li>
+                            <li>INDIA CONST. art. 246.</li>
+                            <li>INDIA CONST. sch. VII.</li>
+                            <li>Kesavananda Bharati v. State of Kerala, AIR 1973 SC 1461.</li>
+                            <li>INDIA CONST. art. 19, cl. (6).</li>
+                            <li>Indira Gandhi v. Raj Narain, AIR 1975 SC 2299.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Amogh Uniyal.</p>
+                        <p className="text-zinc-400 text-sm mt-1">5-Year B.A.LLB Integrated Law Course</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Can Electronic Evidence Be Trusted? Digital Evidence in Pakistani Courts",
+            author: "By Amna Akbar",
+            abstract: "This article examines the legal framework and judicial standards governing the admissibility and evaluation of electronic evidence in Pakistani courts. While modern litigation increasingly relies on digital material—such as audio/video recordings, CCTV footage, and electronic communications—such evidence presents unique challenges due to its susceptibility to manipulation, editing, and fabrication. Grounded in Article 164 of the Qanun-e-Shahadat Order, 1984, the Electronic Transactions Ordinance, 2002, and the Prevention of Electronic Crimes Act, 2016, Pakistani evidence law permits the admission of digital records but strictly demands proof of authenticity. By analyzing landmark judgments of the Supreme Court of Pakistan, including Ishtiaq Ahmed Mirza v. Federation of Pakistan and Mian Khalid Pervaiz v. State, this paper analyzes how courts balance technological integration with procedural safeguards, emphasizing forensic verification, chain-of-custody protocols, and the emerging challenges posed by generative artificial intelligence and deepfakes.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Legal Framework Governing Electronic Evidence in Pakistan</li>
+                            <li>Judicial Approach to Electronic Evidence</li>
+                            <li>Why Electronic Evidence Can Be Unreliable?</li>
+                            <li>How Can Courts Determine Whether Electronic Evidence Is Trustworthy?</li>
+                            <li>Recommendations for Pakistan</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Keywords:</strong> Qanun-e-Shahadat Order 1984, Article 164, Electronic Evidence, Cybercrime, Ishtiaq Ahmed Mirza, Chain of Custody, Digital Forensics, Deepfakes, Supreme Court of Pakistan.
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Technology has transformed how people communicate, conduct business, and store information. Mobile phones, social media, CCTV cameras, and electronic transactions generate records that can become important in legal proceedings. WhatsApp messages, call detail records (CDRs), emails, photographs, and audio recordings may help establish facts that would otherwise be difficult to prove. However, electronic evidence raises an important question: can it be trusted in a court of law? Unlike traditional documents, digital records can be edited, copied, deleted, or manipulated without obvious signs of alteration. Artificial intelligence has further increased the risk of fabricated images, videos, and voice recordings. The challenge for Pakistani courts is therefore not simply to admit electronic evidence but to determine whether it is authentic, reliable, and relevant. Electronic evidence can assist the administration of justice, but its credibility depends on proper verification and compliance with the law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL FRAMEWORK GOVERNING ELECTRONIC EVIDENCE IN PAKISTAN</h4>
+                        <p className="mb-4">Pakistan recognizes electronic evidence through several legal instruments, particularly the Qanun-e-Shahadat Order, 1984, the Electronic Transactions Ordinance, 2002, and the Prevention of Electronic Crimes Act, 2016.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Qanun-e-Shahadat Order, 1984</h5>
+                        <p>Article 164 empowers courts to allow evidence made available through modern devices or techniques. It provides a legal basis for presenting relevant digital material, including CCTV footage, audio recordings, and electronic communications. Article 46-A addresses the relevancy of information generated, received, or recorded by an automated information system. Articles 73 and 78-A also contain provisions relevant to documentary and electronic evidence. These provisions demonstrate that evidence should not be rejected merely because it exists in digital form. Nevertheless, admissibility does not automatically establish authenticity. A screenshot or recording must still be evaluated according to the applicable rules of evidence. An important distinction must also be made between the admissibility and the evidentiary weight of electronic records. Admissibility concerns whether material may be received and considered by the court, whereas evidentiary weight concerns how far it supports a particular conclusion. For instance, a screenshot of a threatening message may be relevant to a dispute, but the court may still need to examine its source, the identity of the sender, and whether the conversation has been presented in its complete context. This distinction helps prevent the mere production of electronic material from being treated as conclusive proof.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Electronic Transactions Ordinance, 2002</h5>
+                        <p>The Electronic Transactions Ordinance, 2002, provides legal recognition to electronic documents and transactions. It supports the use of electronic records in legal and commercial activities. However, legal recognition of electronic documents does not mean that every electronic record is automatically genuine. Where authenticity is disputed, the relevant legal requirements for proving the record must still be satisfied.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3. Prevention of Electronic Crimes Act, 2016</h5>
+                        <p>The Prevention of Electronic Crimes Act, 2016 (PECA), addresses offences involving information systems and electronic communications. It is relevant to investigations involving matters such as unauthorised access, electronic fraud, and other offences covered by the legislation. Digital material collected during a cybercrime investigation may become evidence in court. However, the existence of an investigation does not automatically establish the truth of every message, file, or recording obtained. Its evidentiary value must be assessed under the applicable law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL APPROACH TO ELECTRONIC EVIDENCE</h4>
+                        <p className="mb-4">Pakistani courts have recognised the importance of electronic evidence while emphasising that its authenticity must be established.</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Ishtiaq Ahmed Mirza v. Federation of Pakistan (PLD 2019 SC 675)</strong>
+                                <p>In <em>Ishtiaq Ahmed Mirza v. Federation of Pakistan</em>, the Supreme Court of Pakistan considered the requirements for relying on audio and video recordings. The Court emphasised that a recording must be proved genuine and free from tampering or manipulation before it can be relied upon. It also discussed the importance of forensic examination and the requirements for producing recordings in accordance with the law. For example, if a video allegedly shows a person accepting a bribe, the court must consider whether the footage is genuine, whether the person has been correctly identified, and whether the recording has been altered. This judgment demonstrates that the apparent contents of a recording are not enough; its authenticity must also be established.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Mian Khalid Pervaiz v. State (2021 SCMR 522)</strong>
+                                <p>In this case, the Supreme Court addressed the legal standards concerning digital and electronic recordings, emphasizing that electronic audio/video material must withstand strict authentication standards before being accepted as reliable proof.</p>
+                                <p className="mt-2">The Court explained that while electronic evidence may find admissibility under modern provisions, disputed digital material must be strictly proved in accordance with applicable legal requirements and proper chain-of-custody safeguards. The judgment highlights that digital material can be susceptible to manipulation, meaning courts must look beyond surface appearances to verify integrity. This distinction is important: electronic records may support an allegation, but their actual evidentiary value depends on what they reliably establish.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Asfandyar v. Kamran (2016 SCMR 2084)</strong>
+                                <p>In this case, the Supreme Court considered CCTV footage produced in criminal proceedings. The Court held that merely producing footage was insufficient; its genuineness had to be proved in accordance with the law. The judgment highlighted the importance of examining the person who prepared the footage so that its authenticity could be tested, including through cross-examination. These decisions establish a consistent principle: Pakistani courts may receive electronic evidence, but parties must satisfy the applicable requirements for proving its genuineness and reliability.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHY ELECTRONIC EVIDENCE CAN BE UNRELIABLE?</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">1. Manipulation and Fabrication</h5>
+                        <p>Digital files can be edited using widely available software. Photographs may be altered, recordings may be manipulated, and videos may be presented without important context. Artificial intelligence has made it easier to generate deepfake videos and synthetic voices that imitate real individuals. Consequently, a recording that appears convincing may not accurately represent an actual event. Courts must consider whether appropriate verification is necessary before relying on such material.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">2. Identity and Context</h5>
+                        <p>A genuine message does not necessarily prove that the accused person sent it. Accounts can be compromised, devices can be shared, and telephone numbers can be used by different individuals. Similarly, a screenshot may omit earlier messages that change the meaning of a conversation. A call detail record may establish that communication occurred between two numbers, but it ordinarily does not establish the precise words spoken. Courts must therefore distinguish between what a record directly proves and what a party merely infers from it.</p>
+                        <p className="mt-4">Another difficulty arises when electronic evidence is presented without the surrounding information needed to interpret it correctly. A message may appear suspicious when viewed individually but may have a different meaning when read alongside the complete conversation. Similarly, the time displayed on a device may not always establish the precise time an event occurred, particularly where settings or time zones differ. These limitations demonstrate why courts should examine the circumstances in which a digital record was created and obtained, rather than drawing conclusions from isolated pieces of information.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">3. Preservation and Chain of Custody</h5>
+                        <p>The chain of custody refers to the documented handling of evidence from collection until its presentation in court. If a mobile phone or storage device passes between several individuals without proper documentation, questions may arise about whether the material was altered, replaced, or contaminated. Preserving original files, documenting their collection, recording transfers, and using appropriate forensic procedures can help maintain their integrity.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-8">4. Limited Technical Expertise</h5>
+                        <p>Determining whether a recording has been edited or a file&apos;s metadata supports its claimed origin may require specialist knowledge. Forensic experts can examine relevant technical characteristics and provide opinions to assist the court. However, expert evidence must also be assessed critically. The methodology used, the material examined, and the conclusions reached should be open to appropriate scrutiny. The increasing use of artificial intelligence presents an additional challenge for forensic examination. Deepfake technology can produce realistic-looking videos and convincing voice imitations, making visual or audio inspection alone less dependable. At the same time, not every unusual feature in a recording proves that it has been manipulated. A balanced assessment should therefore consider the available technical findings, the limitations of the examination, and other evidence relevant to the disputed event. This approach reduces the risk of accepting fabricated material or incorrectly rejecting authentic recordings.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HOW CAN COURTS DETERMINE WHETHER ELECTRONIC EVIDENCE IS TRUSTWORTHY?</h4>
+                        <p>Several safeguards can improve the reliability of digital evidence. Firstly, verify its source. The party producing the evidence should explain where it originated, how it was obtained, and how it relates to the person or event in question. Secondly, preserve the original material. Investigators should preserve the original device or file where possible rather than relying exclusively on forwarded messages, cropped screenshots, or compressed recordings. Thirdly, conduct forensic examination where necessary. Qualified experts may examine metadata, file integrity, and indicators of editing. Their findings can assist the court, although a forensic report does not automatically resolve every question of authenticity. Fourth, maintain a documented chain of custody. Proper records of collection, storage, transfer, and examination can reduce the risk of tampering or substitution. Fifthly, consider corroborating evidence. A recording may become more persuasive when supported by independent witnesses, transaction records, or other relevant evidence. Finally, allow meaningful challenges. Parties should have a fair opportunity to dispute the authenticity, source, and interpretation of electronic material through the procedures available under the law. These safeguards help courts distinguish reliable evidence from material that merely appears convincing.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECOMMENDATIONS FOR PAKISTAN</h4>
+                        <p>Pakistan should continue strengthening its approach to electronic evidence through clearer procedures, improved technical capacity, and judicial training. For example, practical guidance on collecting, preserving, authenticating, and presenting digital material would help investigators and legal practitioners follow consistent procedures. Further, law-enforcement agencies should receive appropriate training in digital forensics and evidence preservation. Errors during collection or storage can undermine otherwise valuable evidence. Judges and lawyers would also benefit from training on metadata, deepfakes, manipulated recordings, and the limitations of automated forensic tools. In addition to that, forensic facilities should have adequate technical resources and transparent examination methods. Expert conclusions should be capable of meaningful scrutiny when challenged. Finally, procedural safeguards must protect both the integrity of investigations and the rights of accused persons. Courts should neither accept electronic evidence uncritically nor dismiss genuine material merely because it is digital.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Can electronic evidence be trusted in Pakistani courts? Yes, provided its reliability is established according to the applicable law. Electronic evidence can support investigations, clarify disputed facts, and strengthen judicial proceedings. Article 164 of the Qanun-e-Shahadat Order, 1984, recognises the use of evidence obtained through modern devices and techniques. Supreme Court decisions, including <em>Ishtiaq Ahmed Mirza v. Federation of Pakistan</em> and <em>Mian Khalid Pervaiz v. State</em>, demonstrate the importance of proving disputed electronic material in accordance with legal requirements. Ultimately, the credibility of electronic evidence depends on authenticity, integrity, context, proper preservation, and the opportunity to challenge it. The objective should not be to trust or distrust digital evidence categorically, but to establish procedures through which genuine material can assist justice while manipulated or unreliable evidence is identified. In an increasingly digital society, Pakistani courts must combine established principles of evidence law with sound technical examination. It is essential to ensure that technological progress strengthens, rather than undermines, the administration of justice.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-sm tracking-wider uppercase mb-2">Statutes &amp; Statutory Instruments</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                                    <li>Qanun-e-Shahadat Order, 1984 (P.O. No. 10 of 1984), Art. 164.</li>
+                                    <li>Electronic Transactions Ordinance, 2002 (Ordinance No. LI of 2002).</li>
+                                    <li>Prevention of Electronic Crimes Act, 2016 (Act No. XL of 2016).</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-sm tracking-wider uppercase mb-2">Judicial Decisions</h5>
+                                <ol className="list-decimal pl-5 space-y-1 text-zinc-400">
+                                    <li><em>Mian Khalid Pervaiz v. The State</em>, 2021 SCMR 522 (Supreme Court of Pakistan).</li>
+                                    <li><em>Asfandyar v. Kamran</em>, 2016 SCMR 2084 (Supreme Court of Pakistan).</li>
+                                    <li><em>Ishtiaq Ahmed Mirza v. Federation of Pakistan</em>, PLD 2019 SC 675 (Supreme Court of Pakistan).</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Amna Akbar.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Allama Iqbal Law College</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "THE FALLIBILITY OF FORENSIC SCIENCE: LEGAL CHALLENGE AND SAFEGUARD AGAINST WRONGFUL CONVICTION",
+            author: "By Bideepta Roy",
+            abstract: "Forensic science can help courts discover the truth, but it can also mislead them when samples are contaminated, methods are unreliable, reports are misunderstood, or experts are treated as infallible. A wrongful conviction does not only punish an innocent person; it also allows the real offender to remain free and weakens public confidence in the justice system. In India, forensic evidence is becoming increasingly important, particularly with the Bharatiya Nagarik Suraksha Sanhita, 2023, requiring forensic crime-scene visits in specified serious offences as State facilities are notified. This article examines common sources of forensic error, the legal position under the Bharatiya Sakshya Adhiniyam, 2023, relevant judicial decisions, and practical reforms, arguing that science serves justice only when its limits are acknowledged and those responsible for avoidable failures are held accountable.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <p className="text-[#D4AF37]/90 italic text-lg border-b border-white/10 pb-4">
+                        A Legal Analysis of Reliability, Fair Trial and Institutional Responsibility
+                    </p>
+
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>How Forensic Errors Can Produce Wrongful Convictions</li>
+                            <li>The Legal Framework in India</li>
+                            <li>Some Judicial Decisions</li>
+                            <li>Why Accountability Is Necessary</li>
+                            <li>Reforms India Should Prioritise</li>
+                            <li>Conclusion</li>
+                            <li>Footnotes &amp; References</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Keywords:</strong> Forensic Science, Wrongful Convictions, Expert Evidence, Fair Trial, Forensic Reliability, Legal Safeguards.
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Courts decide guilt or innocence, but many criminal cases now depend on scientific material: DNA profiles, fingerprints, toxicology, firearms analysis, medical evidence, questioned documents, CCTV footage and digital records. Such evidence can reveal facts ordinary witnesses cannot. Yet it is not automatically correct merely because it appears technical or comes from a laboratory. A sample may be collected incorrectly, stored badly, contaminated, labelled wrongly or transferred without a proper record. A laboratory may use an unsuitable method or interpret a result too confidently. Investigators may focus on one suspect and overlook evidence pointing elsewhere. A court may also mistake a probability or expert opinion for conclusive proof. The question is not whether forensic science should be used. It should. The question is how India can ensure that forensic evidence is sound, fairly tested and subject to accountability when things go wrong.<sup className="text-[#D4AF37] text-xs ml-0.5">[1][2]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">1. HOW FORENSIC ERRORS CAN PRODUCE WRONGFUL CONVICTIONS</h4>
+                        <p>Forensic mistakes can arise at every stage. At the crime scene, failure to use protective equipment, separate exhibits or record where an item was found may contaminate biological material or make its origin uncertain. Even an accurate test cannot answer reliably if the sample itself is doubtful. In laboratories, instruments require maintenance and calibration, methods must suit the material, and analysts must record their steps. A report that states a conclusion without explaining its method, limitations or possible error makes scrutiny difficult. Interpretation can also be affected by human bias. If an examiner is told that a suspect confessed or has a criminal history, ambiguous findings may be interpreted in favour of the prosecution theory. Where practical, analysts should receive only the information necessary for testing and significant conclusions should receive independent review. Reports may also be overstated in court. A DNA association does not by itself establish when or how biological material was deposited. A fingerprint comparison depends on print quality. A medical opinion may show consistency with an allegation without proving every element of an offence. Courts must ask what the evidence actually establishes. Finally, the defence may lack resources or technical help to challenge a report. If the accused cannot obtain relevant laboratory records or question the expert, the trial may become unequal. Wrongful convictions may therefore result from a chain of investigative, scientific and procedural failures, not just one incorrect test.<sup className="text-[#D4AF37] text-xs ml-0.5">[3][4][5]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">2. THE LEGAL FRAMEWORK IN INDIA</h4>
+                        <p>The Constitution provides the foundation for a fair criminal process. Article 21 protects life and personal liberty except according to procedure established by law. A criminal trial that relies on unreliable evidence or denies a meaningful opportunity to challenge the prosecution case raises serious fair-trial concerns. Article 14 also supports fairness and non-arbitrariness in State action, while Article 39A directs the State to promote equal justice and free legal aid. The Bharatiya Sakshya Adhiniyam, 2023 (BSA), in force from 1 July 2024, recognises expert opinions under Section 39. This includes opinions on science and other specialised fields, as well as handwriting and finger impressions. Section 39(2) also recognises the opinion of an Examiner of Electronic Evidence referred to in Section 79A of the Information Technology Act, 2000, for relevant questions involving computer resources and digital or electronic information. The provision makes expert opinion relevant; it does not mean that the expert&apos;s conclusion must automatically be accepted as final truth.<sup className="text-[#D4AF37] text-xs ml-0.5">[6]</sup></p>
+                        <p className="mt-4">The Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS), introduces an important operational change through Section 176(3). For offences punishable with imprisonment of seven years or more, it provides for a forensic expert to visit the crime scene and for videography of the process from the date notified by the State Government, within the statutory five-year period. Where a relevant forensic facility is unavailable, the provision contemplates use of a facility in another State until local capacity is developed. This can improve evidence collection, but its success depends on trained personnel, adequate laboratories, timely reporting and proper safeguards. The new framework is an opportunity, not a guarantee. A statutory requirement to involve forensic experts cannot by itself cure weak infrastructure, delayed analysis or poor documentation. Implementation must be monitored and the resulting evidence must remain open to judicial scrutiny.<sup className="text-[#D4AF37] text-xs ml-0.5">[7]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">3. SOME JUDICIAL DECISIONS</h4>
+                        <p>In <em>Pattu Rajan v. State of Tamil Nadu</em> (2019) 4 SCC 771, the Supreme Court explained that DNA evidence is a form of expert opinion. Its value depends on the facts of the case and its relationship with the other evidence. The Court cautioned that DNA evidence, although increasingly reliable, is not infallible. The principle is important: forensic findings should be evaluated alongside the complete evidentiary record rather than treated as a substitute for judicial reasoning. In <em>Manoj v. State of Madhya Pradesh</em> (2023) 2 SCC 353, the Supreme Court discussed the importance of ensuring quality in DNA testing and eliminating the possibility of contamination. The decision reinforces that courts must pay attention to the integrity of the sample and the circumstances in which scientific results were obtained. The label &ldquo;DNA evidence&rdquo; cannot remove the need to examine its reliability.<sup className="text-[#D4AF37] text-xs ml-0.5">[8]</sup></p>
+                        <p className="mt-4">The general approach to expert evidence was also discussed in <em>State of H.P. v. Jai Lal</em> (1999) 7 SCC 280. An expert assists the court on matters beyond ordinary knowledge, but the court must assess the reasons and material supporting the opinion. An expert is not the decision-maker on guilt. The judicial duty to evaluate the evidence remains with the court. These decisions do not suggest that forensic evidence should be rejected. Rather, they require a balanced approach: scientific findings can strengthen a case when properly collected and explained, but their weight depends on methodology, context, corroboration and the opportunity for challenge. A court should ask how the expert reached the conclusion, whether the assumptions are sound, what limitations exist, and whether other evidence supports or contradicts it.<sup className="text-[#D4AF37] text-xs ml-0.5">[9]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">4. WHY ACCOUNTABILITY IS NECESSARY</h4>
+                        <p>Accountability must operate at several levels. Investigators should document collection, packaging, sealing, labelling and transfer of every exhibit. Each transfer should be traceable. If a seal is broken or a gap appears, the reason should be recorded and the court should assess its effect on reliability. Laboratories should use validated methods, maintain equipment, conduct proficiency testing and peer-review important findings. Reports should distinguish observations from interpretations and state limitations. An inconclusive result should be described as such rather than presented with false certainty. Experts must be answerable for negligent or dishonest work, but accountability must be fair. Honest scientific disagreement is not the same as deliberate fabrication or reckless disregard of standards. Disciplinary action should follow a transparent process, with proportionate consequences and an opportunity to respond. Criminal liability should be considered only where the legal elements of an offence are met.<sup className="text-[#D4AF37] text-xs ml-0.5">[10]</sup></p>
+                        <p className="mt-4">Investigating agencies and laboratories should preserve underlying data, notes, images, instrument outputs and records needed to evaluate a report. Disclosure must allow the defence to understand and challenge the conclusion, subject to lawful privacy protections. The prosecution should not rely on a polished final report while withholding material that reveals its limitations. Where serious failures cause injustice, remedies may include reassessment of evidence, further examination where scientifically possible, setting aside an unsafe conviction, or other relief available under law. States should also consider clear review mechanisms for credible wrongful-conviction claims and compensation where wrongful incarceration is established. Compensation cannot restore lost years, but the absence of an effective remedy compounds the harm.<sup className="text-[#D4AF37] text-xs ml-0.5">[11]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">5. REFORMS INDIA SHOULD PRIORITISE</h4>
+                        <p>First, forensic laboratories need adequate funding, modern equipment, trained staff and manageable workloads. Delays can prolong trials and weaken evidence. Access to competent facilities should not depend on a person&apos;s location. Second, minimum standards should cover collection, packaging, transport, storage, testing, reporting and disclosure. Standards should be public and regularly updated. Independent audits can identify recurring weaknesses before they cause injustice. Third, experts need continuing training in science and courtroom communication. Reports should explain their basis and limitations in clear language. Judges and lawyers also need forensic literacy to distinguish a strong inference from an unsupported claim.<sup className="text-[#D4AF37] text-xs ml-0.5">[12]</sup></p>
+                        <p className="mt-4">Fourth, the defence must have a realistic opportunity to examine forensic material. Legal aid should include expert assistance in appropriate cases. Courts should consider independent review or retesting where there is a genuine, reasoned concern and the material remains suitable for analysis. Fifth, safeguards against bias should be strengthened. Where practical, analysts should receive only necessary case information, and significant findings should be independently verified. Laboratories should maintain policies for conflicts of interest, error reporting and correction. Sixth, India should collect reliable data on forensic delays, errors, retesting, overturned findings and complaints. Public reporting, while protecting private information, would help measure progress. A culture that discloses honest mistakes is safer than one that conceals them. Finally, courts must remain independent. A forensic report is evidence, not a verdict. Judges should explain why they accept or reject important scientific findings, especially when a report is central to the prosecution case. The standard of proof beyond reasonable doubt cannot be replaced by the appearance of scientific precision.<sup className="text-[#D4AF37] text-xs ml-0.5">[13]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Forensic science can strengthen criminal justice only when its methods are reliable, its limitations are openly acknowledged and its conclusions can be independently examined. Contamination, weak documentation, biased interpretation, exaggerated claims and unequal access to expert assistance can turn a useful scientific tool into a source of injustice. India&apos;s newer criminal laws create an opportunity to improve forensic participation in serious investigations, but legislation must be supported by trained staff, well-equipped laboratories, transparent procedures and effective oversight. The courts have rightly recognised that expert evidence assists judicial decision-making but does not replace it. The next step is to make that principle real in everyday practice: preserve the chain of custody, disclose material records, permit meaningful challenge, correct errors and provide effective remedies where failures cause injustice. Accountability should be proportionate and evidence-based, distinguishing honest error from negligence or deliberate misconduct. Ultimately, the purpose of forensic science is not simply to secure convictions. It is to help establish the truth. When science fails, the system must be capable of recognising that failure and correcting it. Justice is served not by blind faith in scientific reports, but by a process that tests them carefully, treats every person fairly and remains willing to correct its own mistakes.<sup className="text-[#D4AF37] text-xs ml-0.5">[14]</sup></p>
+                    </div>
+
+                    <div className="bg-black/40 p-6 rounded-2xl border border-white/5">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES</h4>
+                        <ol className="list-decimal pl-5 space-y-3 text-sm text-zinc-400">
+                            <li>The abstract summarises the article&apos;s central argument: forensic evidence is valuable, but it should not be treated as automatically correct. Reliability depends on careful collection, sound scientific methods, clear reporting and a fair opportunity for the defence to question the result. For example, a laboratory may accurately identify a person&apos;s DNA on an object, but that result alone may not explain when the DNA was deposited or how it came to be there. The court must therefore consider the surrounding circumstances instead of drawing a conclusion from a scientific label alone. This is why reliability, transparency and accountability are connected.</li>
+                            <li>Constitution of India, Articles 14, 21 and 39A. These provisions provide a constitutional setting for fairness, protection of life and personal liberty, and equal justice with legal aid. They do not make every forensic report unreliable; they support a process in which evidence is properly tested and the accused can meaningfully defend the case. Article 14 is relevant to fair and non-arbitrary State action; Article 21 protects life and personal liberty and informs fair-trial principles; Article 39A directs the State towards equal justice and free legal aid. In practical terms, a person should not be left unable to challenge important scientific evidence merely because they cannot afford technical assistance. The exact legal remedy will depend on the facts and applicable procedural law.</li>
+                            <li>Bharatiya Sakshya Adhiniyam, 2023, section 39, recognises expert opinions on matters such as science and specialised knowledge as relevant evidence. &ldquo;Relevant&rdquo; does not mean conclusive: the court must still examine the reasons, material and circumstances supporting the expert&apos;s opinion. The expert&apos;s task is to assist the court with specialised knowledge, not to decide whether the accused is guilty. A careful report should explain the method used, the observations made, the limitations of the method and the reasoning connecting the observations to the conclusion. If the report leaves these matters unclear, the court may need further explanation or other evidence before deciding how much weight to give it.</li>
+                            <li>Information Technology Act, 2000, section 79A, provides for the designation of an Examiner of Electronic Evidence. Section 39(2) of the Bharatiya Sakshya Adhiniyam refers to that examiner for relevant questions concerning computer resources and electronic or digital information. This is particularly important where digital records form part of a criminal investigation. Digital evidence can include information recovered from computers, phones, storage devices or other electronic sources. Investigators should record how the material was obtained and handled, and experts should explain any relevant technical steps. The existence of an electronic record does not, by itself, resolve questions about its source, integrity, meaning or connection to the alleged offence.</li>
+                            <li>The chain of custody is the documented history of an exhibit from collection to presentation in court. Proper labels, seals, transfer records and storage help show that the material tested is the same material collected and that it was not altered or contaminated. For instance, if a blood sample passes from the crime-scene team to a transport officer and then to a laboratory, each transfer should be recorded. Missing details do not automatically prove that evidence is false, but unexplained gaps can create reasonable questions about its integrity. The court should assess the nature of the gap and its effect on the reliability of the evidence in that particular case.</li>
+                            <li>Bharatiya Sakshya Adhiniyam, 2023, section 39. The section makes expert opinion relevant to a court&apos;s assessment. It does not transfer the judicial function to the expert: the judge must evaluate the opinion together with the other evidence and the facts of the case. An expert opinion is strongest when the report identifies the material examined, the method followed, the observations made and the limits of the conclusion. A court may consider whether the method is appropriate, whether the underlying material was preserved properly, whether the expert&apos;s reasoning is clear and whether independent evidence supports the opinion. This approach respects scientific expertise without treating it as beyond question.</li>
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023, section 176(3). The provision concerns forensic expert visits and videography in specified serious offences, subject to commencement/notification and the statutory implementation framework. Its practical value depends on trained staff, functioning laboratories and proper records. Videography can help preserve a record of crime-scene procedures, but a recording cannot correct every mistake in collection or interpretation. The expert&apos;s work must still be methodical, documented and capable of later scrutiny. States also need enough trained personnel and laboratory capacity to make the provision workable in practice. The official text of the new criminal laws is available through the Ministry of Home Affairs and India Code.</li>
+                            <li><em>Pattu Rajan v. State of Tamil Nadu</em>, (2019) 4 SCC 771; <em>Manoj v. State of Madhya Pradesh</em>, (2023) 2 SCC 353. These decisions are discussed here for the limited principle that DNA findings must be assessed in their factual and evidentiary context, including the integrity of the sample and the possibility of contamination. A forensic result should not be considered in isolation. In practical terms, the court may need to ask how the sample was collected, whether the packaging and storage were appropriate, whether testing followed reliable procedures and whether the scientific finding actually answers the question in dispute. DNA can be powerful evidence, but it does not always establish the time, manner or intention behind the presence of biological material. The complete evidentiary picture remains important.</li>
+                            <li><em>State of H.P. v. Jai Lal</em>, (1999) 7 SCC 280. The Supreme Court explained the role of expert opinion: an expert assists the court on specialised matters, but the court must evaluate the reasoning and supporting material. The ultimate decision remains with the court, not the expert. This means that a judge should not simply repeat an expert&apos;s conclusion. The judgment should show that the evidence has been considered in context, including any weaknesses or competing explanations. Likewise, an expert should explain the basis of an opinion in language that can be understood and tested in court. This balance protects both the usefulness of scientific evidence and the judicial duty to decide the case independently.</li>
+                            <li>Accountability should distinguish an honest mistake or reasonable scientific disagreement from negligence, reckless practice or deliberate falsification. A fair process should examine what happened, the applicable professional standards, the actual impact on the case and the expert&apos;s opportunity to respond. A laboratory may need to correct a report, review other cases affected by the same problem, retrain staff or change a procedure. More serious misconduct may require disciplinary or legal action where the relevant legal requirements are satisfied. The aim is not to discourage experts from giving evidence, but to make sure that errors are reported, investigated fairly and corrected before they cause further harm.</li>
+                            <li>Disclosure means making relevant material available so that the opposing party can test the reliability of a conclusion. Depending on the case, this may include laboratory notes, raw data, photographs, instrument outputs and records of sample transfers. Any disclosure must still respect lawful privacy protections and other applicable legal limits. A final report alone may not reveal whether the analyst faced an inconclusive result, a technical difficulty or an alternative interpretation. Access to the underlying material can help the defence ask focused questions and help the court decide whether the conclusion is well supported. Disclosure should be meaningful and timely, while remaining subject to the law and the needs of a fair investigation.</li>
+                            <li>Quality assurance includes validated testing procedures, equipment maintenance, proficiency checks, internal review and periodic independent audits. These measures help identify weaknesses before an unreliable report affects a person&apos;s liberty. Funding matters because even good rules may fail if laboratories lack staff, functioning equipment or time to complete tests carefully. Workloads should be realistic, and delay data should be monitored so that backlogs can be addressed. Standards should be available to the public and updated as methods develop, while protecting confidential information where required.</li>
+                            <li>Forensic literacy means that judges and lawyers understand the basic strengths and limits of scientific evidence. It does not require them to become scientists; it helps them ask appropriate questions about methods, assumptions, uncertainty and alternative explanations. The standard of proof beyond reasonable doubt remains a legal standard and cannot be replaced by technical language or a report&apos;s appearance of precision. Independent testing should be considered when there is a genuine reason to doubt a result and the sample remains suitable for further analysis. The defence may also need access to a qualified expert, particularly in a complex case. At the same time, retesting should be handled carefully so that limited samples are not unnecessarily consumed and the process remains scientifically sound.</li>
+                            <li>The conclusion brings the article back to its central point: forensic evidence should assist the search for truth, not become a substitute for careful judicial reasoning. A just system must be able to examine evidence critically, acknowledge error and correct unsafe outcomes through remedies available under law. A wrongful conviction can affect a person&apos;s liberty, livelihood, family and reputation, while the actual offender may remain unidentified. This is why safeguards are needed at every stage—from collecting a sample to explaining the result in court. Correcting a mistake does not weaken the justice system; it demonstrates that the system is prepared to test its own decisions and protect the fairness of the process.</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>The Constitution of India, Articles 14, 21 and 39A.</li>
+                            <li>Bharatiya Sakshya Adhiniyam, 2023, section 39.</li>
+                            <li>Bharatiya Nagarik Suraksha Sanhita, 2023, section 176(3).</li>
+                            <li>Information Technology Act, 2000, section 79A.</li>
+                            <li><em>Pattu Rajan v. State of Tamil Nadu</em>, (2019) 4 SCC 771.</li>
+                            <li><em>Manoj v. State of Madhya Pradesh</em>, (2023) 2 SCC 353.</li>
+                            <li><em>State of H.P. v. Jai Lal</em>, (1999) 7 SCC 280.</li>
+                            <li>India Code, Government of India, official text of the Bharatiya Sakshya Adhiniyam, 2023 and Bharatiya Nagarik Suraksha Sanhita, 2023.</li>
+                            <li>Supreme Court of India, judgments discussing the evidentiary value and limitations of DNA evidence.</li>
+                            <li>Ministry of Home Affairs, Government of India, &ldquo;New Criminal Laws&rdquo;, official information and legislation links: <a href="https://www.mha.gov.in/en/commoncontent/new-criminal-laws" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline">https://www.mha.gov.in/en/commoncontent/new-criminal-laws</a>.</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Bideepta Roy.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">LL.B. from ICFAI University, Tripura</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "CONSTITUTIONAL VALIDITY OF ANTI-CONVERSION LAWS IN INDIA: A CRITICAL ANALYSIS OF RELIGIOUS FREEDOM, INDIVIDUAL AUTONOMY AND JUDICIAL INTERPRETATION",
+            author: "By A. Sai Mounika",
+            abstract: "Religious liberty under the Indian Constitution begins with the freedom of conscience. Article 25 also protects profession, practice and propagation, subject to public order, morality, health and the other guarantees in Part III. Legislation against conversion therefore pursues a valid object when it prevents force, fraud or coercion, but becomes constitutionally doubtful when it subjects a voluntary change of belief to official permission or social approval. Examining state anti-conversion laws through Articles 14, 19, 21 and 25 alongside Rev. Stainislaus v. State of Madhya Pradesh and later autonomy jurisprudence, this article argues that constitutional validity must be determined provision by provision: a narrowly tailored prohibition of involuntary conversion is defensible, whereas routine administrative supervision of an adult's conscience is not.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Constitutional and Statutory Framework</li>
+                            <li>Judicial Interpretation of Propagation and Conversion</li>
+                            <li>Individual Autonomy, Privacy and Consent</li>
+                            <li>Article 14: Arbitrariness, Classification and Procedural Fairness</li>
+                            <li>Interfaith Marriage and the Limits of State Power</li>
+                            <li>Recent Legislative and Judicial Developments</li>
+                            <li>Applying Proportionality</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Keywords:</strong> Anti-Conversion Laws, Constitutional Validity, Freedom of Religion, Article 25, Individual Autonomy, Fundamental Rights, Religious Conversion, Judicial Interpretation, Indian Constitution
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Public debate frequently presents conversion as a contest between propagation and public order. That formulation obscures the person whose conviction is being formed or changed. Article 25 deliberately begins with conscience, indicating that belief belongs primarily to the individual rather than to family, community or government. A person may preserve a faith, reinterpret it, leave it or embrace another. The State may restrain conduct that destroys this freedom, yet it must keep persuasion distinct from compulsion and protective action distinct from control.</p>
+                        <p className="mt-4">Earlier freedom-of-religion statutes concentrated on conversion secured through force, fraud or inducement. Newer enactments often regulate the entire process. They may demand declarations, empower district officials to investigate, attach special consequences to conversion connected with marriage, enlarge the category of complainants, shift evidentiary burdens and impose stringent bail conditions. Constitutional review must therefore examine both the offence and its enforcement machinery. A legitimate legislative aim does not justify imprecise language or procedures that expose converts to intimidation.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONSTITUTIONAL AND STATUTORY FRAMEWORK</h4>
+                        <p>The relevant rights operate as a connected scheme. Article 25 secures conscience and religious manifestation; Article 26 protects aspects of collective religious autonomy; Articles 14 and 15 restrain arbitrary discrimination; Article 19 safeguards expression and association; and Article 21 protects dignity, privacy and intimate decision-making. These guarantees permit intervention where threats, deception or exploitation have displaced consent. They do not permit the State to infer incapacity merely because an adult&apos;s religious choice is unpopular or associated with an interfaith relationship. <em>(Constitution of India 1950, arts 14, 15, 19, 21, 25 and 26.)</em></p>
+                        <p className="mt-4">States ordinarily locate legislative competence in public order and criminal law. Odisha and Madhya Pradesh enacted influential early statutes in 1967 and 1968, while later laws adopt differing definitions, penalties and procedures concerning allurement, notice, funding, marriage and mass conversion. The constitutional conclusion must follow the exact statutory design. A focused prohibition on threats is materially different from a regime that begins with suspicion of every change of faith. <em>(Constitution of India 1950, sch 7, list II, entry 1 and list III, entries 1–2; Orissa Freedom of Religion Act 1967; Madhya Pradesh Dharma Swatantrya Adhiniyam 1968.)</em></p>
+                        <p className="mt-4">Formal neutrality is insufficient if enforcement is selective. A generally worded law may still offend Article 14 when complaints, arrests and prosecutions disproportionately target conversion into minority faiths while comparable conduct elsewhere is ignored. Such patterns can suppress lawful religious activity even without an express discriminatory rule. Courts should therefore consider statutory language together with enforcement data. Publication of anonymised figures on complaints, charges, acquittals and convictions would help distinguish genuine prevention of coercion from regulation shaped by majoritarian preference.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL INTERPRETATION OF PROPAGATION AND CONVERSION</h4>
+                        <p><em>Rev. Stainislaus v. State of Madhya Pradesh</em> remains the doctrinal point of departure. The Supreme Court interpreted &ldquo;propagate&rdquo; as a liberty to communicate religious teaching, not a fundamental entitlement to convert another person. It upheld prohibitions on force, fraud and allurement because those methods impair the other person&apos;s conscience and may affect public order. The decision consequently excludes coercive proselytism from Article 25. Its scope is limited, however: the Court did not consider compulsory advance disclosure, public notice, marriage-based presumptions, unrestricted third-party standing or unusually demanding bail provisions. <em>(Rev Stainislaus v State of Madhya Pradesh (1977) 1 SCC 677, 680–83.)</em></p>
+                        <p className="mt-4">Later autonomy jurisprudence adds an essential dimension. <em>Justice K.S. Puttaswamy (Retd.) v. Union of India</em> connected privacy with dignity and the ability to shape one&apos;s life. <em>Shafin Jahan v. Asokan K.M.</em> established that neither a family nor a court may choose a competent adult&apos;s partner or religion. <em>Shakti Vahini v. Union of India</em> similarly rejected collective interference with adult marriage. These authorities can coexist with <em>Stainislaus</em> if that judgment is confined to unlawful means. The State may prevent the destruction of consent, but social disagreement does not establish its absence. <em>(Justice KS Puttaswamy (Retd) v Union of India (2017) 10 SCC 1; Shafin Jahan v Asokan KM (2018) 16 SCC 368; Shakti Vahini v Union of India (2018) 7 SCC 192.)</em></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INDIVIDUAL AUTONOMY, PRIVACY AND CONSENT</h4>
+                        <p>Conversion may embody conviction, identity, association and family life. Prior disclosure can chill each of these interests and give officials, relatives or local organisations an opportunity to exert pressure. A declaration, if retained, should record rather than authorise a decision already made by a competent adult. Confidentiality, fixed timelines, absence of executive discretion and exclusion of public objections are therefore essential. Without those safeguards, a procedure presented as protective may become the mechanism through which private conscience is exposed to collective control.</p>
+                        <p className="mt-4">Autonomy does not make consent immune from investigation. Criminal law may properly address confinement, threats, material deception and exploitation of incapacity. The difficulty lies in elastic expressions such as &ldquo;allurement&rdquo;, &ldquo;better lifestyle&rdquo; or &ldquo;divine displeasure&rdquo;. Read broadly, they may reach charitable assistance, education, theological advocacy or familiar promises of spiritual benefit. Liability should require culpable intention, a close causal connection between the prohibited conduct and the conversion, and evidence that independent judgment was substantially overcome. The law should condemn wrongful methods, not the religion ultimately selected.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ARTICLE 14: ARBITRARINESS, CLASSIFICATION AND PROCEDURAL FAIRNESS</h4>
+                        <p>Article 14 demands rational classification and prohibits manifest arbitrariness. Enhanced protection for children or persons whose actual vulnerability has been exploited may be justified. More difficult are presumptions concerning adult women, members of Scheduled Castes or Scheduled Tribes, persons with disabilities or interfaith partners. Protective language becomes paternalistic when group membership is treated as proof of incapacity. Aggravated punishment should depend on demonstrated exploitation in the particular case, not on a legislative assumption that certain adults possess less religious agency than others.</p>
+                        <p className="mt-4">Procedural fairness is equally important. A reverse burden should operate only after the prosecution proves foundational facts linking the accused to the conversion and indicating an unlawful method. Otherwise the presumption of innocence is weakened. Broad standing provisions may also allow ideological groups or disapproving relatives to override the convert&apos;s wishes. Complaints should ordinarily originate from the affected person or an authorised representative. Independent state action should require recorded, credible evidence of coercion, incapacity, trafficking or immediate danger, followed by meaningful supervisory review.</p>
+                        <p className="mt-4">The convert&apos;s account should remain central, although coercion may operate privately and leave limited documentary evidence. A magistrate recording a statement should ensure safety, independent advice and the absence of interested parties. Minor inconsistency should not automatically prove compulsion, especially where fear of family retaliation affects disclosure. Conversely, a formal declaration cannot bar investigation if reliable evidence later reveals threats or deception. The object is a careful assessment of genuine consent rather than mechanical reliance on either paperwork or suspicion.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTERFAITH MARRIAGE AND THE LIMITS OF STATE POWER</h4>
+                        <p>The closeness in time between marriage and conversion may justify factual inquiry, but cannot itself prove illegality. Concealment, impersonation, threats or deception may properly attract punishment when used to secure either marriage or religious change. The mere fact that an adult converts before or after an interfaith union is different. Although the Special Marriage Act 1954 offers a civil route without conversion, that option does not extinguish a sincere decision to adopt a partner&apos;s faith. As <em>Shafin Jahan</em> indicates, analysis must begin with capacity and expressed will rather than familial approval. <em>(Special Marriage Act 1954; Shafin Jahan v Asokan KM (2018) 16 SCC 368.)</em></p>
+                        <p className="mt-4">Protective procedures should identify coercion without creating fresh danger. Confidential access to a magistrate, independent legal advice, police protection and a voluntary statement can serve that purpose. Public notification, participation by hostile relatives, prolonged executive inquiry and automatic suspicion of a spouse or officiant may instead expose adults to retaliation. Once competent adults consistently affirm their decisions, further interference should depend on concrete evidence of an offence rather than an inference arising from the interfaith character of their relationship.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RECENT LEGISLATIVE AND JUDICIAL DEVELOPMENTS</h4>
+                        <p>Recent legislation has enlarged both substantive offences and procedural control. Uttar Pradesh&apos;s 2024 amendment widened the class of complainants, increased penalties, addressed funding and introduced stricter bail requirements. Rajasthan&apos;s 2025 Act, brought into force in October, adopted broad definitions, a notice framework and specific rules concerning marriage. These measures go beyond a simple prohibition of force or fraud and intensify concerns about vagueness, overbreadth and deterrence of lawful association. <em>(Uttar Pradesh Prohibition of Unlawful Conversion of Religion (Amendment) Act 2024; Rajasthan Prohibition of Unlawful Conversion of Religion Act 2025, Act 21 of 2025; Rajasthan Gazette, Extraordinary, 8 October 2025; Government of Rajasthan, Home (Group-5) Department, Notification SO 44, 29 October 2025.)</em></p>
+                        <p className="mt-4">Judicial developments have moved these questions toward national resolution. In September 2025 the Supreme Court transferred connected High Court challenges and invited responses on interim relief. <em>Rajendra Bihari Lal v. State of Uttar Pradesh</em> treated rules governing complaints and criminal process as substantive safeguards rather than technical formalities. In February 2026, a petition by the National Council of Churches in India was tagged with the existing batch. The pending proceedings now raise issues not settled in 1977: notice, inquiry, standing, reverse burdens, bail and intimate autonomy. <em>(Citizens for Justice and Peace v State of Uttar Pradesh, WP (Crl) No 428 of 2020, order dated 16 September 2025 (SC); Rajendra Bihari Lal v State of Uttar Pradesh 2025 INSC 1249; National Council of Churches in India v State of Rajasthan, WP (C) No 98 of 2026, order dated 2 February 2026 (SC).)</em></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">APPLYING PROPORTIONALITY</h4>
+                        <p>Proportionality provides the clearest framework for reconciling the competing interests. Preventing conversion through violence, fraud or coercion is a legitimate objective, and punishment is rationally connected to it. Necessity and balance remain decisive. Ordinary criminal offences, investigation upon a credible complaint, confidential judicial verification and targeted protection orders may achieve the same purpose with less intrusion than universal executive disclosure. Benefits to public order must be weighed against burdens on conscience, privacy, equality, association and safety. <em>(Modern Dental College and Research Centre v State of Madhya Pradesh (2016) 7 SCC 353, 411–15; Justice KS Puttaswamy (Retd) v Union of India (2017) 10 SCC 1.)</em></p>
+                        <p className="mt-4">Review need not end in complete validation or total invalidation. Courts may preserve offences directed at demonstrable force, fraud and coercion while severing or reading down vague, intrusive or unfair provisions. They may require foundational proof before a presumption operates, narrow standing, protect confidentiality and give decisive weight to a competent adult&apos;s voluntary statement. This method respects federal legislative space while maintaining a common constitutional floor and recognising that statutory design itself may facilitate misuse.</p>
+                        <p className="mt-4">Remedies also require careful design. Reading down is appropriate where statutory language reasonably permits a narrow, constitutional construction; severance is preferable when an intrusive procedure can be removed without defeating the Act&apos;s central purpose. Interim protection may be essential if disclosure places converts or couples at immediate risk. Courts should direct confidentiality, prompt hearings, protection against retaliatory complaints and periodic review of continuing restrictions. These safeguards allow genuine prosecutions to proceed while preventing criminal process from becoming a source of coercion.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The Constitution permits the State to protect individuals from religion imposed through force, fraud or comparable abuse. It equally preserves an adult&apos;s authority to retain, abandon or adopt a faith. Validity therefore depends on statutory design rather than legislative labels. Offences must be precise, presumptions fair and procedures no more intrusive than protection genuinely requires. <em>Stainislaus</em> supports restraints on unlawful methods; the later autonomy decisions secure the sphere of voluntary choice.</p>
+                        <p className="mt-4">A constitutionally defensible regime must remain neutral among religions, define criminal conduct narrowly and centre safeguards on the person whose belief is questioned. Government has a duty to protect conscience from coercion, not to place conscience under licence. Maintaining that boundary offers the most principled reconciliation of public order with dignity, secularism and individual freedom. <em>(SR Bommai v Union of India (1994) 3 SCC 1; Constitution of India 1950, arts 21 and 25.)</em></p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Constitution of India 1950, articles 14, 15, 19, 21, 25 and 26; Schedule VII, List II, Entry 1 and List III, Entries 1–2.</li>
+                            <li>Orissa Freedom of Religion Act 1967.</li>
+                            <li>Madhya Pradesh Dharma Swatantrya Adhiniyam 1968.</li>
+                            <li>Special Marriage Act 1954.</li>
+                            <li>Uttar Pradesh Prohibition of Unlawful Conversion of Religion (Amendment) Act 2024.</li>
+                            <li>Rajasthan Prohibition of Unlawful Conversion of Religion Act 2025, Act 21 of 2025.</li>
+                            <li>Rajasthan Gazette, Extraordinary, 8 October 2025.</li>
+                            <li>Government of Rajasthan, Home (Group-5) Department, Notification SO 44, 29 October 2025.</li>
+                            <li>Rev Stainislaus v State of Madhya Pradesh (1977) 1 SCC 677.</li>
+                            <li>SR Bommai v Union of India (1994) 3 SCC 1.</li>
+                            <li>Modern Dental College and Research Centre v State of Madhya Pradesh (2016) 7 SCC 353.</li>
+                            <li>Justice KS Puttaswamy (Retd) v Union of India (2017) 10 SCC 1.</li>
+                            <li>Shafin Jahan v Asokan KM (2018) 16 SCC 368.</li>
+                            <li>Shakti Vahini v Union of India (2018) 7 SCC 192.</li>
+                            <li>Citizens for Justice and Peace v State of Uttar Pradesh, WP (Crl) No 428 of 2020, order dated 16 September 2025 (Supreme Court of India).</li>
+                            <li>Rajendra Bihari Lal v State of Uttar Pradesh, 2025 INSC 1249.</li>
+                            <li>National Council of Churches in India v State of Rajasthan, WP (C) No 98 of 2026, order dated 2 February 2026 (Supreme Court of India).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by A. Sai Mounika.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">L.L.M</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "MARITAL RAPE & CONSENT LAWS",
+            author: "By Sana Khan",
+            abstract: "Marriage in India is considered as the most sacred and beautiful part of one's life. It is associated with trust, companionship, and mutual respect. However, getting married does not mean that you have to give up your bodily rights. Marital rape is defined as non-consensual sexual acts perpetrated by a spouse, and it remains one of the most under-recognized and legally contested violations of human rights globally. Marital rape has been criminalized in more than 100 countries, while India remains among the 36 countries that have not criminalized it as a crime yet. This article discusses the issue of marital rape in India, its historical roots, and whether the marital rape exception is inconsistent with Article 14 and Article 21 of the Constitution of India.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>Unveiling the History of Marital Rape in India</li>
+                            <li>Marital Rape and Constitutional Rights</li>
+                            <li>Important Judicial Decisions</li>
+                            <li>Why Marital Rape Should Be Criminalized</li>
+                            <li>Conclusion</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Keywords:</strong> Marital Rape, Human Rights, Article 14, Article 21, Dignity, Equality.
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Marital rape or spousal rape means engaging in sexual intercourse with one&apos;s spouse without consent. The absence of consent is an essential element and need not include physical violence. Marital rape is deemed to be a form of domestic violence and sexual abuse. The problem is that Indian law does not recognize marital rape as a criminal offence. If a husband has sexual intercourse with his adult wife without her consent, then he may not be prosecuted for rape under the present legal position. But if a man has sexual intercourse with an unmarried woman without her consent, the act is considered as rape. However, if the same act is committed by a husband against his wife, the law provides an exception. This raises a very significant question.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Can Marriage Be Treated As Permanent Consent To Sexual Relation?</h5>
+                        <p>The answer should be a big NO. Consent is important in every relationship, including marriage. A woman does not and should not lose her right to say &lsquo;NO&rsquo; merely because she is a wife.</p>
+                        <p className="mt-4">Under Exception 2 to Section 63 of the Bharatiya Nyaya Sanhita, 2023 (BNS) (which replaced Exception 2 to Section 375 of the Indian Penal Code, 1860), forced sexual intercourse by a man with his own wife (if she is not under the age of 18) does not constitute the offence of rape.</p>
+                        <p className="mt-4">In India, almost 83% of married women aged between 15 and 49 have blamed their husband for sexual violence, whereas 7% have reported a former husband as an offender, according to the 2015–2016 report released by the National Family Health Survey.</p>
+                        <p className="mt-4">This issue of marital rape is not only related to criminal law; it is also connected with constitutional rights. Forced sexual relations affect a woman&apos;s dignity, privacy, personal liberty, mental health, and most importantly her bodily autonomy. Therefore, the issue must be examined from the perspective of Article 14 and Article 21 of the Indian Constitution.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">UNVEILING THE HISTORY OF MARITAL RAPE IN INDIA</h4>
+                        <p>One of the most famous statements supporting this idea was made by Sir Matthew Hale. According to his view, a wife gave permanent consent to sexual relations by entering into marriage. This idea was based on the belief that a wife could not withdraw her consent after marriage, which is simply very degrading and misogynistic. Husband and wife were seen as one entity and all rights of the wife (including her sexual rights) were absorbed by those of her husband. Further, there is a blind belief that a husband cannot rape his own wife.</p>
+                        <p className="mt-4">The issue of marital rape in India is not a recent phenomenon, with instances occurring throughout history, but it has largely remained hidden from public awareness due to a lack of understanding. Victims often face the daunting prospect of speaking out, as doing so may jeopardize the social standing of their families.</p>
+                        <p className="mt-4">The first recorded case of marital rape in India was <em>Queen Empress v. Haree Mohan Maiti</em> (1886), also known as the Phulmoni Dasi Rape Case. It involved Phulmoni, a ten-year-old child-bride who tragically died from excessive bleeding when her husband, Hari Mohan, attempted to consummate their marriage. Despite clear evidence of sexual violence, the Calcutta High Court sentenced the husband to only 12 months of hard labour, citing the legal exception under Section 375 of the Indian Penal Code, which did not consider sex with a wife above 10 years old as rape. In response, in 1891, Lord Lansdowne, the Viceroy of India, introduced the bill to increase the age of consent from 10 to 12 years, but full criminalization of marital rape did not occur.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">MARITAL RAPE AND CONSTITUTIONAL RIGHTS</h4>
+                        <p>Marital rape affects the fundamental rights of married women, especially the rights guaranteed under Article 14 and Article 21 of the Indian Constitution.</p>
+                        <p className="mt-4">Article 14 guarantees equality before the law and equal protection of the laws. The marital rape exception creates a difference between married and unmarried women. If a man has sexual intercourse with an unmarried woman without her consent, it can amount to rape. However, if a husband commits the same act against his adult wife, he is protected by Exception 2 of Section 63 of the Bharatiya Nyaya Sanhita, 2023. This difference is based only on the woman&apos;s marital status, which is unfair. A married woman and an unmarried woman are equally entitled to protection of law. Marriage should not reduce the legal rights of a woman. The marital rape exception appears to violate Article 14 because it denies equal protection to married women.</p>
+                        <p className="mt-4">Article 21 protects the right to life and personal liberty. The Supreme Court has interpreted this right widely and has included dignity, privacy, personal liberty, and bodily autonomy within it. Bodily autonomy means that every person has control over their own body. Forced sexual relations violate a woman&apos;s dignity and personal liberty. A wife is an independent individual and not the property of her husband. She has the right to decide whether she wants to engage in sexual relations or not. That right cannot be taken away just because she is married. Therefore, marital rape also violates rights to dignity, privacy, and bodily autonomy.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IMPORTANT JUDICIAL DECISIONS</h4>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. Independent Thought v. Union of India</strong>
+                                <p>In <em>Independent Thought v. Union of India</em>, the Supreme Court held that sexual intercourse with a wife below 18 years of age can amount to rape. The Court read down the marital rape exception to protect child wives. This judgment was important because it recognized that child marriage cannot take away the protection available to girls under criminal law. However, this decision did not remove the marital rape exception for adult married women.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Suchita Srivastava v. Chandigarh Administration</strong>
+                                <p>In <em>Suchita Srivastava v. Chandigarh Administration</em>, the Supreme Court recognized that reproductive choice is a part of personal liberty under Article 21. This judgment supported the principle that a woman has the right to make decisions about her own body and reproductive life. This principle is important in marital rape cases because a woman should also have the right to refuse unwanted sexual relations.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Justice K.S. Puttaswamy v. Union of India</strong>
+                                <p>In <em>Justice K.S. Puttaswamy v. Union of India</em>, the Supreme Court recognized privacy as a fundamental right. Privacy includes the right to make personal and intimate decisions about one&apos;s body and personal life. The decision strengthens the argument that sexual consent is a personal decision. A woman&apos;s consent cannot be assumed simply because she is married or is silent.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. Delhi High Court Split Verdict</strong>
+                                <p>In 2022, the Delhi High Court gave a split verdict on the constitutional validity of the marital rape exception. Justice Rajiv Shakdher held that the exception was unconstitutional because it violated a married woman&apos;s right to equality, dignity, privacy, and bodily autonomy. On the other hand, Justice C. Hari Shankar upheld the exception and stated that Parliament should decide the issue.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">5. Karnataka High Court Ruling &amp; Supreme Court Batch Petitions</strong>
+                                <p>In the Karnataka High Court ruling and Supreme Court batch petitions, the stakes are high for Indian women. The petitioners challenge the constitutional validity of Exception 2 to Section 375 of the IPC, which grants the Marital Rape Exception (MRE) to Indian husbands.</p>
+                            </li>
+                        </ul>
+
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 mt-6 space-y-3">
+                            <strong className="text-[#D4AF37] block text-lg">The Questions Arise Here:</strong>
+                            <ul className="list-disc pl-5 space-y-2 text-zinc-300">
+                                <li>Does the exception to marital rape violate a married woman&apos;s right to equality by denying her the same legal remedies as unmarried women?</li>
+                                <li>Does the exception to marital rape deny married women the same status as men in a marriage?</li>
+                                <li>Does the exception of marital rape violate a wife&apos;s right to privacy?</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHY MARITAL RAPE SHOULD BE CRIMINALIZED</h4>
+                        <p>Marital rape should be criminalized as soon as possible because marriage cannot be treated as permanent consent. Consent must be free, voluntary, and present at the time of every sexual act. A woman has the right to refuse sexual acts even after marriage and she can withdraw her consent at any time. Denying this right means treating married women as less equal than unmarried women.</p>
+                        <p className="mt-4">The existing exception is based on the outdated belief that a wife has a duty to satisfy her husband sexually or that the husband has control over her body. Such beliefs are against the basic values of the Indian Constitution. They violate equality under Article 14 and personal liberty under Article 21. A husband should not receive protection from rape law merely because he is married to the survivor.</p>
+                        <p className="mt-4">Criminalization will not destroy marriage. Rather, it will promote the idea that marriage should be based on mutual respect, communication, and consent. It will make sure that violence cannot be justified in the name of marriage. The law must recognize that forced sex causes the same physical and emotional harm whether it is committed by a stranger, a friend, or a husband. Therefore, the marital rape exception should be removed and adult married women should receive the same legal protection as all other women. Marital rape is a heinous crime and it must be included under the definition of rape as soon as possible to protect the married women of our nation and make India a safe and dignified country for women.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Marital rape is a serious violation of a woman&apos;s dignity, privacy, equality, and bodily autonomy. Marriage is made up of companionship and mutual responsibility, and it cannot give a husband permanent control over his wife&apos;s body.</p>
+                        <p className="mt-4">A woman does not lose her identity or her right to say &lsquo;NO&rsquo; after marriage. Consent must be voluntary and continuing; it cannot be assumed from the fact that two people are married. The marital rape exception treats married women differently from unmarried women and is difficult to reconcile with Article 14 and Article 21 of the Constitution.</p>
+                        <p className="mt-4">India must move towards a legal system where every woman receives equal protection, whether she is married or unmarried. Criminalizing marital rape is not against marriage—it is necessary to ensure that marriage is based on consent, respect, and equality.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Queen Empress v. Haree Mohan Maiti, (1886) ILR 8 All 622</li>
+                            <li>Indian Kanoon (www.indiankanoon.org), Independent Thought v. Union of India, (2017) 10 SCC 800</li>
+                            <li>National Family Health Survey (NFHS-4) 2015–2016: India (IIPS 2017) 566–76, https://www.nfhsiips.in</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, s 63 Exception 2</li>
+                            <li>Indian Penal Code, 1860, s 375 Exception 2</li>
+                            <li>Suchita Srivastava v. Chandigarh Administration, (2009) 9 SCC 1</li>
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1</li>
+                            <li>Hale M, The History of the Pleas of the Crown (Vol 1, 1736)</li>
+                            <li>Karnataka High Court Ruling &amp; Supreme Court Batch Petitions (2024)</li>
+                            <li>Delhi High Court Split Verdict (2022)</li>
+                            <li>Constitution of India, 1950, arts 14 and 21</li>
+                            <li>Indian Penal Code, 1860</li>
+                            <li>Bharatiya Nyaya Sanhita, 2023, s 358; Ministry of Home Affairs, Government of India, Notification SO 850(E), 23 February 2024</li>
+                            <li>Constitution of India, 1950, art 14</li>
+                            <li>Constitution of India, 1950, art 21</li>
+                            <li>Prime Legal, &ldquo;Marital Rape In India: Can It Be Criminalized?&rdquo;, 25 Oct 2022</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Sana Khan.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">B.A.LL.B (Hons)</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Can You Criticize the Judge but Not the Judgment? Freedom of the Press and the Contempt of Court Dilemma",
+            author: "By Prachi Bunkar",
+            abstract: "How far can the press and the public go in criticising courts before it becomes contempt? This article argues that Indian law protects reasoned criticism of a judgment and that the real risk lies in unsupported allegations against a judge's honesty. Looking at the Contempt of Courts Act, 1971 and decisions such as In re Prashant Bhushan and In re S. Mulgaokar, it argues that courts should use contempt power sparingly, since a democracy needs citizens who can question judicial decisions without fear.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>When a Judgment Becomes a Public Question</li>
+                            <li>What Does Indian Law Actually Permit?</li>
+                            <li>When Criticism Turns Towards the Judge</li>
+                            <li>The Judiciary Must Also Tolerate Criticism</li>
+                            <li>Where Should the Line Be Drawn?</li>
+                            <li>Conclusion: Judicial Independence Without Judicial Immunity</li>
+                            <li>References &amp; Footnotes</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Keywords:</strong> Contempt of Courts Act 1971, Freedom of the Press, Article 19(1)(a), Scandalizing the Court, Fair Criticism.
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>A court delivers a judgment that seems to misread the law or ignores how people actually live or ends in a result that startles the public. Journalists question the reasoning. Lawyers point out the gaps. Ordinary citizens say they disagree. At which point does all this become contempt of court? Can the media challenge a judge&apos;s approach to the law without being accused of undermining the judiciary?</p>
+                        <p className="mt-4">The question sits where two constitutional values meet: freedom of expression and the authority of courts. Courts protect our rights but a decision does not become immune from discussion just because a judge wrote it. Any institution that holds public power has to put up with scrutiny. Equally, criticism should not turn into a way of obstructing justice or spreading allegations nobody can prove.</p>
+                        <p className="mt-4">So the real issue is not whether judges can be criticised. It is how far the criticism can go, particularly when it shifts from the judgment to the person who wrote it. The law has to protect the independence of judges and the freedom to question them together, and it cannot give up one to secure the other.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHEN A JUDGMENT BECOMES A PUBLIC QUESTION</h4>
+                        <p>In January 2021, the Bombay High Court acquitted a man of sexual assault under the Protection of Children from Sexual Offences Act, 2012. It reasoned that, without direct skin-to-skin contact, the offence was not made out. The ruling drew sharp public criticism, and the Supreme Court later rejected the interpretation in <em>Attorney General for India v. Satish</em>, holding that direct physical contact without clothing is not required by the statutory definition.<sup className="text-[#D4AF37] text-xs ml-0.5">[4]</sup></p>
+                        <p className="mt-4">Whether the High Court had read the statute correctly was a fair question for the press and the public to ask. A judgment on a protective law shapes how people understand their rights and it affects how the law works in practice. Still, a ruling is not wrong simply because it is unpopular and a later reversal does not mean every criticism of it was sound. The criticism that carries weight points to the provision in question, explains where the court went astray and describes what follows from it.</p>
+                        <p className="mt-4">Consider two articles about the same case. One argues that the court read a child-protection law too narrowly. The other says, without a shred of evidence, that the judge favoured the accused for personal reasons. The first is a legal argument and invites a reply. The second is an accusation against a person and it needs proof the writer does not have. Waiting for a higher court to correct every doubtful interpretation before speaking up would leave the press with very little to say but anger on its own is no substitute for analysis.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHAT DOES INDIAN LAW ACTUALLY PERMIT?</h4>
+                        <p>Article 19(1)(a) of the Constitution guarantees freedom of speech and expression, and the press shares that freedom. Article 19(2) allows reasonable restrictions on certain grounds, one of which is contempt of court. Articles 129 and 215 give the Supreme Court and the High Courts the power to punish contempt of themselves.<sup className="text-[#D4AF37] text-xs ml-0.5">[5]</sup> The Constitution therefore does not allow the media to say anything it likes about judges and it does not require anyone to accept a judgment in silence either.</p>
+                        <p className="mt-4">The Contempt of Courts Act, 1971 fills in the detail. Under Section 2(c), criminal contempt includes publishing or doing anything that scandalises or tends to scandalise a court, that prejudices a judicial proceeding or that obstructs the administration of justice. The wording is wide and a good deal depends on how it is read. The Act also builds in some protection. Section 4 covers fair and accurate reports of court proceedings. Section 5 says that fair comment on the merits of a case that has been heard and finally decided is not contempt. Section 13, in its amended form since 2006, allows punishment only where the contempt substantially interferes with the course of justice and it permits truth as a defence when raised in good faith and in the public interest. The punishment under Section 12 can reach six months&apos; simple imprisonment, a fine of ₹2,000 or both, although a sincere apology may lead to discharge.<sup className="text-[#D4AF37] text-xs ml-0.5">[6]</sup></p>
+                        <p className="mt-4">Reading these together, the Act clearly does not treat reporting and comment as enemies of justice. A journalist is entitled to say what happened in court. A commentator is entitled to examine why a decided case came out the way it did. None of this amounts to a blanket immunity, however. In everyday terms, a person who says that a court overlooked a binding precedent or that its reasoning does not support its conclusion, is criticising a judicial act and the law permits that. A person who says a judge took a bribe or ruled out of personal hostility, with nothing to back it up, is doing something quite different. That may invite contempt proceedings and possibly a defamation claim too. Harshness of language is not what decides the matter. What counts is whether the criticism rests on reasons and good faith or on a charge the speaker cannot support.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHEN CRITICISM TURNS TOWARDS THE JUDGE</h4>
+                        <p>The harder cases arise when the criticism reaches the judge. <em>In re Prashant Bhushan</em> (2020) is the best known.<sup className="text-[#D4AF37] text-xs ml-0.5">[2]</sup> The Supreme Court began suo motu criminal contempt proceedings over two tweets by an advocate about the judiciary and the Chief Justice of India. It held him guilty on 14 August 2020 and on 31 August, imposed a fine of one rupee.<sup className="text-[#D4AF37] text-xs ml-0.5">[7]</sup> In the Court&apos;s view, the tweets went past fair criticism and weakened public confidence in the judiciary. The advocate said they were honest opinions, offered in the public interest.</p>
+                        <p className="mt-4">It would be wrong to read the case as saying that criticising a Chief Justice is unlawful as such. What it shows is how hard it is to tell accountability from an attack. Judges use public power and how they use it can properly be discussed. A commentator may ask whether a court applies the same standards in similar cases or whether a decision is adequately reasoned. A flat claim that a court is corrupt with nothing behind it, is another thing.</p>
+                        <p className="mt-4">Even so, the line cannot be put as a rule that judgments may be criticised and judges may not. Wording, context, the facts behind a statement and its likely effect on the administration of justice all play a part and a statement has to be read as a whole, not by picking out one unpleasant phrase. The danger is plain. A journalist who cannot tell in advance what is safe may decide to write nothing about the courts and responsible reporting then disappears along with the reckless kind.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE JUDICIARY MUST ALSO TOLERATE CRITICISM</h4>
+                        <p>The Supreme Court has itself seen this danger. In <em>In re S. Mulgaokar</em> (1978),<sup className="text-[#D4AF37] text-xs ml-0.5">[3]</sup> the Court stressed that contempt jurisdiction should be used with restraint and that free criticism, including by the press, has to be reconciled with the proper administration of justice. It warned against using contempt power simply because a court finds criticism unfair or unwelcome.<sup className="text-[#D4AF37] text-xs ml-0.5">[8]</sup> In <em>P.N. Duda v. P. Shiv Shanker</em> (1988), it declined to act against a speech that attacked the judiciary&apos;s approach to social and economic questions, which shows that sharp criticism of how courts function is not contempt by default.<sup className="text-[#D4AF37] text-xs ml-0.5">[9]</sup></p>
+                        <p className="mt-4">To my mind, these decisions point to something basic about democracy. People accept that courts decide matters that affect all of them and for that very reason they should be free to ask whether a decision is right. Judges hold considerable power and power of that kind does not put anyone beyond questions. As more people read, understand and discuss judgments, more questions are going to be asked. Treating each one as a threat makes little sense for a society that is becoming better informed.</p>
+                        <p className="mt-4">None of this means that a citizen who makes false and reckless allegations should go unanswered. Where that happens, a lawful response is fair, provided it stays within the legal framework and does not go beyond what the situation needs. Sending people to jail for honest disagreement rarely ends the disagreement. It usually adds to it. If a democracy makes its citizens afraid to question its institutions, it slowly stops being much of one. The extra safeguards judges enjoy exist so that they can decide cases free of pressure. They were never meant to keep decisions out of public discussion and having the final word in a case does not give a court the last word in public life.</p>
+                        <p className="mt-4">Trust is the other consideration. For many people, the courts are the last place to turn after everything else has failed. That trust is better protected by clear reasoning and an openness to fair criticism than by silencing those who disagree. A judiciary that is sure of its place can take hard questions.</p>
+                        <p className="mt-4">The opposing view deserves a hearing, and it has force. Judges cannot easily answer back in public and baseless claims of corruption can damage confidence in the whole system. Those who support the offence say that a modest safeguard is justified for that reason. A reasonable middle course is a narrowly drawn offence, used rarely. England and Wales abolished the offence of scandalising the court altogether in 2013, and their courts have kept their standing without it.<sup className="text-[#D4AF37] text-xs ml-0.5">[10]</sup> Contempt powers still have work to do against conduct that seriously interferes with proceedings or intimidates witnesses, but shielding the process of justice is a different thing from shielding every judge from disagreement.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">WHERE SHOULD THE LINE BE DRAWN?</h4>
+                        <p>Digital media has made all this more pressing. A newspaper editorial, a television debate and a social media post can all discuss the same judgment but they do not reach people in the same way. A short post can spread to thousands of readers before anyone has checked a single fact. The same platforms, though, put legal reasoning in front of people who would never open a law report. The medium should not decide whether something is contempt. The meaning of the statement as a whole, the facts behind it, the setting in which it appears and whether it really tends to interfere with justice should decide that.</p>
+                        <p className="mt-4">The press has its own part to play. It should check facts, quote judgments accurately, separate allegation from finding, and avoid passing off guesses about a judge&apos;s motives as fact. The courts, for their part, should look closely at whether a publication truly interferes with justice or simply stings and give Sections 5 and 13 the weight Parliament meant them to have.<sup className="text-[#D4AF37] text-xs ml-0.5">[11]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION: JUDICIAL INDEPENDENCE WITHOUT JUDICIAL IMMUNITY</h4>
+                        <p>The real question is not whether judges may be criticised. It is whether a particular piece of criticism is responsible, backed by evidence and lawful in its setting. A judgment is a public exercise of judicial power, so its reasoning has to stay open to examination. A judge&apos;s public conduct may also be questioned, so long as there is a genuine factual basis and a real public interest. Freedom of expression, however, gives no licence to invent allegations or to obstruct the course of justice.</p>
+                        <p className="mt-4">The skin-to-skin controversy shows why courts&apos; reasoning should be open to scrutiny and <em>Prashant Bhushan</em> shows how blurred the boundary becomes once criticism reaches judicial conduct. Taken with <em>Mulgaokar</em> and <em>Duda</em>, these cases suggest that neither unrestrained attack nor unquestioning deference works. Judges need protection from improper pressure, and they do not need protection from every awkward question. If courts take that to heart, contempt law can do what it was meant to do, which is to keep the administration of justice running and disagreeing with the people who run it will not carry a risk of its own.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES &amp; FOOTNOTES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400">
+                            <li>Prachi Bunkar is a third-year B.A. LL.B. (Hons.) student at Dr. Hari Singh Gour Vishwavidyalaya (A Central University), Sagar, Madhya Pradesh. The views expressed are personal.</li>
+                            <li>AIR 2020 SC 4074.</li>
+                            <li>(1978) 3 SCC 339.</li>
+                            <li><em>Attorney General for India v. Satish</em>, (2021) 10 SCC 572 : 2021 INSC 762.</li>
+                            <li>INDIA CONST. arts. 19(1)(a), 19(2), 129, 215.</li>
+                            <li>The Contempt of Courts Act, No. 70 of 1971, §§ 2(c), 4, 5, 12, 13 (as amended in 2006).</li>
+                            <li><em>In re Prashant Bhushan</em>, Suo Motu Contempt Petition (Crl.) No. 1 of 2020 (SC), judgment of 14.08.2020 and order on sentence of 31.08.2020.</li>
+                            <li><em>In re S. Mulgaokar</em>, (1978) 3 SCC 339.</li>
+                            <li><em>P.N. Duda v. P. Shiv Shanker</em>, (1988) 3 SCC 167.</li>
+                            <li>Crime and Courts Act 2013, s. 33 (UK).</li>
+                            <li>Contempt of Courts Act, No. 70 of 1971, §§ 5, 13, India Code (1971).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Prachi Bunkar<sup className="text-[#D4AF37] text-xs ml-0.5">[1]</sup>.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">Dr. Hari Singh Gour Vishwavidyalaya (A Central University), Sagar, M.P. — B.A.LL.B (Hons.)</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "THE JUDICIARY AND SAME-SEX MARRIAGE IN INDIA: BALANCING FUNDAMENTAL RIGHTS & SEPARATION OF POWER",
+            author: "By Angel Singh",
+            abstract: "Marriage is considered a sacred institution in this country and it does not just relate to an institution; it provides legal status to couples who are partners with each other. “Same-sex marriage” means the legal union of two people of the same gender, but in India same-sex marriage is not legally recognized. In India, marriage between the same sex is considered a taboo in society, and many people hold orthodox views under which only marriage between opposite genders is considered valid. Although marriages can be registered under various acts like the Hindu Marriage Act, Muslim Marriage Act, and Special Marriage Act, these statutes are not applicable to the LGBTQIA+ community, depriving citizens of such right. Articles 14, 15, 19, and 21 are important fundamental rights providing constitutional validity to all citizens of India, including the LGBTQIA+ community, forming the basis of arguments that same-sex couples should receive equal protection and recognition. This article examines whether these constitutional guarantees require judicial recognition of a legal right to marry or depend on legislative action, analyzing the Supriyo judgment on civil unions, adoption, and the respective roles of the judiciary and the legislature.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2">
+                            <li>Introduction</li>
+                            <li>The Constitutional Debate on Same-Sex Marriage</li>
+                            <li>Important Judicial Precedents</li>
+                            <li>Judicial Restraint and the Separation of Powers</li>
+                            <li>Impact of Non-Recognition of Same-Sex Marriage</li>
+                            <li>Conclusion &amp; Suggestions for Reform</li>
+                            <li>References</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/30 p-4 rounded-xl border border-white/5 text-sm text-zinc-400">
+                        <strong className="text-[#D4AF37]">Key Words:</strong> Special Marriage Act; Same-sex marriage; Fundamental right; Hetero-sexual &amp; homo-sexual; Valid marriage
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>Marriage is considered as a sacred institution in this country and it does not just relate to a social institution—it provides legal status to couples who are partners with each other. In India, we can register our marriage under various acts like the Hindu Marriage Act, Muslim Marriage Act, and Special Marriage Act. However, these acts are not applicable to the LGBTQIA+ community, and the sad part is that even though they are citizens of this country, they are deprived of such right. &ldquo;Same-sex marriage&rdquo; means the legal union of two people of the same gender, but in India same-sex marriage is not legally recognized.</p>
+                        <p className="mt-4">In India, the topic of marriage between the same sex is considered as a taboo in our society. People in India believe that it is causing harm to our cultural values. Many people in India still have orthodox thinking regarding marriage under which a marriage between opposite genders is only considered as valid marriage under their eyes. This legal article examines the constitutional arguments surrounding marriage equality and the respective roles of the judiciary and the Parliament. The main research question arises: to what extent can the Indian judiciary protect the fundamental rights of same-sex couples while respecting the constitutional principle of separation of power?</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE CONSTITUTIONAL DEBATE ON SAME-SEX MARRIAGE</h4>
+                        <p>In India, the question of same-sex marriage has emerged as a significant constitutional debate concerning equality, individual liberty, human dignity, and the scope of judicial power. While in India we can register our marriage under various acts like the Hindu Marriage Act, Muslim Marriage Act, and Special Marriage Act, these statutes are not applicable to the LGBTQIA+ community, leaving citizens of this country deprived of such right.</p>
+                        <p className="mt-4">As the Supreme Court has recognized the right to choose a life partner as a central part of the right to life and personal liberty, the freedom to marry anyone and choose one&apos;s life partner is argued to also apply to people seeking same-gender marriage. Constitutional provisions such as Articles 14, 15, 19, and 21 form the basis of arguments that same-sex couples should receive equal protection and recognition. The question is whether these constitutional guarantees also require the recognition of a legal right to marry, or whether such recognition depends on legislative actions.</p>
+                        <p className="mt-4">By not allowing same-sex marriage, the government creates a distinction between heterosexual and homosexual persons, which raises concerns of unequal treatment between both groups. Discrimination against certain categories of people, including on the basis of sexual orientation, is prohibited under Article 15 of the Indian Constitution and has progressively expanded to encompass persons who face discrimination based on sexual orientation. Article 19 of the Indian Constitution also prohibits unreasonable restrictions on freedom relating to expression and therefore extends to include an individual&apos;s right to express their identity and personal relationship.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IMPORTANT JUDICIAL PRECEDENTS</h4>
+                        <p className="mb-4">Constitutional jurisprudence in India has evolved significantly through landmark Supreme Court decisions addressing identity, privacy, autonomy, and equality:</p>
+                        <ul className="space-y-6">
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">1. National Legal Services Authority v. Union of India</strong>
+                                <p>The case concerned the legal recognition and rights of transgender persons in India. The Supreme Court recognized transgender persons&apos; right to self-identify their gender and directed the government to take steps to protect their constitutional rights. Articles 14, 15, 16, 19, and 21 protect transgender persons, and constitutional guarantees of equality and dignity apply to them. This judgment established an important foundation for transgender rights and gender identity. It supports a broader discussion of equality and dignity, though it did not decide whether same-sex marriage must be recognized.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">2. Supriyo @ Supriya Chakraborty v. Union of India</strong>
+                                <p>Same-sex and queer couples petitioned the Supreme Court seeking legal recognition of their relationship as marriage, including under the Special Marriage Act, 1954. They argued that excluding them from marriage recognition violated constitutional rights. A five-judge Constitution Bench declined to recognize a general fundamental right to marry for queer couples under the existing legal framework and did not judicially rewrite the Special Marriage Act to provide for same-sex marriage.</p>
+                                <p className="mt-2">The judgment also addressed civil unions, adoption, and the respective roles of the judiciary and the legislature. The judges expressed different views on some aspects of legal protection, so not every observation can be treated as a unanimous holding. The Constitution protects queer persons&apos; dignity and liberty, but the Court did not hold that these guarantees automatically require judicial recognition of same-sex marriage under existing law. This is the most important case for analyzing judicial restraint and separation of powers, as it raises the question of how courts should protect constitutional rights when the requested remedy may require changes across several areas of legislation.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">3. Navtej Singh Johar v. Union of India</strong>
+                                <p>The petitioners challenged Section 377 of the IPC, which criminalized certain sexual acts including consensual sexual relations between adults of the same sex. The Supreme Court held that Section 377 was unconstitutional insofar as it criminalized consensual sexual conduct between adults, while continuing to apply to other categories of conduct including non-consensual acts and acts involving animals. Constitutional morality, equality, dignity, privacy, and individual autonomy protect consensual same-sex intimacy between adults. This judgment removed a major criminal law barrier to LGBTQ+ equality; however, decriminalizing a relationship is legally different from requiring the State to recognize that relationship as a marriage.</p>
+                            </li>
+                            <li className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-white text-lg block mb-2">4. K.S. Puttaswamy v. Union of India</strong>
+                                <p>A constitutional challenge concerning the Aadhaar scheme raised questions about whether privacy was protected as a fundamental right. A nine-judge Bench of the Supreme Court unanimously recognized privacy as a fundamental right protected by the Constitution under Article 21. Privacy protects aspects of personal autonomy, identity, intimate relationships, and individual choices. We can use this judgment to explain why intimate relationships and personal identity deserve constitutional protection; however, privacy alone does not automatically create a legally enforceable right to marriage.</p>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">JUDICIAL RESTRAINT AND THE SEPARATION OF POWERS</h4>
+                        <p>The doctrine of separation of power means that the powers of government are divided into three separate branches independently to avoid concentration of power and misuse of power. It distributes governmental authority among the legislature, executive, and judiciary. While Parliament makes the laws, the judiciary interprets laws and ensures that governmental action remains consistent with the Constitution.</p>
+                        <p className="mt-4">In the context of same-sex marriage, the debate concerns the limits of judicial intervention in protecting fundamental rights. Under <em>Supriyo @ Supriya Chakraborty v. Union of India</em>, the Supreme Court declined to recognize a general fundamental right to marry for queer couples under the Special Marriage Act. However, judicial restraint also raises concerns about the protection of equality, dignity, and personal liberty. Although the courts must respect the constitutional role of Parliament, they must also protect individuals against unconstitutional discrimination. The challenge is to maintain a balance between judicial restraint and effective protection of fundamental rights.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">IMPACT OF NON-RECOGNITION OF SAME-SEX MARRIAGE</h4>
+                        <div className="bg-black/40 p-6 rounded-2xl border border-white/5 space-y-4">
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">1. Adoption Rights</strong>
+                                <p>It may create difficulties for queer couples seeking to adopt a child jointly; even though LGBTQ+ individuals are not directly prohibited from adopting a child, the legal position of couples may differ.</p>
+                            </div>
+
+                            <hr className="border-white/10" />
+
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">2. Inheritance &amp; Succession</strong>
+                                <p>Same-sex partners may not receive the inheritance and succession rights that laws provide to legally recognized spouses.</p>
+                            </div>
+
+                            <hr className="border-white/10" />
+
+                            <div>
+                                <strong className="text-[#D4AF37] block mb-1">3. Maintenance &amp; Financial Security</strong>
+                                <p>The absence of legal marriage recognition may create uncertainty regarding financial support between partners.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>The debate surrounding same-sex marriage in India reflects the complex relationship between fundamental rights and the constitutional principle of separation of powers. While Articles 14, 15, 19, and 21 of the Indian Constitution protect dignity, equality, and personal liberty, the recognition of same-sex marriage raises important questions regarding the roles of the judiciary and the legislature.</p>
+                        <p className="mt-4">In <em>Supriyo v. Union of India</em>, the Supreme Court refused to acknowledge same-sex marriage under the Special Marriage Act. Therefore, same-sex couples have to face many legal and social impacts such as adoption rights, social acceptance and dignity, spousal benefits, and parental recognition. Respecting the separation of power should not mean overlooking the constitutional rights of LGBTQ+ citizens. Parliament has an important role in considering appropriate legislative reforms that provide legal protection and address the difficulties faced by same-sex couples.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Suggestions for Reform</h5>
+                        <p className="mt-2">I would like to make the following suggestions for reform:</p>
+                        <ol className="list-decimal pl-5 space-y-2 mt-3">
+                            <li>Public awareness</li>
+                            <li>Balanced institutional approach</li>
+                            <li>Protection of fundamental rights</li>
+                            <li>Recognition of same-sex marriage in the Constitution of India</li>
+                        </ol>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-4">REFERENCES</h4>
+                        <div className="space-y-4">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-sm tracking-wider uppercase mb-2">Case Laws</h5>
+                                <ol className="list-[lower-roman] pl-5 space-y-1 text-zinc-400">
+                                    <li>K.S. Puttaswamy v. Union of India</li>
+                                    <li>Supriyo v. Union of India</li>
+                                    <li>National Legal Services Authority v. Union of India</li>
+                                    <li>Navtej Singh Johar v. Union of India</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-sm tracking-wider uppercase mb-2">Books</h5>
+                                <ol className="list-[lower-roman] pl-5 space-y-1 text-zinc-400">
+                                    <li>Administrative Law — C.K. Takwani</li>
+                                    <li>Constitution of India</li>
+                                </ol>
+                            </div>
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-sm tracking-wider uppercase mb-2">Sites</h5>
+                                <ol className="list-[lower-roman] pl-5 space-y-1 text-zinc-400">
+                                    <li>SCC Online</li>
+                                    <li>Manupatra</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Angel Singh.</p>
+                        <p className="text-[#D4AF37]/60 italic text-md mt-1">IILM University, Gurugram — BA.LLB</p>
+                    </div>
+                </div>
+            )
+        },
+        {
             title: "Notice Under Section 138 Read with Section 142 of the Negotiable Instruments Act, 1881: Statutory Requirements, Model Notice Draft & Legal Analysis",
             author: "By Aamna Shaikh",
             abstract: "Under Indian commercial and criminal jurisprudence, the dishonour of a cheque for insufficiency of funds or exceeding banking arrangements constitutes an offence under Section 138 of the Negotiable Instruments Act, 1881. Serving a formal statutory legal notice within thirty days of receiving the cheque return memo is a mandatory condition precedent before initiating criminal prosecution under Section 142. This article analyzes the statutory scheme, essential legal ingredients, procedural calendar, and drafting nuances governing cheque bounce notices, featuring a complete model legal notice draft under Section 138 read with Section 142, supported by landmark judicial precedents.",
