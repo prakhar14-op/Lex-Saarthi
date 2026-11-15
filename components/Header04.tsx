@@ -157,6 +157,367 @@ export function Header04() {
             )
         },
         {
+            title: "Case Summary: R v Grey [2024] EWCA Crim 487 — Unlawful Act Manslaughter and the Requirement of a Base Offence",
+            author: "By Chimdimma Ekwe",
+            abstract: "This case summary examines R v Grey [2024] EWCA Crim 487 (heard 08/05/2024), decided by the England and Wales Court of Appeal (Criminal Division). It provides a detailed analysis of the doctrine of unlawful act manslaughter, focusing on the essential requirement of establishing a foundational criminal base offence before liability can arise. The analysis explores the facts surrounding the tragic death of cyclist Mrs. Ward, the trial judge's failure to identify and direct the jury on a specific underlying unlawful act, the Court of Appeal's reasoning in quashing the conviction as unsafe, and the broader tension between strict legal certainty and individual justice.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>CASE OVERVIEW &amp; ABSTRACT</li>
+                            <li>INTRODUCTION &amp; LEGAL BACKGROUND</li>
+                            <li>FACTS OF THE CASE &amp; MITIGATING CIRCUMSTANCES</li>
+                            <li>TRIAL JUDGMENT &amp; THE GROUNDS OF APPEAL</li>
+                            <li>LEGAL REASONING OF THE COURT OF APPEAL</li>
+                            <li>LEGAL ARGUMENT &amp; CRITICAL ANALYSIS</li>
+                            <li>CONCLUSION</li>
+                            <li>FOOTNOTES &amp; TABLE OF CASES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CASE OVERVIEW &amp; ABSTRACT</h4>
+                        <p className="text-white/90 font-medium"><em>R v Grey</em> [2024] England and Wales Court of Appeal (Criminal Division) 487. Heard on 08/05/2024. <sup className="text-[#D4AF37] font-bold">[1]</sup></p>
+                        <p className="mt-4">This is a summary of <em>R v Grey</em> [2024] EWCA Crim 487, examining the background of the case, its significance, and the governing legal principles. It discusses the facts of the case, legal issues, the arguments of both parties, the court&apos;s reasoning, and the critical tension between legal certainty and individual fairness, concluding with reasoned reflections on homicide jurisprudence.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION &amp; LEGAL BACKGROUND</h4>
+                        <p>Unlawful act manslaughter is a form of involuntary manslaughter that requires the defendant to perform an unlawful act which constitutes an underlying criminal offence that causes the death of the victim (<em>R v Goodfellow</em> (1986) 83 Cr App R 23). The offence of unlawful act manslaughter combines two distinct tests before establishing liability:</p>
+                        <div className="mt-4 space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">1. The Subjective Test of the Base Offence:</strong>
+                                <p>First, the prosecution must prove the subjective elements of the base offence. <sup className="text-[#D4AF37] font-bold">[2]</sup> In a case of common assault, as alleged in <em>R v Grey</em> [2024], it must be demonstrated that the defendant&apos;s actions were intentional or subjectively reckless as to causing the victim to apprehend immediate unlawful personal violence.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">2. The Objective Test of Dangerousness:</strong>
+                                <p>Secondly, once the underlying unlawful act has been established, unlawful act manslaughter requires meeting an objective test of dangerousness, as established in <em>R v Church</em> [1966] 1 QB 59. <sup className="text-[#D4AF37] font-bold">[3]</sup> The test asks: &ldquo;Would all sober and reasonable people inevitably recognise that the act was such as must subject the other person to at least the risk of some physical harm resulting therefrom?&rdquo;</p>
+                            </div>
+                        </div>
+                        <p className="mt-4">The unlawful act that exposes the victim to a risk of some harm must be objectively dangerous, meaning that what the defendant subjectively thought or believed is immaterial when satisfying the objective test of dangerousness. What matters is that a sober and reasonable person would recognise the risk of physical harm, with death being the ultimate consequence.</p>
+                        <p className="mt-4"><em>R v Grey</em> [2024] explores this common law doctrine within the law of homicide and emphasizes what is strictly necessary to constitute an underlying base offence before a conviction of manslaughter can be legally upheld.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">FACTS OF THE CASE &amp; MITIGATING CIRCUMSTANCES</h4>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-4">Potential Mitigating Circumstances</h5>
+                        <p>The appellant, aged 46, had previously undergone brain surgery which caused a weakness to the right side of her body, significantly impaired vision, and a degree of cognitive impairment. <sup className="text-[#D4AF37] font-bold">[4]</sup> She walked with a limp and wore a leg brace. It was medically agreed that the visual and mobility issues she suffered caused a total loss of the right half of the visual field in each eye.</p>
+
+                        <h5 className="font-bold text-[#D4AF37] text-xl mb-2 mt-6">Incident on the Pavement</h5>
+                        <p>On 20th October 2020 <sup className="text-[#D4AF37] font-bold">[5]</sup>, the appellant, Mrs. Auriol Grey, was walking along the pavement when she spotted Mrs. Ward, aged 77, riding her bicycle on the same pavement in the opposite direction. Mrs. Ward was an experienced cyclist who cycled in the same direction as traffic and had difficulties with hearing.</p>
+                        <p className="mt-4">As Mrs. Ward approached the appellant, the appellant gesticulated towards her, waving her left arm, and yelled to &ldquo;Get off the pavement!&rdquo; She continued walking towards Mrs. Ward, who fell off her bicycle into the road and into the path of an oncoming car whose driver had no opportunity to stop or take evasive action. The vehicle struck Mrs. Ward, inflicting catastrophic injuries. Tragically, Mrs. Ward was pronounced dead at the scene.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">TRIAL JUDGMENT &amp; THE GROUNDS OF APPEAL</h4>
+                        <p>The trial judge in due course charged the appellant with unlawful act manslaughter <sup className="text-[#D4AF37] font-bold">[6]</sup>, concluding that the hostile reaction of the appellant was an unlawful act that caused the victim to fall off her bicycle into the carriageway, resulting in her death.</p>
+                        <p className="mt-4">Although unlawful act manslaughter requires strictly establishing an underlying criminal act, the trial judge failed to properly direct the jury on the essential ingredients of the base offence. <sup className="text-[#D4AF37] font-bold">[7]</sup> Instead, the trial judge directed the jury with a primary focus on accident or self-defence to reach their verdict. This fundamental error formed the core of the appeal to the Court of Appeal: <em>Must an underlying criminal offence always be specifically identified and proven to establish liability for unlawful act manslaughter?</em></p>
+                        <p className="mt-4">Following the appeal, the Court of Appeal ruled that the trial judge failed to identify to the jury the specific act that would constitute the relevant &lsquo;unlawful act&rsquo;. <sup className="text-[#D4AF37] font-bold">[8]</sup> This base offence had neither been formulated by the judge nor clearly identified by either party during the trial. Because no base offence was established, a conviction for constructive manslaughter could not stand as a matter of law. Furthermore, there was insufficient evidence for the jury to find beyond reasonable doubt that a criminal assault had occurred. <sup className="text-[#D4AF37] font-bold">[9]</sup></p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL REASONING OF THE COURT OF APPEAL</h4>
+                        <p>The Court of Appeal ruled in favour of the appellant, relying on foundational authorities in criminal jurisprudence. The Court concluded that the evidence was insufficient to sustain criminal liability: as the defence argued, it was plausible that Mrs. Ward had slowed down to pass the appellant, lost momentum, lost her balance, and fallen into the road. Most crucially, the jury had never been directed on the legal elements necessary to constitute the alleged underlying offence of common assault.</p>
+                        <p className="mt-4">To establish constructive manslaughter, the underlying offence must first be established. Because there was no evidence of physical contact, battery was eliminated as an alleged base offence, leaving common assault as the only possible candidate. Under <em>R v Lamb</em> [1967] 2 QB 981, an assault requires the defendant to commit an act intentionally or recklessly that causes another person to apprehend immediate and unlawful violence. The prosecution failed to establish beyond reasonable doubt that Mrs. Grey&apos;s gesticulation and words caused Mrs. Ward to apprehend immediate unlawful personal violence.</p>
+                        <p className="mt-4">Under <em>R v Goodfellow</em> (1986) 83 Cr App R 23, establishing constructive manslaughter requires satisfying four cumulative questions:</p>
+                        <ul className="list-disc pl-5 mt-2 space-y-2 text-zinc-300">
+                            <li>Was the act intentional?</li>
+                            <li>Was it unlawful?</li>
+                            <li>Was it an act which all sober and reasonable people would recognise as exposing another to the risk of some physical harm?</li>
+                            <li>Did the act cause the death?</li>
+                        </ul>
+                        <p className="mt-4">In addition, the unlawful act must be an actionable crime. <sup className="text-[#D4AF37] font-bold">[10]</sup> As Lord Bingham affirmed in <em>R v Kennedy (No 2)</em> [2007] UKHL 38, &ldquo;to establish the crime of unlawful act manslaughter, it must be shown that such an unlawful act was a crime.&rdquo; <sup className="text-[#D4AF37] font-bold">[11]</sup> General hostility or mere unpleasantness cannot constitute a criminal offence. <sup className="text-[#D4AF37] font-bold">[12]</sup></p>
+                        <p className="mt-4">The objective test under <em>R v Goodfellow</em> also safeguards legal consistency by ensuring that causation remains intact without imposing liability where the causal chain is attenuated or uncertain. Because of the complete failure to direct the jury on the essential elements of an underlying crime, the Court of Appeal quashed the conviction as unsafe and allowed the appeal.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">LEGAL ARGUMENT &amp; CRITICAL ANALYSIS</h4>
+                        <p>The ruling in <em>R v Grey</em> serves as an essential reminder of the necessity of consistency and doctrinal precision in the criminal law. However, it also illustrates the enduring tension between legal certainty and individual justice. While the law&apos;s rigorous requirements prevent arbitrary punishment, the acquittal may produce a sense of injustice from the victim&apos;s family&apos;s perspective.</p>
+                        <p className="mt-4">Although physical contact was absent, it remains evident that the appellant&apos;s aggressive gesticulation and verbal shouting contributed to the sequence of events that resulted in Mrs. Ward falling into the carriageway. Had the appellant stepped aside rather than confronting the cyclist, the fatal chain of events might never have unfolded.</p>
+                        <p className="mt-4">This demonstrates the challenge faced by criminal justice systems in balancing strict legal definitions against public perceptions of accountability. As demonstrated in classic statutory interpretation cases like <em>Whiteley v Chappell</em> (1868) LR 4 QB 147, rigid adherence to doctrinal definitions can sometimes lead to outcomes that appear paradoxical to the wider public, yet departing from those definitions risks undermining the rule of law.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p><em>R v Grey</em> [2024] EWCA Crim 487 reaffirms the foundational principle that criminal liability for constructive manslaughter cannot be established without proving every constituent element of an underlying criminal base offence. General hostility, moral blameworthiness, or tragic outcomes cannot substitute for proof of an unlawful and dangerous crime beyond reasonable doubt. The Court of Appeal was fully justified in correcting the trial judge&apos;s failure to identify the base offence and in quashing an unsafe conviction, maintaining doctrinal integrity in the law of homicide.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES &amp; TABLE OF CASES</h4>
+                        <div className="space-y-4 text-zinc-400 text-sm">
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">Footnotes</h5>
+                                <ol className="list-decimal pl-5 space-y-1">
+                                    <li><em>R v Grey</em> [2024] EWCA Crim 487.</li>
+                                    <li>Ibid [14].</li>
+                                    <li>Ibid [12].</li>
+                                    <li>Ibid [4].</li>
+                                    <li>Ibid [2].</li>
+                                    <li>Ibid [6].</li>
+                                    <li>Ibid [13, 14].</li>
+                                    <li>Ibid [14].</li>
+                                    <li>Ibid [15].</li>
+                                    <li>Ibid [18].</li>
+                                    <li>Ibid.</li>
+                                    <li>Ibid [6].</li>
+                                </ol>
+                            </div>
+
+                            <div>
+                                <h5 className="font-bold text-[#D4AF37] text-base mb-1">Table of Cases</h5>
+                                <ul className="list-disc pl-5 space-y-1">
+                                    <li><em>R v Grey</em> [2024] EWCA Crim 487.</li>
+                                    <li><em>R v Church</em> [1966] 1 QB 59.</li>
+                                    <li><em>R v Goodfellow</em> (1986) 83 Cr App R 23.</li>
+                                    <li><em>R v Kennedy (No 2)</em> [2007] UKHL 38.</li>
+                                    <li><em>R v Lamb</em> [1967] 2 QB 981.</li>
+                                    <li><em>Whiteley v Chappell</em> (1868) LR 4 QB 147.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Chimdimma Ekwe.</p>
+                        <p className="text-zinc-400 text-sm mt-1">LLB Law with Business</p>
+                    </div>
+                </div>
+            )
+        }, {
+            title: "Poverty: A Socio-economic Condition",
+            author: "By Chimdimma Ekwe",
+            abstract: "This article discusses poverty as a multi-dimensional socio-economic condition, focusing on its social and economic effects and wider implications beyond the individual. Drawing on statistics and comparative evidence across regions, it analyses poverty in both developing and developed nations, explores the severe impacts on education and food security, and highlights the state's positive obligations under international human rights instruments such as the Universal Declaration of Human Rights and the International Covenant on Economic, Social and Cultural Rights.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT</li>
+                            <li>INTRODUCTION</li>
+                            <li>HOW DO WE DEFINE POVERTY?</li>
+                            <li>STATISTICAL EVIDENCE ON POVERTY</li>
+                            <li>THE SOCIAL EFFECTS OF POVERTY
+                                <ul className="list-disc pl-5 mt-1 space-y-1 text-zinc-400">
+                                    <li>Poverty and Education</li>
+                                    <li>Poverty and Food</li>
+                                </ul>
+                            </li>
+                            <li>CONCLUSION</li>
+                            <li>FOOTNOTES &amp; BIBLIOGRAPHY</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>This article discusses poverty as a socio-economic condition, with a particular focus on the social and economic effects, including the wider implications of poverty beyond the individual, and relies on credible sources to highlight statistics and compare poverty circumstances across regions. The article analyses the various forms which poverty could exist in the economic and social context, discusses the effects of poverty, poverty in poor and rich countries, the state&apos;s need to fulfil its positive obligation, and closes with a reasoned conclusion.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>This article discusses poverty as a socio-economic condition, with a particular focus on the social and economic effects, including the wider implications of poverty beyond the individual, and relies on credible sources to highlight statistics and compare poverty circumstances across regions.</p>
+                        <p className="mt-4">The article then analyses the various forms in which poverty could exist in the economic and social context, discusses the effects of poverty, poverty in poor and rich countries, the state&apos;s need to fulfil its positive obligation, and closes with a reasoned conclusion.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HOW DO WE DEFINE POVERTY?</h4>
+                        <p>Poverty is generally seen as a broad topic that unfortunately remains one of the world&apos;s biggest problems. Although its broad and complex nature allows it to have several definitions and dimensions, poverty may be best understood as a multi-dimensional socio-economic condition, characterised by a sustained or chronic deprivation of resources, capabilities, choices necessary for the enjoyment of an adequate standard of living and other civil, cultural, economic and social rights. <sup className="text-[#D4AF37] font-bold">[1]</sup></p>
+                        <p className="mt-4">This basic definition highlights the common words associated with poverty, such as deprivation and resources, and allows the reader to understand how it leads to a loss of essential rights. It also raises an important legal issue in the light of both human rights and economic rights violation.</p>
+                        <p className="mt-4">Human rights in the sense that poverty strips a person of their enjoyment of the basic rights of an individual. This may include the right to an adequate standard of living, right to food, right to education, right to healthcare and the right to work. Where poverty exists on many levels, it questions Article 1 of the Universal Declaration of Human Rights (UDHR), &ldquo;All humans are born free and in equal dignity and rights&rdquo; <sup className="text-[#D4AF37] font-bold">[2]</sup>, by undermining the principle of fairness and the rule of law, and asking the question, &ldquo;are all humans indeed born free, and under the law?&rdquo;</p>
+                        <p className="mt-4">From the economic sense, poverty is arguably straight forward, and a very common answer when asked to define poverty, especially in poorer countries. Poverty in this regard, is measured through monetary/consumption resources. The World Bank measures poverty in monetary terms with the use of poverty lines. <sup className="text-[#D4AF37] font-bold">[3]</sup> A poverty line is the minimum level of income/resources deemed fit for an adequate standard of living for a particular country. <sup className="text-[#D4AF37] font-bold">[4]</sup> The World Bank uses poverty lines to track and measure real standard of living in each country, with richer countries having a much higher poverty line than the poorer ones; consequently, having a different meaning of poverty.</p>
+                        <p className="mt-4">While the richer countries might view poverty in more social/cultural dimensions, the poorer ones are more likely to associate poverty with a lack of material resources. <sup className="text-[#D4AF37] font-bold">[5]</sup> This subtle distinction supports the idea that poverty may be understood relatively. There is no one way to define poverty, and neither is there a single way to measure it. How do we define poverty? It would depend on who is defining it.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">STATISTICAL EVIDENCE ON POVERTY</h4>
+                        <p>Although poverty is not exclusive to poorer countries, the poverty line is much higher in the richer ones, as this typically increases with average income. <sup className="text-[#D4AF37] font-bold">[6]</sup> The World Bank defines extreme poverty using the international poverty line of $3.00 per day. It estimates that about 847 million people were living in extreme poverty in 2024. <sup className="text-[#D4AF37] font-bold">[7]</sup> This points to more than 10% of the world&apos;s population living in extreme poverty.</p>
+                        <p className="mt-4">Though $3.00 could appear to be low in richer countries like the United Kingdom and America, the purchasing power of countries would likely have a significant effect on the actual amount when spent in their countries&apos; currency. For example, according to the current exchange rate of 2026, $3.00 is approximately 4,000 Nigerian Naira, which could arguably last the average Nigerian man three to four days if spent solely on food.</p>
+                        <p className="mt-4">This example highlights the differences in purchasing power and raises an important question: &ldquo;To what extent can the World Bank&apos;s global monetary threshold on poverty accurately represent &apos;poverty&apos; across different economies?&rdquo;</p>
+                        <p className="mt-4">As the World Bank notes more than 10% of the world living in extreme rates of poverty, it may be important to consider how this affects the State. The individual&apos;s rate of income directly impacts the amount of income tax paid, both for the person and the business. This consequently reduces the percentage of income tax the government receives from its overall GDP. Studies show that 74% of low-income countries collect less than 15% of their income tax in their overall GDP. <sup className="text-[#D4AF37] font-bold">[8]</sup> This shows how income tax contributes a lower percentage of the country&apos;s economic growth in those countries.</p>
+                        <p className="mt-4">As the individual has a lower income, he will naturally depend more on the state for a number of things, including education, healthcare, housing and food. This puts more pressure on the state to allocate expenditure into those areas, and where the proportion of individuals relying on the state is larger than the ones financially contributing to the state, it may create an uneven balance in the state&apos;s finances. Understanding poverty, therefore, is crucial to understanding the progression of societies. <sup className="text-[#D4AF37] font-bold">[9]</sup></p>
+                    </div>
+
+                    <div className="space-y-6">
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">THE SOCIAL EFFECTS OF POVERTY</h4>
+                        <p>As poverty is arguably very commonly understood as an absence of income or financial capacity, it is very important to acknowledge the other areas that poverty might exist. Though poverty could be explored in other contexts such as poverty in healthcare, poverty in employment, poverty in marriages and in food, this section explores the social effects of poverty including poverty in education and food, and will look at the implications for the individual and possibly the wider population.</p>
+
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">Poverty and Education</h5>
+                            <p>With a focus on children, poverty denies a child his right to an adequate and enjoyable standard of living. Poverty is said to be poison to the child&apos;s welfare <sup className="text-[#D4AF37] font-bold">[10]</sup> and ought to be universally addressed. UNICEF reports that as of today, the percentage of children that should have been in primary school has risen to 90%. <sup className="text-[#D4AF37] font-bold">[11]</sup> To take away a child&apos;s right to education is harmful not only to the child himself, but his ability to adapt to the constant needs of society.</p>
+                            <p className="mt-4">Various sociological studies, including the Open University, support the opinion that children generally form behaviour at a tender age, and though this may be typically through primary forms of socialisation, such as the family, behaviour is also largely influenced by friends and teachers, and the social community found in schools. <sup className="text-[#D4AF37] font-bold">[12]</sup></p>
+                            <p className="mt-4">UNICEF also reports inequality as another key issue in the poverty crisis. <sup className="text-[#D4AF37] font-bold">[13]</sup> Even when children are able to attend classes, an estimated two-thirds of ten-year-olds cannot read and understand a simple text. This argument highlights the state&apos;s duty to address poverty at its root. For example, rather than recording surveys of how many children attended classes, conducting regular assessments to test their understanding of the subject might be relevant, as there is no value in education if nothing is being learned.</p>
+                            <p className="mt-4">Access to quality education remains the right of every child, and rather than seeing it solely as an unpleasant situation, it may be worth seeing it as a broader legal issue that can affect the enjoyment of one&apos;s rights.</p>
+                            <p className="mt-4">The learning environment that the child learns in should also not be overlooked. The World Bank explains that physical learning environments play a significant role in enhancing educational outcomes, particularly in vulnerable populations, <sup className="text-[#D4AF37] font-bold">[14]</sup> with a 16% variation in achievements. Globally, 29% of schools do not have clean drinking water, impacting 546 million school children. To further elaborate, where a large proportion of children do not have access to clean drinking water, it affects their ability to contribute meaningfully in school and their overall educational performance, which would likely affect their future job prospects and lead to potentially reduced income due to lower educational qualifications.</p>
+                            <p className="mt-4">These figures represent a further call on the state to provide adequate infrastructure, such as clean drinking water and toilet facilities, to promote education, learning and an enjoyable school environment, which is their right, and should not be seen solely as an ordinary privilege.</p>
+                            <p className="mt-4">To summarise this section, poverty reduces the quality of education, affects future opportunities and can create poorer learning environments, which affects the growth of the child. Ultimately, these effects demonstrate that poverty does not only affect an individual financially but can also shape their ability to access and benefit from education.</p>
+                        </div>
+
+                        <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                            <h5 className="font-bold text-[#D4AF37] text-xl mb-3">Poverty and Food</h5>
+                            <p>Food can be said to be one of the most important things a person needs to survive. According to Article 25 of the Universal Declaration of Human Rights, all humans have the right to a standard of living adequate for the health and the well-being of himself, including food and clothing.</p>
+                            <p className="mt-4">This socio-economic right may, in many countries, especially the least developed ones, have been violated where the State has failed to meet its positive obligations. It is therefore important that poverty should not be looked at from the angle of poor countries lacking essential resources to survive. Poverty is not exclusive to poor countries or under-developed countries, but also applies to more developed ones, where it can remain a significant issue.</p>
+                            <p className="mt-4">The United States Department of Agriculture reports that white, non-Hispanic households were 10.1% food insecure, and black, Hispanic households were 24.4% food insecure, with a general food poverty level across US households being 13.7%. <sup className="text-[#D4AF37] font-bold">[15]</sup> These figures highlight strong racial disparity in food insecurity, with every one in ten white individuals facing food insecurity and every one in four blacks experiencing the same problem. These inequalities suggest that poverty and access to resources are not experienced equally across different classes or groups within the same economy. This may further bring one to the understanding that poverty is multidimensional, as experiences may vary from person to person, even within the same geographical region.</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>To summarise, poverty cannot be understood solely in monetary or financial terms; to define poverty from a singular perspective may offer a far too simplistic view of the lived experiences of various classes, regions and ethnicities. The state has an obligation towards its citizens to provide access to certain resources needed for an adequate standard of living. Although these rights may already exist on paper, they are of little to no value if not properly exercised.</p>
+                        <p className="mt-4">Rather than seeing poverty as an individual problem, it may be worth looking at poverty with a broader lens, as this condition affects not just individuals but the State as a whole, and potentially its relationships with other States and overall economic progression. To understand poverty is to understand how societies can progress. <sup className="text-[#D4AF37] font-bold">[16]</sup></p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">FOOTNOTES &amp; BIBLIOGRAPHY</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>UN Committee on Economic, Social and Cultural Rights, &lsquo;Poverty and the International Covenant on Economic, Social and Cultural Rights&rsquo; (10 May 2001), para 8.</li>
+                            <li>United Nations, &lsquo;Universal Declaration of Human Rights&rsquo; (United Nations, 10 December 1948) &ndash; <a href="https://www.un.org/en/about-us/universal-declaration-of-human-rights" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.un.org/en/about-us/universal-declaration-of-human-rights</a></li>
+                            <li>World Bank, &lsquo;WDI - Poverty and Inequality&rsquo; (Worldbank.org, 2018) &ndash; <a href="https://datatopics.worldbank.org/world-development-indicators/themes/poverty-and-inequality.html" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://datatopics.worldbank.org/world-development-indicators/themes/poverty-and-inequality.html</a></li>
+                            <li>Wikipedia Contributors, &lsquo;Poverty Threshold&rsquo; (Wikipedia, 9 March 2019) &ndash; <a href="https://en.wikipedia.org/wiki/Poverty_threshold" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://en.wikipedia.org/wiki/Poverty_threshold</a></li>
+                            <li>World Bank, &lsquo;WDI - Poverty and Inequality&rsquo; (Worldbank.org, 2018) &ndash; <a href="https://datatopics.worldbank.org/world-development-indicators/themes/poverty-and-inequality.html" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://datatopics.worldbank.org/world-development-indicators/themes/poverty-and-inequality.html</a></li>
+                            <li>World Bank, &lsquo;WDI - Poverty and Inequality&rsquo; (Worldbank.org, 2018).</li>
+                            <li>World Bank, &lsquo;Poverty and Inequality Indicators 2024&rsquo;.</li>
+                            <li>&lsquo;Fiscal Policy | World Bank Group&rsquo; (Worldbank.org, 2025) &ndash; <a href="https://www.worldbank.org/ext/en/topic/fiscal-policy-and-growth/fiscal-policy" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.worldbank.org/ext/en/topic/fiscal-policy-and-growth/fiscal-policy</a></li>
+                            <li>World Bank Group, &lsquo;Fiscal Policy and Growth&rsquo; (2025).</li>
+                            <li>&lsquo;The State of the World&apos;s Children 2025&rsquo; (Unicef.org, 20 November 2025) &ndash; <a href="https://www.unicef.org/reports/state-of-worlds-children/2025" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.unicef.org/reports/state-of-worlds-children/2025</a></li>
+                            <li>UNICEF, &lsquo;Education&rsquo; (Unicef.org, 2024) &ndash; <a href="https://www.unicef.org/education" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.unicef.org/education</a></li>
+                            <li>The Open University, &lsquo;TI-AIE: Transforming Teaching-Learning Process: Developing an Effective Learning Culture in Your School&rsquo; (Open.edu, 2026).</li>
+                            <li>UNICEF, &lsquo;Education &amp; Inequality Analysis&rsquo; (2024).</li>
+                            <li>World Bank Group, &lsquo;RIGHT+ Framework for Physical Learning Environments: Maximizing Investment Impact in Education Spaces and Facilities&rsquo; (World Bank, July 2025) &ndash; <a href="https://www.worldbank.org/en/topic/education/publication/right-framework-physical-learning-environments" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.worldbank.org/en/topic/education/publication/right-framework-physical-learning-environments</a></li>
+                            <li>Matthew Rabbitt and others, &lsquo;Household Food Security in the United States In 2024&rsquo; (USDA ERS, 2025) &ndash; <a href="https://www.ers.usda.gov/media/9161/err-358.pdf?v=35619" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://www.ers.usda.gov/media/9161/err-358.pdf?v=35619</a></li>
+                            <li>World Bank Group, &lsquo;Fiscal Policy | World Bank Group&rsquo; (2025).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Chimdimma Ekwe.</p>
+                        <p className="text-zinc-400 text-sm mt-1">LLB Law with Business</p>
+                    </div>
+                </div>
+            )
+        },
+        {
+            title: "Live-in relationship: Do Partners enjoy the same Rights and Status of a Married Person?",
+            author: "By Deboshruti Das",
+            abstract: "According to an article published by The Times of India on 20th February, 2023, about 50% of the Indian population prefers live-in relationships. The live-in partners and children have rights, but how far are they able to claim their rights? Justice K.S. Puttaswamy (Retd.) v. Union of India highlighted privacy as a fundamental right under Article 21, within which the right to marry, cohabit, and establish intimate relationships falls. This article examines the rights and duties that partners have towards each other, the legal status and inheritance rights of children born out of such relations, and the practical challenges couples face while cohabiting in India.",
+            fullText: (
+                <div className="space-y-8 text-zinc-300 leading-relaxed">
+                    <div>
+                        <h4 className="font-bold text-white text-xl mb-4 border-b border-white/10 pb-2">INDEX</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-300">
+                            <li>ABSTRACT &amp; KEYWORDS</li>
+                            <li>INTRODUCTION</li>
+                            <li>HISTORICAL INSTANCES &amp; CUSTOMARY PRACTICES</li>
+                            <li>RIGHTS OF LIVE-IN PARTNERS</li>
+                            <li>RIGHTS OF CHILDREN</li>
+                            <li>CHALLENGES FACED BY COHABITING COUPLES</li>
+                            <li>CONCLUSION</li>
+                            <li>REFERENCES</li>
+                        </ol>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">ABSTRACT</h4>
+                        <p>According to an article published by <em>The Times of India</em> on 20th February, 2023, about 50% of the Indian population prefers live-in relationships. The live-in partners and child have rights. Although it&apos;s true, how far are they able to claim their rights? Shashi Tharoor says, &ldquo;You can piss in public but can kiss in public; it&apos;s dangerous to talk to strangers but ok to marry one; if you walk on an Indian Street, you will find everyone is in a hurry and yet no one ever seems to be on time&rdquo;. In such a country, live-in relationships are more like a distant dream. <em>Justice K.S. Puttaswamy (Retd.) v. Union of India</em> <sup className="text-[#D4AF37] font-bold">[2]</sup> highlighted privacy as a fundamental right under Article 21; the right to marry, cohabit, and establish a sexual relationship falls within its purview. But how far are the partners given the choice to continue cohabitation without marriage? Moreover, with this comes the question of rights and duties that partners have towards each other, and the rights and status of children born out of such relations. The challenges that the couples face while cohabiting.</p>
+                        <p className="mt-4">This article mainly confines itself to the rights of the partners, children and the challenges they face with the help of determined cases.</p>
+                        <div className="mt-4 p-4 rounded-xl bg-white/5 border border-white/10">
+                            <span className="text-[#D4AF37] font-semibold block mb-1">Keywords:</span>
+                            <p className="text-zinc-400 text-sm">Live-in Partners, Relationship, Situationship, Wedlock</p>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">INTRODUCTION</h4>
+                        <p>In today&apos;s world, concepts like live-in relationships and situationships are very common. A live-in relationship refers to a setup in which couples live together under the same roof without entering into a formal marriage agreement. Many countries, such as Japan, North Korea, Saudi Arabia, and Indonesia, are against the idea of live-in relationships, while many others, such as Sweden, France, Canada, and the United States, provide legal recognition to them. Sweden was the first country to give legal recognition to live-in relationships through the Domestic Partnership Act in 1987. India, on the other hand, takes a mixed approach when it comes to live-in relationships.</p>
+                        <p className="mt-4">Article 21 of the Indian constitution guarantees the right to life and personal liberty; it also includes the right to marry and the right to cohabit. In the famous landmark judgment <em>Lata Singh v. State of U.P.</em> <sup className="text-[#D4AF37] font-bold">[3]</sup>, it was held that &ldquo;a live-in relationship between two consenting adults of heterogeneous sex does not amount to any offence even though it may be perceived as immoral.&rdquo; The same judgment was upheld in <em>S. Khushboo v. Kanniammal and others</em> <sup className="text-[#D4AF37] font-bold">[4]</sup>. In <em>Indra Sarma v. V.K.V. Sarma</em> <sup className="text-[#D4AF37] font-bold">[5]</sup>, it was held that &ldquo;Live-in or marriage-like relationship is neither a crime nor a sin though socially unacceptable in this country. The decision to marry or to have a heterosexual relationship is intensely personal.&rdquo;</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">HISTORICAL INSTANCES &amp; CUSTOMARY PRACTICES</h4>
+                        <p>In India, marriage is considered a sacred tradition, involving not just the bond between two heterogeneous individuals but also the bond between two families. In most parts of India, the concept of a live-in relationship is criticised and lacks social support. The idea of cohabiting is considered immoral. However, live-in relationships are not new to Indian society. In many societies, this concept existed even before it surfaced in the modern world. The indigenous Rajasthani tribe, the Garasia, has followed this custom for years, with couples living together even before marriage. A notable example is the case of Naniya Garasia, who married his live-in partner at the age of seventy. The Lambadi community also follows a custom in which the groom has to stay at the bride&apos;s house for three months prior to marriage. The Muria tribes of Chhattisgarh, through the Ghotul custom; the Tripuri tribes of Tripura, through the &lsquo;Chamari Kamani&rsquo; custom; and the Munda tribe of Jharkhand, the Konda Reddi tribe of Andhra Pradesh, and the Baiga tribe of Madhya Pradesh also practise live-in relationships as part of their customary practices.</p>
+                        <p className="mt-4">Supporters of live-in relationships may say that they are better than marriages because, in marriages, two people who may be unknown to each other cohabit with or without their choice, whereas in live-in relationships, people choose to cohabit and are not forced. According to Grady Shumway, &ldquo;Clarity around expectations, boundaries, and shared goals is especially important in live-in arrangements. Open conversations help partners navigate commitment, responsibility, and long-term compatibility with intention.&rdquo;</p>
+                        <p className="mt-4">A primary reason why live-in relationship cases are increasing is that individuals don&apos;t want to get involved in married life without securing good job security. Moreover, when divorce rates and extra-marital affairs are relatively high, individuals prefer to know their partner better before being entangled in marital relationships. Since the couple lives together, it develops good communication between them prior to marriage. Both the partners also get well-versed in each other&apos;s family traditions, customs, and beliefs. Living together reduces financial problems since both the partners share living expenses, and this reduces the financial burden to a great extent. The partners enjoy emotional support and greater freedom compared to traditional marital systems. However, with these benefits come various problems like rights of partners, maintenance and inheritance issues, social pressure and social acceptance, conflict over expenses, personal space, etc.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIGHTS OF LIVE-IN PARTNERS</h4>
+                        <p>From a legal perspective, rights of partners, maintenance and inheritance issues hold great significance. In traditional marriages, both the partners enjoy certain rights, privileges, maintenance and inheritance, etc. In <em>Indra Sarma v. V.K.V. Sarma</em> <sup className="text-[#D4AF37] font-bold">[6]</sup>, it was held that the rights of live-in partners exist not at the cost of marriage nor will partners be granted protection under Section 3 of the Domestic Violence Act (DVA) if one partner is legally married to someone else.</p>
+                        <p className="mt-4">In <em>Alok Kumar v. State of Delhi</em> <sup className="text-[#D4AF37] font-bold">[7]</sup>, it was held that the parties are not bound to each other and there exists a contractual relationship between the parties which is renewed every day. Both the parties came together with mutual consent, and one cannot force the other party to stay without consent.</p>
+                        <p className="mt-4">In <em>Yedla Srinivasa Rao v. State of A.P.</em> <sup className="text-[#D4AF37] font-bold">[8]</sup>, it was held that if a person commits sexual intercourse with a woman under the pretense of marriage, it will be considered as rape, and hence punishment could be given to that person.</p>
+                        <p className="mt-4">In <em>Lalita Toppo v. State of Jharkhand</em> <sup className="text-[#D4AF37] font-bold">[9]</sup>, it was held that &ldquo;under the provisions of the DVC Act, 2005, the victim, i.e. estranged wife or live-in partner, would be entitled to more relief than what is contemplated under Section 125 of the Code of Criminal Procedure, 1973, namely, to a shared household also.&rdquo;</p>
+                        <p className="mt-4">In <em>Murti Devi and Another v. Balkar Singh</em> <sup className="text-[#D4AF37] font-bold">[10]</sup>, it was held that a woman cannot claim maintenance under Section 144 of the BNSS if she claims that her live-in partner has raped her.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">RIGHTS OF CHILDREN</h4>
+                        <p>India is a diverse country where people of various religions reside together. However, the rights of children born without a wedlock differ from religion to religion.</p>
+                        <div className="mt-4 space-y-4">
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">Hindu Law:</strong>
+                                <p>In traditional Hindu law, a Sudra child born out of wedlock can claim a share in property like that of a legitimate child, but a child born out of wedlock in the case of the twice-born was not allowed to claim a share in the property. Although a father was liable for maintaining his illegitimate child, custody went to the mother. However, according to Modern Hindu Law, a child is entitled to inherit property shares in self-acquired property, as held in <em>Revanasiddappa v. Mallikarjun</em> <sup className="text-[#D4AF37] font-bold">[11]</sup>. In <em>Tulsa v. Durghatiya &amp; Ors</em> <sup className="text-[#D4AF37] font-bold">[12]</sup>, it was held that if a couple cohabits under the same roof for a long period, they will have the recognition of husband and wife, and children born will enjoy rights as children born out of wedlock under Section 16 of the Hindu Marriage Act. This view was upheld in <em>Kattukandi Edathil Krishnan v. Kattukandi Edathil Valsan</em> <sup className="text-[#D4AF37] font-bold">[13]</sup>. Children of Buddhist and Jain religions are brought under the Hindu Adoption and Maintenance Act, 1956.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">Muslim Law:</strong>
+                                <p>Muslim Law follows Sharia. It does not recognise live-in relationships. A child thus born will be considered illegitimate and is not allowed to claim a share in property. However, according to Sunni Law, an illegitimate child is allowed to claim a share in the property. The custody of the illegitimate child remains with the mother. The father is not bound to maintain the child.</p>
+                            </div>
+                            <div className="bg-black/30 p-5 rounded-xl border border-white/5">
+                                <strong className="text-[#D4AF37] block mb-1">Christian Law &amp; BNSS 2023:</strong>
+                                <p>A Christian child in live-in relationships also enjoys the same rights as that of a child born out of wedlock. According to Section 144 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023, a child is entitled to maintenance. This applies to all children born in India irrespective of their religion.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CHALLENGES FACED BY COHABITING COUPLES</h4>
+                        <p>The major challenge that a couple faces in a live-in relationship is isolation. In India, a boy and girl of the same age holding hands together in a public space is considered an obscene act; in such a country, the cost of cohabitation without marriage brings nothing but isolation from neighbours, family and relatives.</p>
+                        <p className="mt-4">Many individuals agree to opt for live-in relationships, but later they face problems of privacy; they face the harsh reality and fail to meet the expectations they had before entering into live-in relationships.</p>
+                        <p className="mt-4">India lacks a proper statute like France, Canada and other countries where live-in relationships are accepted. As a result, partners and children face problems while executing their rights. They require proof that they have been living together for a long period. Moreover, if one of the partners is legally married to someone else, the other cannot claim any rights. There are also chances that partners may exploit each other financially, economically, mentally and physically.</p>
+                        <p className="mt-4">Since there is an easy exit in such relationships, there is no guarantee that both partners are equally committed to each other. As a result, few such relationships transition into marriage.</p>
+                    </div>
+
+                    <div>
+                        <h4 className="font-bold text-white text-2xl mb-4 border-b border-[#D4AF37]/30 pb-2">CONCLUSION</h4>
+                        <p>Despite the challenges, a lot has changed in regard to the status of live-in relationships. In recent cases like <em>Meena Akhilesh Yadav v. State (NCT of Delhi)</em> <sup className="text-[#D4AF37] font-bold">[14]</sup>, <em>Uma Bharti &amp; Anr. v. The Government of NCT of Delhi &amp; Ors</em> <sup className="text-[#D4AF37] font-bold">[15]</sup>, and <em>Prince Tyagi and Anr v. State of NCT of Delhi and Ors</em> <sup className="text-[#D4AF37] font-bold">[16]</sup>, the court directed local police officers to protect the rights and safety of live-in partners. Moreover, according to reports in <em>The Times of India</em>, in the 2027 census, stable live-in couples will be counted as married without requiring a marriage certificate.</p>
+                        <p className="mt-4">However, if we look through a social lens, we find that live-in couples frequently require police protection because society still struggles to accept unmarried heterosexual cohabitation. The rights of live-in partners are no longer a myth but have become reality: they enjoy protection under domestic violence laws, maintenance remedies, and their children are protected from discrimination in property and maintenance. However, they are still shunned at social gatherings and cast out by families. While they enjoy growing legal rights, they are still denied social acceptance.</p>
+                    </div>
+
+                    <div className="bg-black/50 p-6 rounded-2xl border border-[#D4AF37]/20">
+                        <h4 className="font-bold text-white text-xl mb-3">REFERENCES</h4>
+                        <ol className="list-decimal pl-5 space-y-2 text-zinc-400 text-sm">
+                            <li>Justice K.S. Puttaswamy (Retd.) v. Union of India, (2017) 10 SCC 1 &ndash; <a href="https://indiankanoon.org/doc/91938676/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/91938676/</a></li>
+                            <li>Lata Singh v. State of U.P., (2006) 5 SCC 475 &ndash; <a href="https://indiankanoon.org/doc/1364215/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/1364215/</a></li>
+                            <li>S. Khushboo v. Kanniammal, (2010) 5 SCC 600 &ndash; <a href="https://indiankanoon.org/doc/1118746/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/1118746/</a></li>
+                            <li>Indra Sarma v. V.K.V. Sarma, (2013) 15 SCC 755 &ndash; <a href="https://indiankanoon.org/doc/49257220/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/49257220/</a></li>
+                            <li>Alok Kumar v. State (NCT of Delhi), 2009 SCC OnLine Del 3381 &ndash; <a href="https://indiankanoon.org/doc/1529126/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/1529126/</a></li>
+                            <li>Yedla Srinivasa Rao v. State of A.P., (2006) 11 SCC 615 &ndash; <a href="https://indiankanoon.org/doc/1221764/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/1221764/</a></li>
+                            <li>Lalita Toppo v. State of Jharkhand, (2019) 13 SCC 796 &ndash; <a href="https://indiankanoon.org/doc/120281206/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/120281206/</a></li>
+                            <li>Murti Devi v. Balkar Singh, 2025 SCC OnLine J&amp;K 906 &ndash; <a href="https://indiankanoon.org/doc/144952771/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/144952771/</a></li>
+                            <li>Revanasiddappa v. Mallikarjun, (2023) 10 SCC 1 &ndash; <a href="https://indiankanoon.org/doc/171569420/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/171569420/</a></li>
+                            <li>Tulsa v. Durghatiya, (2008) 4 SCC 520 &ndash; <a href="https://indiankanoon.org/doc/1922573/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/1922573/</a></li>
+                            <li>Kattukandi Edathil Krishnan v. Kattukandi Edathil Valsan, (2022) 19 SCC 683 &ndash; <a href="https://indiankanoon.org/doc/31809072/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/31809072/</a></li>
+                            <li>Meena Akhilesh Yadav v. State (NCT of Delhi), 2026 SCC OnLine Del 1566 &ndash; <a href="https://indiankanoon.org/doc/184917178/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/184917178/</a></li>
+                            <li>Uma Bharti v. Government of NCT of Delhi, 2010 SCC OnLine Del 2453 &ndash; <a href="https://indiankanoon.org/doc/1749830/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/1749830/</a></li>
+                            <li>Prince Tyagi v. State (NCT of Delhi), W.P.(CRL) 2419/2025 (Del HC) &ndash; <a href="https://indiankanoon.org/doc/157291845/" target="_blank" rel="noopener noreferrer" className="text-[#D4AF37] underline break-all">https://indiankanoon.org/doc/157291845/</a></li>
+                            <li>Shikha Bhatnagar and Dr. Sarika Tyagi, &ldquo;Legal Status of Live-in Relationship in Other Countries&rdquo; 2 (7) IJLRA (2022).</li>
+                            <li>&ldquo;In Census 2027, &apos;stable&apos; live-in couple to be counted as married&rdquo;, The Times of India (New Delhi), Mar 30, 2026.</li>
+                            <li>The Times of India (2023), &ldquo;1 in 2 Indians prefer living in before they get married: Study&rdquo;, Feb 20, 2023.</li>
+                            <li>Tees Law, &ldquo;The legal rights of unmarried couples living together&rdquo;.</li>
+                            <li>The Constitution of India, 1950, arts. 19 &amp; 21.</li>
+                            <li>The Hindu Marriage Act, 1955 (Act 25 of 1955).</li>
+                            <li>The Protection of Women from Domestic Violence Act, 2005 (Act 43 of 2005).</li>
+                            <li>Paras Diwan &amp; Peeyushi Diwan, Modern Hindu Law: Codified and Uncodified (24th edn., Allahabad Law Agency 2019).</li>
+                            <li>Paras Diwan, Muslim Law in Modern India (13th edn., Allahabad Law Agency 2018).</li>
+                        </ol>
+                    </div>
+
+                    <div className="pt-8 border-t border-white/10 mt-12 text-center">
+                        <p className="text-[#D4AF37] italic text-lg opacity-80">This article is written by Deboshruti Das.</p>
+                        <p className="text-zinc-400 text-sm mt-1">Student, 5th Sem, B.A.LL.B(H), Deshbandhu Chittaranjan School of Legal Studies (Department of Law), Assam University, Silchar</p>
+                    </div>
+                </div>
+            )
+        },
+        {
             title: "Contract of Cohabitation or Licence for Immunity? Evaluating the Constitutional Validity of the Marital Rape Exception Under the Bharatiya Nyaya Sanhita",
             author: "By Akhil Bhaker",
             abstract: "When Parliament enacted the Bharatiya Nyaya Sanhita, 2023 (“BNS”) to replace the colonial-era Indian Penal Code, 1860, the overhaul was heralded as a decolonising modernisation of Indian criminal law. Yet, within Section 63 of the new code sits Exception 2—a verbatim retention of Exception 2 to Section 375 of the Indian Penal Code—providing that sexual intercourse or sexual acts by a man with his own wife, the wife not being under eighteen years of age, is not rape. Simultaneously, the abolition of an equivalent to Section 377 of the Indian Penal Code has paradoxically narrowed the penal remedies available to married women subjected to non-consensual sexual acts. Tracing the doctrine of implied consent to seventeenth-century English common law, this article tests Exception 2 against Articles 14, 15, and 21 of the Constitution, evaluates R.I.T. Foundation v. Union of India alongside Hrishikesh Sahoo v. State of Karnataka, and critiques the Union Government's defences regarding marital preservation and statutory misuse.",
